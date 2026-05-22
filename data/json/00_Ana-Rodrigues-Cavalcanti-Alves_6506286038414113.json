@@ -1,0 +1,2994 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "6506286038414113",
+    "nome_completo": "Ana Rodrigues Cavalcanti Alves",
+    "nome_citacoes": "ALVES, A. R. C.;ALVES, ANA RODRIGUES CAVALCANTI;RODRIGUES CAVALCANTI ALVES, ANA",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Federal da Bahia, Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431",
+    "atualizacao_cv": "26/03/2026",
+    "url": "http://lattes.cnpq.br/6506286038414113",
+    "texto_resumo": "Professora Adjunta do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e do Programa de Pós-graduação em Ciências Sociais - PPGCS/UFBA. Possui graduação sanduíche em Ciências Sociais pela Universidade Federal de Pernambuco (2008) e Universidade de Hamburgo/ Alemanha (2006-2007), mestrado em Sociologia (2011) e doutorado em Sociologia (2018) pelo PPGS-UFPE. Realizou pós-doutorado em Sociologia pela Universidade Federal de Pernambuco (2018-2019). Tem experiência na área de Sociologia, com ênfase em teoria social, sociologia brasileira e sociologia do consumo. Integra o Projeto de Pesquisa ''Uma sociologia do artesanato intelectual: a Biblioteca de Florestan Fernandes e a América Latina (1959-1985)'', financiado pelo CNPq, bem como os seguintes Grupos de Pesquisa: Periféricas - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades (UFBA); Vice-líder do Laboratório de Pesquisa e Estudos em Pensamento Social no Brasil (LAPES-Br). (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Sociologia",
+      "nome_instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2018",
+      "descricao": "Título: \"Com o suor do trabalho\": uma análise do ethos dos batalhadores manifesto no âmbito do consumo, Ano de obtenção: 2018. Orientador: Maria Eduarda da Mota Rocha. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Classe social; Ethos do trabalho duro; Batalhadores; Práticas de consumo; Estilo de vida."
+    },
+    {
+      "tipo": "Mestrado em Sociologia",
+      "nome_instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "descricao": "Título: A (des) continuidade da tradição marxista no pós-marxismo de Ernesto Laclau e Chantal Mouffe O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2011. Orientador: Eliane Veras Soares. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Teoria social marxista; Pós-marxismo; Antagonismo; Hegemonia; Teoria do Discurso. Grande área: Ciências Humanas / Área: Sociologia."
+    },
+    {
+      "tipo": "Graduação em Ciências Sociais",
+      "nome_instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2008",
+      "descricao": "Título: A nova abordagem racial da telenovela brasileira: ruptura ou confirmação do mito da democracia racial?. Orientador: Eliane Veras Soares. Bolsista do(a): Serviço de Educação Superior, SESU, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Norte, UFRN, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Norte",
+      "instituicao_sigla": "UFRN",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2019",
+      "ano_inicio": "2018",
+      "ano_fim": "2019",
+      "vinculo": "Bolsista",
+      "enquadramento": "Estágio pós-doutoral",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - 2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professora Substituta de Sociologia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2015",
+      "ano_inicio": "2013",
+      "ano_fim": "2015",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista CNPq de doutorado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professora Substituta de Sociologia",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2011",
+      "ano_inicio": "2009",
+      "ano_fim": "2011",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista CNPq de mestrado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2009",
+      "ano_inicio": "2005",
+      "ano_fim": "2009",
+      "vinculo": "Estágio",
+      "enquadramento": "PET de Ciências Sociais",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": "Estágio",
+      "enquadramento": "Monitoria",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil.",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2005",
+      "ano_inicio": "2005",
+      "ano_fim": "2005",
+      "vinculo": "Estágio",
+      "enquadramento": "Monitoria",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 07/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 07/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 07/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2017 - 07/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 07/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 07/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 07/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 07/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2016 - 07/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2012 - 01/2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2012 - 01/2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2012 - 01/2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2012 - 01/2013",
+      "ano_inicio": "2012",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2012 - 07/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2012 - 07/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2012 - 07/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2012 - 07/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2012 - 07/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2012 - 07/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2011 - 12/2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2011 - 12/2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2011 - 12/2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2011 - 12/2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Pernambuco, UFPE, Brasil",
+      "instituicao_nome": "Universidade Federal de Pernambuco",
+      "instituicao_sigla": "UFPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2011 - 12/2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "INSTITUTO DE PESQUISA ECONÔMICA APLICADA, IPEA, Brasil.",
+      "instituicao_nome": "INSTITUTO DE PESQUISA ECONÔMICA APLICADA",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2016",
+      "ano_inicio": "2015",
+      "ano_fim": "2016",
+      "vinculo": "Bolsista",
+      "enquadramento": "Pesquisadora de campo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "INSTITUTO DE PESQUISA ECONÔMICA APLICADA, IPEA, Brasil",
+      "instituicao_nome": "INSTITUTO DE PESQUISA ECONÔMICA APLICADA",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Joaquim Nabuco, FUNDAJ, Brasil.",
+      "instituicao_nome": "Fundação Joaquim Nabuco",
+      "instituicao_sigla": "FUNDAJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2015",
+      "ano_inicio": "2015",
+      "ano_fim": "2015",
+      "vinculo": "Bolsista",
+      "enquadramento": "Formadora em Curso de Especialização",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Joaquim Nabuco, FUNDAJ, Brasil",
+      "instituicao_nome": "Fundação Joaquim Nabuco",
+      "instituicao_sigla": "FUNDAJ",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pesquisa e consultoria em comunicação e marketing - LTDA, DATA POPULAR, Brasil.",
+      "instituicao_nome": "Pesquisa e consultoria em comunicação e marketing - LTDA",
+      "instituicao_sigla": "DATA POPULAR",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": "Pesquisa",
+      "enquadramento": "Pesquisadora e Entrevistadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pesquisa e consultoria em comunicação e marketing - LTDA, DATA POPULAR, Brasil",
+      "instituicao_nome": "Pesquisa e consultoria em comunicação e marketing - LTDA",
+      "instituicao_sigla": "DATA POPULAR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pesquisa e consultoria em comunicação e marketing - LTDA, DATA POPULAR, Brasil.",
+      "instituicao_nome": "Pesquisa e consultoria em comunicação e marketing - LTDA",
+      "instituicao_sigla": "DATA POPULAR",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": "Pesquisa",
+      "enquadramento": "Observadora e entrevistadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pesquisa e consultoria em comunicação e marketing - LTDA, DATA POPULAR, Brasil",
+      "instituicao_nome": "Pesquisa e consultoria em comunicação e marketing - LTDA",
+      "instituicao_sigla": "DATA POPULAR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pesquisa e consultoria em comunicação e marketing - LTDA, DATA POPULAR, Brasil.",
+      "instituicao_nome": "Pesquisa e consultoria em comunicação e marketing - LTDA",
+      "instituicao_sigla": "DATA POPULAR",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": "Pesquisa",
+      "enquadramento": "Observadora e entrevistadora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Pesquisa e consultoria em comunicação e marketing - LTDA, DATA POPULAR, Brasil",
+      "instituicao_nome": "Pesquisa e consultoria em comunicação e marketing - LTDA",
+      "instituicao_sigla": "DATA POPULAR",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Programa de Geração de Emprego e Renda pela Educação, PROGEPE, Brasil.",
+      "instituicao_nome": "Programa de Geração de Emprego e Renda pela Educação",
+      "instituicao_sigla": "PROGEPE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": "Ensino",
+      "enquadramento": "Professora de Cidadania",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Programa de Geração de Emprego e Renda pela Educação, PROGEPE, Brasil",
+      "instituicao_nome": "Programa de Geração de Emprego e Renda pela Educação",
+      "instituicao_sigla": "PROGEPE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade de Hamburgo, UNI HAMBURG, Alemanha.",
+      "instituicao_nome": "Universidade de Hamburgo",
+      "instituicao_sigla": "UNI HAMBURG",
+      "instituicao_pais": "Alemanha",
+      "periodo": "2006 - 2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": "Bolsista",
+      "enquadramento": "Graduação sanduíche",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade de Hamburgo, UNI HAMBURG, Alemanha",
+      "instituicao_nome": "Universidade de Hamburgo",
+      "instituicao_sigla": "UNI HAMBURG",
+      "instituicao_pais": "Alemanha",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Adjunto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Programa de Pós-graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Programa de Pós-graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Programa de Pós-graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Programa de Pós-graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Departamento de Sociologia."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2025 - 01/2026",
+      "ano_inicio": "2025",
+      "ano_fim": "2026",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2025 - 01/2026",
+      "ano_inicio": "2025",
+      "ano_fim": "2026",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2025 - 07/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2025 - 07/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2024 - 09/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2024 - 09/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Síntese teórica ao Sul: teoria social, teoria sociológica e a articulação de modelos explicativos em Florestan Fernandes",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto investigativo tenciona reler diacronicamente a produção bibliográfica de Florestan Fernandes à luz dos e em contraponto aos debates recentes nos campos da teoria social e da teoria sociológica. Dada a centralidade que o trabalho de síntese entre perspectivas heterogêneas tem na teoria social contemporânea, a principal avenida (ou finalidade) a ser percorrida nesta pesquisa tem como destino sistematizar os modos de síntese teórica (sobretudo a articulação de modelos explicativos naqueles considerados clássicos da teoria social e sociológica) propostos por Florestan: tanto em seus textos mais propriamente teórico-metodológicos como em suas sínteses em prol de um arcabouço adequado para pensar as formações sociais periféricas, subdesenvolvidas e dependentes. A investigação dos modos de síntese teórica em Fernandes permitirá desdobrar uma diversidade de interesses intelectuais paralelos, tais como: pensar os diagnósticos de época, a modernidade e o espírito do capitalismo em Fernandes; investigar a sua apropriação e sistematização da tríade sociológica clássica em cotejo com esforços posteriores análogos, a exemplo de Anthony Giddens; revisitar a sua crítica ao naturalismo nas ciências humanas e sociais; reler a sua obra, incrustada no mirante latino-americano, tanto a partir como para além das definições ortodoxas e eurocentradas de teoria social.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Ana Rodrigues Cavalcanti Alves - Integrante / Lucas Trindade da Silva - Coordenador / Diogo Valença de Azevedo Costa - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Trindade da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Diogo Valença de Azevedo Costa",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Luta de raças, de classes e desenvolvimento: reconstruindo o artesanato intelectual de Florestan Fernandes",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O presente projeto visa investigar a compreensão de Florestan Fernandes acerca das noções de raça, classe e desenvolvimento, abordando as possíveis reformulações desses conceitos ao longo de sua trajetória intelectual. Para adentrar em uma seara já tão discutida pela fortuna crítica do autor, buscaremos reconstruir o artesanato intelectual de Florestan Fernandes por meio de uma pesquisa documental nos arquivos pessoais disponíveis em sua biblioteca situada na Universidade Federal de São Carlos (UFSCar) , e da análise de obras fundamentais do autor. Acreditamos que há um conjunto de fontes inexploradas em sua biblioteca, como comentários à margem de livros, fichamentos, notas de aula, textos de conferências e outras exposições, que permitem formular novas hipóteses e outros enquadramentos analíticos acerca do pensamento do autor. Assim, uma das questões a ser investigadas é a de como o autor compreende as relações entre classe, raça e desenvolvimento capitalista ao longo de sua produção teórica. Ademais, buscamos investigar em que medida a periferia e, particularmente, a América Latina, tornam-se fonte de animação teórica na construção de sua sociologia do desenvolvimento e de que maneira os diferentes mecanismos de classificação social e racial são articulados em sua compreensão do desenvolvimento capitalista periférico e dependente. A reconstrução do artesanato intelectual de Florestan Fernandes se fundamentará em uma leitura diacrônica de sua obra, interessada no conjunto de circunstâncias, influências teóricas, encontros, debates e processos histórico-sociais que contribuíram para possíveis reformulações conceituais. A releitura de Florestan Fernandes visa contribuir com a fortuna crítica do autor, lançando novos enquadramentos analíticos à sua obra, capazes de suscitar, por sua vez, novas interpretações acerca de seu pensamento, de suas contribuições teóricas, metodológicas e empíricas, bem como de sua inserção no campo intelectual brasileiro e latino-americano.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (2) . Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador / Lucas Trindade da Silva - Integrante / Wilson Rogério Penteado Júnior - Integrante / Diogo Valença de Azevedo Costa - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio financeiro. Número de produções C, T & A: 1 / Número de orientações: 2"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lucas Trindade da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Wilson Rogério Penteado Júnior",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Diogo Valença de Azevedo Costa",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "O artesanato intelectual de Florestan Fernandes: uma perspectiva latino-americana sobre o desenvolvimento",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A presente proposta se dedica à análise da sociologia do desenvolvimento de Florestan Fernandes a partir de sua inserção latino-americana, com base nos relatos do autor de sua própria trajetória acadêmica e na reconstrução de seu artesanato intelectual, cujas pistas podem ser encontradas em sua biblioteca e arquivo particulares. Assim, a preocupação será compreender como sua perspectiva latino-americana influencia em sua interpretação do capitalismo dependente brasileiro e, ao mesmo tempo, na elucidação dos caminhos para a resolução de nossos dilemas sociais. Nosso problema de pesquisa pode ser formulado do seguinte modo: como se configura a sociologia do desenvolvimento de Florestan Fernandes quando interpretada em seus horizontes políticos e culturais latino-americanos, não apenas especificamente brasileiros? A maioria dos estudos sobre o autor focaliza sua obra nos limites históricos da sociedade nacional, deixando-se de lado aspectos que só podem ser plenamente explicados no contexto mais abrangente da América Latina. Por isso, nossa hipótese afirma que sua síntese teórica e metodológica na sociologia do desenvolvimento, voltada para o enfrentamento dos problemas das sociedades subdesenvolvidas e dependentes, foi construída num diálogo comparativo com as realidades latino-americanas. Em pesquisas anteriores em sua biblioteca e arquivo particulares, percebemos que existem fontes ainda inexploradas sobre sua visão de América Latina, as quais ajudam a interpretar seus trabalhos sociológicos sobre o capitalismo dependente, tais como comentários à margem de livros, fichamentos e roteiros de exposição de aulas ou conferências, dentre outros. Nossa estratégia metodológica se concentra em duas direções, numa análise das narrativas autobiográficas de Florestan Fernandes sobre sua trajetória intelectual e na pesquisa etnográfica em sua biblioteca e arquivo pessoais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Ana Rodrigues Cavalcanti Alves - Integrante / Eliane Veras Soares - Integrante / Aristeu Portela - Integrante / Remo Mutzenberg - Integrante / Lucas Trindade da Silva - Integrante / Wilson Rogério Penteado Júnior - Integrante / Luidy Ariel Ferreira de Santana - Integrante / Diogo Valença de Azevedo Costa - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eliane Veras Soares",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Aristeu Portela",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Remo Mutzenberg",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Trindade da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Wilson Rogério Penteado Júnior",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luidy Ariel Ferreira de Santana",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Diogo Valença de Azevedo Costa",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "A sociologia de Wright Mills: teoria e política",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O sociólogo norte-americano Wright Mills (1916-1962) possui uma produção intelectual de grande relevância, hoje considerada clássica, sobre questões de estratificação social e estruturas políticas de poder nos Estados Unidos. Essa temática foi aprofundada em trabalhos como The New Men of Power: Americas Labor Leaders (1948), White Collar: the American Middle Classes (1951) e The Power Elite (1956). Sua produção, no entanto, se estende para questões relativas à sociologia do conhecimento, a exemplo de sua pesquisa sobre o processo de profissionalização da filosofia pragmatista nos Estados Unidos (1942), e à problemática do desenvolvimento (1959), tecendo comparações entre países capitalistas desenvolvidos e nações subdesenvolvidas. Além disso, a repercussão política de seus escritos reverberou além de suas fronteiras nacionais, alcançando diversos países latino-americanos, em especial o Brasil. O objetivo da presente proposta de trabalho será reconstruir, sob os prismas da sociologia do conhecimento, o itinerário político e acadêmico de Wright Mills, destacando os principais horizontes metodológicos e teóricos de seu pensamento sociológico e seus impactos e influências nas ciências sociais brasileiras. No ano de 2020 o projeto passou a contar com a colaboração dos pesquisadores Ana Rodrigues Cavalcanti Alves (UFBA), Aristeu Portela Jr. (UFRPE) e Lucas Trindade da Silva (UFRN). A participação de tais pesquisadores tem ensejado comparações mais amplas entre as ideias de Wright Mills e outros grandes nomes da teoria sociológica como Max Weber, Pierre Bourdieu, dentro outros. Além disso, as pesquisas de Ana Rodrigues Cavalcanti Alves sobre classes populares e de Aristeu Portela Jr. sobre questão racial permitem aprofundamentos críticos sobre as teorias da estratificação social de Wright Mills, contrastando com outras situações históricas. O projeto ainda conta com a participação do mestrando Vinícius de Lacerda Miranda, do PPGCS/UFRB, o qual vem desenvolvendo pesquisas sobre as desigualdades no ensino superior brasileiro, tendo incorporado no seu referencial teórico as ideias de Wright Mills sobre estratificação social e comparando-as com os trabalhos de Bourdieu sobre educação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Ana Rodrigues Cavalcanti Alves - Integrante / Aristeu Portela - Integrante / Diogo Valença - Coordenador / Lucas Trindade da Silva - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Aristeu Portela",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Diogo Valença",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lucas Trindade da Silva",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Florestan Fernandes e os dilemas sociais brasileiros: história do tempo presente",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O presente projeto envolve pesquisadores de três instituições: UFPE, UFRPE e UFRB. Resumo: Nos anos 1990 e 1991, por ocasião da elaboração de sua dissertação de mestrado, Eliane Veras Soares realizou uma série de entrevistas com o então deputado federal Florestan Fernandes, reconstituindo aspectos de sua história de vida, focalizando sua trajetória intelectual e política. Tomando por base tais entrevistas, cuja publicação permanece inédita, o objetivo do presente projeto de pesquisa é analisar diferentes aspectos da obra e da trajetória de Florestan Fernandes. Entre os aspectos a serem considerados estão: sua história de vida; a relação do autor com a teoria sociológica e com os dilemas educacionais brasileiros; sua forma de compreender o dilema racial brasileiro em relação com a revolução burguesa no País; o percurso da reflexão e do envolvimento de Florestan Fernandes com o movimento negro brasileiro; e as contribuições do autor para pensar a trajetória das classes populares no Brasil contemporâneo. O projeto visa ainda a oferta de cursos sobre o pensamento de Florestan Fernandes e, por fim, a publicação das referidas entrevistas, acrescidas de material analítico e de divulgação.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Rodrigues Cavalcanti Alves - Integrante / Eliane Veras Soares - Coordenador / Aristeu Portela - Integrante / Diogo Valença - Integrante / Remo Mutzenberg - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eliane Veras Soares",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Aristeu Portela",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Diogo Valença",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Remo Mutzenberg",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "A recepção de A Distinção de Pierre Bourdieu na sociologia brasileira",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: A pesquisa a ser desenvolvida durante o estágio pós-doutoral visa investigar arecepção de A Distinção, de Pierre Bourdieu, na sociologia brasileira, tomando como ponto de partida a análise da apropriação de seus instrumentos conceituais na obra de Jessé Souza considerado um dos principais intérpretes de Bourdieu no Brasil. A questão fundamentalque norteia esta investigação é a de saber como este autor se apropria dos conceitos eanálises contidas em A Distinção na construção de um enfoque teórico que busca forneceruma interpretação inovadora da sociedade brasileira, construindo uma posição própria no campo acadêmico nacional, e ao mesmo tempo, construir instrumentos conceituais de alcance universal. Posteriormente, a análise visa abranger outros autores envolvidos na recepção do sociólogo francês no Brasil.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador. Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "A recepção da obra de Bourdieu na sociologia brasileira do final do século XX e começo do século XXI",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: A pesquisa sobre a recepção da obra de Bourdieu na sociologia brasileira é parte de uma investigação mais ampla que envolve pesquisadores franceses e brasileiros, sobre a circulação das ideias de Bourdieu no continente americano.O Brasil foi um destino particularmente importante para as ideias de Pierre Bourdieu. Se, do ponto de vista francês, nós aparecemos como um cenário de penetração ampla e precoce dessas ideias quando comparados a outros países da América Latina (Sapiro e Bustamante, 2009), do ponto de vista local, os dados do Scielo indicam que Bourdieu é o segundo autor mais citado nas ciências sociais brasileiras, só ficando atrás de Foucault (Bortoluci et alli, 2015). Desse modo, compreender os meandros desse processo de circulação das ideias é parte da autocompreensão da própria sociologia brasileira, tanto do ponto de vista de suas disputas internas, quanto de suas formas de inserção no contexto internacional. O projeto focará as obras de Sérgio Miceli, Renato Ortiz, Jessé Souza e Frédric Vandenbergh, buscando identificar as apropriações de conceitos e ideias de Bourdieu, bem como as mediações construídas pelos autores brasileiros de modo a ajustar tais conceitos e ideias às injunções do campo acadêmico nacional.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) . Integrantes: Ana Rodrigues Cavalcanti Alves - Integrante / Maria Eduarda da Mota Rocha - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Eduarda da Mota Rocha",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Análise do ethos dos batalhadores manifesto no âmbito do consumo",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: Analisar as possíveis mudanças nas práticas de consumo e estilo de vida dosmembros das classes populares em processo de mobilidade ascendente nos últimos anos,investigando os sentidos que eles atribuem à sua maior inserção na cultura de consumo. Estaanálise se insere num debate mais amplo acerca das mudanças ocorridas na estrutura dasociedade brasileira nas últimas décadas e seu impacto sobre as classes populares. Partindo dopressuposto de que o aumento da renda não se converte necessariamente em mudanças nospadrões de consumo, buscou-se investigar as condições que possibilitam a algunsmembros das frações ascensionais das classes populares os batalhadores aderir a novaspráticas de consumo, enquanto outros permanecem orientados pelas mesmas disposiçõesascéticas, incorporadas em sua condição passada. Para tanto, procedeu-se a uma pesquisaempírica, fundamentada numa sociologia disposicionalista, buscando reconstruir as principaisdisposições e valores incorporados por esses indivíduos no decorrer de sua trajetória,investigando como tais disposições são traduzidas para o campo dos estilos de vida, numcontexto de mobilidade ascendente.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "A (des)continuidade da tradição marxista no pós-marxismo de Ernesto Laclau e Chantal Mouffe",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "descricao": [
+        "Descrição: Buscamos investigar continuidades e descontinuidades da tradição marxista no pós-marxismo de Ernesto Laclau e Chantal Mouffe. Tomamos como ponto de partida a identificação de conceitos e formas discursivas oriundos do marxismo que são prolongados na transição para o enfoque pós-marxista. Para tanto, discutimos a complexidade intrínseca à idéia de tradição marxista em diferentes momentos de sua história. Essa discussão permitiu apreender os debates e preocupações desenvolvidos no interior da tradição marxista que foram herdados pelo pós-marxismo, como a tentativa de combater o economicismo e afirmar a centralidade da política.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "GRUPO DE ESTUDOS EM SOCIOLOGIA DISPOSICIONALISTA (GESD)",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Este projeto de extensão é parte integrante das atividades do Grupo de Estudos em Sociologia Disposicionalista (GESD), vinculado ao Departamento de Sociologia da Universidade Federal da Bahia (UFBA). O GESD envolve atividades de pesquisa e extensão, voltadas à leitura, análise e discussão de autores/as, obras e pesquisas que contribuíram para a construção das bases teóricas, epistemológicas e metodológicas da análise sociológica das disposições sociais. Nesse sentido, o principal objetivo do Grupo é sistematizar a compreensão sociológica das disposições sociais, tal como encontrada desde as formulações clássicas da disciplina até a constituição, mais recentemente, de uma abordagem que toma a noção de disposição social como categoria central para a análise e compreensão das práticas e relações sociais, na elucidação de questões fundamentais da teoria social contemporânea, bem como na construção de teorias e explicações sociológicas, e que pode ser definida como Sociologia Disposicionalista.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (8) / Mestrado acadêmico: (3) / Doutorado: (1) . Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador / Bruno Barreiros - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Bruno Barreiros",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "DESAFIOS DO FAZER SOCIOLÓGICO: NOVOS RUMOS PARA PROBLEMAS ANTIGOS",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: O curso de extensão \"Desafios do fazer sociológico: novos rumos para problemas antigos\" visou oferecer a toda a comunidade acadêmica e extra-acadêmica um conjunto de reflexões fundamentais sobre o processo de construção do conhecimento científico na área das ciências sociais e humanas. O objetivo é auxiliar os/as participantes a enfrentarem dificuldades no desenvolvimento de pesquisa, desde os desafios iniciais, de construção de um objeto de estudo, até a produção escrita de um texto, isto é, de compartilhamento e publicização dos resultados obtidos. Os temas que figuram em cada uma das sessões foram cuidadosamente elaborados para ensejar debates e exercícios sobre momentos cruciais do fazer sociológico. O primeiro encontro trata dos desafios relativos à construção do objeto nas ciências sociais, com ênfase em uma sociologia disposicionalista que afirma a necessária relação entre teoria e pesquisa. O segundo se dedica, mais detidamente, à etapa do trabalho de campo, debruçando-se sobre as vicissitudes de inserção no campo e das negociações com os interlocutores/as da pesquisa. Já o terceiro encontro se volta para algumas técnicas de análise de dados orais e escritos, destacando as distinções metodológicas e os limites entre elas. A quarta sessão, por sua vez, aborda dois caminhos que conduzem à análise de espaços sociais a partir de trajetórias - a biografia e a prosopografia. Por fim, a última sessão trata mais propriamente do processo de produção do saber sociológico, com foco especial na elaboração de textos, acadêmicos ou não, e na publicização do conhecimento gerado ao longo das pesquisas para o público geral.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (20) / Mestrado acadêmico: (15) / Doutorado: (15) . Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador / Felipe Vargas - Integrante / Luciana Duccini - Integrante / Bruno Barreiros - Integrante / Lucas Amaral de Oliveira - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Felipe Vargas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luciana Duccini",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno Barreiros",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Pouco",
+      "le": "Bem",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Bem, Fala Pouco, Lê Bem, Escreve Pouco."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Clase, raza y distinción: el impacto de Pierre Bourdieu en el debate sobre la estrutura social en Brasil",
+        "ano": 2026,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; ROCHA, M. E. M.",
+        "revista": "REVISTA DE CIENCIAS HUMANAS Y SOCIALES DE LA UNIVERSIDAD CIENTÍFICA DEL SUR (ONLINE)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "1-25",
+        "issn": "2415-0959",
+        "doi": "http://dx.doi.org/10.21142/DES-1801-2026-0003",
+        "qualis": ""
+      },
+      {
+        "titulo": "O campo em movimento: desafios e horizontes do pensamento social no Brasil.",
+        "ano": 2025,
+        "autores": "GAHYVA, H. ; RODRIGUES CAVALCANTI ALVES, ANA",
+        "revista": "ESTUDOS HISTÓRICOS",
+        "volume": "38",
+        "numero": "",
+        "paginas": "1-9",
+        "issn": "2178-1494",
+        "doi": "http://dx.doi.org/10.1590/S2178-149420250601",
+        "qualis": ""
+      },
+      {
+        "titulo": "O pensamento em processo em Guerreiro Ramos e as múltiplas formulações sobre o 'problema do negro no Brasil'",
+        "ano": 2025,
+        "autores": "TRINDADE, L. ; RODRIGUES CAVALCANTI ALVES, ANA",
+        "revista": "AFROASIA",
+        "volume": "71",
+        "numero": "",
+        "paginas": "1-14",
+        "issn": "1981-1411",
+        "doi": "http://dx.doi.org/10.9771/aa.v0i71.70528",
+        "qualis": ""
+      },
+      {
+        "titulo": "Desafios teóricos e metodológicos à análise do consumo das classes populares brasileiras",
+        "ano": 2024,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA",
+        "revista": "CONTEMPORÂNEA (ONLINE)",
+        "volume": "13",
+        "numero": "",
+        "paginas": "417-443",
+        "issn": "2316-1329",
+        "doi": "http://dx.doi.org/10.14244/contemp.v13i2.1224",
+        "qualis": ""
+      },
+      {
+        "titulo": "Relendo a teoria sociológica brasileira à luz da crítica pós-colonial",
+        "ano": 2023,
+        "autores": "Lucas Oliveira ; ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "REVISTA SOCIEDADE E ESTADO",
+        "volume": "38",
+        "numero": "",
+        "paginas": "211-211",
+        "issn": "1980-5462",
+        "doi": "http://dx.doi.org/10.1590/s0102-6992-202338010009pt",
+        "qualis": ""
+      },
+      {
+        "titulo": "Brazilian sociological theory and postcolonial criticism",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE ; ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "REVISTA SOCIEDADE E ESTADO",
+        "volume": "38",
+        "numero": "",
+        "paginas": "211-211",
+        "issn": "1980-5462",
+        "doi": "http://dx.doi.org/10.1590/s0102-6992-202338010009",
+        "qualis": ""
+      },
+      {
+        "titulo": "Batalhadores culturais: trajetórias de mobilidade ascendente nos meios populares",
+        "ano": 2022,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "EDUCAÇÃO E PESQUISA",
+        "volume": "48",
+        "numero": "",
+        "paginas": "1-19",
+        "issn": "1678-4634",
+        "doi": "http://dx.doi.org/10.1590/s1678-4634202248254909por",
+        "qualis": ""
+      },
+      {
+        "titulo": "APONTAMENTOS SOBRE O CONCEITO DE CLASSE SOCIAL EM FLORESTAN FERNANDES",
+        "ano": 2020,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "ESTUDOS DE SOCIOLOGIA (RECIFE)",
+        "volume": "2",
+        "numero": "",
+        "paginas": "197-230",
+        "issn": "1415-000X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Considerações sobre as práticas de consumo das classes populares a partir de uma sociologia disposicionalista",
+        "ano": 2019,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "POLÍTICA & TRABALHO (UFPB. IMPRESSO)",
+        "volume": "02",
+        "numero": "",
+        "paginas": "101-119",
+        "issn": "1517-5901",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Reformulações da teoria marxista no enfoque pós-marxista de Laclau e Mouffe",
+        "ano": 2019,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "Inter-legere (UFRN)",
+        "volume": "2",
+        "numero": "",
+        "paginas": "51-80",
+        "issn": "1982-1662",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A INDIVIDUALIDADE EM SIMMEL E ELIAS: CONTRIBUIÇÕES TEÓRICAS PARA UMA SOCIOLOGIA DO INDIVÍDUO",
+        "ano": 2017,
+        "autores": "ALVES, A. R. C.; MACIEL, L. C.",
+        "revista": "Lua Nova. Revista de Cultura e Política",
+        "volume": "s/v",
+        "numero": "",
+        "paginas": "259-290",
+        "issn": "0102-6445",
+        "doi": "http://dx.doi.org/10.1590/0102-259290/101",
+        "qualis": ""
+      },
+      {
+        "titulo": "Dos habitus de classe aos patrimônios individuais de disposições: reflexões sobre a prática em Pierre Bourdieu e Bernard Lahire",
+        "ano": 2016,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "294-327",
+        "issn": "1807-0337",
+        "doi": "http://dx.doi.org/10.1590/15174522-018004213",
+        "qualis": ""
+      },
+      {
+        "titulo": "A nova abordagem racial da telenovela brasileira: ruptura ou confirmação do mito da democracia racial?",
+        "ano": 2012,
+        "autores": "ALVES, A. R. C",
+        "revista": "ESTUDOS DE SOCIOLOGIA (RECIFE)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1",
+        "issn": "1415-000X",
+        "doi": "http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=null&md5=f8a2d9f8af7e0fb17f9968fbbee28b49",
+        "qualis": ""
+      },
+      {
+        "titulo": "O conceito de hegemonia: de Gramsci a Laclau e Mouffe",
+        "ano": 2010,
+        "autores": "ALVES, A. R. C",
+        "revista": "Lua Nova. Revista de Cultura e Política",
+        "volume": "",
+        "numero": "",
+        "paginas": "71-96",
+        "issn": "0102-6445",
+        "doi": "http://dx.doi.org/10.1590/S0102-64452010000200004",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Estabelecidos e Outsiders do Pensamento Social Brasileiro",
+        "ano": 2024,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; Lucas Oliveira (Org.) ; LOBO, M. (Org.) ; PIRES, B. L. F. (Org.) ; LEAL, L. F. (Org.) ; OLIVEIRA, B. V. M. (Org.) ; LAGE, V. C. (Org.) ; PEREIRA, R. G. N. (Org.) ; ASSUNCAO, V. N. F. (Org.) ; RIBEIRO, M. A. (Org.) ; DUTRA, R. (Org.) ; MARTINS, M. L. (Org.) ; SILVA, N. P. (Org.) ; CALDAS, A. (Org.) ; COSTA, D. V. A. (Org.) ; TRINDADE, L. (Org.) ; BARROS, M. C. (Org.) ; MOREIRA, M. S. (Org.)",
+        "editora": "São Paulo: Pimenta Cultural",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "364"
+      },
+      {
+        "titulo": "Com o suor do trabalho: uma análise do ethos dos batalhadores manifesto no âmbito do consumo",
+        "ano": 2020,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "editora": "Recife: Editora UFPE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "472"
+      },
+      {
+        "titulo": "A (des) continuidade da Tradição Marxista no Pós-Marxismo de Ernesto Laclau e Chantal Mouffe",
+        "ano": 2016,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "editora": "Recife-PE: Editora UFPE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": ""
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Releituras da teoria sociológica brasileira",
+        "ano": 2024,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; Lucas Oliveira",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "181-204"
+      },
+      {
+        "titulo": "Redimensionando Guerreiro Ramos: um exercício de releitura da sociologia brasileira",
+        "ano": 2024,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; Lucas Oliveira",
+        "titulo_livro": "",
+        "editora": "Pimenta Cultural",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "197-224"
+      },
+      {
+        "titulo": "A classe, a raça e a distinção: Bourdieu e o debate mais recente sobre estrutura social no Brasil",
+        "ano": 2022,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI; ROCHA, M. E. M.",
+        "titulo_livro": "",
+        "editora": "Confraria do vento",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "313-355"
+      },
+      {
+        "titulo": "Florestan Fernandes: um trânsfuga de classes?",
+        "ano": 2021,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "titulo_livro": "",
+        "editora": "Marxismo 21",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "221-240"
+      },
+      {
+        "titulo": "Florestan Fernandes e o dilema racial brasileiro",
+        "ano": 2021,
+        "autores": "VALENCA, D. ; ALVES, ANA RODRIGUES CAVALCANTI ; PORTELA, A. ; SOARES, E. V. ; SILVA, L. T. ; MUTZENBERG, R.",
+        "titulo_livro": "",
+        "editora": "Marxismo 21",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "317-352"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Pensando as classes populares brasileiras a partir de uma perspectiva disposicionalista: o legado teórico de Pierre Bourdieu e Bernard Lahire",
+        "ano": 2017,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "evento": "41º Encontro Anual da ANPOCS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Do habitus aos hábitos: reflexões sobre a prática na teoria social contemporânea",
+        "ano": 2015,
+        "autores": "ALVES, A. R. C",
+        "evento": "39° Encontro Anual da Anpocs",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A reconstrução do estilo de vida das classes populares na Distinção de Pierre Bourdieu: reflexões teóricas para pensar o Brasil contemporâneo",
+        "ano": 2014,
+        "autores": "ALVES, A. R. C",
+        "evento": "38° Encontro Anual da ANPOCS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A articulação entre consumo e cidadania na constituição de identidades: reflexões teóricas para pensar o caso brasileiro",
+        "ano": 2013,
+        "autores": "ALVES, A. R. C",
+        "evento": "XVI Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Apropriações da noção de hegemonia de Gramsci na Teoria Social Contemporânea",
+        "ano": 2010,
+        "autores": "ALVES, A. R. C",
+        "evento": "Seminário Internacional Gramsci e os Movimentos Populares",
+        "cidade": "",
+        "paginas": "1-10",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "A influência das ideias pós-marxistas",
+        "ano": 2011,
+        "autores": "ALVES, A. R. C",
+        "evento": "XXXVIII Congresso da Associação Latino-Americana de Sociologia, 2011, Recife. Anais do XXVIII Congresso ALAS",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "Apropriações da noção de hegemonia de Gramsci na Teoria Social Contemporâena",
+        "ano": 2010,
+        "autores": "ALVES, A. R. C",
+        "evento": "I Seminário Internacional Gramsci e os Movimentos Populares, 2010, Niterói. Anais do I Seminário Gramsci e os Movimentos Populares. Niterói",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "Florestan Fernandes e a questão racial: contribuições teóricas para a reotientação do movimento negro no Brasil",
+        "ano": 2009,
+        "autores": "ALVES, A. R. C",
+        "evento": "Simpósio Internacional de Estudantes de Convênio Brasil-África de Ensino Superior, 2009, Recife. Simpósio Internacional de Estudantes de Convênio Brasil-África de Ensino Superior",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "A nova abordagem racial da telenovela brasileira: ruptura ou confirmação do mito da democracia racial?",
+        "ano": 2008,
+        "autores": "ALVES, A. R. C",
+        "evento": "XI Encontro de Ciências Sociais, 2008, Recife. XI Encontro de Ciências Sociais",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "O papel da imprensa no debate sobre as cotas: Uma comparação São Paulo - Recife",
+        "ano": 2005,
+        "autores": "ALVES, A. R. C",
+        "evento": "VIII Encontro de Ciências Sociais, 2005, Recife. Anais do Encontro de Ciências Sociais",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [],
+    "artigos_aceitos": [
+      {
+        "titulo": "A classe, a raça e a distinção: Pierre Bourdieu e o debate mais recente sobre estrutura social no Brasil",
+        "ano": 2026,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; ROCHA, M. E. M.",
+        "revista": "REVISTA DE CIENCIAS HUMANAS Y SOCIALES DE LA UNIVERSIDAD CIENTÍFICA DEL SUR (ONLINE)",
+        "issn": ""
+      },
+      {
+        "titulo": "Antecedentes do dilema racial brasileiro. POLÍTICA & TRABALHO (UFPB",
+        "ano": 2026,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; SOARES, E. V.",
+        "revista": "IMPRESSO)",
+        "issn": ""
+      }
+    ],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Lançamento do livro 'Com o suor do trabalho: uma análise do ethos dos batalhadores manifesto no âmbito do consumo'",
+        "ano": 2021,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "evento": ""
+      },
+      {
+        "titulo": "Lançamento do Livro Florestan Fernandes: trajetória, memórias e dilemas do Brasil",
+        "ano": 2021,
+        "autores": "SOARES, E. V. ; ALVES, ANA RODRIGUES CAVALCANTI ; VALENCA, D. ; PORTELA, A. ; SILVA, L. T. ; TOLEDO, CAIO NAVARRO",
+        "evento": ""
+      },
+      {
+        "titulo": "Apontamentos sobre o conceito de classe social em Florestan Fernandes",
+        "ano": 2021,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "evento": ""
+      },
+      {
+        "titulo": "Notas sobre as disposições políticas das classes populares",
+        "ano": 2018,
+        "autores": "ALVES, A. R. C.; WEBER, S. ; BURITY, J. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Pensando as classes populares brasileiras a partir de uma perspectiva disposicionalista: o legado teórico de Pierre Bourdieu e Bernard Lahire",
+        "ano": 2017,
+        "autores": "ALVES, ANA RODRIGUES CAVALCANTI",
+        "evento": ""
+      },
+      {
+        "titulo": "Do habitus aos hábitos: reflexões sobre a prática na teoria social contemporânea",
+        "ano": 2015,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Reconstrução do estilo de vida das classes populares na Distinção de Pierre Bourdieu: reflexões teóricas para pensar o Brasil contemporâneo",
+        "ano": 2014,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      },
+      {
+        "titulo": "A articulação entre consumo e cidadania na constituição de identidades: reflexões teóricas para pensar o caso brasileiro",
+        "ano": 2013,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      },
+      {
+        "titulo": "A influências das ideias pós-marxistas na América Latina",
+        "ano": 2011,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Apropriações da noção de hegemonia de Gramsci na Teoria Social Contemporânea",
+        "ano": 2010,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Florestan Fernandes e a questão racial: Contribuições teóricas para reorientação do Movimento Negro no Brasil",
+        "ano": 2009,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      },
+      {
+        "titulo": "A nova abordagem racial da telenovela brasileira: ruptura ou confirmação do mito da democracia racial?",
+        "ano": 2008,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      },
+      {
+        "titulo": "O papel da imprensa no debate sobre as cotas: uma comparação São Paulo - Recife",
+        "ano": 2005,
+        "autores": "ALVES, A. R. C",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Do cânone à contestação: visões sobre o Pensamento Social no Brasil",
+        "ano": 2025,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; GAHYVA, H.",
+        "jornal": "",
+        "cidade": "",
+        "data": "05 dez. 2025"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "Dossiê Pensamento Social no Brasil. Rio de Janeiro: Estudos Histórios - FGV - CPDOC",
+        "ano": 2025,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; GAHYVA, H.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Livros de classe: A integração do negro na sociedade de classes, de Florestan Fernandes, por Ana Rodrigues",
+        "ano": 2024,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "A concepção de individualidade em Georg Simmel",
+        "ano": 2014,
+        "autores": "ALVES, A. R. C",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Teorias Sociais, Modernidades e Colonialidades",
+        "ano": 2020,
+        "autores": "Lucas Oliveira ; REGATIERI, R. P. ; IAMAMOTO, S. A. S. ; ALVES, ANA RODRIGUES CAVALCANTI ; ZIMMERMANN, C. ; GONZALEZ, M. V. E.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "Qual o meu lugar nessa festa?: Um estudo de caso sobre a sociabilidade das pessoas com deficiência durante a festa de São João em Senhor do Bonfim, Bahia",
+          "ano_inicio": 2026,
+          "orientando": "Vanessa dos Santos da Conceição",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Reflexões sobre masculinidades negras: uma etnografia multissituada do grupo \"Positivar masculinidades\" em Salvador",
+          "ano_inicio": 2025,
+          "orientando": "Poliana Jesus de Souza",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Trajetórias Profissionais de Mulheres na Gestão do IF Baiano",
+          "ano_inicio": 2023,
+          "orientando": "Jordânia Medeiros Coutinho",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "A Influência da Intelectualidade e dos Ativismos Sociais Negros na Obra de Florestan Fernandes: Uma Construção Dialógica.",
+          "ano_inicio": 2023,
+          "orientando": "Giovanni Spavier Alves",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "As Ideias Sociais de Alberto Guerreiro Ramos: Fundamentos de uma Sociologia no Brasil",
+          "ano_inicio": 2022,
+          "orientando": "Ana Paulla Almeida",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Reconstrução do dilema racial",
+          "ano_inicio": 2025,
+          "orientando": "Grazielly dos Santos Ribeiro",
+          "tipo_trabalho": "Iniciação científica",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Revisitando a recepção de Florestan Fernandes no âmbito da sociologia brasileira",
+          "ano_inicio": 2024,
+          "orientando": "Ana Angélica Soares Oliveira",
+          "tipo_trabalho": "Iniciação científica",
+          "instituicao": "Universidade Federal da Bahia - Departamento de Sociologia",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Nuances do discurso anticorrupção: a página Vem pra rua Brasil frente às denúncias contra Lula e Bolsonaro",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Marco Aurelio de Oliveira Leal",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal de Pernambuco",
+          "curso": ""
+        },
+        {
+          "titulo": "Os condomínios fechados do Programa Minha Casa Minha Vida: um novo estilo de vida do morar nas periferias precárias consolidadas?",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Bruno Leonardo Fonseca do Nascimento",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal de Pernambuco",
+          "curso": ""
+        }
+      ],
+      "especializacao": [
+        {
+          "titulo": "A música como ferramenta pedagógica de enfrentamento à intolerância racial na escola",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Juliana Lima de Barros",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Fundação Joaquim Nabuco",
+          "curso": ""
+        },
+        {
+          "titulo": "Movimentos Sociais Negros no Brasil",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Ana Claudia Cabral da Silva",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Fundação Joaquim Nabuco",
+          "curso": ""
+        }
+      ],
+      "tcc": [],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Revisitando a integração do negro na sociedade de classes: um estudo da gênese e sentidos das categorias de Florestan Fernandes",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Ana Angélica Soares Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "?O pensamento vivo de Florestan Fernandes: A Revolução Burguesa no Brasil?",
+        "apresentacao": "A memória viva de Florestan Fernandes: a pessoa e o político",
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "22º Congresso Brasileiro de Sociologia",
+        "apresentacao": "Os 50 anos de A revolução burguesa no Brasil: clássico da teoria social e da sociologia latino-americana",
+        "ano": 2025,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "2º Colóquio de Teoria Social, Estado e Sociedade",
+        "apresentacao": "Pensamento Social e Relações Raciais no Brasil: desafios teóricos e epistemológicos para uma releitura crítica e descentrada",
+        "ano": 2025,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "48º Encontro Anual da Anpocs",
+        "apresentacao": "Nordeste brasileiro e Pierre Bourdieu: problematizações e perspectivas sociológicas",
+        "ano": 2024,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "48º Encontro Anual da Anpocs",
+        "apresentacao": "Três momentos do dilema racial em Florestan Fernandes: uma leitura diacrônica",
+        "ano": 2024,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Fórum Brasileiro de Sociologia",
+        "apresentacao": "Jovens Docentes",
+        "ano": 2024,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Colóquio (Re)leituras desde o pensamento Social brasileiro",
+        "apresentacao": "Dilemas da democracia brasileira (debatedora)",
+        "ano": 2024,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "\"Classe, raça, gênero, território: Ciências Sociais feita por gente\"",
+        "apresentacao": "Apontamentos sobre as classes sociais no século XXI",
+        "ano": 2023,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "?Debates em torno à economia e trabajo de uma perspectiva sócio-antropológica\"",
+        "apresentacao": "Elementos para uma discussão sobre a dimensão simbólica do trabalho ? uma análise das práticas de consumo das classes populares",
+        "ano": 2022,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Colóquio (Re)leituras desde o pensamento social brasileiro: um balanço crítico crít",
+        "apresentacao": ".(Re)leituras do pensamento social brasileiro",
+        "ano": 2022,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Virtual UFBA 2020",
+        "apresentacao": "Releituras da Teoria Social Brasileira",
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "19º Congresso Brasileiro de Sociologia",
+        "apresentacao": "\"Com o suor do trabalho\": reflexão sobre o consumo das classes populares no Brasil contemporâneo.",
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Congresso UFPE em Debate",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário A recepção de Bourdieu no Brasil",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "41º Encontro Anual da ANPOCS",
+        "apresentacao": "Pensando as classes populares brasileiras a partir de uma perspectiva disposicionalista: o legado teórico de Pierre Bourdieu e Bernard Lahire",
+        "ano": 2017,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário de Teoria Social e Subjetividades",
+        "apresentacao": "GT 1 Subjetividade e Consumo",
+        "ano": 2017,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "39 Encontro Anual da Anpocs",
+        "apresentacao": "Do habitus aos hábitos: reflexões sobre a prática na teoria social contemporânea",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "38° Encontro Anual da ANPOCS",
+        "apresentacao": "Reconstrução do estilo de vida das classes populares na Distinção de Pierre Bourdieu: reflexões teóricas para pensar o Brasil contemporâneo",
+        "ano": 2014,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Agenda Brasileira - Temas Fundamentais para a Sociedade",
+        "apresentacao": null,
+        "ano": 2014,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Conferência Razão Populista com Ernesto Laclau",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVI Congresso Brasileiro de Sociologia",
+        "apresentacao": "A articulação entre consumo e cidadania na constituição de identidades: reflexões teóricas para pensar o caso brasileiro.",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Associação Latino-Americana de Sociologia",
+        "apresentacao": "A influências das ideias pós-marxistas na América Latina",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Internacional Gramsci e os movimentos populares",
+        "apresentacao": "Apropriações da noção de hegemonia de Gramsci na Teoria Social Contemporânea",
+        "ano": 2010,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Internacional de Estudantes de Convênio Brasil-África",
+        "apresentacao": "Florestan Fernandes e a questão racial: Contribuições teóricas para a reorientação do Movimento Negro no Brasil",
+        "ano": 2009,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Ciências Sociais em Debate",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Colóquio Movimentos Sociais",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Conferência Cotas Raciais na Unb",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Mostra e debate de Antropologia Visual",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Encontro de Ciências Sociais",
+        "apresentacao": "A nova abordagem racial da telenovela brasileira: ruptura ou confirmação do mito da democracia racial?",
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIII Encontro Nacional de Estudantes de Ciências Sociais",
+        "apresentacao": "A influência de Florestan Fernandes na reorientação do movimento negro no Brasil",
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Encontro de Ciências Sociais",
+        "apresentacao": null,
+        "ano": 2007,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Encontro Regional dos Grupos PET - ENEPET",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Seminário Nacional Redescobrindo o Brasil",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário de Ciência Política da UFPE",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário Internacional Dinâmica do Capitalismo Pós-guerra Fria: Cultura Tecnológica, Espaço e Desenvolvimento",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Internacional Inclusão social e as perspectivas pós-estruturalistas de análise social",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Encontro de Ciências Sociais",
+        "apresentacao": "O papel da imprensa no debate sobre as cotas: uma comparação São Paulo - Recife",
+        "ano": 2005,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Encontro Nacional dos Grupos PET - ENAPET",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Encontro de Ciências Sociais",
+        "apresentacao": null,
+        "ano": 2004,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "JALLES, C. ; SILVA, L. T. ; RODRIGUES CAVALCANTI ALVES, ANA ; TAVOLARO, S. ; PASSIANI, E. ; GAHYVA, H.",
+        "evento": "II Colóquio (Re) leituras desde o pensamento social brasileiro",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. XI Encontro de Ciências Sociais. 2008. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. I Mostra e debate de Antropologia Visual. 2008. (Exposição).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. Conferência \"Cotas Raciais na Unb\". 2008. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. Ciências Sociais em Debate. 2008. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. Colóquio Movimentos Sociais. 2008. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. X Encontro de Ciências Sociais. 2007. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. Seminário Internacional Inclusão Social e as perspectivas Pós-estruturalistas de Análise Social. 2005. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. I Seminário Internacional Dinâmica do Capitalismo Pós-guerra Fria: Cultura Tecnológica, Espaço e Desenvolvimento. 2005. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALVES, A. R. C.. I Seminário de Ciência Política da Universidade Federal de Pernambuco. 2005. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "SILVA, J. B.; RODRIGUES CAVALCANTI ALVES, ANA; BAOUR, J. A. D.. Participação em banca de Wenderson Silva Ribeiro. A mestiçagem no Brasil: das teorias raciais à crítica do Movimento Negro Brasileiro. 2026. Dissertação (Mestrado em Programa de Pós-graduação em Serviço Social) - Universidade Federal da Bahia.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Wenderson Silva Ribeiro",
+        "membros_banca": [
+          "SILVA, J. B.",
+          "RODRIGUES CAVALCANTI ALVES, ANA",
+          "BAOUR, J. A. D."
+        ],
+        "titulo_trabalho": "A mestiçagem no Brasil: das teorias raciais à crítica do Movimento Negro Brasileiro",
+        "curso": "Dissertação (Mestrado em Programa de Pós-graduação em Serviço Social)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Lucas Oliveira; Miranda, Fernanda Rodrigues; ALVES, ANA RODRIGUES CAVALCANTI. Participação em banca de Carlos Alves Siqueira. Tensões na sala de visitas: pacto da branquitude e relações de poder nos diários de Carolina Maria de Jesus. 2024. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Carlos Alves Siqueira",
+        "membros_banca": [
+          "Lucas Oliveira",
+          "Miranda, Fernanda Rodrigues",
+          "ALVES, ANA RODRIGUES CAVALCANTI"
+        ],
+        "titulo_trabalho": "Tensões na sala de visitas: pacto da branquitude e relações de poder nos diários de Carolina Maria de Jesus",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "REGATIERI, R. P.; ZIMMERMANN, C.; CANNONE, H. M. P.; ALVES, ANA RODRIGUES CAVALCANTI. Participação em banca de LUCAS MARIANO MACIEL BAQUEIRO MIRANDA RODRIGUES. OS FLAUTISTAS DE HAMELIN: POPULISMO DIGITAL NO BRASIL. 2024. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "LUCAS MARIANO MACIEL BAQUEIRO MIRANDA RODRIGUES",
+        "membros_banca": [
+          "REGATIERI, R. P.",
+          "ZIMMERMANN, C.",
+          "CANNONE, H. M. P.",
+          "ALVES, ANA RODRIGUES CAVALCANTI"
+        ],
+        "titulo_trabalho": "OS FLAUTISTAS DE HAMELIN: POPULISMO DIGITAL NO BRASIL",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "PETERS, G.; ALVES, ANA RODRIGUES CAVALCANTI; PERRUSI, A.; SILVA, S. S.; PONTES, T. P.. Participação em banca de DANILO MANOEL FARIAS DA SILVA. Socioanálise da percepção: as disputas de classificação na mudança da estrutura social no Brasil contemporâneo. 2024. Tese (Doutorado em Pós-Graduação em Sociologia) - Universidade Federal de Pernambuco.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "DANILO MANOEL FARIAS DA SILVA",
+        "membros_banca": [
+          "PETERS, G.",
+          "ALVES, ANA RODRIGUES CAVALCANTI",
+          "PERRUSI, A.",
+          "SILVA, S. S.",
+          "PONTES, T. P."
+        ],
+        "titulo_trabalho": "Socioanálise da percepção: as disputas de classificação na mudança da estrutura social no Brasil contemporâneo",
+        "curso": "Tese (Doutorado em Pós-Graduação em Sociologia)",
+        "universidade": "Universidade Federal de Pernambuco"
+      },
+      {
+        "descricao": "ARANTES, R. A.; MACHADO, E. P.; ALVES, A. R. C.. Banca de seleção de doutorado do Programa de Pós-graduação em Ciências Sociais.. 2022. Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Tese de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "qualificacao_doutorado": [
+      {
+        "descricao": "RODRIGUES CAVALCANTI ALVES, ANA; PREVIATI, D.; MANO, M. K. T.; MACEDO, M. S.. Participação em banca de Jordânia Medeiros Coutinho. Trajetórias de mulheres líderes do IF Baiano: uma abordagem disposicionalista. 2025. Exame de qualificação (Doutorando em Curso de doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Qualificação de Doutorado",
+        "aluno": "Jordânia Medeiros Coutinho",
+        "membros_banca": [
+          "RODRIGUES CAVALCANTI ALVES, ANA",
+          "PREVIATI, D.",
+          "MANO, M. K. T.",
+          "MACEDO, M. S."
+        ],
+        "titulo_trabalho": "Trajetórias de mulheres líderes do IF Baiano: uma abordagem disposicionalista",
+        "curso": "Exame de qualificação (Doutorando em Curso de doutorado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "PETERS, G.; ALVES, A. R. C.; ROCHA, M. E. M.. Participação em banca de Danilo Manoel Farias da Silva. Mudanças do habitus e mobilidade social dos trânsfugas de classe no contexto da pesquisa 'Radiografia do Brasil Contemporâneo' (2015-2016)\" \". 2020. Exame de qualificação (Doutorando em Doutorado) - Programa de Pós-Graduação em Sociologia.",
+        "ano": 2015,
+        "tipo": "Qualificação de Doutorado",
+        "aluno": "Danilo Manoel Farias da Silva",
+        "membros_banca": [
+          "PETERS, G.",
+          "ALVES, A. R. C.",
+          "ROCHA, M. E. M."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      }
+    ],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "COSTA, Diogo Valença de Azevedo; RODRIGUES CAVALCANTI ALVES, ANA; FIGUEIREDO, A.. Participação em banca de Rogério Correia Silva. DESIGUALDADE SOCIORRACIAL NO ÂMBITO DA PREVIDÊNCIA SOCIAL: UM ESTUDO DE CASO DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DE CAMAÇARI/BA.. 2026. Exame de qualificação (Mestrando em Ciências Sociais: Cultura, Desigualdades e Desenvolvimento) - Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2026,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Rogério Correia Silva",
+        "membros_banca": [
+          "COSTA, Diogo Valença de Azevedo",
+          "RODRIGUES CAVALCANTI ALVES, ANA",
+          "FIGUEIREDO, A."
+        ],
+        "titulo_trabalho": "DESIGUALDADE SOCIORRACIAL NO ÂMBITO DA PREVIDÊNCIA SOCIAL: UM ESTUDO DE CASO DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DE CAMAÇARI/BA",
+        "curso": "Exame de qualificação (Mestrando em Ciências Sociais: Cultura, Desigualdades e Desenvolvimento)",
+        "universidade": "Universidade Federal do Recôncavo da Bahia"
+      },
+      {
+        "descricao": "SILVA, J. B.; RODRIGUES CAVALCANTI ALVES, ANA; BAOUR, J. A. D.. Participação em banca de Wenderson Silva Ribeiro. Mestiçagem e a identidade racial no Brasil: pardo e as singularidades do racismo à brasileira. 2025. Exame de qualificação (Mestrando em SERVIÇO SOCIAL) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Wenderson Silva Ribeiro",
+        "membros_banca": [
+          "SILVA, J. B.",
+          "RODRIGUES CAVALCANTI ALVES, ANA",
+          "BAOUR, J. A. D."
+        ],
+        "titulo_trabalho": "Mestiçagem e a identidade racial no Brasil: pardo e as singularidades do racismo à brasileira",
+        "curso": "Exame de qualificação (Mestrando em SERVIÇO SOCIAL)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Lucas Oliveira; ALVES, A. R. C.; Miranda, Fernanda Rodrigues. Participação em banca de Carlos Alves Siqueira. Tensões na sala de visitas: Pacto da Branquitude e Relações de Poder nos Diários de Carolina Maria de Jesus. 2023. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Carlos Alves Siqueira",
+        "membros_banca": [
+          "Lucas Oliveira",
+          "ALVES, A. R. C.",
+          "Miranda, Fernanda Rodrigues"
+        ],
+        "titulo_trabalho": "Tensões na sala de visitas: Pacto da Branquitude e Relações de Poder nos Diários de Carolina Maria de Jesus",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "ROCHA, M. E. M.; ALVES, A. R. C.; PERRUSI, A.; CUNHA, D. A. C.. Participação em banca de Marco Aurélio de Oliveira Leal. Nuances do discurso anticorrupção: a página Vem pra rua Brasil frente às denúncias contra Lula e Bolsonaro. 2020. Exame de qualificação (Mestrando em Programa de Pós-graduação em Sociologia) - Programa de Pós-Graduação em Sociologia.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marco Aurélio de Oliveira Leal",
+        "membros_banca": [
+          "ROCHA, M. E. M.",
+          "ALVES, A. R. C.",
+          "PERRUSI, A.",
+          "CUNHA, D. A. C."
+        ],
+        "titulo_trabalho": "Nuances do discurso anticorrupção: a página Vem pra rua Brasil frente às denúncias contra Lula e Bolsonaro",
+        "curso": "Exame de qualificação (Mestrando em Programa de Pós-graduação em Sociologia)",
+        "universidade": ""
+      },
+      {
+        "descricao": "WEBER, S.; PETERS, G.; ALVES, A. R. C.; SILVA FILHO, I. R.. Participação em banca de Clayton Rodrigues da Silva. Empreendedorismo e formação universitária: personalidades profissionais de universitários empreendedores em startups. 2019. Exame de qualificação (Mestrando em Programa de Pós-graduação em Sociologia) - Universidade Federal de Pernambuco.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Clayton Rodrigues da Silva",
+        "membros_banca": [
+          "WEBER, S.",
+          "PETERS, G.",
+          "ALVES, A. R. C.",
+          "SILVA FILHO, I. R."
+        ],
+        "titulo_trabalho": "Empreendedorismo e formação universitária: personalidades profissionais de universitários empreendedores em startups",
+        "curso": "Exame de qualificação (Mestrando em Programa de Pós-graduação em Sociologia)",
+        "universidade": "Universidade Federal de Pernambuco"
+      },
+      {
+        "descricao": "BARROS, S. A. R.; RODRIGUES CAVALCANTI ALVES, ANA; IAMAMOTO, S. A. S.. Participação em banca de Carolina de Cássia Reis.Michele Bolsonaro entre o púlpito e o palanque: antifeminismo e conservadorismo no cenário político brasileiro. 2025. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carolina de Cássia Reis",
+        "membros_banca": [
+          "BARROS, S. A. R.",
+          "RODRIGUES CAVALCANTI ALVES, ANA",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "Michele Bolsonaro entre o púlpito e o palanque: antifeminismo e conservadorismo no cenário político brasileiro",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ARANTES, R. A.; ALVES, A. R. C.; FERNANDES, C. M.. Participação em banca de Daniela Magalhães Correia.MUDANÇAS E PERMANÊNCIAS: AS CONDIÇÕES DE TRABALHO DE DOMÉSTICAS DIARISTAS E MENSALISTAS DE SALVADOR - BA. 2023. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Daniela Magalhães Correia",
+        "membros_banca": [
+          "ARANTES, R. A.",
+          "ALVES, A. R. C.",
+          "FERNANDES, C. M."
+        ],
+        "titulo_trabalho": "MUDANÇAS E PERMANÊNCIAS: AS CONDIÇÕES DE TRABALHO DE DOMÉSTICAS DIARISTAS E MENSALISTAS DE SALVADOR - BA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ALVES, A. R. C.; ISALTINO, S. R. C. A.; F. M. S.. Participação em banca de Cynara Nascimento, David Neves, Josafá Cavalcanti, Suzy Silv.O Programa Bolsa Família sob o olhar da educação. 2020. Trabalho de Conclusão de Curso (Graduação em Pedagogia) - Faculdade Metropolitana da Grande Recife.",
+        "ano": 2020,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Cynara Nascimento, David Neves, Josafá Cavalcanti, Suzy Silv",
+        "membros_banca": [
+          "ALVES, A. R. C.",
+          "ISALTINO, S. R. C. A.",
+          "F. M. S."
+        ],
+        "titulo_trabalho": "O Programa Bolsa Família sob o olhar da educação",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Pedagogia)",
+        "universidade": "Faculdade Metropolitana da Grande Recife"
+      },
+      {
+        "descricao": "Eliane da Fonte; ALMEIDA, M. C. L.; ALVES, A. R. C.. Participação em banca de Maria Luiza Arruda Rezende.A coisa mais moderna que existe nessa vida é envelhecer: a relação entre gênero, corpo e moda na terceira idade. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal de Pernambuco.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Maria Luiza Arruda Rezende",
+        "membros_banca": [
+          "Eliane da Fonte",
+          "ALMEIDA, M. C. L.",
+          "ALVES, A. R. C."
+        ],
+        "titulo_trabalho": "A coisa mais moderna que existe nessa vida é envelhecer: a relação entre gênero, corpo e moda na terceira idade",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal de Pernambuco"
+      },
+      {
+        "descricao": "ROCHA, M. E. M.; ALVES, A. R. C.; PERRUSI, A.. Participação em banca de Diego Valença Coutinho.As mudanças dos hábitos alimentares: relações entre tempo e racionalidade.. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal de Pernambuco.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Diego Valença Coutinho",
+        "membros_banca": [
+          "ROCHA, M. E. M.",
+          "ALVES, A. R. C.",
+          "PERRUSI, A."
+        ],
+        "titulo_trabalho": "As mudanças dos hábitos alimentares: relações entre tempo e racionalidade",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal de Pernambuco"
+      },
+      {
+        "descricao": "ROCHA, D. M.; SOUZA, M. A. A. E.; ALVES, A. R. C.. Participação em banca de Bruno Leonardo Fonseca do Nascimento.Os condomínios fechados do Programa Minha Casa, Minha vida - Um novo estilo de vida do morar nas periferias precárias consolidadas? O caso do condomínio Ecovila Yapoatan (Jaboatão dos Guararapes). 2018. Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo) - Universidade Federal de Pernambuco.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Bruno Leonardo Fonseca do Nascimento",
+        "membros_banca": [
+          "ROCHA, D. M.",
+          "SOUZA, M. A. A. E.",
+          "ALVES, A. R. C."
+        ],
+        "titulo_trabalho": "Os condomínios fechados do Programa Minha Casa, Minha vida - Um novo estilo de vida do morar nas periferias precárias consolidadas? O caso do condomínio Ecovila Yapoatan (Jaboatão dos Guararapes)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo)",
+        "universidade": "Universidade Federal de Pernambuco"
+      },
+      {
+        "descricao": "Eliane Veras; Lady Selma Albernaz; Liana Lewis; ALVES, A. R. C.. Participação em banca de Adriana Virgínia N Mendes.A imagem da mulher negra: uma breve análise de fotografias das capas de revistas contemporâneas. 2015. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal de Pernambuco.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Adriana Virgínia N Mendes",
+        "membros_banca": [
+          "Eliane Veras",
+          "Lady Selma Albernaz",
+          "Liana Lewis",
+          "ALVES, A. R. C."
+        ],
+        "titulo_trabalho": "A imagem da mulher negra: uma breve análise de fotografias das capas de revistas contemporâneas",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal de Pernambuco"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "RODRIGUES CAVALCANTI ALVES, ANA; TRINDADE, L.; CINTRA, W. A.. Participação em banca de Giovanni Alves Spavier. O ópio da branquitude: o percurso intelectual da ideia de democracia racial na obra de Florestan Fernandes. 2025.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Giovanni Alves Spavier",
+        "membros_banca": [
+          "RODRIGUES CAVALCANTI ALVES, ANA",
+          "TRINDADE, L.",
+          "CINTRA, W. A."
+        ],
+        "titulo_trabalho": "O ópio da branquitude: o percurso intelectual da ideia de democracia racial na obra de Florestan Fernandes",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "ALVES, A. R. C.; Cibele Rodrigues; Cátia Lubambo. Participação em banca de Ana Claudia Cabral da Silva. Movimentos Sociais Negros no Brasil. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Políticas de Promoção da Igualdade Racial na Escola) - Fundação Joaquim Nabuco.",
+        "ano": 2016,
+        "tipo": "Participação em banca",
+        "aluno": "Ana Claudia Cabral da Silva",
+        "membros_banca": [
+          "ALVES, A. R. C.",
+          "Cibele Rodrigues",
+          "Cátia Lubambo"
+        ],
+        "titulo_trabalho": "Movimentos Sociais Negros no Brasil",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Políticas de Promoção da Igualdade Racial na Escola)",
+        "universidade": "Fundação Joaquim Nabuco"
+      },
+      {
+        "descricao": "ALVES, A. R. C.; Cátia Lubambo; SILVA, F. S.. Participação em banca de Juliana Lima de Barros. A música como ferramenta pedagógica de enfrentamento à intolerância racial na escola. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Políticas de Promoção da Igualdade Racial na Escola) - Fundação Joaquim Nabuco.",
+        "ano": 2016,
+        "tipo": "Participação em banca",
+        "aluno": "Juliana Lima de Barros",
+        "membros_banca": [
+          "ALVES, A. R. C.",
+          "Cátia Lubambo",
+          "SILVA, F. S."
+        ],
+        "titulo_trabalho": "A música como ferramenta pedagógica de enfrentamento à intolerância racial na escola",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Políticas de Promoção da Igualdade Racial na Escola)",
+        "universidade": "Fundação Joaquim Nabuco"
+      },
+      {
+        "descricao": "Lucas Oliveira; ALVES, A. R. C.; Bruno Barreiros. Processo Seletivo Simplificado para Contratação de Docentes por tempo determinado. 2021.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 14,
+    "total_livros": 3,
+    "total_capitulos": 5,
+    "total_trabalhos_congressos": 5,
+    "total_projetos_pesquisa": 9,
+    "total_projetos_extensao": 2,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 3,
+    "total_orientacoes_andamento": 7
+  }
+}

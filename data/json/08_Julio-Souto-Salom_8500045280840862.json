@@ -1,0 +1,1921 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "8500045280840862",
+    "nome_completo": "Julio Souto Salom",
+    "nome_citacoes": "SOUTO SALOM, J.;SOUTO SALOM, JULIO;SALOM, JULIO SOUTO;SOUTO, Julio",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "27/03/2026",
+    "url": "http://lattes.cnpq.br/8500045280840862",
+    "texto_resumo": "Professor no Departamento de Sociologia da Universidade Federal da Bahia (UFBA). Professor Permanente do Programa de Pós-Graduação em Ciências Sociais da UFBA. Doutor em Sociologia (UFRGS, 2019), Mestre em Sociologia (UFRGS, 2014) e Licenciado em Sociología - Universitat de València (2011). Tem experiência na área de Sociologia da Cultura e das Relações Étnico Raciais, atuando principalmente nos seguintes temas: políticas públicas da cultura, poéticas orais, filosofia afro-brasileira. Integrante do grupo de pesquisa 'A Cor da Bahia' (UFBA) e do 'Laboratório Urgente de Teorias Armadas' (LUTA), grupo de trabalho associado ao NEABI-UFRGS. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Programa de Pós-Graduação em Sociologia",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2019",
+      "descricao": "Título: Quando chega o griô: conversas sobre tempo e linguagem com mestres afro-brasileiros, Ano de obtenção: 2019. Orientador: José Carlos Gomes dos Anjos. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: griot; filosofia afro-brasileira; invenção da tradição; oralidade; relação colonial. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Conhecimento. Grande Área: Ciências Humanas / Área: Antropologia / Subárea: Antropologia das Populações Afro-Brasileiras. Setores de atividade: Atividades ligadas ao patrimônio cultural e ambiental."
+    },
+    {
+      "tipo": "Mestrado em Sociologia",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2014",
+      "descricao": "Título: Combater a subcidadania disputando o jogo literário: uma contribuição ao estudo da Literatura Marginal Periférica. O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2014. Orientador: Jose Vicente Tavares dos Santos. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    },
+    {
+      "tipo": "Graduação",
+      "nome_instituicao": "Universitat de València, UV, Espanha",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2011",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Ciência Política",
+      "nome_instituicao": "Universitat de València, UV, Espanha",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2011",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Consejo Latinoamericano de Ciencias Sociales, CLACSO, Argentina.",
+      "instituicao_nome": "Consejo Latinoamericano de Ciencias Sociales",
+      "instituicao_sigla": "CLACSO",
+      "instituicao_pais": "Argentina",
+      "periodo": "2022 - 2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": "Colaborador",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Consejo Latinoamericano de Ciencias Sociales, CLACSO, Argentina",
+      "instituicao_nome": "Consejo Latinoamericano de Ciencias Sociales",
+      "instituicao_sigla": "CLACSO",
+      "instituicao_pais": "Argentina",
+      "periodo": "09/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil.",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil.",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2020 - 2022",
+      "ano_inicio": "2020",
+      "ano_fim": "2022",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Colaborador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2020 - 04/2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2020 - 04/2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2020 - 04/2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2020 - 09/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2020 - 09/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade do Estado de Santa Catarina, UDESC, Brasil",
+      "instituicao_nome": "Universidade do Estado de Santa Catarina",
+      "instituicao_sigla": "UDESC",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2020 - 09/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": "Bolsista",
+      "enquadramento": "Tutoria EAD",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Substituto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2017 - 11/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal Sul-Rio-Grandense, IFSUL, Brasil.",
+      "instituicao_nome": "Instituto Federal Sul-Rio-Grandense",
+      "instituicao_sigla": "IFSUL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - 2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Substituto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal Sul-Rio-Grandense, IFSUL, Brasil",
+      "instituicao_nome": "Instituto Federal Sul-Rio-Grandense",
+      "instituicao_sigla": "IFSUL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal Sul-Rio-Grandense, IFSUL, Brasil",
+      "instituicao_nome": "Instituto Federal Sul-Rio-Grandense",
+      "instituicao_sigla": "IFSUL",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2019 - 03/2020",
+      "ano_inicio": "2019",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Coletivo pela Educação Popular, COLEP, Brasil.",
+      "instituicao_nome": "Coletivo pela Educação Popular",
+      "instituicao_sigla": "COLEP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2020",
+      "ano_inicio": "2018",
+      "ano_fim": "2020",
+      "vinculo": "Professor voluntário",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Coletivo pela Educação Popular, COLEP, Brasil",
+      "instituicao_nome": "Coletivo pela Educação Popular",
+      "instituicao_sigla": "COLEP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Coletivo pela Educação Popular, COLEP, Brasil",
+      "instituicao_nome": "Coletivo pela Educação Popular",
+      "instituicao_sigla": "COLEP",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2018 - 02/2020",
+      "ano_inicio": "2018",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade de",
+      "instituicao_nome": "Universidade de",
+      "instituicao_sigla": null,
+      "instituicao_pais": null,
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "Bolsista",
+      "enquadramento": "pesquisador",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade de Valencia, UV, Espanha",
+      "instituicao_nome": "Universidade de Valencia",
+      "instituicao_sigla": "UV",
+      "instituicao_pais": "Espanha",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Racialização e Modernidade: dilemas da teoria social contemporânea",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O objetivo principal deste projeto de pesquisa é realizar um levantamento e sistematização dos principais debates e dilemas teóricos sobre racialização e racismo no campo da teoria social contemporânea. Para isso, nossa pesquisa é orientada em uma questão fundamental: em que pontos existem divergências produtivas no seio da teoria social contemporânea (brasileira e internacional) sobre racialização e racismo, e como elas se expressam em obras recentes e relevantes?. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Julio Souto Salom - Coordenador / Verônica Rodrigues Ferreira da Silva - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Julio Souto Salom",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Verônica Rodrigues Ferreira da Silva",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Programa experimental de integración socioeducativa a través del judo para jovenes del barrio de Ruzafa.",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2010",
+      "descricao": [
+        "Descrição: Estudo da prática do judô entre jovens de diferentes origens culturais, no bairro de Ruzafa (Valência), como prática de integração multicultural. http://www.judosocioeducativo.org. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (1) / Especialização: (3) / Doutorado: (2) . Integrantes: Julio Souto Salom - Integrante / José Manuel Rodríguez Victoriano - Coordenador / Ramón Gómez-Ferrer - Integrante. Financiador(es): Conselleria de Benestar Social de la Generalitat Valenciana - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Julio Souto Salom",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "José Manuel Rodríguez Victoriano",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ramón Gómez-Ferrer",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselleria de Benestar Social de la Generalitat Valenciana",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia do Conhecimento",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Conhecimento."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Catalão",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Indicação para o Concurso Brasileiro ANPOCS de Obras Científicas e Teses Universitárias em Ciências Sociais, ANPOCS.",
+      "ano": 2020
+    }
+  ],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Subjetivación extracampo y discursos instituyentes: la sociología de la cultura de Bourdieu en contexto colonial",
+        "ano": 2026,
+        "autores": "SALOM, JULIO SOUTO",
+        "revista": "Desde el Sur",
+        "volume": "18",
+        "numero": "",
+        "paginas": "e0015",
+        "issn": "2076-2674",
+        "doi": "http://dx.doi.org/10.21142/DES-1801-2026-0015",
+        "qualis": ""
+      },
+      {
+        "titulo": "Eu transparente e os outros afetáveis: a analítica da racialidade na (re)produção do Sujeito moderno",
+        "ano": 2025,
+        "autores": "SALOM, JULIO SOUTO",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "27",
+        "numero": "",
+        "paginas": "e136952",
+        "issn": "1807-0337",
+        "doi": "http://dx.doi.org/10.1590/1807-0337/e136952",
+        "qualis": ""
+      },
+      {
+        "titulo": "O GRIÔ DENTRO E FORA DA ESCOLA: PARA UMA EDUCAÇÃO DECOLONIAL",
+        "ano": 2024,
+        "autores": "SOUTO SALOM, JULIO",
+        "revista": "Linguagens, Educação e Sociedade",
+        "volume": "28",
+        "numero": "",
+        "paginas": "1-27",
+        "issn": "2526-8449",
+        "doi": "http://dx.doi.org/10.26694/rles.v28i57.4669",
+        "qualis": ""
+      },
+      {
+        "titulo": "Sem Shibboleths: Aulas de yorùbá em terreiros de batuque e a hipótese do nacionalismo linguístico",
+        "ano": 2024,
+        "autores": "SALOM, JULIO SOUTO",
+        "revista": "REVER: REVISTA DE ESTUDOS DA RELIGIÃO",
+        "volume": "24",
+        "numero": "",
+        "paginas": "277-296",
+        "issn": "1677-1222",
+        "doi": "http://dx.doi.org/10.23925/1677-1222.2024vol24i1a16",
+        "qualis": ""
+      },
+      {
+        "titulo": "Abasteciendo con datos las apuestas deportivas online: data scouts y extractivismo ampliadoSupplying Data for Online Sports Betting: Data Scouts and Expanded Extractivism",
+        "ano": 2024,
+        "autores": "SOUTO SALOM, JULIO",
+        "revista": "ATHENEA DIGITAL",
+        "volume": "24",
+        "numero": "",
+        "paginas": "e3483",
+        "issn": "1578-8946",
+        "doi": "http://dx.doi.org/10.5565/rev/athenea.3483",
+        "qualis": ""
+      },
+      {
+        "titulo": "A onda marginal dos slams na grande Porto Alegre",
+        "ano": 2023,
+        "autores": "SALOM, JULIO SOUTO; PIRES, W. J.",
+        "revista": "LANDA",
+        "volume": "11",
+        "numero": "",
+        "paginas": "189",
+        "issn": "2316-5847",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "?Meu objetivo sempre foi contar a história de Ọ̀yọ́, na oralidade ou no livro?: entrevista a Gercy Ribeiro de Mattos, o Mestre Cica de Ọ̀yó",
+        "ano": 2023,
+        "autores": "OYO, M. C. ; SOUTO SALOM, JULIO",
+        "revista": "Ayé: Revista de Antropologia",
+        "volume": "5",
+        "numero": "",
+        "paginas": "208-222",
+        "issn": "2674-6360",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Do Inferno a Angola Janga: história e mitologia do Quilombo de Palmares no romance gráfico de Marcelo d'Salete",
+        "ano": 2020,
+        "autores": "SALOM, JULIO SOUTO",
+        "revista": "Veredas: Revista da Associação Internacional de Lusitanistas",
+        "volume": "31",
+        "numero": "",
+        "paginas": "62-85",
+        "issn": "2183-816X",
+        "doi": "http://dx.doi.org/10.24261/2183-816x0431",
+        "qualis": ""
+      },
+      {
+        "titulo": "La explosión de los slams de poesía hablada en Brasil",
+        "ano": 2020,
+        "autores": "SOUTO SALOM, J.; PIRES, W. J.",
+        "revista": "LITERATURA: TEORÍA, HISTORIA, CRÍTICA",
+        "volume": "22",
+        "numero": "",
+        "paginas": "381-419",
+        "issn": "0123-5931",
+        "doi": "http://dx.doi.org/10.15446/lthc.v22n2.86096",
+        "qualis": ""
+      },
+      {
+        "titulo": "Jogo de dentro, jogo de fora: o Encontro de Saberes da UFRGS e a capoeira de Mestre Churrasco",
+        "ano": 2020,
+        "autores": "POGLIA, Marco A. S. ; SOUTO SALOM, JULIO ; CHURRASCO, M.",
+        "revista": "REVISTA MUNDAÚ",
+        "volume": "9",
+        "numero": "",
+        "paginas": "146-167",
+        "issn": "2526-3188",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A singularidade das práticas culturais",
+        "ano": 2017,
+        "autores": "PASSIANI, E. ; SOUTO SALOM, J. ; ANJOS, G.",
+        "revista": "PLURAL (SÃO PAULO. ONLINE)",
+        "volume": "24",
+        "numero": "",
+        "paginas": "181-199",
+        "issn": "2176-8099",
+        "doi": "http://dx.doi.org/10.11606/issn.2176-8099.pcso.2017.143001",
+        "qualis": ""
+      },
+      {
+        "titulo": "Para um país de leitores: uma análise do Plano Nacional do Livro e da Leitura (PNLL)",
+        "ano": 2016,
+        "autores": "ANJOS, G. ; PASSIANI, E. ; SOUTO SALOM, J.",
+        "revista": "Indicadores Econômicos FEE (Impresso)",
+        "volume": "43",
+        "numero": "",
+        "paginas": "97-110",
+        "issn": "0103-3905",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Sopapo Poético: sarau de poesia negra no extremo sul do Brasil",
+        "ano": 2016,
+        "autores": "FONTOURA, PÂMELA AMARO ; SALOM, JULIO SOUTO ; TETTAMANZY, ANA LÚCIA LIBERATO",
+        "revista": "Estudos de Literatura Brasileira Contemporânea",
+        "volume": "-",
+        "numero": "",
+        "paginas": "153-181",
+        "issn": "2316-4018",
+        "doi": "http://dx.doi.org/10.1590/2316-4018498",
+        "qualis": ""
+      },
+      {
+        "titulo": "De Pareto a Borges: Realidade e Ficção na Construção do Conhecimento em Sociologia",
+        "ano": 2015,
+        "autores": "CORREA, C. P. ; NEVES, F. M. ; TELO, F. ; ROCHA, G. N. ; LUCION, J. M. R. ; SOUTO SALOM, JULIO ; PEREZ, R. T.",
+        "revista": "ÁSKESIS",
+        "volume": "3",
+        "numero": "",
+        "paginas": "202",
+        "issn": "2238-3069",
+        "doi": "http://dx.doi.org/10.46269/3114.134",
+        "qualis": ""
+      },
+      {
+        "titulo": "La literatura marginal periférica y el silencio de la crítica",
+        "ano": 2014,
+        "autores": "SOUTO SALOM, JULIO",
+        "revista": "Revista chilena de literatura",
+        "volume": "",
+        "numero": "",
+        "paginas": "235-264",
+        "issn": "0718-2295",
+        "doi": "http://dx.doi.org/10.4067/S0718-22952014000300013",
+        "qualis": ""
+      },
+      {
+        "titulo": "Lecturas sociológicas de la autonomía literaria",
+        "ano": 2013,
+        "autores": "SOUTO SALOM, J",
+        "revista": "LANDA",
+        "volume": "1",
+        "numero": "",
+        "paginas": "32-56",
+        "issn": "2316-5847",
+        "doi": "http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=null&md5=f8a2d9f8af7e0fb17f9968fbbee28b49",
+        "qualis": ""
+      },
+      {
+        "titulo": "La dimensión simbólica, sustantiva y operativa en las políticas autonómicas de servicios sociales en España (1982-2008)",
+        "ano": 2013,
+        "autores": "ADELANTADO, J. ; COUCEIRO, M. ; IGLESIAS, M. ; SOUTO SALOM, J.",
+        "revista": "Zerbitzuan",
+        "volume": "",
+        "numero": "",
+        "paginas": "41-56",
+        "issn": "1134-7147",
+        "doi": "http://dx.doi.org/10.5569/1134-7147.53.03",
+        "qualis": ""
+      },
+      {
+        "titulo": "Contar hoy la violencia de ayer: video y literatura actual sobre la transición política española",
+        "ano": 2013,
+        "autores": "LA PARRA PÉREZ, PABLO ; SOUTO SALOM, JULIO",
+        "revista": "SOCIOLOGIAS (UFRGS. IMPRESSO)",
+        "volume": "15",
+        "numero": "",
+        "paginas": "76-109",
+        "issn": "1517-4522",
+        "doi": "http://dx.doi.org/10.1590/S1517-45222013000300005",
+        "qualis": ""
+      },
+      {
+        "titulo": "O que escrever quer dizer, uma leitura de -Da cabula-",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J.; SOUZA, Luciéle B.",
+        "revista": "BOITATÁ",
+        "volume": "7",
+        "numero": "",
+        "paginas": "127-143",
+        "issn": "1980-4504",
+        "doi": "http://dx.doi.org/10.5433/boitata.2012v7.e34836",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "Sopapo Poético: sarau de poesia negra no extremo sul do Brasil",
+        "ano": 2019,
+        "autores": "FONTOURA, PÂMELA AMARO ; SOUTO SALOM, JULIO ; TETTAMANZY, ANA LÚCIA LIBERATO",
+        "titulo_livro": "",
+        "editora": "Zouk",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "133-156"
+      },
+      {
+        "titulo": "The Novel of Violence in Latin American Literature. Globalization and the State in Contemporary Crime Fiction. -ed",
+        "ano": 2016,
+        "autores": "Tavares-dos-Santos, José-Vicente ; Passiani, Enio ; SALOM, JULIO SOUTO",
+        "titulo_livro": "",
+        "editora": "Palgrave Macmillan UK",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "141-157"
+      },
+      {
+        "titulo": "A dinâmica da expertise no \"Juicio Ciudadano\" no Uruguai: Cidadania, poder e energia nuclear",
+        "ano": 2015,
+        "autores": "NEVES, F. M. ; SOUTO SALOM, JULIO ; TEIXEIRA PINTO, V.",
+        "titulo_livro": "",
+        "editora": "Paco Editorial",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "147-170"
+      },
+      {
+        "titulo": "Potencias y límites del concepto de \"hibridación\". Una lectura de la Literatura Marginal brasileña",
+        "ano": 2014,
+        "autores": "SOUTO SALOM, J",
+        "titulo_livro": "",
+        "editora": "Universitat Pompeu Fabra - Forma Revista d'Estudis Comparatius d'Art, Literatura i Pensament.",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "115-126"
+      },
+      {
+        "titulo": "La dimensió operativa en les polítiques autonòmiques de serveis socials",
+        "ano": 2011,
+        "autores": "SOUTO SALOM, J.; IGLESIAS, M.",
+        "titulo_livro": "",
+        "editora": "Generalitat de Catalunya. Institut d'Estudis Autonòmics.",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "365-384"
+      },
+      {
+        "titulo": "La fundació de FAPA-València",
+        "ano": 2009,
+        "autores": "SOUTO SALOM, J.; QUILEZ, Y.",
+        "titulo_livro": "",
+        "editora": "Nau llibres",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "41-60"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Racialização e Modernidade: dilemas da teoria social contemporânea",
+        "ano": 2025,
+        "autores": "SALOM, JULIO SOUTO",
+        "evento": "22º Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Alimentando com dados as casas de apostas online",
+        "ano": 2021,
+        "autores": "SOUTO SALOM, JULIO",
+        "evento": "45º Encontro Anual da ANPOCS - GT18 - Etnografias do Capitalismo: Pessoas no(s) Mundo(s)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Scouts: a produção de estatísticas esportivas em tempo real",
+        "ano": 2021,
+        "autores": "SOUTO SALOM, J",
+        "evento": "20º Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "CONTRA A REINVENÇÃO DO GRIÔ SINCRÉTICO, A INSISTÊNCIA DO GRIOT AFROBRASILEIRO",
+        "ano": 2017,
+        "autores": "SOUTO SALOM, JULIO",
+        "evento": "41° Encontro Anual da ANPOCS - GT 01",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "O renascimento do griô afro-brasileiro",
+        "ano": 2016,
+        "autores": "SOUTO SALOM, JULIO",
+        "evento": "VII Seminário Internacional de Políticas Culturais",
+        "cidade": "",
+        "paginas": "1123",
+        "isbn": ""
+      },
+      {
+        "titulo": "FICÇÃO, POLÍTICA, E SUPERMAN",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J.; TEIXEIRA PINTO, V.",
+        "evento": "XII Seminário Internacional em Letras - Língua e literatura na (pós-) modernidade",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "NEGRO DRAMA OU EMBAIXADOR DA RUA: A PLURALIDADE DE VOZES NO RAP",
+        "ano": 2012,
+        "autores": "TEIXEIRA PINTO, V. ; SOUTO SALOM, J. ; MARAFIGA, D.",
+        "evento": "XII Seminário Internacional em Letras - Língua e literatura na (pós-) modernidade",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "SUPERLÓPEZ COMO SUVBERSIÓN DEL MITO DE SUPERMAN",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J",
+        "evento": "III Encontro Internacional de Ciências Sociais",
+        "cidade": "",
+        "paginas": "-",
+        "isbn": ""
+      },
+      {
+        "titulo": "O REMÉDIO DUBLINÉS: A MORTE DO AUTOR E A DOENÇA LITERÁRIA EM DUBLINESCA, DE ENRIQUE VILA-MATAS",
+        "ano": 2011,
+        "autores": "SOUTO SALOM, J.; BOFF, U. F.",
+        "evento": "XI Seminário Internacional de Letras",
+        "cidade": "",
+        "paginas": "22-32",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "O 'portunhol selvagem' de Douglas Diegues",
+        "ano": 2013,
+        "autores": "SOUTO SALOM, J.; SOUZA, Luciéle B.",
+        "evento": "3o Seminário Brasileiro de Poéticas Orais, 2013, Porto Alegre. Livro de Resumos do 3o Seminário Brasileiro de Poéticas Orais",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Racialização e Modernidade: dilemas da teoria social contemporânea",
+        "ano": 2025,
+        "autores": "SOUTO SALOM, JULIO",
+        "evento": ""
+      },
+      {
+        "titulo": "Dom Malan e a expansão do mundo dos brancos",
+        "ano": 2025,
+        "autores": "SOUTO SALOM, JULIO",
+        "evento": ""
+      },
+      {
+        "titulo": "OS GOLEIROS DE ALUGUEL: UBERIZAÇÃO DOS ARQUEIROS E MERCANTILIZAÇÃO DA PELADA",
+        "ano": 2022,
+        "autores": "SOUTO SALOM, J.; VIEIRA, B. M. ; ESTEVAM, M.",
+        "evento": ""
+      },
+      {
+        "titulo": "Alimentando com dados as casas de apostas online",
+        "ano": 2021,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "Contra a reinvenção do griô sincrético, a insistência do griot afrobrasileiro",
+        "ano": 2017,
+        "autores": "SOUTO SALOM, JULIO",
+        "evento": ""
+      },
+      {
+        "titulo": "Os griots afro-brasileiros: as vozes e a história",
+        "ano": 2017,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "De Peleia a Porongos: imagens da gauchidade no rap de Porto Alegre (RS)",
+        "ano": 2017,
+        "autores": "TEIXEIRA PINTO, V. ; SOUTO SALOM, J.",
+        "evento": ""
+      },
+      {
+        "titulo": "O renascimento do griô afro-brasileiro",
+        "ano": 2016,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "Pedagoginga e autonomia nas palavras de Allan da Rosa",
+        "ano": 2015,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "Literatura marginal como lucha por el reconocimiento",
+        "ano": 2013,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "Literatura Marginal: um enfoque sociológico",
+        "ano": 2013,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "As hibridações da ralé: jogo literário e subcidadania no Brasil",
+        "ano": 2013,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "El malandro brasileiro: del personaje literario a la construcción del autor",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "Heterotopías Visuales: la máscara de Guy Fawkes",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J.; LA PARRA, P.",
+        "evento": ""
+      },
+      {
+        "titulo": "Hibridación y 'malandragem' en la construcción mediática del autor",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "SUPERLÓPEZ COMO SUBVERSIÓN DEL MITO DE SUPERMAN",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "Negro Drama ou Embaixador da Rua: a pluralidade de vozes no rap",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J.; TEIXEIRA PINTO, V. ; MARAFIGA, D.",
+        "evento": ""
+      },
+      {
+        "titulo": "Ficção, Política e Superman",
+        "ano": 2012,
+        "autores": "SOUTO SALOM, J.; TEIXEIRA PINTO, V.",
+        "evento": ""
+      },
+      {
+        "titulo": "De anonymous no #15M aos ?indignados? em prime time: mitopoiesis, comunicação digital, e cultura de massas nas revoltas em Espanha (maio-outubro 2011)",
+        "ano": 2011,
+        "autores": "SOUTO SALOM, J",
+        "evento": ""
+      },
+      {
+        "titulo": "O REMÉDIO DUBLINÉS: A MORTE DO AUTOR E A DOENÇA LITERÁRIA EM DUBLINESCA, DE ENRIQUE VILA-MATAS",
+        "ano": 2011,
+        "autores": "SOUTO SALOM, J.; BOFF, U. F.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Darz Vive: amigos restauram homenagem a grafiteiro assassinado",
+        "ano": 2018,
+        "autores": "SOUTO SALOM, J",
+        "jornal": "",
+        "cidade": "",
+        "data": "12 dez. 2018"
+      },
+      {
+        "titulo": "Os escritores da periferia criam novos leitores",
+        "ano": 2014,
+        "autores": "SOUTO SALOM, J",
+        "jornal": "",
+        "cidade": "",
+        "data": "14 jan. 2014"
+      },
+      {
+        "titulo": "Páginas com o sangue e os sonhos da periferia",
+        "ano": 0,
+        "autores": "SOUTO SALOM, JULIO",
+        "jornal": "",
+        "cidade": "",
+        "data": ""
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "'Prefácio' em O Batuque de Nação Oyó no Rio Grande do Sul, de Mestre Cica de Oyó. São Paulo, 2021. (Prefácio",
+        "ano": 2021,
+        "autores": "MACEDO, José Rivair ; ANJOS, José Carlos Gomes dos ; SOUTO SALOM, J.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "SOUZA, Jessé: Os Batalhadores Brasileiros: Nova Classe Média ou Nova Classe Trabalhadora?. València: Arxius de Ciéncies Socials, n.31, pp.327-242 - Universitat de València",
+        "ano": 2014,
+        "autores": "SOUTO SALOM, JULIO",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "INTERREG - Eixo Atlântico",
+        "ano": 2008,
+        "autores": "SOUTO SALOM, J",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Sociowiki",
+        "ano": 2010,
+        "autores": "CLEMENTE, E. V. ; SOUTO SALOM, J. ; MACIA, E. G. ; RIBERA, S. R. ; CARDONA, J. A. ; SAN MAURO, E. B. ; FRANCO, E. B.",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "Gastronomía local medio a cambios sociales: lo que cuentan las cocinas sobre las nuevas tendencias socioculturales de Málaga y Salvador",
+          "ano_inicio": 2026,
+          "orientando": "Felipe Freaza de Cerqueira",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidad de Granada",
+          "curso": ""
+        },
+        {
+          "titulo": "GÊNERO, RAÇA E MIGRAÇÃO NAS VIVÊNCIAS DE MULHERES GUINEENSES NA UNILAB, EM SÃO FRANCISCO DO CONDE-BA",
+          "ano_inicio": 2026,
+          "orientando": "Laís Rebouças de Santana",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "Diálogos entre raça e saúde mental na Universidade Federal da Bahia amparados nas Teorias Sociais",
+          "ano_inicio": 2026,
+          "orientando": "Natalia Freitas Ramos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "A atuação dos responsáveis técnicos de segurança dos alimentos em estabelecimentos de manipulação de alimentos",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Carla de Souza Nunes",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "22º Congresso Brasileiro de Sociologia",
+        "apresentacao": "Racialização e Modernidade: dilemas da teoria social contemporânea.",
+        "ano": 2025,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Internacional planejamento fugitivo e estudos negros: experimentações críticas",
+        "apresentacao": "Dom Malan e a expansão do mundo dos brancos",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "20º Congresso Brasileiro de Sociologia",
+        "apresentacao": "Scouts: a produção de estatísticas esportivas em tempo real",
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "45º Encontro Anual da ANPOCS - GT18 - Etnografias do Capitalismo: Pessoas no(s) Mundo(s)",
+        "apresentacao": "Alimentando com dados as casas de apostas online",
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Semana do Migrante do Rio Grande do Sul - COMIRAT/RS",
+        "apresentacao": "Haiti: Vozes Insurgentes",
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Questões para a História Negra do Rio Grande do Sul / 8º Curso de Formação para Professores PEP UFRGS-APERS",
+        "apresentacao": "Quando chega o griô: conversas sobre história e linguagem com mestres afro-brasileiros",
+        "ano": 2019,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "41º Encontro Anual da ANPOCS",
+        "apresentacao": "\"Contra a reinvenção do griô sincrético, a insistência do griot afrobrasileiro\"",
+        "ano": 2017,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXXI Congreso ALAS",
+        "apresentacao": "Os griots afro-brasileiros: as vozes e a história",
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Seminário Internacional de Políticas Culturais - Fundação Casa Rui Barbosa",
+        "apresentacao": "O renascimento do griô afro-brasileiro",
+        "ano": 2016,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII CONLAB - 1º Congresso da Associação Internacional de Ciências Sociais e Humanas em Língua Portuguesa",
+        "apresentacao": "Pedagoginga e autonomia nas palavras de Allan da Rosa",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Acadêmica Letras UFRGS 2014: o lado B das línguas e literaturas",
+        "apresentacao": "Maria Papelão e as editoras cartoneras",
+        "ano": 2014,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Acadêmica Letras UFSM 2014: \"Mas estamos aqui para lembrar\"",
+        "apresentacao": "Ciranda de Cronópios: bate-papo sobre a obra de Julio Cortázar",
+        "ano": 2014,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Psicología Social Crítica: Discurso, Materialidad y Políticas",
+        "apresentacao": ". Literatura marginal como lucha por el reconocimiento",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana Acadêmica de Letras da UFSM",
+        "apresentacao": "Cartoneras: o papelão como alternativa editorial",
+        "ano": 2013,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I CONGRÉS DE JOVES INVESTIGADORS EN HUMANITATS",
+        "apresentacao": "El malandro brasileiro: del personaje literario a la construcción del autor",
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III EICS Encontro Internacional de Ciências Sociais",
+        "apresentacao": "Crise e Emergência de Novas Dinâmicas Sociais.",
+        "ano": 2012,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII Seminário Internacional em Letras - Língua e literatura na (pós-) modernidade",
+        "apresentacao": "FICÇÃO, POLÍTICA, E SUPERMAN.",
+        "ano": 2012,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Ciclo de Palestras PPGART - Artes Visuais 2011",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Semana Acadêmica Integrada de Ciências Sociais e Sociologia: \"Educação pra Que(m)?\"",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIII ERECS SUL",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ETNOXERRADES 2010: Converses des de l'antropologa al museu",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Semana Acadêmica Integrada de Ciências Sociais e Sociologia: \"Democracia: as diferentes interfaces\"",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Ciclo de Cinema \"Tecnologias e cultura: corpos (re)significados\"",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Poéticas Digitais: 5º Simpósio de Arte Contemporânea",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Ser/estar en internet",
+        "apresentacao": "Dinámicas del sujeto conectado",
+        "ano": 2009,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "C´mun",
+        "apresentacao": "Catolonia Model United Nations. United Nations Associatino of Spain.Catalonia Model United Nation",
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Jornades Comunicació Política i Societat Valenciana",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "SALOM, JULIO SOUTO. VII Seminário Discente PPGS UFRGS - GT Sociedade e Conhecimento. 2018. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OYO, M. C. ; SOUTO SALOM, JULIO",
+        "evento": "2º Encontro de Povos Originários e Hereditários do Continente Africano",
+        "ano": 2018,
+        "natureza": "Festival",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SOUTO SALOM, JULIO. VI Seminário Discente do PPGS UFRGS - GT Minorias Sociais. 2017. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "SOUTO SALOM, J.; OLIVER, C. N. ; LA PARRA, P. ; SCHISSANO, A.",
+        "evento": "II CICLO: CONFLICTOS OLVIDADOS",
+        "ano": 2010,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "PREVIATTI, D.; SOUTO SALOM, JULIO; BITTENCOURT, L. J.; ARAUJO, P. C.. Participação em banca de Sisnando Souza Pacheco. ?Não podia comer porque era quizila!?: comensalidade e sociabilidades como desafios às interdições alimentares na convivência com não iniciados no candomblé. 2026. Dissertação (Mestrado em Alimentos, Nutrição e Saúde) - Universidade Federal da Bahia.",
+        "ano": 2026,
+        "tipo": "Mestrado",
+        "aluno": "Sisnando Souza Pacheco. ?Não podia comer porque era quizila!?: comensalidade e sociabilidades como desafios às interdições alimentares na convivência com não iniciados no candomblé",
+        "membros_banca": [
+          "PREVIATTI, D.",
+          "SOUTO SALOM, JULIO",
+          "BITTENCOURT, L. J.",
+          "ARAUJO, P. C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Alimentos, Nutrição e Saúde)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Passiani, Enio; MAGALHAES, A. A.; PINHEIRO, L. R.; SOUTO SALOM, JULIO. Participação em banca de Robson Peres da Rocha. Voz, batida e movimento: narrativas de vida e a formação de sujeitos no rap. 2021. Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "Robson Peres da Rocha",
+        "membros_banca": [
+          "Passiani, Enio",
+          "MAGALHAES, A. A.",
+          "PINHEIRO, L. R.",
+          "SOUTO SALOM, JULIO"
+        ],
+        "titulo_trabalho": "Voz, batida e movimento: narrativas de vida e a formação de sujeitos no rap",
+        "curso": "Dissertação (Mestrado em Sociologia)",
+        "universidade": "Universidade Federal do Rio Grande do Sul"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "PASSIANI, E.; TEIXEIRA, A. N.; NASCIMENTO, W. L.; SOUTO SALOM, J.. Participação em banca de Tales Flores da Fonseca. Os fantasmas que ainda insistem em assombrar: Uma interpretação de \"Devassos no Paraíso\", de João Silvério Trevisan. 2025. Tese (Doutorado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Tales Flores da Fonseca",
+        "membros_banca": [
+          "PASSIANI, E.",
+          "TEIXEIRA, A. N.",
+          "NASCIMENTO, W. L.",
+          "SOUTO SALOM, J."
+        ],
+        "titulo_trabalho": "Os fantasmas que ainda insistem em assombrar: Uma interpretação de \"Devassos no Paraíso\", de João Silvério Trevisan",
+        "curso": "Tese (Doutorado em Programa de Pós-Graduação em Sociologia)",
+        "universidade": "Universidade Federal do Rio Grande do Sul"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "ANJOS, José Carlos Gomes dos; DIAZ-BENITEZ, M. E.; SOUTO SALOM, JULIO; HERNADEZ, A. R. C.; MARQUES, P. M.. Participação em banca de Tábata Silveira dos Santos. Contra-escrituras, linguagens dissidentes e a luta por reparação: uma análise da função escravizante da escritura a partir do caso do Quilombo Von Bock. 2026. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul.",
+        "ano": 2026,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Tábata Silveira dos Santos",
+        "membros_banca": [
+          "ANJOS, José Carlos Gomes dos",
+          "DIAZ-BENITEZ, M. E.",
+          "SOUTO SALOM, JULIO",
+          "HERNADEZ, A. R. C.",
+          "MARQUES, P. M."
+        ],
+        "titulo_trabalho": "Contra-escrituras, linguagens dissidentes e a luta por reparação: uma análise da função escravizante da escritura a partir do caso do Quilombo Von Bock",
+        "curso": "Exame de qualificação (Doutorando em Programa de Pós-Graduação em Sociologia)",
+        "universidade": "Universidade Federal do Rio Grande do Sul"
+      },
+      {
+        "descricao": "SOUTO SALOM, JULIO; PREVIATTI, D.; WOLFFENBUTTEL, R. F.. Participação em banca de Carla de Souza Nunes.A atuação dos responsáveis técnicos de segurança dos alimentos em estabelecimentos de manipulação de alimentos. 2026. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2026,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Carla de Souza Nunes",
+        "membros_banca": [
+          "SOUTO SALOM, JULIO",
+          "PREVIATTI, D.",
+          "WOLFFENBUTTEL, R. F."
+        ],
+        "titulo_trabalho": "A atuação dos responsáveis técnicos de segurança dos alimentos em estabelecimentos de manipulação de alimentos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SOUZA, L. G. C.; MAIA, B. A.; BERGAMO, A. I.; SOUTO SALOM, JULIO. Participação em banca de Amanda Gabinio de Oliveira.Dialética do efêmero: contribuições benjaminianas para a moda enquanto fenômeno social. 2023. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal de Santa Catarina.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Amanda Gabinio de Oliveira",
+        "membros_banca": [
+          "SOUZA, L. G. C.",
+          "MAIA, B. A.",
+          "BERGAMO, A. I.",
+          "SOUTO SALOM, JULIO"
+        ],
+        "titulo_trabalho": "Dialética do efêmero: contribuições benjaminianas para a moda enquanto fenômeno social",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal de Santa Catarina"
+      },
+      {
+        "descricao": "SANTOS, F. M.; DIAS, C. K. S. B.; ALENCAR, A. E. V.; SOUTO SALOM, JULIO. Participação em banca de Luana de Brito.Direito Humano à Alimentação Adequada: notas de um estranhamento a partir da perspectiva de uma pesquisadora negra brasileira em formação. 2023. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal de Santa Catarina.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luana de Brito",
+        "membros_banca": [
+          "SANTOS, F. M.",
+          "DIAS, C. K. S. B.",
+          "ALENCAR, A. E. V.",
+          "SOUTO SALOM, JULIO"
+        ],
+        "titulo_trabalho": "Direito Humano à Alimentação Adequada: notas de um estranhamento a partir da perspectiva de uma pesquisadora negra brasileira em formação",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal de Santa Catarina"
+      },
+      {
+        "descricao": "SORDI, C.; DEVOS, R.; SOUTO SALOM, JULIO. Participação em banca de Vitória da Silveira Alves.?Para começar agora..?: interações entre a crise dos sistemas de peritos, redes sociais e a nutrição.. 2023. Trabalho de Conclusão de Curso (Graduação em Antropologia) - Universidade Federal de Santa Catarina.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Vitória da Silveira Alves.?Para começar agora..?: interações entre a crise dos sistemas de peritos, redes sociais e a nutrição",
+        "membros_banca": [
+          "SORDI, C.",
+          "DEVOS, R.",
+          "SOUTO SALOM, JULIO"
+        ],
+        "titulo_trabalho": "",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Antropologia)",
+        "universidade": "Universidade Federal de Santa Catarina"
+      },
+      {
+        "descricao": "PASSIANI, E.; ALVES, C. F.; SOUTO SALOM, JULIO. Participação em banca de Costa, Lucas Reif da.Distopias totalitárias : vigilância e autoritarismo.. 2018. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal do Rio Grande do Sul.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Costa, Lucas Reif da",
+        "membros_banca": [
+          "PASSIANI, E.",
+          "ALVES, C. F.",
+          "SOUTO SALOM, JULIO"
+        ],
+        "titulo_trabalho": "Distopias totalitárias : vigilância e autoritarismo",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal do Rio Grande do Sul"
+      },
+      {
+        "descricao": "TOLENTINO NETO, L. C. B.; SOUTO SALOM, JULIO; LOPES, M. O. S.. Participação em banca de Lucas Santiago dos Santos.De qual forma os negros tem sido representados nos livros didáticos de Ciências. 2017. Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas) - Universidade Federal de Santa Maria.",
+        "ano": 2017,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Lucas Santiago dos Santos",
+        "membros_banca": [
+          "TOLENTINO NETO, L. C. B.",
+          "SOUTO SALOM, JULIO",
+          "LOPES, M. O. S."
+        ],
+        "titulo_trabalho": "De qual forma os negros tem sido representados nos livros didáticos de Ciências",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas)",
+        "universidade": "Universidade Federal de Santa Maria"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "SILVA, P. C.; PANTA, M. A. S.; SALOM, JULIO SOUTO. Participação em banca de Laís Rebouças de Santana. ?Quem irá escolher meu esposo será eu, não o meu pai? Gênero, raça e migração nas vivências de mulheres guineenses na UNILAB, em São Francisco do Conde- Bahia.?. 2025.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Laís Rebouças de Santana. ?Quem irá escolher meu esposo será eu, não o meu pai? Gênero, raça e migração nas vivências de mulheres guineenses na UNILAB, em São Francisco do Conde- Bahia.?",
+        "membros_banca": [
+          "SILVA, P. C.",
+          "PANTA, M. A. S.",
+          "SALOM, JULIO SOUTO"
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 19,
+    "total_livros": 0,
+    "total_capitulos": 6,
+    "total_trabalhos_congressos": 9,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 3
+  }
+}

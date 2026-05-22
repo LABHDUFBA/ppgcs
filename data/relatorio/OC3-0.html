@@ -1,0 +1,97 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>PPGCS-UFBA-permanentes</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>PPGCS-UFBA-permanentes</h2></div>
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <style>
+    /* ellipsis em todas as células */
+    #tabela-publicacoes .tabulator-cell {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    </style>
+    
+    <h3>Monografia de conclusão de curso de aperfeiçoamento/especialização</h3><br>
+    
+        <div id="grafico-producoes" style="width:100%; margin:1em auto;"></div>
+        <!-- script src="https://code.highcharts.com/highcharts.js"></script -->
+        <script src="./js/highcharts.js"></script>
+        <script>
+          document.addEventListener('DOMContentLoaded', function () {
+            Highcharts.chart('grafico-producoes', {"chart": {"type": "column", "height": 250}, "title": {"text": ""}, "xAxis": {"categories": ["2004", "2005", "2011", "2014", "2015", "2016", "2017", "2018", "2019", "2022", "2025"], "type": "category"}, "yAxis": {"title": {"text": "Quantidade"}}, "legend": {"enabled": false}, "plotOptions": {"column": {"color": "#4A4A4A", "borderRadius": 2, "pointPadding": 0.1, "groupPadding": 0.1}}, "series": [{"name": "Total", "data": [1, 1, 4, 12, 3, 10, 2, 2, 1, 1, 1]}], "credits": {"enabled": false}});
+          });
+        </script>
+        
+    Número total de itens: 38<br>
+    
+    
+    <div class="sl-controls" style="margin-top:.5rem">
+      <button id="pubs-csv">⬇️ CSV</button>
+      <button id="pubs-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-publicacoes" class="sl-tabela"></div>
+    
+    <script>
+    const DATA = [{"ano": 2025, "orientado_a": "Hortência Sabrine Vinhas Teles", "titulo_do_trabalho": "Contranarrativas da Escrevivência: Representações de Mulheres Negras na Literatura de Conceição Evaristo SALVADOR 2025", "curso_instituicao": "(Aperfeiçoamento/Especialização em CIÊNCIAS SOCIAIS) - Universidade Federal da Bahia", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2022, "orientado_a": "Laura Regina Rodrigues Ferreira", "titulo_do_trabalho": "Saúde da Mulher e Encarceramento Feminino: avanços e lacunas no acesso a saúde", "curso_instituicao": "(Aperfeiçoamento/Especialização em Bacharelado em Ciências Sociais) - Universidade Federal da Bahia", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2019, "orientado_a": "Meilinny Louise Oliveira Costa", "titulo_do_trabalho": "O uso de plantas medicinais com ênfase em propriedades inseticidas", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2018, "orientado_a": "Izabel Larissa Da Silva Ribeiro", "titulo_do_trabalho": "Análise de fitoterápicos em Natal - RN", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-Graduação", "agencia_de_fomento": "Capacitação e Acessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2018, "orientado_a": "Ynaê Deckij Kachinski", "titulo_do_trabalho": "Sífilis gestacional e congênita: um estudo sobre a prevalência de casos no município de Castro-PR", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-Graduação", "agencia_de_fomento": "Capacitação e Acessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2017, "orientado_a": "Diurcina de Moraes Santos", "titulo_do_trabalho": "Saúde do trabalhador em ambiente hospitalar: mapeando riscos e principais medidas de biossegurança", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2017, "orientado_a": "Hozana Pereira dos Santos", "titulo_do_trabalho": "Acupuntura: uma prática alternativa e complementar para o tratamento de dores crônicas", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-Graduação", "agencia_de_fomento": "Capacitação e Acessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Adriana Sversuti Branco Franco", "titulo_do_trabalho": "Medicamento como bem de consumo: entre a ética e o lucro", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-Graduação", "agencia_de_fomento": "Capacitação e Acessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Ana Claudia Cabral da Silva", "titulo_do_trabalho": "Movimentos Sociais Negros no Brasil", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização em Políticas de Promoção da Igualdade Racial na Escola) - Fundação Joaquim Nabuco", "agencia_de_fomento": "Serviço de Educação Superior", "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Bárbara Mercez Alarcon", "titulo_do_trabalho": "De Estigma da Vergonha a Símbolo de Orgulho: O cabelo como expressão legítima da identidade negra", "curso_instituicao": "(Aperfeiçoamento/Especialização em Política de Promoção da Igualdade Racial na Escola - UNIAFRO) - Universidade Federal de São Paulo", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Claudio Henrique de Souza", "titulo_do_trabalho": "Gestão Pedagógica, Educação Infantil e as Relações Étnico-Raciais: A Experiência da EMEI Carolina Maria de Jesus", "curso_instituicao": "(Aperfeiçoamento/Especialização em Política de Promoção da Igualdade Racial na Escola - UNIAFRO) - Universidade Federal de São Paulo", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Deborah Paula Moreira Vieira", "titulo_do_trabalho": "Ética, mídia e automedicação", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Juliana Lima de Barros", "titulo_do_trabalho": "A música como ferramenta pedagógica de enfrentamento à intolerância racial na escola", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização em Políticas de Promoção da Igualdade Racial na Escola) - Fundação Joaquim Nabuco", "agencia_de_fomento": "Serviço de Educação Superior", "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Luiz Fernando Herculano", "titulo_do_trabalho": "Quebrando o Silêncio: Gritos e Sociabilidade - Territórios Negros na Região do Extremo Sul da Cidade de São Paulo", "curso_instituicao": "(Aperfeiçoamento/Especialização em Política de Promoção da Igualdade Racial na Escola - UNIAFRO) - Universidade Federal de São Paulo", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Priscila Santos de Oliveira", "titulo_do_trabalho": "As Potencialidades do Ensino da Dança Para a Lei 10.639/03", "curso_instituicao": "(Aperfeiçoamento/Especialização em Política de Promoção da Igualdade Racial na Escola - UNIAFRO) - Universidade Federal de São Paulo", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Rosimeire da Silva Amorim", "titulo_do_trabalho": "A Necessária Descolonização do Currículo na Construção de uma Educação Étnico-Racial: Alternativas para a implementação da Lei 10.639/03", "curso_instituicao": "(Aperfeiçoamento/Especialização em Política de Promoção da Igualdade Racial na Escola - UNIAFRO) - Universidade Federal de São Paulo", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2016, "orientado_a": "Thales Martins Santos", "titulo_do_trabalho": "Superlotação de hospitais e a saúde no Brasil: uma revisão de literatura", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2015, "orientado_a": "Maria Jaqueline Couto Tomasi", "titulo_do_trabalho": "A medicalização da vida e o consumo indiscriminado de antidepressivos e outros psicofármacos", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2015, "orientado_a": "Pedro Ramon da Silva Aquino", "titulo_do_trabalho": "Doença de Parkinson: retrospectiva e análise de abordagens terapêuticas de 1985 a 2015.", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2015, "orientado_a": "Tatiane da Silva Araujo", "titulo_do_trabalho": "O papel do sistema imunológico na esquizofrenia", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Adriana Monteiro", "titulo_do_trabalho": "O negro na literatura infantil: abordagens de ontem e de hoje", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Ana Raquel Bittecourt", "titulo_do_trabalho": "identificando e combatendo o preconceito no ambiente escolar", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Carla Regina Fonseca Studier", "titulo_do_trabalho": "Educação etno-racial negra na escola", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Cláudia Limberger", "titulo_do_trabalho": "Racismo no ambiente", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Denise Mansur", "titulo_do_trabalho": "Ambiência escolar e valorização da escola", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Edinei Aparecida Muller Bonissoni", "titulo_do_trabalho": "Impactos da proibição dos anorexígenos para tratamento da obesidade: reflexões sobre o consumo de Orlistat em Ponta Grossa-PR", "curso_instituicao": "(Aperfeiçoamento/Especialização em Especialização) - Instituto Brasil de Pós-graduação", "agencia_de_fomento": "Capacitação e Assessoria", "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Ideraldo Cândido Velho", "titulo_do_trabalho": "Educação Ambiental na escola de ensino médio politécnico", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "João Francisco Fernandez", "titulo_do_trabalho": "Educação ambiental: conscientização no espaço escolar", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Nádia Gizele Serafim de Oliveira", "titulo_do_trabalho": "Nossas raízes e a luta contra o racismo, preconceito e discriminação", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Rosimara Godoy", "titulo_do_trabalho": "O desperdício ambiental na escola:separação e reciclagem de lixo", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Rosália Winck de Barcelos", "titulo_do_trabalho": "As expressões de racismo presentes na escola", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2014, "orientado_a": "Valéria Cristina Lima de Flores", "titulo_do_trabalho": "A escola como agente de socialização: integrando a cultura afrobrasileira", "curso_instituicao": "(Aperfeiçoamento/Especialização em Educação para a Diversidade) - Universidade Federal do Rio Grande do Sul", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2011, "orientado_a": "Bernardo de Barros Arribada", "titulo_do_trabalho": "Polacas: resistência no mangue", "curso_instituicao": "(Aperfeiçoamento/Especialização em Gestão Cultural) - Faculdade do Serviço Nacional de Aprendizagem Comercial", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2011, "orientado_a": "Karinna Zarro", "titulo_do_trabalho": "Backup: recuperando memórias", "curso_instituicao": "(Aperfeiçoamento/Especialização em Gestão Cultural) - Faculdade do Serviço Nacional de Aprendizagem Comercial", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2011, "orientado_a": "Mariana Nunes de Carvalho", "titulo_do_trabalho": "Righini e o Brasil", "curso_instituicao": "(Aperfeiçoamento/Especialização em Gestão Cultural) - Faculdade do Serviço Nacional de Aprendizagem Comercial", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2011, "orientado_a": "Nicole Cantele", "titulo_do_trabalho": "A importância da publicidade em eventos", "curso_instituicao": "(Aperfeiçoamento/Especialização em Gestão Cultural) - Faculdade do Serviço Nacional de Aprendizagem Comercial", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2005, "orientado_a": "Ana Maria Marques", "titulo_do_trabalho": "Vestuário e Doença Mental", "curso_instituicao": "(Aperfeiçoamento/Especialização em Curso de Especialização Em Antropologia da Saúde) - Fundação Oswaldo Cruz Amazônia", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}, {"ano": 2004, "orientado_a": "Bethânia Araújo Almeida", "titulo_do_trabalho": "Violência doméstica contra mulheres, ciranças e adolescentes: discursos e práticas de profissionais de saúde", "curso_instituicao": "(Aperfeiçoamento/Especialização em Curso de Pós Graduação Sobre Violência Doméstica) - Universidade do Estado da Bahia", "agencia_de_fomento": null, "tipo_de_orientacao": "Orientador"}];
+    const COLUMNS = [{"title": "Ano", "field": "ano", "hozAlign": "center", "sorter": "number", "headerFilter": "input", "headerFilterParams": {"values": true}, "width": 110, "formatter": "fmtAno", "tooltip": true, "resizable": true, "widthGrow": 0}, {"title": "Orientado(a)", "field": "orientado_a", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 200, "widthGrow": 2}, {"title": "Título do Trabalho", "field": "titulo_do_trabalho", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 200, "widthGrow": 2}, {"title": "Curso/Instituição", "field": "curso_instituicao", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 200, "widthGrow": 2}, {"title": "Agência de Fomento", "field": "agencia_de_fomento", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 140, "widthGrow": 1}, {"title": "Tipo de Orientação", "field": "tipo_de_orientacao", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 100, "widthGrow": 0, "width": 120}];
+    
+    const LANG_PT = {
+      "pt-br": {
+        "pagination": {
+          "first":"«","first_title":"Primeira",
+          "last":"»","last_title":"Última",
+          "prev":"‹","prev_title":"Anterior",
+          "next":"›","next_title":"Próxima"
+        },
+        "headerFilters": { "default":"⎯ Filtrar ⎯" }
+      }
+    };
+    
+    // Ano: mostra "—" quando 0
+    function fmtAno(cell) {
+      const v = cell.getValue() || 0;
+      return v === 0 ? "—" : v;
+    }
+    
+    // DOI → link clicável (aceita "10.xxxx/..." ou "doi:10...." ou já com http/https)
+    function fmtDOI(cell) {
+      let v = cell.getValue();
+      if (!v) return "";
+      v = String(v).trim();
+      let href = v;
+      if (!/^https?:/i.test(v)) {
+        v = v.replace(/^doi:\s*/i, "");
+        href = "https://doi.org/" + v;
+      }
+      const esc = (t) => String(t).replace(/[&<>"']/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[m]);
+      return `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(v)}</a>`;
+    }
+    
+    // aplica formatter customizado quando marcado como "fmtDOI" em Python
+    COLUMNS.forEach(col => {
+      if (col.formatter === "fmtDOI") col.formatter = fmtDOI;
+    });
+    
+    document.addEventListener("DOMContentLoaded", function(){
+      const table = new Tabulator("#tabela-publicacoes", {
+        data: DATA,
+        layout: "fitColumns",
+        height: (DATA.length < 30 ? "45vh" : "70vh"),
+        responsiveLayout: "collapse",
+        pagination: "local",
+        paginationSize: 100,
+        paginationSizeSelector: [50, 100, 200, 500, 1000],
+        movableColumns: true,
+        headerFilterLiveFilter: true,
+        columns: COLUMNS,
+        locale: true, langs: LANG_PT, locale: "pt-br",
+      });
+    
+      document.getElementById("pubs-csv").onclick  = () => table.download("csv",  "publicacoes.csv",  { bom:true });
+      document.getElementById("pubs-xlsx").onclick = () => table.download("xlsx", "publicacoes.xlsx", { sheetName:"Publicações" });
+    });
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 1900 até 2026
+<br>Data de processamento: 22/05/2026 13:15:04<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:leofn3@gmail.com">leofn3@gmail.com</a>         </div> </body></html>

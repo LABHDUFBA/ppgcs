@@ -1,0 +1,3695 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7132903863839824",
+    "nome_completo": "Clóvis Roberto Zimmermann",
+    "nome_citacoes": "ZIMMERMANN, Clóvis Roberto;ZIMMERMANN, CLÓVIS ROBERTO",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Federal da Bahia, FFCH. Faculdade de Filosofia e Ciências Humanas SãoLázaro 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: http://www.ffch.ufba.br",
+    "atualizacao_cv": "03/05/2026",
+    "url": "http://lattes.cnpq.br/7132903863839824",
+    "texto_resumo": "Possui graduação em Sociologia e Teologia pela Universidade de Heidelberg na Alemanha e doutorado em Sociologia - Universitat Heidelberg (Ruprecht-Karls) (2004). Atualmente é professor adjunto de Sociologia da Universidade Federal da Bahia e membro do Programa de pós-graduação em Ciências Sociais da mesma universidade. Orientador de pós-graduação na área de Sociologia, com ênfase em Políticas Sociais, atuando principalmente nos seguintes temas: teoria das políticas sociais, participação nas políticas sociais e direitos sociais. Orientador de doutorado do trabalho de Rafael Xucuru-Kariri (Carlos Rafael da Silva), que venceu a edição de 2024 do Prêmio CAPES de Tese na área de Sociologia e também vendedor do Grande Prêmio CAPES de Tese Lélia Gonzalez (Colégio de Humanidades - Ciências Humanas, Linguística, Letras, Artes e Ciências Sociais Aplicadas). (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Sociologia",
+      "nome_instituicao": "Ruprecht-Karls-Universität Heidelberg, HEIDELBERG, Alemanha",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2004",
+      "descricao": "Título: Bürgerbeteiligung und Stadtplanung in brasilianischen Großstädten:Das partizipatorische Stadtplanungsmodell von Porto Alegre im Vergleich zum sozialtechnokratischen Modell von Curitiba (Participação política e desenvolvimento urbano em megacidades), Ano de obtenção: 2004. Orientador: Jürgen Kohl. Bolsista do(a): Fundação Hans Böckler, HBS, Alemanha. Palavras-chave: Sociologia Urbana; Institucionalismo; Teorias da democracia; Políticas Públicas. Grande área: Ciências Humanas / Área: Ciência Política / Subárea: Estado e Governo. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Urbana. Setores de atividade: Política Econômica e Administração Pública em Geral; Desenvolvimento Urbano; Educação Superior."
+    },
+    {
+      "tipo": "Graduação em Sociologia",
+      "nome_instituicao": "Ruprecht-Karls-Universität Heidelberg, HEIDELBERG, Alemanha",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1999",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Teologia",
+      "nome_instituicao": "Ruprecht-Karls-Universität Heidelberg, HEIDELBERG, Alemanha",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1999",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Escola de Idiomas Neff, NEFF, Alemanha.",
+      "instituicao_nome": "Escola de Idiomas Neff",
+      "instituicao_sigla": "NEFF",
+      "instituicao_pais": "Alemanha",
+      "periodo": "1998 - 2000",
+      "ano_inicio": "1998",
+      "ano_fim": "2000",
+      "vinculo": "Professor",
+      "enquadramento": "Professor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola de Idiomas Neff, NEFF, Alemanha",
+      "instituicao_nome": "Escola de Idiomas Neff",
+      "instituicao_sigla": "NEFF",
+      "instituicao_pais": "Alemanha",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdades do Norte de Minas, FUNORTE, Brasil.",
+      "instituicao_nome": "Faculdades do Norte de Minas",
+      "instituicao_sigla": "FUNORTE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": "Professor Serviço Social",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdades do Norte de Minas, FUNORTE, Brasil",
+      "instituicao_nome": "Faculdades do Norte de Minas",
+      "instituicao_sigla": "FUNORTE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fian Brasil, FIAN, Brasil.",
+      "instituicao_nome": "Fian Brasil",
+      "instituicao_sigla": "FIAN",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fian Brasil, FIAN, Brasil",
+      "instituicao_nome": "Fian Brasil",
+      "instituicao_sigla": "FIAN",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Fian Brasil."
+      ]
+    },
+    {
+      "instituicao": "Fian Brasil, FIAN, Brasil",
+      "instituicao_nome": "Fian Brasil",
+      "instituicao_sigla": "FIAN",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2005 - 08/2005",
+      "ano_inicio": "2005",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Fian Brasil."
+      ]
+    },
+    {
+      "instituicao": "Foodfirst International And Action Network, FIAN, Alemanha.",
+      "instituicao_nome": "Foodfirst International And Action Network",
+      "instituicao_sigla": "FIAN",
+      "instituicao_pais": "Alemanha",
+      "periodo": "2004 - 2004",
+      "ano_inicio": "2004",
+      "ano_fim": "2004",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Pesquisador - Estagiário",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Foodfirst International And Action Network, FIAN, Alemanha",
+      "instituicao_nome": "Foodfirst International And Action Network",
+      "instituicao_sigla": "FIAN",
+      "instituicao_pais": "Alemanha",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Foodfirst International And Action Network, FIAN, Alemanha",
+      "instituicao_nome": "Foodfirst International And Action Network",
+      "instituicao_sigla": "FIAN",
+      "instituicao_pais": "Alemanha",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Fian Internacional."
+      ]
+    },
+    {
+      "instituicao": "Foodfirst International And Action Network, FIAN, Alemanha",
+      "instituicao_nome": "Foodfirst International And Action Network",
+      "instituicao_sigla": "FIAN",
+      "instituicao_pais": "Alemanha",
+      "periodo": "07/2004 - 09/2004",
+      "ano_inicio": "2004",
+      "ano_fim": "2004",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Fian Internacional."
+      ]
+    },
+    {
+      "instituicao": "Universidade Estadual de Montes Claros, UNIMONTES, Brasil.",
+      "instituicao_nome": "Universidade Estadual de Montes Claros",
+      "instituicao_sigla": "UNIMONTES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2008",
+      "ano_inicio": "2006",
+      "ano_fim": "2008",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Designado",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Montes Claros, UNIMONTES, Brasil",
+      "instituicao_nome": "Universidade Estadual de Montes Claros",
+      "instituicao_sigla": "UNIMONTES",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2006 - Atual",
+      "ano_inicio": "2006",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Montes Claros, UNIMONTES, Brasil",
+      "instituicao_nome": "Universidade Estadual de Montes Claros",
+      "instituicao_sigla": "UNIMONTES",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Departamento de Ciências Sociais, Ciências Políticas."
+      ]
+    },
+    {
+      "instituicao": "Universidade Estadual de Montes Claros, UNIMONTES, Brasil",
+      "instituicao_nome": "Universidade Estadual de Montes Claros",
+      "instituicao_sigla": "UNIMONTES",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2006 - Atual",
+      "ano_inicio": "2006",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Montes Claros, UNIMONTES, Brasil",
+      "instituicao_nome": "Universidade Estadual de Montes Claros",
+      "instituicao_sigla": "UNIMONTES",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Montes Claros, UNIMONTES, Brasil",
+      "instituicao_nome": "Universidade Estadual de Montes Claros",
+      "instituicao_sigla": "UNIMONTES",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2006 - 02/2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil.",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2010",
+      "ano_inicio": "2008",
+      "ano_fim": "2010",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor de Ciência Política",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor de Sociologia",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2010 - Atual",
+      "ano_inicio": "2010",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, FFCH."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2010 - 05/2014",
+      "ano_inicio": "2010",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, FFCH."
+      ]
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "OS JOVENS AGRICULTORES FAMILIARES: estudo da situação juvenil na agricultura familiar no estado da Bahia",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Esse projeto de pesquisa vista entender a situação dos jovens no âmbito da agricultura no Estado da Bahia, avaliando que os tipos de políticas sociais poderiam ajudar na sucessão familiar na agricultura.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Clóvis Roberto Zimmermann - Integrante / Nilson Weisheimer - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Nilson Weisheimer",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Desmantelamento das políticas sociais no Brasil durante o governo de Bolsonaro?",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O projeto de pesquisa visa avaliar em que medida é possível afirmar que houve um processo de desmantelamento de políticas sociais durante o governo Bolsonaro ou se esse governo se orientou mais efetivamente em retrair e reduzir os investimentos do Estado na área social. Efetivamente, pretendemos identificar se houve um possível desmonte nas políticas sociais, analisar também as estratégias utilizadas durante esses quatro anos de governo de extrema direita no âmbito dos investimentos sociais. Assim sendo, iremos utilizar três dimensões na análise para estudar os 4 anos do governo Bolsonaro, quais sejam, gastos sociais, mudanças institucionais e resultados dos anos de governo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Clóvis Roberto Zimmermann - Coordenador / Danilo Uzeda da Cruz - Integrante / Helio Cannone - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Danilo Uzeda da Cruz",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Helio Cannone",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Análise das propostas de políticas sociais nos planos de governo dos candidatos à presidência em 2018",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: Essa pesquisa pretende realizar uma análise dos planos de governos dos candidatos à presidência da república do Brasil de 2018. Visa-se com isso fazer uma investigação desses planos de governo verificando se existem diferenças entre as propostas dos partidos situados no campo da esquerda e da direita. Primeiramente far-se-á um enquadramento do que os autores consideram esquerda e direita, para posteriormente analisar se existem diferenças entre esses distintos campos. Da mesma forma, pretende-se investigar em que medida existem semelhanças entre as propostas desses campos opostos. Faremos uma revisão sistemática de artigos e livros que tratam do tema das tipologias das políticas sociais em perspectiva comparada, justamente para tentar analisar se existem conexões internacionais entre as propostas, além de possibilitar um enquadramento teórico. Da mesma forma, pretendemos verificar fragilidades nas propostas à luz de diversas experiências internacionais.[A relevância do projeto consiste em verificar em que medida existem tipologias que ajudam no entendimento das propostas dos planos de governo dos candidatos. Da mesma forma, o projeto pretende avaliar inconsistências nos planos de governo, enviando posteriormente essas análises para os respectivos partidos políticos. Espera-se com isso que possa haver uma maior reflexão dos partidos quanto à qualidade das propostas apresentadas aos eleitores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Especialização: (1) / Mestrado acadêmico: (1) . Integrantes: Clóvis Roberto Zimmermann - Coordenador / Lucas Castellucci - Integrante / ADITI ALMEIDA - Integrante / ANDRE AUGUSTO - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lucas Castellucci",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ADITI ALMEIDA",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ANDRE AUGUSTO",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "PERCEPÇÃO DOS SINDICALIZADOS RURAIS DOS MUNICÍPIOS DO BAIXO PARAGAUAÇÚ SOBRE AS POLÍTICAS PÚBLICAS DE TRANSFERÊNCIA DE RENDA",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: A pesquisa pretende avaliar a eficiência da aplicação pelo Estado brasileiro de determinadas políticas públicas agrícolas, agrárias, pesqueiras e de promoção humana ou desenvolvimento rural que são implementadas por meio dos sindicatos dos trabalhadores rurais, uma categoria ampla que engloba assalariados, pequenos e médios agricultores, parceiros, arrendatários, meieiros e pescadores artesanais e avaliar como elas repercutem nos sistemas produtivos, na estrutura organizativa dos associados, inclusive no que tange ao associativismo dos mesmos. Estas políticas fazem parte dos instrumentos de intervenção do Ministério da Agricultura, do Ministério da Pesca e do Ministério de Desenvolvimento Agrário e são, em certas circunstâncias, executadas com a intermediação da estrutura sindical rural. A avaliação se limitará geograficamente ao Baixo Paraguaçu e adotará como instrumento de mensuração dos impactos das políticas a percepção dos beneficiados no que diz respeito à mudança na qualidade de vida e mudanças no que se refere ao aumento da produtividade e adoção de novas tecnologias. Como parte do escopo a pesquisa avaliará também se a intermediação dos sindicatos aumenta a propensão dos trabalhadores rurais a se associar e também se os sindicatos ao se tornarem um \"braço\" do aparelho de Estado estão auferindo mais receitas, ganhando mais legitimação ou se estão em criando ou consolidando um extrato social de dirigentes, uma espécie de elite que busca, em primeiro lugar, se reproduzir enquanto tal.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (2) . Integrantes: Clóvis Roberto Zimmermann - Coordenador / Amílcar Baiardi - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Amílcar Baiardi",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "SEGURANÇA ALIMENTAR NA COMUNIDADE TRADICIONAL NEGRA DO AGRESTE, SÃO JOÃO DA PONTE",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2008",
+      "descricao": [
+        "Descrição: Realizar um diagnóstico na comunidade remanescente de quilombos chamada de Agreste, situada no município de São João da Ponte. A realidade socioeconômica da Comunidade é bastante peculiar, pois a comunidade de cerca de 135 famílias se encontra encurralada, cercada por grandes fazendas. A situação da comunidade é bastante precária, o acesso aos serviços sociais e á infra-estrutura é muito limitado. Enfim, visou-se detectar a situação de insegurança alimentar e nutricional na comunidade negra rural do Agreste em São João da Ponte, MG. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) . Integrantes: Clóvis Roberto Zimmermann - Coordenador / Maria Helena de Souza Ide - Integrante / Maria Railma Alves - Integrante / Andréia Cardoso Silveira - Integrante / Sheyla Borges Martins - Integrante. Número de produções C, T & A: 1"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maria Helena de Souza Ide",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Railma Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Andréia Cardoso Silveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sheyla Borges Martins",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "O mito da crise do Estado de Bem-Estar Social",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: Os impactos do projeto neoliberal sobre as políticas sociais e sobre o Estado de Bem-Estar social são motivos de controvérsia no meio acadêmico. Um conjunto de autores assegura categoricamente que houve uma ?crise?, cujo projeto teria conseqüentemente ?fracassado? (GIDDENS, 1995), chegando inclusive ao ?esfacelamento? (DEMO, 2002) do Estado de Bem-Estar. Por outro lado, há autores que defendem posição contrária, uma vez que o Estado de Bem-Estar teria se mantido, apesar de tudo, surpreendentemente bem, se revelando como uma instituição ?sólida? (THERBORN, 1995) em todas as sociedades avançadas e modernas. Ao invés de diminuírem os gastos públicos, houve, segundo Merrien (2002), uma continuação e ampliação de investimentos públicos em termos reais e percentuais. Para Esping-Andersen (1996), o Estado de Bem-Estar se constitui como um mecanismo eficiente em diminuir as desigualdades sociais. Neste sentido, o objetivo da pesquisa é discutir a gênese das políticas sociais e tecer indagações sobre o suposto esfacelamento do Estado de Bem-Estar social. Partimos do pressuposto de que a discussão sobre a crise é muito mais ideológica, um mito, melhor dizendo, uma invenção neoliberal, que infelizmente já conseguiu atingir e ocupar as mentes críticas e os corações valentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Clóvis Roberto Zimmermann - Coordenador / João Carlos Lima Alves - Integrante. Número de produções C, T & A: 1"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "João Carlos Lima Alves",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Bolsa Família e a Renda Básica",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "descricao": [
+        "Descrição: A pesquisa teve por objetivo discutir as fragilidades do Programa Bolsa Família no que tange à garantia dos direitos sociais não contributivos. Parte-se do pressuposto de que os problemas do Bolsa Família somente serão solucionados através da introdução da renda básica de cidadania ora aprovada em lei.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Clóvis Roberto Zimmermann - Coordenador / Marina da Cruz Silva - Integrante. Número de produções C, T & A: 3"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marina da Cruz Silva",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Presidencialismo de Coalizão e a Escolha racional: O processos decisórios no Governo Lula",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2007",
+      "descricao": [
+        "Descrição: O sistema político brasileiro foi muito criticado por ser caracterizado pela instabilidade, risco da ingovernabilidade, paralisia do processo decisório etc. Contudo, um novo termo foi recentemente utilizado para estudar o funcionamento do esse sistema político. Trata-se do termo presidencialismo de coalizão introduzido recentemente na ciência política brasileira e que tem despertado o interesse acadêmico em investigá-lo profundamente. O objetivo da pesquisa foi avaliar as votações nominais ocorridas no período entre 1989 e 2004 e se os partidos que deram sustentação ao governo acolheram os projetos de iniciativa do presidente durante o primeiro mandato do presidente Lula.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Clóvis Roberto Zimmermann - Coordenador. Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Políticas sociais na perspectiva dos direitos: o caso do Bolsa Família",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "descricao": [
+        "Descrição: Esse projeto teve o objetivo de avaliar os obstáculos do Programa Bolsa Família do Governo Lula na perspectiva dos direitos. Para muitos estudiosos, tal Programa tornou-se um dos principais instrumentos de combate à fome e de garantia do Direito Humano à Alimentação no Brasil. A proposta vem sendo amplamente elogiada por cientistas sociais e por diversos meios de comunicação em nível mundial. Em recente artigo, publicado pela revista britânica the Economist (15.09.2005), o Bolsa Família é apresentado como uma nova forma de atacar um problema antigo, ou seja, a fome. A revista enfatiza que o Bolsa Família vem sendo o melhor caminho para ajudar os pobres, em comparação com os programas existentes anteriormente. Outros estudos realizados no Brasil destacam que o Programa representa um apoio significativo no sentido de garantir uma alimentação mínima a muitas famílias pobres brasileiras. Entretanto, nenhum estudo foi feito no sentido de avaliar Programa Bolsa Família do Governo Lula na perspectiva dos direitos. Situação: Concluído; Natureza: Pesquisa. Integrantes: Clóvis Roberto Zimmermann - Coordenador / Enéias da Rosa - Integrante / Jônia Rodrigues - Integrante. Número de produções C, T & A: 11"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Enéias da Rosa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jônia Rodrigues",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Direito à Alimentação e os sem-teto",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2005",
+      "descricao": [
+        "Descrição: Em agosto de 2005, a FIAN Brasil, a Rede de Formação Cidadã Talher Goiás e a FANUT (Faculda-de de Nutrição da Universidade Federal de Goiás) realizaram uma pesquisa visando avaliar a situação dos sem-teto do Parque Oeste acampa-dos no setor Grajaú em Goiânia. A amostra levantou dados sócio-econômicos (97 pessoas) e nutricionais (155 crianças). Esses dados foram apresentados à Relatora Nacional para o Direito Humano à Mo-radia Adequada e à Terra Urbana e ao Relator Nacional para o Direito Humano à Alimentação, Terra e Água, os quais realizaram uma missão conjunta à cidade de Goiânia nos dias 28 e 29 de setem-bro de 2005. O objetivo da pesquisa era auxiliar a referida missão era avaliar a situação do direito à moradia e alimentação das famílias despejadas da Ocupação Sonho Real do Parque Oeste Industrial de Goiânia em fevereiro deste ano. Situação: Concluído; Natureza: Pesquisa. Integrantes: Clóvis Roberto Zimmermann - Coordenador / Enéias da Rosa - Integrante / Jônia Rodrigues - Integrante / Dulce Cunha - Integrante. Número de produções C, T & A: 2"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Enéias da Rosa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jônia Rodrigues",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Dulce Cunha",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Segurança Alimentar na Guatelama",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2004",
+      "descricao": [
+        "Descrição: Analisar a Lei de Segurança Alimentar e Nutricional aprovada pelo Congresso da República da Guatemala na ótica dos Direitos Econômicos, Sociais e Culturais. Primeiramente foram levantados os aspectos positivos da propostas, sendo que posteriomente foram elencadas uma série de recomendações ao Congresso desse país.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Clóvis Roberto Zimmermann - Coordenador / Natalia Landivar - Integrante / Martin Wolpold-Bosien - Integrante / Ana Maria Suárez Franco - Integrante. Número de produções C, T & A: 1"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Natalia Landivar",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Martin Wolpold-Bosien",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Maria Suárez Franco",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Serviço Social",
+      "subarea": "Politicas Sociais",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Serviço Social / Subárea: Politicas Sociais."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Serviço Social",
+      "subarea": "Direitos Humanos",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Serviço Social / Subárea: Direitos Humanos."
+    },
+    {
+      "grande_area": "Ciências Sociais Aplicadas",
+      "area": "Serviço Social",
+      "subarea": "Participação Popular",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Sociais Aplicadas / Área: Serviço Social / Subárea: Participação Popular."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Alemão",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Premio de Orientador da Melhor Tese de Doutorado da Capes em Sociologia, Capes.",
+      "ano": 2024
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Políticas Públicas e Direitos Humanos na América Latina",
+      "objetivo": "Avaliar o estado de implementação dos Direitos Econômicos, Sociais e Culturais na América Latina, relacionando os mesmos com as políticas públicas correspondentes.."
+    },
+    {
+      "nome": "Segurança Alimentar",
+      "objetivo": "Analisar a Lei de Segurança Alimentar e Nutricional aprovada pelo Congresso da República da Guatemala na ótica dos Direitos Econômicos, Sociais e Culturais. Primeiramente foram levantados os aspectos positivos da propostas, sendo que posteriomente foram elencadas uma série de recomendações ao Congresso desse país.."
+    },
+    {
+      "nome": "Direito à Alimentação e Políticas Públicas",
+      "objetivo": ""
+    },
+    {
+      "nome": "Políticas Públicas na ótica dos Direitos Humanos",
+      "objetivo": "Esse projeto da linha teve o objetivo de avaliar os obstáculos do Programa Bolsa Família do Governo Lula na perspectiva dos direitos.. Grande área: Ciências Humanas / Área: Ciência Política. Palavras-chave: Políticas Públicas; Políticas Sociais e Direitos Humanos."
+    },
+    {
+      "nome": "Identidade e Políticas Públicas em uma Comunidade Quilombola",
+      "objetivo": "O objetivo da linha de pesquisa é estudar a realidade social, cultural, educacional e identitária vividas dos de uma comunidade quilombola chamada Agreste situada no município de São João da Ponte. O objetivo não é apenas gerar conhecimento, mas assessorar as populações negras para a conquista de direitos especialmente os direitos do Artigo 68 dos ADCT da Constituição Federal de 1988, que assegura às comunidades negras o direito à terra comunal.. Grande área: Ciências Humanas / Área: Antropologia. Grande Área: Ciências Humanas / Área: Ciência Política. Grande Área: Ciências Humanas / Área: Educação. Setores de atividade: Desenvolvimento Rural. Palavras-chave: Direitos Humanos; Políticas Públicas."
+    },
+    {
+      "nome": "Crime, Punição E Direitos Humanos",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "The Dismantling of Social Policy in Brazil Under the Bolsonaro Administration: The Critical Role of Social Mobilizations",
+        "ano": 2026,
+        "autores": "ZIMMERMANN, Clóvis Roberto; MONTENEGRO, N.",
+        "revista": "LATIN AMERICAN PERSPECTIVES",
+        "volume": "53",
+        "numero": "",
+        "paginas": "147-165",
+        "issn": "0094-582X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "?A luta pelos 147%?: a mobilização social dos idosos a partir da luta pelo reajuste na aposentadoria no Brasil",
+        "ano": 2023,
+        "autores": "SANTANA FILHO, H. P. ; ZIMMERMANN, CLÓVIS ROBERTO",
+        "revista": "Revista Eletrônica Espaço Acadêmico (Online)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "1-15",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Modernidade eurocêntrica idealizada no crivo da crítica Pós-Colonial",
+        "ano": 2023,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "revista": "REALIS, Revista de Estudos AntiUtilitaristas e Poscoloniais.",
+        "volume": "12",
+        "numero": "",
+        "paginas": "81-94",
+        "issn": "2179-7501",
+        "doi": "http://dx.doi.org/10.51359/2179-7501.2022.254213",
+        "qualis": ""
+      },
+      {
+        "titulo": "Rotas Alteradas: Organizações Criminais, Hierarquia e Território na Atual Configuração do Mundo Crime na Bahia",
+        "ano": 2022,
+        "autores": "LIMA, Antonio ; ZIMMERMANN, CLÓVIS ROBERTO",
+        "revista": "TOMO (UFS)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "165-196",
+        "issn": "1517-4549",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Der Bürgerhaushalt im Kontext der konservativen Wende in Brasilien",
+        "ano": 2019,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "revista": "BBE-Newsletter für Engagement und Partizipation in Deutschland",
+        "volume": "7",
+        "numero": "",
+        "paginas": "1-6",
+        "issn": "2365-9890",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "As transferências condicionadas de renda na América Latina: lenitivos para a pobreza?",
+        "ano": 2018,
+        "autores": "ESPÍNOLA, GEPHERSON MACÊDO ; ZIMMERMANN, CLÓVIS ROBERTO",
+        "revista": "Revista Katalysis",
+        "volume": "21",
+        "numero": "",
+        "paginas": "55-65",
+        "issn": "1982-0259",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "As políticas sociais sob o signo neoliberal: seletividade e focalização",
+        "ano": 2015,
+        "autores": "ESPÍNOLA, GEPHERSON MACÊDO ; ZIMMERMANN, CLÓVIS ROBERTO",
+        "revista": "Conjuntura & Planejamento",
+        "volume": "1",
+        "numero": "",
+        "paginas": "39-49",
+        "issn": "1413-1536",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Programas sociais no Brasil: um estudo sobre o programa bolsa família no interior do nordeste brasileiro",
+        "ano": 2015,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO; ESPÍNOLA, GEPHERSON MACÊDO",
+        "revista": "Cadernos CRH (Online)",
+        "volume": "28",
+        "numero": "",
+        "paginas": "147-164",
+        "issn": "1983-8239",
+        "doi": "http://dx.doi.org/10.1590/S0103-49792015000100010",
+        "qualis": ""
+      },
+      {
+        "titulo": "Combate à fome e miséria no governo Lula: garantia do direito à alimentação?",
+        "ano": 2012,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "revista": "Revista Espaço Acadêmico (UEM)",
+        "volume": "11",
+        "numero": "",
+        "paginas": "135-142",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Noch kein neuer Sozialvertrag: Trotz Wirtschaftsboom und der Regierungsprogramme Bolsa Família und Brasil Sem Miséria bestehen Hunger und extreme Armut in Brasilien fort",
+        "ano": 2012,
+        "autores": "ZIMMERMANN, Clóvis Roberto; RUSSAU, C.",
+        "revista": "Lateinamerika-Nachrichten",
+        "volume": "456",
+        "numero": "",
+        "paginas": "41-45",
+        "issn": "0174-6324",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Noch kein neuer Sozialvertrag",
+        "ano": 2012,
+        "autores": "ZIMMERMANN, Clóvis Roberto; RUSSAU, C.",
+        "revista": "Brasilien-Nachrichten",
+        "volume": "145",
+        "numero": "",
+        "paginas": "20-21",
+        "issn": "0173-6582",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Noch zu wenig linke Akzente: Erste Bilanz von 100 Tagen der neuen Regierung Dilma Rousseffs",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto; RUSSAU, C.",
+        "revista": "Lateinamerika-Nachrichten",
+        "volume": "443",
+        "numero": "",
+        "paginas": "16-19",
+        "issn": "0174-6324",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "The incomplete revolution",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Cadernos CRH",
+        "volume": "24",
+        "numero": "",
+        "paginas": "221-223",
+        "issn": "0103-4979",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A institucionalização da assistência social: a implantação do SUAS no Norte do Estado de Minas Gerais",
+        "ano": 2011,
+        "autores": "ANDRADE, F. F. ; ZIMMERMANN, Clóvis Roberto",
+        "revista": "Acta Scientiarum. Human and Social Sciences (Impresso) (Cessou em 2007. Cont. ISSN 1983-4675 Acta Scientiarum. Language and Culture (Impresso))",
+        "volume": "33",
+        "numero": "",
+        "paginas": "129-137",
+        "issn": "1679-7361",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "O Princípio Democrático e Constitucional da Dignidade da Pessoa Humana e a Existência do Programa Bolsa-Família: Apontamentos sobre Direitos Elementares dos Cidadãos de Baixa Renda",
+        "ano": 2010,
+        "autores": "Magalhães, Rodrigo Tavares ; ZIMMERMANN, Clóvis Roberto",
+        "revista": "Revista Internacional de Direito e Cidadania",
+        "volume": "7",
+        "numero": "",
+        "paginas": "163-172",
+        "issn": "1983-1811",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "O CURSO DE GESTÃO PÚBLICA NO RECÔNCAVO DA BAHIA",
+        "ano": 2010,
+        "autores": "MONTENEGRO, N. ; ZIMMERMANN, Clóvis Roberto",
+        "revista": "Temas de administração pública (UNESP. Araraquara)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1-10",
+        "issn": "1982-4637",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "The Welfare State Reader",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto; BAIARDI, A.",
+        "revista": "Cadernos CRH",
+        "volume": "22",
+        "numero": "",
+        "paginas": "201-203",
+        "issn": "0103-4979",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Ética do desempenho e programas de transferência de renda: implicações para as populações tradicionais",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Acta Scientiarum. Human and Social Sciences",
+        "volume": "31",
+        "numero": "",
+        "paginas": "11-18",
+        "issn": "1679-7361",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "O Programa Bolsa Família: lições da experiência alemã",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "revista": "Revista Eletrônica Espaço Acadêmico (Online)",
+        "volume": "9",
+        "numero": "",
+        "paginas": "55-60",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "O PRINCÍPIO DA DESMERCANTILIZAÇÃO NAS POLÍTICAS SOCIAIS",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "revista": "Cadernos CRH",
+        "volume": "22",
+        "numero": "",
+        "paginas": "345-358",
+        "issn": "0103-4979",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "O mito do declíneo do Welfare State",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto; ALVES, J. C. L.",
+        "revista": "Emancipação (UEPG)",
+        "volume": "9",
+        "numero": "",
+        "paginas": "225-232",
+        "issn": "1519-7611",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "As Políticas Sociais e os Direitos: alguns apontamentos sobre o Programa Bolsa Família no Nordeste",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Politica Hoje (UFPE. Impresso)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "342-366",
+        "issn": "0104-7094",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "As experiências internacionais de renda mínima no combate à pobreza",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "VII",
+        "numero": "",
+        "paginas": "1-5",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Desafios à implantação do Direito à Alimentação no Brasil",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Democracia Viva",
+        "volume": "39",
+        "numero": "",
+        "paginas": "14-17",
+        "issn": "1415-1499",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Sistemas de proteção social e o SUAS: análise de um sistema em construção",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; ANDRADE, F. F.",
+        "revista": "Emancipação (UEPG)",
+        "volume": "8",
+        "numero": "",
+        "paginas": "65-78",
+        "issn": "1519-7611",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Desenvolvimento Social e proteção social: o que Existe de Convergência?",
+        "ano": 2008,
+        "autores": "ANDRADE, F. F. ; ZIMMERMANN, Clóvis Roberto",
+        "revista": "Serviço Social em Revista (Online)",
+        "volume": "11",
+        "numero": "",
+        "paginas": "1-13",
+        "issn": "1679-4842",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "RELAÇÕES DE GÊNERO E ACESSO ÀS POLÍTICAS DE PREVIDÊNCIA SOCIAL RURAL EM UMA COMUNIDADE REMANESCENTE DE QUILOMBOS: o caso da comunidade do Agreste em São João da Ponte, Minas Gerais",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; JORGE, A. L.",
+        "revista": "Recôncavos (Cachoeira)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "27-42",
+        "issn": "1983-5078",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Avaliação de Políticas Públicas sob a ótica dos direitos humanos: O caso do Programa Bolsa Família",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Argumentos (Unimontes)",
+        "volume": "2",
+        "numero": "",
+        "paginas": "191-206",
+        "issn": "1806-5627",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Novos desafios ao Programa Bolsa Família: a transição para a Renda Básica de Cidadania",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "76",
+        "numero": "",
+        "paginas": "1-6",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Solidarische Ökonomie in Brasilien. Die Palmenbank in Fortaleza",
+        "ano": 2007,
+        "autores": "ANDRADE, D. ; ZIMMERMANN, Clóvis Roberto",
+        "revista": "Brasilien-Nachrichten",
+        "volume": "135",
+        "numero": "",
+        "paginas": "9-14",
+        "issn": "0173-6582",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Os programas sociais sob a ótica dos direitos humanos: o caso do Bolsa Família do Governo Lula no Brasil",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Sur. Revista Internacional de Direitos Humanos",
+        "volume": "3",
+        "numero": "4",
+        "paginas": "145-159",
+        "issn": "1806-6445",
+        "doi": "http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=null&md5=f8a2d9f8af7e0fb17f9968fbbee28b49",
+        "qualis": ""
+      },
+      {
+        "titulo": "Social programs from a human rights perspective: the case of the Lula administration's",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Sur. Revista Internacional de Direitos Humanos",
+        "volume": "3",
+        "numero": "",
+        "paginas": "145-161",
+        "issn": "1806-6445",
+        "doi": "http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=null&md5=f8a2d9f8af7e0fb17f9968fbbee28b49",
+        "qualis": ""
+      },
+      {
+        "titulo": "Los programa sociales desde la óptica de los derechos humanos: el caso del bolsa familia del gobierno Lula en Brasil",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Sur. Revista Internacional de Direitos Humanos",
+        "volume": "3",
+        "numero": "",
+        "paginas": "147-163",
+        "issn": "1806-6445",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Concepções neoliberais nas políticas sociais brasileiras",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "64",
+        "numero": "",
+        "paginas": "1-5",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Os programas sociais brasileiros na ótica dos direitos humanos: o caso do Bolsa Família",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "57",
+        "numero": "",
+        "paginas": "1-4",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Neu Strategien zur Hungerbekämpfung in Brasilien: Das Grundeinkommen für alle",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Tópicos (Bonn)",
+        "volume": "44",
+        "numero": "1",
+        "paginas": "26-28",
+        "issn": "0949-541X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Violação dos direitos humanos e discriminação dos sem teto em Goiânia.",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto. Violação dos direitos humanos e discriminação dos sem teto em Goiânia",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "54",
+        "numero": "",
+        "paginas": "1-4",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Corrupção, mudanças institucionais e participação política: erros do governo Lula",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "50",
+        "numero": "",
+        "paginas": "1-5",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A previdência rural brasileira no contexto das políticas públicas.",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto. A previdência rural brasileira no contexto das políticas públicas",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "48",
+        "numero": "",
+        "paginas": "1-4",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Fome Zero - Bilanz eines Programms. Das Programm Fome Zero (Null Hunger) der Regierung Lula in Brasilien: seine ersten Auswirkungen und weitere Herausforderungen",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Tópicos (Bonn)",
+        "volume": "43",
+        "numero": "1",
+        "paginas": "10-11",
+        "issn": "0949-541X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Renda Básica e os Direitos Humanos",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "43",
+        "numero": "",
+        "paginas": "1-3",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Grundeinkommen für alle - Ein Beispiel für andere Länder",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Brasilien-Nachrichten",
+        "volume": "131",
+        "numero": "",
+        "paginas": "34-36",
+        "issn": "0173-6582",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Um primeiro olhar sobre o Programa Fome Zero: Reflexões sobre primeiro ano de implementação",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Revista Eletrônica Espaço Acadêmico",
+        "volume": "41",
+        "numero": "",
+        "paginas": "1-4",
+        "issn": "1519-6186",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Fome Zero - Das Programm Null Hunger. Erste Erfahrungen und weitere Herausforderungen",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Brasilien-Nachrichten",
+        "volume": "130",
+        "numero": "",
+        "paginas": "1-5",
+        "issn": "0173-6582",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Das Stadtplanungsmodell von Curitiba",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Tópicos (Bonn)",
+        "volume": "41",
+        "numero": "2",
+        "paginas": "26-28",
+        "issn": "0949-541X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Bürger entscheiden über städtische Investitionen: Porto Alegre, Brasilien: Ein funktionierendes Modell der Partizipation",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "E + Z. Entwicklung und Zusammenarbeit",
+        "volume": "43",
+        "numero": "10",
+        "paginas": "283-284",
+        "issn": "0721-2178",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Innovation in der brasilianischen Verwaltung: Das Modell der Stadt Porto Alegre",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Tópicos (Bonn)",
+        "volume": "40",
+        "numero": "2",
+        "paginas": "26-28",
+        "issn": "0949-541X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Vom Paternalismus zur Partizipation: die Erfahrung der demokratischen Haushaltsplanung in Porto Alegre",
+        "ano": 1998,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "revista": "Trialogue",
+        "volume": "59",
+        "numero": "4",
+        "paginas": "11-14",
+        "issn": "0275-5351",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Políticas sociais no Governo Bolsonaro: entre descasos, retrocessos e desmontes",
+        "ano": 2022,
+        "autores": "ZIMMERMANN, Clóvis Roberto; CRUZ, D. U. (Org.)",
+        "editora": "Buenos Aires/Salvador: Clacso/Pinauma",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "513"
+      },
+      {
+        "titulo": "Democracia, Participação e Políticas Públicas parao Campo",
+        "ano": 2022,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO; MENEZES, D. M. O. (Org.) ; CRUZ, D. U. (Org.) ; WEISHEIMER, N. (Org.)",
+        "editora": "Salvador: Pinaúma Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "278"
+      },
+      {
+        "titulo": "Estado, proteção social e segurança publica",
+        "ano": 2019,
+        "autores": "CHAVES, S. ; ZIMMERMANN, CLÓVIS ROBERTO ; ROCHA, J.",
+        "editora": "Salvador: Edufba",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "138"
+      },
+      {
+        "titulo": "Direitos Humanos na Democracia Contemporânea: velhos e novos embates",
+        "ano": 2018,
+        "autores": "MARQUES, V. (Org.) ; LEAL, M. L. (Org.) ; ZIMMERMANN, CLÓVIS ROBERTO (Org.)",
+        "editora": "Rio de Janeiro: Bonecker Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "220"
+      },
+      {
+        "titulo": "Metodologia e Epistemologia das Ciências Sociais: um panorama dos clássicos ao pós-colonial",
+        "ano": 2015,
+        "autores": "ZIMMERMANN, Clóvis Roberto; BARREIROS NETO, J. (Org.)",
+        "editora": "Salvador: Editora JusPodium",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "212"
+      },
+      {
+        "titulo": "Politische Partizipation in Brasilien: Ein Vergleich der Stadtplanungsmodelle von Porto Alegre und Curitiba. Frankfurt am Main/Londres: IKO-Verlag für interkulturelle Kommunikation",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "editora": "Politische Partizipation in Brasilien: Ein Vergleich der Stadtplanungsmodelle von Porto Alegre und Curitiba. Frankfurt am Main/Londres: IKO-Verlag für interkulturelle Kommunikation",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "316"
+      },
+      {
+        "titulo": "Combate à fome e o direito humano à alimentação no Brasil: O Programa Fome Zero do governo LULA. Passo Fundo: Passografic",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "editora": "Combate à fome e o direito humano à alimentação no Brasil: O Programa Fome Zero do governo LULA. Passo Fundo: Passografic",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "88"
+      },
+      {
+        "titulo": "Vom Paternalismus zur partizipatorischen Demokratie auf lokaler Ebene - Das Fallbeispiel des partizipatorischen Haushaltes im brasilianischen Porto Alegre. Hamburgo - Alemanha: Diplomica - eBook",
+        "ano": 1999,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "editora": "Vom Paternalismus zur partizipatorischen Demokratie auf lokaler Ebene - Das Fallbeispiel des partizipatorischen Haushaltes im brasilianischen Porto Alegre. Hamburgo - Alemanha: Diplomica - eBook",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "95"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Modernidade eurocêntrica idealizada na perspectiva da crítica Pós-Colonial",
+        "ano": 2024,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Edufba",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "291-306"
+      },
+      {
+        "titulo": "In: ZIMMERMANN, Clovis Roberto; DA CRUZ, Danilo Uzeda. (Org.). Políticas sociais no Governo Bolsonaro: entre descasos, retrocessos e desmontes. 1ed.Buenos Aires/Salvador",
+        "ano": 2022,
+        "autores": "ZIMMERMANN, Clóvis Roberto. Conservadorismo como linha auxiliar do liberalismo nas políticas sociais do Governo Bolsonaro...",
+        "titulo_livro": "",
+        "editora": "Clacso/Pinauma",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "37-51"
+      },
+      {
+        "titulo": "Feminismo camponês e popular na Bahia: narrativas de um processo em construção",
+        "ano": 2022,
+        "autores": "FROTA, M. M. R. ; ZIMMERMANN, CLÓVIS ROBERTO",
+        "titulo_livro": "",
+        "editora": "Pinaúma Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "203-221"
+      },
+      {
+        "titulo": "Reforma agrária, desigualdade e pobreza no campo: a situação de famílias acampadas e assentadas na Bahia",
+        "ano": 2022,
+        "autores": "RAMOS, C. M. P. ; ZIMMERMANN, CLÓVIS ROBERTO ; AZEVEDO, A. I.",
+        "titulo_livro": "",
+        "editora": "Pinaúma Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "279-310"
+      },
+      {
+        "titulo": "Reformas no Estado de Bem-Estar Alemão: A lei Hartz após dez anos de vigência",
+        "ano": 2019,
+        "autores": "TREUKE, S. ; ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Edufba",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "113-125"
+      },
+      {
+        "titulo": "Políticas sociais na perspectiva dos direitos",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Bonecker Editora",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "24-33"
+      },
+      {
+        "titulo": "Impacto dos programas de transferência de renda: experiências do Brasil e da Namíbia",
+        "ano": 2015,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "279-293"
+      },
+      {
+        "titulo": "PARA ALÉM DE QUESTÕES ELEITORAIS: O PROGRAMA BOLSA FAMÍLIA E SEUS IMPACTOS SOBRE FAMÍLIAS BENEFICIÁRIAS NO SEMIÁRIDO PARAIBANO",
+        "ano": 2015,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO; Silva, Jairo Bezerra ; SOBRINHO, lemuel ; JUNIOR, Edivan ; FERNANDES, M. ; COSTA, Abraao",
+        "titulo_livro": "",
+        "editora": "Faculdade Baiana de Direito",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "241-262"
+      },
+      {
+        "titulo": "Plano Brasil Sem Miséria e o direito à alimentação",
+        "ano": 2012,
+        "autores": "ESTIN, S. ; ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Passografic",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "26-31"
+      },
+      {
+        "titulo": "Combate à pobreza e miséria no governo Lula: garantia do direito à alimentação?",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "IFIBE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "25-39"
+      },
+      {
+        "titulo": "Das Grundeinkommen im Rahmen der brasilianischen Sozialpolitik",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "titulo_livro": "",
+        "editora": "Wissenschalftlicher Verlag Berlin",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "273-292"
+      },
+      {
+        "titulo": "As tipologias de Estado de bem-estar de Esping-Andersen segundo o método de análise weberiano de tipos ideais",
+        "ano": 2011,
+        "autores": "FROTA, M. M. R. ; ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "EDUFRB",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "21-37"
+      },
+      {
+        "titulo": "As Políticas sociais e os Direitos: Apontamentos sobre o Programa Bolsa Família na região Nordeste",
+        "ano": 2010,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Argumentarum",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "45-58"
+      },
+      {
+        "titulo": "Relatoria dos Direito Humano à Alimentação e Terra Rural: Relatório Analítico - Mandato 2007 a 2009",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto; RODRIGUES, J.",
+        "titulo_livro": "",
+        "editora": "Terra de Direitos",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "25-38"
+      },
+      {
+        "titulo": "Desenvolvimento Social e Proteção Social",
+        "ano": 2009,
+        "autores": "ANDRADE, F. F. ; ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Sografe",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "55-79"
+      },
+      {
+        "titulo": "Solidarisches Handeln und die solidarische Ökonomie: Die Erfahrung der Palmenbank in Fortaleza, Brasilien",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; ANDRADE, D.",
+        "titulo_livro": "",
+        "editora": "Rhombos-Verlag",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "113-126"
+      },
+      {
+        "titulo": "Populações tradicionais e a renda básica de cidadania",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "IFIBE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "39-68"
+      },
+      {
+        "titulo": "Solidarisches Handeln und die solidarische Ökonomie: Die Erfahrung der Palmenbank in Fortaleza, Brasilien",
+        "ano": 2007,
+        "autores": "ANDRADE, D. ; ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Rhombos-Verlag",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "113-126"
+      },
+      {
+        "titulo": "Die Einführung des Grundeinkommens im Kontext der brasilianischen Sozialpolitik",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Deuticke",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "211-221"
+      },
+      {
+        "titulo": "In: Enéias da Rosa; Irio Luiz Conti. (Org.). Direito humano à alimentação adequada no Brasil: Informe 2006 / Rede de Informação e Ação pelo Direito a se Alimentar. 6ed.Passo Fundo",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto. Implementação do direito humano à alimentação adequada: do bolsa família à renda básica de cidadania",
+        "titulo_livro": "",
+        "editora": "Ifibe",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "29-51"
+      },
+      {
+        "titulo": "As Políticas Públicas e a Exigibilidade do Direito Humano à Alimentação",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Lumen Juris",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "123-139"
+      },
+      {
+        "titulo": "Os programas sociais sob a ótica dos direitos humanos: o Bolsa Família do governo Lula",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "IFIBE",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "27-48"
+      },
+      {
+        "titulo": "Partizipation bei den Entscheidungen der Stadtverwaltung: Das funktionierende Modell der Partizipation in der brasilianischen Millionenstadt Porto Alegre",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Westfälisches Dampfboot",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "268-280"
+      },
+      {
+        "titulo": "Derecho a la alimentación adecuada en Brasil",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto; BURITY, Valéria",
+        "titulo_livro": "",
+        "editora": "Gráfica Editora Berthier",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "17-34"
+      },
+      {
+        "titulo": "Vorstellung des Modells von Porto Alegre",
+        "ano": 2003,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Druckpunkt Offset",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "9-13"
+      },
+      {
+        "titulo": "Direkte Demokratie auf Landesebene: Bürgerbeteiligung in Rio Grande do Sul",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Servicestelle Kommunen in der einen Welt",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "40-43"
+      },
+      {
+        "titulo": "Demokratie radikal demokratisieren: Der Beteiligungshaushalt in Porto Alegre",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "titulo_livro": "",
+        "editora": "Servicestelle Kommunen in der einen Welt",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "16-21"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "DEFINIÇÃO E MENSURAÇÃO DA POBREZA: algumas considerações sobre o debate recente",
+        "ano": 2012,
+        "autores": "ZIMMERMANN, Clóvis Roberto; ESPINOLA, G. M.",
+        "evento": "Congresso Internacional Interdisciplinar em Socias e Humanidades",
+        "cidade": "",
+        "paginas": "1-15",
+        "isbn": ""
+      },
+      {
+        "titulo": "Programas de Transferência de Renda no contexto de formação do Welfare State e emergência do neoliberalismo",
+        "ano": 2011,
+        "autores": "FROTA, M. M. R. ; DIAS, G. L. ; ZIMMERMANN, Clóvis Roberto",
+        "evento": "Seminário Nacional da Pós-Graduação em Ciências Sociais - UFES",
+        "cidade": "",
+        "paginas": "1-15",
+        "isbn": ""
+      },
+      {
+        "titulo": "O Brasil e as experiências internacionais de Programas de Transferência de Renda",
+        "ano": 2010,
+        "autores": "FROTA, M. M. R. ; ZIMMERMANN, Clóvis Roberto",
+        "evento": "XIII Congresso da Rede Mundial da Renda Básica",
+        "cidade": "",
+        "paginas": "1-19",
+        "isbn": ""
+      },
+      {
+        "titulo": "As políticas sociais sob uma perspectiva histórica",
+        "ano": 2010,
+        "autores": "PEREIRA,Erico ; ZIMMERMANN, Clóvis Roberto",
+        "evento": "III SEMINÁRIO POLÍTICAS SOCIAIS E CIDADANIA",
+        "cidade": "",
+        "paginas": "1-6",
+        "isbn": ""
+      },
+      {
+        "titulo": "Capacidade Estatal e Implantação do SUAS no Norte de Minas Gerais",
+        "ano": 2010,
+        "autores": "ZIMMERMANN, Clóvis Roberto; ANDRADE, F. F.",
+        "evento": "II SEMINÁRIO POLÍTICAS SOCIAIS E CIDADANIA",
+        "cidade": "",
+        "paginas": "1-10",
+        "isbn": ""
+      },
+      {
+        "titulo": "As políticas sociais e os direitos: uma avaliação do programa bolsa família",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": "XIV CISO ? ENCONTRO DE CIÊNCIAS SOCIAIS DO NORTE E NORDESTE",
+        "cidade": "",
+        "paginas": "1-16",
+        "isbn": ""
+      },
+      {
+        "titulo": "As políticas sociais e o mito do fim do estado de bem-estar social",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; BAIARDI, A. ; ALVES, J. C. L.",
+        "evento": "II Seminário Políticas Sociais e Cidadania",
+        "cidade": "",
+        "paginas": "1-13",
+        "isbn": ""
+      },
+      {
+        "titulo": "O Cenário da Política Desenvolvida pelo Estado da Bahia para Arranjos Produtivos Locais, APLs",
+        "ano": 2008,
+        "autores": "MENDES, J ; MENDES, F. ; BAIARDI, A. ; ZIMMERMANN, Clóvis Roberto",
+        "evento": "III Encontro SOBER Regional Nordeste",
+        "cidade": "",
+        "paginas": "124-145",
+        "isbn": ""
+      },
+      {
+        "titulo": "Estudo sobre a Cooperação e Propensão ao Empreendedorismo: Vicisstudes no APL de Fruticultura, Região do Vale do São Francisco no Estado da Bahia",
+        "ano": 2008,
+        "autores": "BAIARDI, A. ; ZIMMERMANN, Clóvis Roberto ; MENDES, F. ; RAMOS, E. M. ; SANTANA, R. S",
+        "evento": "III Encontro SOBER Regional Nordeste",
+        "cidade": "",
+        "paginas": "311-331",
+        "isbn": ""
+      },
+      {
+        "titulo": "The Citizenship Principle in Income Transfer Programs in Brazil",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": "The 12th BIEN Congress on Basic Income",
+        "cidade": "",
+        "paginas": "1-12",
+        "isbn": ""
+      },
+      {
+        "titulo": "AMPLIAÇÃO DOS CANAIS DE PARTICIPAÇÃO POLÍTICA: EXPERIÊNCIA DE ORÇAMENTO PARTICIPATIVO EM MONTES CLAROS",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; MEIRA, T. A. V.",
+        "evento": "Colóquio Internacional (des)envolvimentos contra a pobreza",
+        "cidade": "",
+        "paginas": "1-16",
+        "isbn": ""
+      },
+      {
+        "titulo": "O Programa Bolsa Família sob a ótica dos direitos",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": "Seminário Nacional sobre os Programas de Transferência de Renda",
+        "cidade": "",
+        "paginas": "129-140",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "O PRESIDENCIALISMO DE COALIZÃO E OS PROCESSOS DECISÓRIOS NO GOVERNO LULA NO BRASIL",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto; OLIVEIRA, J. G.",
+        "evento": "V FÓRUM DE ENSINO, PESQUISA, EXTENSÃO E GESTÃO, 2011, Montes Claros. V FÓRUM DE ENSINO, PESQUISA, EXTENSÃO E GESTÃO",
+        "cidade": ""
+      },
+      {
+        "titulo": "Políticas Sociais e os Direitos: uma avaliação do Programa Bolsa Família",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": "XIV Ciso ? Encontro de Ciências Sociais do Norte e Nordeste, 2009. XIV CISO - Encontro de Ciências Sociais do Norte e Nordeste. Recife: Fundaj",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Desigualdade no Brasil",
+        "ano": 2025,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Desmonte das políticas sociais no governo Bolsonaro: o poder das mobilizações sociais",
+        "ano": 2025,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Das Scheitern des Neoliberalismus ? finanzielle Ressourcen und Ungerechtigkeiten! Was können wir tun?",
+        "ano": 2021,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Fehlender Zugang zur Justiz von Menschen ohne Dokumente",
+        "ano": 2010,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Wie werden Urteile umgesetzt?",
+        "ano": 2010,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "BRAZIL'S BOLSA FAMÍLIA PROGRAM: CRUCIAL DEBATES - TARGETING, UNIVERSALIZATION AND RIGHTS",
+        "ano": 2010,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "20 anos de transformações",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "The citizenship principle in Income Transfer Programs in Brazil",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Prometeu está prometido? Brasil e os Indicadores de Desenvolvimento Social",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; CARVALHO, F.",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiences gained during the National Implementation of the Guidelines on the Right to Food",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; LIBOMBO, M. ; WINDFUHR, M. ; QUENUM, C. ; MONTANO, A. C. ; PRUDENCIO, J. ; AREND, J.",
+        "evento": ""
+      },
+      {
+        "titulo": "As políticas sociais e o mito do fim do estado de bem-estar social",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Políticas de transferência de renda e combate à pobreza",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; DULCI, O. ; ALBUQUERQUE, C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Políticas sociais: poder global e tensões locais",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SANTOS, G. R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Segurança Alimentar e Direitos Humanos",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "\"Fome Zero\" - und mehr als nur \"Null Hunger\". Grundsicherung als Globales Soziales Recht",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto; KUNNEMANN, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Globale Soziale Rechte - Pespektiven einer anderen Globalisierung",
+        "ano": 2007,
+        "autores": "URBAN, H. J. ; ZIMMERMANN, Clóvis Roberto ; ALZAGA, V.",
+        "evento": ""
+      },
+      {
+        "titulo": "Brasilien - nationale Einführung eines Grundeinkommens als Weg aus Armut und sozialer Unsicherheit?",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Neoliberalismus, Sozialpolitik und das Grundeinkommen in Brasilien",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Novas Tipologias das Políticas Sociais",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Novos modelos sociológicos de análise das políticas sociais",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Políticas Públicas sob a ótica dos direitos",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "As Políticas Públicas e a Exigibilidade do Direito Humano à Alimentação",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "O Programa Bolsa Família na Ótica dos Direitos Humanos",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Exigibilidade do Direito Humano à Alimentação Adequada e Políticas Públicas",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Participación ciudadana en Porto Alegre",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Planificación de la Gestión Financiera Municipal",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Lösungsansätze - Antworten aus dem Süden - Das Beispiel des Bürgerhaushalts von Porto Alegre",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Der Beteiligungshaushalt von Porto Alegre",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Demokratie durch Partizipation - Das Beispiel Porto Alegre",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Armutsbekämpfung konkret und exemplarisch - Lateinamerika",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Basic Food Income in Low Income Countries",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Vom Süden lernen? Bürgerhaushalt in Porto Alegre: Hintergründe, Erfahrungen, Perspektiven",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Beteiligungshaushalt von Porto Alegre: Übertragbar auf Freiburg?",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Lulas Kampf gegen den Hunger - Vision, Illusion oder Chance für das brasilianische Volk?",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Zum Bürgerhaushalt in Porto Alegre",
+        "ano": 2003,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SCHMIDT, Davi ; SANCHEZ, Dimitri",
+        "evento": ""
+      },
+      {
+        "titulo": "Bausteine für einen Bürgerhaushalt: das Modell Porto Alegre",
+        "ano": 2003,
+        "autores": "ZIMMERMANN, Clóvis Roberto; BAUMANN, Frank",
+        "evento": ""
+      },
+      {
+        "titulo": "Beteiligungshaushalt von Porto Alegre",
+        "ano": 2003,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Porto Alegre - Innovative Stadtverwaltung durch direkte Bürgerbeteiligung (Porto Alegre: administração inovadora através da participação popular)",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "El presupuesto participativo de Porto Alegre: un elemento para un desarrollo local más sostenible?",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "El presupuesto participativo de Porto Alegre: un elemento para un desarrollo local más sostenible?",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Vorstellung des Modells von Porto Alegre",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Orçamento Participativo - ein Beispiel erweiterter kommunaler Partizipation aus Porto Alegre, Brasilien",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Repensando o coletivo: Projetos políticos no Brasil da Independência aos dias atuais",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "El presupuesto desde la base: Participación ciudadana en la distribuición de los recursos financieros en la ciudad brasileña de Porto Alegre",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Durchmarsch zur Macht? Kommunalwahlen 2000 und Perspektiven für einen politischen Wechsel in Brasilien",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto; DELGADO, Didice ; SANTOS, Carlos Alberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Orçamento Participativo der Stadt Porto Alegre",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "O desenvolvimento e as conseqüências da globalização para América Latina",
+        "ano": 2000,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "A globalização da economia e as conseqüências para América Latina",
+        "ano": 1997,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      },
+      {
+        "titulo": "Ist Befreiungstheologie noch aktuell? Überlegungen zur brasilianischen Praxis",
+        "ano": 1995,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "O neoliberalismo não sobrevive sem o Estado",
+        "ano": 2025,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "21 jun. 2025"
+      },
+      {
+        "titulo": "O neoliberalismo durante o governo de Jair Bolsonaro",
+        "ano": 2025,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "20 jun. 2025"
+      },
+      {
+        "titulo": "Neoliberalismo de Bolsonaro na corda bamba",
+        "ano": 2021,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "jornal": "",
+        "cidade": "",
+        "data": "13 maio 2021"
+      },
+      {
+        "titulo": "Negligência e inoperância no combate ao Coronavírus eram esperados em Bolsonaro Uma análise dos programas de governo dos candidatos à presidência em 2018",
+        "ano": 2020,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO; DORIA, A. ; CASTELLUCCI, L. ; MOURA, D.",
+        "jornal": "",
+        "cidade": "",
+        "data": "10 jul. 2020"
+      },
+      {
+        "titulo": "Os protestos e o fracasso do neoliberalismo nos governos da América Latina",
+        "ano": 2019,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "jornal": "",
+        "cidade": "",
+        "data": "26 nov. 2019"
+      },
+      {
+        "titulo": "Leben und Lehren an den Universitäten unter der rechtsextremen Regierung von Bolsonaro ? ein kurzes Stimmungsbild",
+        "ano": 2019,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "22 abr. 2019"
+      },
+      {
+        "titulo": "Reparação por danos históricos causados pelos Europeus aos países latino-americanos",
+        "ano": 2019,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "10 abr. 2019"
+      },
+      {
+        "titulo": "Conferência internacional na Alemanha discute a implantação de modelo participativo idealizado no Brasil",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "27 nov. 2018"
+      },
+      {
+        "titulo": "Como os liberais brasileiros conseguem juntar liberalismo econômico e conservadorismo",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "jornal": "",
+        "cidade": "",
+        "data": "28 set. 2018"
+      },
+      {
+        "titulo": "Candidato Jair Bolsonaro não tem propostas para reduzir a pobreza",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "19 set. 2018"
+      },
+      {
+        "titulo": "A perversa proposta de Jair Bolsonaro para a Previdência Social: a privatização",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "24 ago. 2018"
+      },
+      {
+        "titulo": "O discurso liberal falacioso do fim do Estado de Bem-Estar Social",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "jornal": "",
+        "cidade": "",
+        "data": "24 maio 2018"
+      },
+      {
+        "titulo": "Desigualdade: 15 coisas que podem ser feitas",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "20 abr. 2018"
+      },
+      {
+        "titulo": "Quanto mais rico um país, maiores os gastos sociais",
+        "ano": 2018,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "18 fev. 2018"
+      },
+      {
+        "titulo": "Protestos: eficácia versus participação",
+        "ano": 2013,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "27 jun. 2013"
+      },
+      {
+        "titulo": "Brasilien Ohne Elend: Wird Dilma die extreme Armut bis 2014 beseitigen?",
+        "ano": 2012,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 maio 2012"
+      },
+      {
+        "titulo": "Dia Mundial da Alimentação em 16 de outubro: o mundo tem poucos motivos para comemorar",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "13 out. 2011"
+      },
+      {
+        "titulo": "A cultura não é o problema",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "05 fev. 2011"
+      },
+      {
+        "titulo": "O Bolsa Família em Debate",
+        "ano": 2010,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "09 jul. 2010"
+      },
+      {
+        "titulo": "Desigualdades e Desenvolvimento",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "04 nov. 2009"
+      },
+      {
+        "titulo": "Sistemas de proteção social",
+        "ano": 2009,
+        "autores": "SILVA, Marina da Cruz ; ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "24 jun. 2009"
+      },
+      {
+        "titulo": "Equívoco metodológico",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "02 mar. 2009"
+      },
+      {
+        "titulo": "Bolsa Família na Alemanha",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "05 jan. 2009"
+      },
+      {
+        "titulo": "Crise e gastos sociais",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "27 nov. 2008"
+      },
+      {
+        "titulo": "Eleições e a reforma eleitoral",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "29 out. 2008"
+      },
+      {
+        "titulo": "Crise mundial e Bolsa Família",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "15 out. 2008"
+      },
+      {
+        "titulo": "Brasilien - Banco Palmas: ein erfolgreiches Experiment",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 nov. 2007"
+      },
+      {
+        "titulo": "Brasil - Bolsa Família",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "15 out. 2007"
+      },
+      {
+        "titulo": "Os paradoxos da implementação dos direitos sociais no Brasil",
+        "ano": 2006,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "jornal": "",
+        "cidade": "",
+        "data": "28 jun. 2006"
+      },
+      {
+        "titulo": "O Programa Bolsa Família sob a ótica dos direitos humanos",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "04 nov. 2005"
+      },
+      {
+        "titulo": "Violações aos direitos humanos dos sem-teto",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "27 set. 2005"
+      },
+      {
+        "titulo": "Três Pecados",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "13 jul. 2005"
+      },
+      {
+        "titulo": "Três Pecados",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "07 jul. 2005"
+      },
+      {
+        "titulo": "Corrupção, mudanças institucionais e participação política",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "06 jul. 2005"
+      },
+      {
+        "titulo": "Nächster Versuch für Lula. Zu den Wahlen in Brasilien",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 set. 2004"
+      },
+      {
+        "titulo": "Null Hunger unter Lula? Erste Erfahrungen mit dem Armutsbekämpfungsprogramm in Brasilien",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SILVA, Marina da Cruz",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 abr. 2004"
+      },
+      {
+        "titulo": "Lula siegt in Brasilien",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto; GONDAR, Anelise",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 out. 2002"
+      },
+      {
+        "titulo": "Brasilien und die Globalisierung",
+        "ano": 2002,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 set. 2002"
+      },
+      {
+        "titulo": "Right to Food and a Minimum Wage in Brazil",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SCHNEIDER, Vilmar",
+        "jornal": "",
+        "cidade": "",
+        "data": "22 abr. 2001"
+      },
+      {
+        "titulo": "Le droit à l'alimentation et le revenue minimum au Brésil",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "22 abr. 2001"
+      },
+      {
+        "titulo": "El derecho a la alimentación y el ingreso minimo en Brasil",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto; SCHNEIDER, Vilmar",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 abr. 2001"
+      },
+      {
+        "titulo": "Haushaltspolitik von unten: Bürgerbeteiligung bei der Finanzverteilung in der brasilianischen Stadt Porto Alegre. AKP",
+        "ano": 2001,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 fev. 2001"
+      },
+      {
+        "titulo": "Innovative Stadtverwaltung durch Bürgerbeteiligung. Die zehnjährige Erfahrung aus dem brasilianischen Porto Alegre",
+        "ano": 2000,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 dez. 2000"
+      },
+      {
+        "titulo": "Erfolg der Linken in Brasilien: Regieren mit der Bevölkerung",
+        "ano": 2000,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "09 nov. 2000"
+      },
+      {
+        "titulo": "Die Bevölkerung setzt Prioritäten",
+        "ano": 2000,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 out. 2000"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "Relatório da Missão Syngenta. Curitiba: Secretaria Executiva da Plataforma DhESCA Brasil",
+        "ano": 2008,
+        "autores": "LISBOA, M. ; ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "RESULTADO DO DIAGNÓSTICO DE SEGURANÇA ALIMENTAR NA COMUNIDADE QUILOMBOLA DO AGRESTE ? SÃO JOÃO DA PONTE. Montes Claros",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Direito Humano à Alimentação e Terra Rural. Curitiba: Plataforma Dhesca Brasil",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto; RODRIGUES, J.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Missão de investigação de violações de direitos humanos em Pernambuco. Curitiba: Plataforma DhESCA Brasil",
+        "ano": 2007,
+        "autores": "COSTA, C. ; ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Consideraciones sobre la ley y la Política Nacional de Seguridad Alimentaria y Nutricional de Guatemala.. Heidelberg: Glogner Druck",
+        "ano": 2005,
+        "autores": "ZIMMERMANN, Clóvis Roberto; LANDIVAR, Natalia ; WOLPOLD-BOSIEN, Martin ; FRANCO, Ana Maria Suárez",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Heidelberg: Glockner Druck",
+        "ano": 2004,
+        "autores": "ZIMMERMANN, Clóvis Roberto. The Fight to Eradicate Hunger and the Human Right to Food in Brazil: The First Year of the Zero Hunger Program of LULA?s Government",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Capacitação de Gerentes Sociais. 2009",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatorias Nacional em Dhesca",
+        "ano": 2009,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Capacitação de Gerentes Sociais. 2008",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Capacitação de Gerentes Sociais. 2008",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Capacitação de Gerentes Sociais. 2008",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Capacitação de Gerentes Sociais. 2008",
+        "ano": 2008,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Liberalismo e Conservadorismo no Governo Bolsonaro?",
+        "ano": 2020,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "veiculo": ""
+      },
+      {
+        "titulo": "As políticas públicas do Governo Bolsonaro no contexto da pandemia da Covid-19: neoliberalismo e aumento da concentração de renda no Brasil?",
+        "ano": 2020,
+        "autores": "ZIMMERMANN, CLÓVIS ROBERTO",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Pelo fim das condicionalidades do Bolsa Família",
+        "ano": 2011,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "veiculo": ""
+      },
+      {
+        "titulo": "»Das erste Mal, daß wir etwas vom Staat bekommen« Brasilien auf dem Weg zum bedingungslosen Grundeinkommen",
+        "ano": 2007,
+        "autores": "ZIMMERMANN, Clóvis Roberto",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "A era bolsonarista e o desmonte das políticas sociais de acesso à educação",
+          "ano_inicio": 2021,
+          "orientando": "SOUZA, Mari Rosa",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "institucionalização das políticas públicas de juventude na Bahia",
+          "ano_inicio": 2021,
+          "orientando": "Mailson Santos Pereira",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Comunidades tradicionais de Fundo de Pasto e a luta pelo direito de existir",
+          "ano_inicio": 2021,
+          "orientando": "THALISSON LUIZ MAIA SANTANA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A DIMENSÃO DO CUIDADO:BOLSA FAMÍLIA E O PAPEL DAS MÃES BENEFICIÁRIAS NO MUNICÍPIO BAIANO DE CONCEIÇÃO DO ALMEIDA",
+          "ano_inicio": 2021,
+          "orientando": "CAROLINA NASCIMENTO PAES",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Um balanço da política educacional do governo Bolsonaro",
+          "ano_inicio": 2021,
+          "orientando": "RENATO LUZ SILVA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Nilson Weisheimer",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Nelson Montenegro",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Sônia Cristina Lima Chaves",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "RETOMAR A POLÍTICA: 50 ANOS DE CARTAS DOS POVOS INDÍGENAS PARA O BRASIL",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Carlos Rafael da Silva",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Pra mudar a sociedade do jeito que a gente quer, participando sem medo de ser mulher",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Mainara Frotta",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Rotas Alteradas: Estudo sobre Mercados de drogas Ilegais e Sociabilidades na Grande Salvador",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Antonio dos Santos Lima",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "T R A N S F I G U R A Ç Õ E S D O L E V I A T Ã :S E N T I D O S , L I M I T E S E A M B I G U I D A D E S D O E S T A D O D O B E M - E S T A R S O C I A L N O L I M I A R D A E R A NEO L I B E R A L D O C A P I T A L I S M O",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Francisco Carlos Baqueiro Vidal",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "?NA TERRA DOS SEM TERRA O ARROZ DEU CACHO, O FEIJÃO FLORIÔ, O MILHO NA PALHA E A MANDIOCA NOS ABRAÇOU: Uma análise sobre a implementação do Programa Bolsa Família e Renda Básica Emergencial no Acampamento Baixa Verde em Eunápolis/BA?.",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "CLÁUDIA MIRELLA PEREIRA RAMOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "ENTRE O PODER POLÍTICO E AS ENGRENAGENS DO CAPITAL: CLAUS OFFE E O CONCEITO DE SELETIVIDADE DAS INSTITUIÇÕES DO ESTADO CONTEMPORÂNEO.",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "ANTONIO DANILO PEREIRA SANTANA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Liberdade de sufrágio em regiões com maior vulnerabilidade à violência ? estudo da comunidade do Coroado no bairro de São Marcos em Salvador ? Bahia?",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "MARCELO BARRETO SANTANA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O ESTUDO DA COMUNIDADE FUNDO DE PASTO DE LAGES DAS AROEIRAS E SUA LUTA PELO DIREITO DE EXISTIR",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "THALISSON LUIZ MAIA SANTANA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ASCENSÃO DE BOLSONARO AO GOVERNO: UM ESTUDO DE CASO DE UMA CIDADE DO INTERIOR DA BAHIA",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Leonardo Lima Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "DOIS SISTEMAS DE PROTEÇÃO SOCIAL: ALEMANHA E BRASIL EM PERSPECTIVA COMPARADA,",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Sina Leimer",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "USO E APROPRIAÇÂO DA ÁGUA BRUTA NA BACIA HIDROGRAFICA DO RECONCAVO NORTE/INHAMBUPE",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Miguel Angel Polino",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Organizações criminosas e segurança pública: reflexões à luz da Jurisprudência do STJ?",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Jair Antônio Silva de Lima",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "?O PROCESSO DO IMPACTO SOCIAL DAS TECNOLOGIAS DIGITAIS DA INFORMAÇÃO E COMUNICAÇÃO EM SÃO TOMÉ E PRÍNCIPE?",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Jeremias Castro",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "EXPERIÊNCIAS DA PRIMEIRA INSERÇÃO PROFISSIONAL: um estudo dos jovens do Programa Jovem Aprendiz do estado da Bahia 2015 ? 2017",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "IRACEMA SOUZA DE JESUS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Família e posição de Classe: Narrativas de socialização familiar em Salvador",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Vitor Matheus Menezes",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A tentativa da construção da igualdade de gêneros na Rússia Soviética 1917 - 1937",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Elena Sahno",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "CHINELOS, MOCHILAS E ARTESANATOS: PERCEPÇÕES SOBRE A CONTRIBUIÇÃO DO PROGRAMA BOLSA FAMÍLIA EM COMUNIDADES INDÍGENAS PATAXÓ DO MUNICÍPIO DE PORTO SEGURO/BA.",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "CLÁUDIA MIRELLA PEREIRA RAMOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "PARTICIPAÇÃO E EFETIVIDADE NO CONSELHO DE SEGURANÇA ALIMENTAR E NUTRICIONAL DO BRASIL",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Saul Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "EM PRATOS LIMPOS: ESTUDO DE CASO SOBRE A COZINHA SOLIDÁRIA TEMPERO DA PAZ",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "LUANDA NAIADE OLIVEIRA DA SILVA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "REFORMA AGRÁRIA NO BRASIL: ensaios à luz da teoria de John Rawls.",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Alysson Camilo Floriano da Silva",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Integrados ou Independentes? Um estudo acerca das relações de produção na Avicultura do Recôncavo da Bahia",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "GERINALDO DA SILVA LIMA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Castigo corporal praticado por policiais militares: descrevendo práticas, entendendo sentidos",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Misael de Sousa Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "POLÍTICAS PÚBLICAS E DESENVOLVIMENTO RURAL: CONTRIBUIÇÕES E DESAFIOS DA ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL NO MUNICÍPIO DE SERRINHA/BA.",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Ana Carla Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "INCONGRUÊNCIAS NA CRIMINALIZAÇÃO DO USUÁRIO DE DROGAS",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "RICARDO COSTA E SILVA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "TUTELA CONSTITUCIONAL DA SEGURANÇA PÚBLICA NO BAIRRO DO CALABAR: PROCESSO DE IMPLANTAÇÃO E FUNCIONAMENTO DO PACTO PELA VIDA E SUAS IMPLICAÇÕES PARA A REDUÇÃO DA CRIMINALIDADE E DAS VIOLÊNCIAS",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "JOILDO SOUZA DOS HUMILDES",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "BOLSA FAMÍLIA: Uma análise a partir da concepção dos beneficiários do município de São Felipe - BA",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Gepherson Macedo Espínola",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Direitos sociais dos servidores públicos da UFRB: uma análise da política institucional",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Priscila Carvalho Lopes",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Nos Trilhos do Trem Baiano: da Instalação a Extinção do Transporte Ferroviário de Passageiros e seus Impactos no modo de vida no Norte de Minas Gerais",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Maria Natividade Maia e Almeida",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Politicas Sociais no Capitalismo e no Socialismo: Uma análise comparativa entre Brasil e Cuba",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Mainara Mizzi Rocha Frota",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Políticas Públicas de Incentivo à Leitura: O caso do Proler nas Universidades Estaduais da Bahia",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Patrícia Verônica Nascimento Dias Fernandes",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Mudanças Institucionais na Política de Assistência Social: A implantação do SUAS no Norte de Minas Gerais",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Fabricio Fontes de Andrade",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "MUNICIPALIZAÇÃO E DESENVOLVIMENTO: UMA ANÁLISE DOS MUNICÍPIOS NORTE MINEIROS EMANCIPADOS NA DÉCADA DE 1990",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Sheyla Borges Martins",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Políticas Públicas de Prevenção às Drogas: Uma análise do Proerd em Montes Claros",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Nirlane de Souza Barroso Ribeiro",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "REFLEXÕES E CRÍTICAS SOBRE ?DESENVOLVIMENTO?: GOVERNO LULA (2003-2010)",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "LARISSA SALDANHA OLIVEIRA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Panorama do Desenvolvimento de Coribe: estudo dos indicadores sociais e econômicos de um município do Nordeste brasileiro.",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "ANA EMÍLIA MAGRINELLI LISBOA ATAÍDE",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "VÍNCULOS SOCIAIS E PERCEPÇÃO DE EFETIVIDADE DO PROGRAMA MINHA CASA MINHA VIDA PELOS BENEFICIÁRIOS: A DIMENSÃO DOS ARRANJOS FAMILIARES NO RESIDENCIAL JARDIM CAJAZEIRAS, SALVADOR-BA",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Vitor Matheus Oliveira de Menezes",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Violência nas escolas de Salvador",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Valdilene Maria Araujo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O presidencialismo de coalizão e a escolha racional: os processos decisórios no governo Lula",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Juscelino Germano Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Distribuição e impacto do Programa Bolsa Família em uma comunidade quilombola: o caso do Agreste",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Amanda Aparecida Pereira Duarte",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Previdência social rual e a questão de gênero na comunidade rural negra de Agreste",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Amanda Lacerda Jorge",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Participação política e controle social: uma análise da atuação do conselho municipal de saúde do município de Montes Claros - MG",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Daiane Ribeiro Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Responsabilidade social empresarial: ativismo ou marketing social?",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Robson Santos Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "O perfil da gestão e a implantação do SUAS nas reigões Norte, Noroeste, Vales do Jequitinhonha e Mucuri",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Fabrício Fontes de Andrade",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Os impactos do Programa Bolsa Família nos Bairros Delfino Magalhaes e Cidade Industrial de Montes Claros",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Jõao Carlos Lima Alves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Exclusão social e políticas de inclusão: o projeto cidadão.net em Montes Claros",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Sheila da Silva Borges",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Capital Social e Classes Sociais em Janaúba - MG",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Sibelly Dayane Perreira Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Neoliberalismo e o desmonte de políticas de saúde na América Latina",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Raquel Neves da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desmantelamento das políticas de saúde no governo Bolsonaro",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Raquel Neves da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desmantelamento das políticas culturais no governo Bolsonaro",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Maísa Mires",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desmantelamento das políticas sociais no governo Bolsonaro: o caso da saúde",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Raquel Neves da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desmantelamento das políticas sociais no governo Bolsonaro: o caso da assistência social",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Maísa Mires",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise das propostas de políticas sociais nos planos de governo dos candidatos à presidência em 2018 - a educação",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Lucas Catellucci",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise das propostas de políticas sociais nos planos de governo dos candidatos à presidência em 2018 - o caso do Bolsa Família",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Aditi Doria Vaz Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uso do software Atlas.ti na análise de controvérsias públicas: análise de dez anos da mídia (2003-2013) impressa sobre o Programa Bolsa Família.",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Patricia Silva Cerqueira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uso do software Sphinx na análise de controvérsias públicas: análise de dez anos da mídia (2003-2013) impressa sobre o Programa Bolsa Família.",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Mylena Souza Alecrim",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Sociologia da Midia: controvérsias em torno do Bolsa Família",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Soraia Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A PERCEPÇÃO DOS SINDICALIZADOS RURAIS DOS MUNICÍPIOS DO BAIXO PARAGAUAÇÚ SOBRE AS POLÍTICAS PÚBLICAS: O caso Programa Bolsa Família",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Aldemir Rildon Carneiro",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A PREVIDÊNCIA RURAL NA PERCEPÇÃO DOS SINDICALIZADOS RURAIS DOS MUNICÍPIOS DO BAIXO PARAGAUAÇÚ",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Edson Mendes da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A PERCEPÇÃO DOS SINDICALIZADOS RURAIS DOS MUNICÍPIOS DO BAIXO PARAGAUAÇÚ SOBRE AS POLÍTICAS PÚBLICAS IMPLEMENTADAS POR MEIO DAS SUAS REPRESENTAÇÕES SINDICAIS: O caso do seguro especial da Previência Rural",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Edson Mendes da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A PERCEPÇÃO DOS SINDICALIZADOS RURAIS DOS MUNICÍPIOS DO BAIXO PARAGAUAÇÚ SOBRE AS POLÍTICAS PÚBLICAS IMPLEMENTADAS POR MEIO DAS SUAS REPRESENTAÇÕES SINDICAIS: O caso do Programa Bolsa Família",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Aldemir Rildon Carneiro",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Recôncavo da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "DEMOCRACIA PARTICIPATIVA, GESTAO PARTICIPATIVA: GOVERNANCA SOLIDARIA EM MONTES CLAROS",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "THIAGO AUGUSTO VELOSO MEIRA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "UM ENFOQUE SOBRE O ENVELHECIMENTO FEMININO EM COMUNIDADE REMANESCENTE DE QUILOMBOLA",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Iara Rocha Calixto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        },
+        {
+          "titulo": "Saúde, um direito de todos? Um estudo sobre a comunidade remanescente de quilombo Agreste",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Helena Alves de Oliveira Filha",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Estadual de Montes Claros",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "22º Congresso Brasileiro de Sociologia!",
+        "apresentacao": "Desmonte das políticas sociais no governo Bolsonaro: o poder das mobilizações sociais",
+        "ano": 2025,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Taller Internacional Cultura y Desigualdades",
+        "apresentacao": "Aspectos Teóricos y Metodológicos para el Estudio de las Desigualdades Sociales. ?Rodrigo Espina in memoriam?,.Neoliberalismo e Desigualdades no Brasil ? O caso do Governo de extrema direita de Bolsonaro.",
+        "ano": 2025,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Die Zukunft der Welt auf dem Prüfstand",
+        "apresentacao": "Das Scheitern des Neoliberalismus ? finanzielle Ressourcen und Ungerechtigkeiten! Was können wir tun?",
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Aktivierung und Mobilisierung ? Wie kann ich möglichst viel Beteiligung bei meinem Bürgerhaushalt erzielen",
+        "apresentacao": "Der Bürgerhaushalt/ von Porto Alegre",
+        "ano": 2018,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XIII Congresso da Rede Mundial da Renda Básica",
+        "apresentacao": "BRAZIL'S BOLSA FAMÍLIA PROGRAM: CRUCIAL DEBATES - TARGETING, UNIVERSALIZATION AND RIGHTS",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XIV Ciso ? Encontro de Ciências Sociais do Norte e Nordeste",
+        "apresentacao": "Políticas Sociais e os Direitos: uma avaliação do Programa Bolsa Família",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Conferência Nacional de Segurança Alimentar e Nutricional",
+        "apresentacao": null,
+        "ano": 2007,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminários dos Doutorandos da Fundação Hans-Böckler sobre as perspectivas da participação e da democracia",
+        "apresentacao": "Politische Partizipation in Brasilien",
+        "ano": 2002,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário sobre os programas de ajustre estrutural das instituições de Bretton-Woods",
+        "apresentacao": null,
+        "ano": 1995,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "ZIMMERMANN, Clóvis Roberto. 1º Seminário da Pós Graduação em Ciências Sociais: Cultura, Desigualdade e Desenvolvimento da UFRB. 2011. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "LAVINAS, Lena ; ZIMMERMANN, Clóvis Roberto",
+        "evento": "13º Congresso Internacional da Rede Mundial de Renda Básica",
+        "ano": 2010,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "IDE, M. H. S.; FERREIRA, M. L. A.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Dayane Ferreira Silva. A variável dor/raça no ambiente escolar: a questão racial em escola públicas de ensino médio. 2013. Dissertação (Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2013,
+        "tipo": "Mestrado",
+        "aluno": "Dayane Ferreira Silva",
+        "membros_banca": [
+          "IDE, M. H. S.",
+          "FERREIRA, M. L. A.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "A variável dor/raça no ambiente escolar: a questão racial em escola públicas de ensino médio",
+        "curso": "Dissertação (Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "ZIMMERMANN, Clóvis Roberto; MARTINS, H. T.; OLIVEIRA, A. E. A.. Participação em banca de Fábio Sávio Cardozo Macêdo. O policiamento comunitário em Santo Antônio de Jesus-BA, uma visão endógena. 2013. Dissertação (Mestrado em Mestrado Profissional em Gestão de Políticas Públi) - Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2013,
+        "tipo": "Mestrado",
+        "aluno": "Fábio Sávio Cardozo Macêdo",
+        "membros_banca": [
+          "ZIMMERMANN, Clóvis Roberto",
+          "MARTINS, H. T.",
+          "OLIVEIRA, A. E. A."
+        ],
+        "titulo_trabalho": "O policiamento comunitário em Santo Antônio de Jesus-BA, uma visão endógena",
+        "curso": "Dissertação (Mestrado em Mestrado Profissional em Gestão de Políticas Públi)",
+        "universidade": "Universidade Federal do Recôncavo da Bahia"
+      },
+      {
+        "descricao": "MACHADO, E. P.; POSSAS, M.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Pedro de Oliveira. O peso dos mortos queridos: um estudo sobre vitimização indireta por violência oficial. 2013. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Mestrado",
+        "aluno": "Pedro de Oliveira",
+        "membros_banca": [
+          "MACHADO, E. P.",
+          "POSSAS, M.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "O peso dos mortos queridos: um estudo sobre vitimização indireta por violência oficial",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SANTOS, S. M. C.; ZIMMERMANN, Clóvis Roberto; ASSIS, A. M. O.; CORREA, A. M. S.. Participação em banca de Marie Agnes Aliaga. Avaliação e políticas públicas de segurança alimentar e nutricional e desenvolvimento humano: análise comparativa de experiências internacionais. 2013. Dissertação (Mestrado em Alimentos, Nutrição e Saúde) - Universidade Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Mestrado",
+        "aluno": "Marie Agnes Aliaga",
+        "membros_banca": [
+          "SANTOS, S. M. C.",
+          "ZIMMERMANN, Clóvis Roberto",
+          "ASSIS, A. M. O.",
+          "CORREA, A. M. S."
+        ],
+        "titulo_trabalho": "Avaliação e políticas públicas de segurança alimentar e nutricional e desenvolvimento humano: análise comparativa de experiências internacionais",
+        "curso": "Dissertação (Mestrado em Alimentos, Nutrição e Saúde)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CARDOSO, A. D.; RODRIGUES, L.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Vânia Cássia Miranda Mota. Bolsa Família e Condicionalidades: Efeitos da Proteção Social nas Famílias. 2012. Dissertação (Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2012,
+        "tipo": "Mestrado",
+        "aluno": "Vânia Cássia Miranda Mota",
+        "membros_banca": [
+          "CARDOSO, A. D.",
+          "RODRIGUES, L.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "Bolsa Família e Condicionalidades: Efeitos da Proteção Social nas Famílias",
+        "curso": "Dissertação (Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "IDE, M. H. S.; BARBOSA, R. S.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Lucivaldo Gomes da Silva. POLÍTICAS PÚBLICAS DE ACESSO A TERRA PARA COMUNIDADES QUILOMBOLAS. 2012. Dissertação (Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2012,
+        "tipo": "Mestrado",
+        "aluno": "Lucivaldo Gomes da Silva",
+        "membros_banca": [
+          "IDE, M. H. S.",
+          "BARBOSA, R. S.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "POLÍTICAS PÚBLICAS DE ACESSO A TERRA PARA COMUNIDADES QUILOMBOLAS",
+        "curso": "Dissertação (Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "THEOPHILO, C. R.; RODRIGUES, L.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Mônica Nascimento e Feitosa. GESTÃO EM GOVERNOS MUNICIPAIS: ESTUDO COMPARATIVO DAS ANÁLISES E EVIDÊNCIAS DOS ÍNDICES DE RESPONSABILIDADE FISCAL, SOCIAL E DE GESTÃO. 2012. Dissertação (Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2012,
+        "tipo": "Mestrado",
+        "aluno": "Mônica Nascimento e Feitosa",
+        "membros_banca": [
+          "THEOPHILO, C. R.",
+          "RODRIGUES, L.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "GESTÃO EM GOVERNOS MUNICIPAIS: ESTUDO COMPARATIVO DAS ANÁLISES E EVIDÊNCIAS DOS ÍNDICES DE RESPONSABILIDADE FISCAL, SOCIAL E DE GESTÃO",
+        "curso": "Dissertação (Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "FREITAS, K. S.; GOMES, M. C.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Marcio Tube de Cerqueira. As Famílias na Ordem Social Brasileira: A efetivação do Programa Bolsa Família na Comunidade de Nova Divinéia. 2012. Dissertação (Mestrado em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2012,
+        "tipo": "Mestrado",
+        "aluno": "Marcio Tube de Cerqueira",
+        "membros_banca": [
+          "FREITAS, K. S.",
+          "GOMES, M. C.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "As Famílias na Ordem Social Brasileira: A efetivação do Programa Bolsa Família na Comunidade de Nova Divinéia",
+        "curso": "Dissertação (Mestrado em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "PINHEIRO, L. F.; ZIMMERMANN, Clóvis Roberto; ALCAN, L. B. C.. Participação em banca de Thiago Augusto Veloso Meira. LIMITES E DESAFIOS DO ORÇAMENTO PARTICIPATIVO: UM ESTUDO DA EXPERIÊNCIA DE MONTES CLAROS-MG. 2011. Dissertação (Mestrado em Política Social) - Universidade Federal Fluminense.",
+        "ano": 2011,
+        "tipo": "Mestrado",
+        "aluno": "Thiago Augusto Veloso Meira",
+        "membros_banca": [
+          "PINHEIRO, L. F.",
+          "ZIMMERMANN, Clóvis Roberto",
+          "ALCAN, L. B. C."
+        ],
+        "titulo_trabalho": "LIMITES E DESAFIOS DO ORÇAMENTO PARTICIPATIVO: UM ESTUDO DA EXPERIÊNCIA DE MONTES CLAROS-MG",
+        "curso": "Dissertação (Mestrado em Política Social)",
+        "universidade": "Universidade Federal Fluminense"
+      },
+      {
+        "descricao": "SANTOS, G. R.; FERREIRA, M. L. A.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Tereza Raquel Silveira Rosa.. Beneficiários do programa bolsa família em Montes Claros ? MG: Onde estão e como vivem.. 2010. Dissertação (Mestrado em Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Tereza Raquel Silveira Rosa",
+        "membros_banca": [
+          "SANTOS, G. R.",
+          "FERREIRA, M. L. A.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "Beneficiários do programa bolsa família em Montes Claros ? MG: Onde estão e como vivem",
+        "curso": "Dissertação (Mestrado em Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "MARTINS, L. H. S.; SANTOS, G. R.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Danilo Souza Pinto. A relação entre política social e mercado de trabalho no Brasil e a influência do padrão de desesenvolvimento neoliberal: um olhar sobre as políticas de transferência de renda. 2010. Dissertação (Mestrado em Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Danilo Souza Pinto",
+        "membros_banca": [
+          "MARTINS, L. H. S.",
+          "SANTOS, G. R.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "A relação entre política social e mercado de trabalho no Brasil e a influência do padrão de desesenvolvimento neoliberal: um olhar sobre as políticas de transferência de renda",
+        "curso": "Dissertação (Mestrado em Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "ZIMMERMANN, Clóvis Roberto; MARTINS, L. H. S.; RODRIGUES, L.. Participação em banca de Fabricio Fontes de Andrade. Mudanças Institucionais na Política de Assistência Social: A implantação do SUAS no Norte de Minas Gerais. 2010. Dissertação (Mestrado em Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Fabricio Fontes de Andrade",
+        "membros_banca": [
+          "ZIMMERMANN, Clóvis Roberto",
+          "MARTINS, L. H. S.",
+          "RODRIGUES, L."
+        ],
+        "titulo_trabalho": "Mudanças Institucionais na Política de Assistência Social: A implantação do SUAS no Norte de Minas Gerais",
+        "curso": "Dissertação (Mestrado em Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "ZIMMERMANN, Clóvis Roberto; FERREIRA, M. L. A.; ARAUJO, P. M.. Participação em banca de Sheyla Borges Martins. Municipalização e desenvolvimento ? uma análise dos municípios norte-mineiros emancipados na década de 1990.. 2010. Dissertação (Mestrado em Mestrado em Desenvolvimento Social) - Universidade Estadual de Montes Claros.",
+        "ano": 1990,
+        "tipo": "Mestrado",
+        "aluno": "Sheyla Borges Martins",
+        "membros_banca": [
+          "ZIMMERMANN, Clóvis Roberto",
+          "FERREIRA, M. L. A.",
+          "ARAUJO, P. M."
+        ],
+        "titulo_trabalho": "",
+        "curso": ". 2010. Dissertação (Mestrado em Mestrado em Desenvolvimento Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "WARAT, L. A.; SANTOS, Carlos Alberto; ZIMMERMANN, Clóvis Roberto. Participação em banca de Eduardo Gonçalves Rocha. DIREITO À ALIMENTAÇÃO: políticas públicas de segurança alimentar sob uma perspectiva democrática e constitucional. 2008. Dissertação (Mestrado em Direito) - Universidade de Brasília.",
+        "ano": 2008,
+        "tipo": "Mestrado",
+        "aluno": "Eduardo Gonçalves Rocha",
+        "membros_banca": [
+          "WARAT, L. A.",
+          "SANTOS, Carlos Alberto",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "DIREITO À ALIMENTAÇÃO: políticas públicas de segurança alimentar sob uma perspectiva democrática e constitucional",
+        "curso": "Dissertação (Mestrado em Direito)",
+        "universidade": "Universidade de Brasília"
+      },
+      {
+        "descricao": "ZIMMERMANN, Clóvis Roberto; NOGUEIRA, Lidya Tolstenko; FERREIRA, Maria D´alva Macedo. Participação em banca de Theonas Gomes Pereira. Direito Humano à Alimentação Adequada: um estudo de caso sobre o Programa de Transferência de Renda Bolsa-Família.Vila Santo Afonso. Teresina- Pi.. 2006. Dissertação (Mestrado em Ciências e Saúde) - Universidade Federal do Piauí.",
+        "ano": 2006,
+        "tipo": "Mestrado",
+        "aluno": "Theonas Gomes Pereira",
+        "membros_banca": [
+          "ZIMMERMANN, Clóvis Roberto",
+          "NOGUEIRA, Lidya Tolstenko",
+          "FERREIRA, Maria D´alva Macedo"
+        ],
+        "titulo_trabalho": "Direito Humano à Alimentação Adequada: um estudo de caso sobre o Programa de Transferência de Renda Bolsa-Família.Vila Santo Afonso. Teresina- Pi",
+        "curso": "Dissertação (Mestrado em Ciências e Saúde)",
+        "universidade": "Universidade Federal do Piauí"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "CAMARA, A. S.; BRITTO, F.; ZIMMERMANN, Clóvis Roberto; PEDRAO, F.; SANTOS, N. O.. Participação em banca de Thiago Chagas Silva Santos. As estratégias da CUT e a ideologia neoliberal. 2013. Tese (Doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Thiago Chagas Silva Santos",
+        "membros_banca": [
+          "CAMARA, A. S.",
+          "BRITTO, F.",
+          "ZIMMERMANN, Clóvis Roberto",
+          "PEDRAO, F.",
+          "SANTOS, N. O."
+        ],
+        "titulo_trabalho": "As estratégias da CUT e a ideologia neoliberal",
+        "curso": "Tese (Doutorado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CAMARA, A.; BRITTO, F.; CARVALHO, R.; CLERC-RENAUD, A.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Sarah Roberta Oliveira de Carneiro. Do Silêncio das Montanhas ao Grito para o Mundo: A Saga de uma Voz Insurgente. 2012. Tese (Doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2012,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Sarah Roberta Oliveira de Carneiro",
+        "membros_banca": [
+          "CAMARA, A.",
+          "BRITTO, F.",
+          "CARVALHO, R.",
+          "CLERC-RENAUD, A.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "Do Silêncio das Montanhas ao Grito para o Mundo: A Saga de uma Voz Insurgente",
+        "curso": "Tese (Doutorado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "LOURENCO, L. C.; RATTON, J. L.; NORONHA, C. V.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Dhanyane Alves Castro. Experiências, valores morais e percepções sobre Violência, Criminalidade e Insegurança entre moradores de Feira de Santana. 2013. Exame de qualificação (Doutorando em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Dhanyane Alves Castro",
+        "membros_banca": [
+          "LOURENCO, L. C.",
+          "RATTON, J. L.",
+          "NORONHA, C. V.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "Experiências, valores morais e percepções sobre Violência, Criminalidade e Insegurança entre moradores de Feira de Santana",
+        "curso": "Exame de qualificação (Doutorando em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "GOMES, M. C.; FREITAS, K. S.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Marcio Tube de Cerqueira. As Famílias na Ordem Social Brasileira: A efetivação das Políticas Públicas. 2012. Exame de qualificação (Mestrando em Políticas Sociais e Cidadania) - Universidade Católica do Salvador.",
+        "ano": 2012,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Marcio Tube de Cerqueira",
+        "membros_banca": [
+          "GOMES, M. C.",
+          "FREITAS, K. S.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "As Famílias na Ordem Social Brasileira: A efetivação das Políticas Públicas",
+        "curso": "Exame de qualificação (Mestrando em Políticas Sociais e Cidadania)",
+        "universidade": "Universidade Católica do Salvador"
+      },
+      {
+        "descricao": "VALENCA, D.; OLIVEIRA, A. E. A.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Leonardo Fiusa Wanderley. Política Habitacional: entre a autogestão e a desresponsabilização neoliberal do Estado. 2012. Exame de qualificação (Mestrando em Ciências Sociais: Cultura, Desigualdades e Desenvolvimento) - Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2012,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Leonardo Fiusa Wanderley",
+        "membros_banca": [
+          "VALENCA, D.",
+          "OLIVEIRA, A. E. A.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "Política Habitacional: entre a autogestão e a desresponsabilização neoliberal do Estado",
+        "curso": "Exame de qualificação (Mestrando em Ciências Sociais: Cultura, Desigualdades e Desenvolvimento)",
+        "universidade": "Universidade Federal do Recôncavo da Bahia"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "MARTINS, F. T.; ZIMMERMANN, Clóvis Roberto; ALMEIDA, C. R. S.. Participação em banca de Juliana Gusmão Veloso.Um estudo de caso sobre o acesso ao Programa Bolsa Família pelos catadores de materiais recicláveis de Montes Claros (MG). 2006. Trabalho de Conclusão de Curso (Graduação em Ciências Socias) - Universidade Estadual de Montes Claros.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Juliana Gusmão Veloso",
+        "membros_banca": [
+          "MARTINS, F. T.",
+          "ZIMMERMANN, Clóvis Roberto",
+          "ALMEIDA, C. R. S."
+        ],
+        "titulo_trabalho": "Um estudo de caso sobre o acesso ao Programa Bolsa Família pelos catadores de materiais recicláveis de Montes Claros (MG)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Socias)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "PACHECO, L. T.; ZIMMERMANN, Clóvis Roberto; NASCIMENTO, M. F. G. L.. Participação em banca de Delva Lúcia de Aquino Mendes.Mulher e Política: Atuação feminia no Legislativo de Montes Claros (1982-2004). 2006. Trabalho de Conclusão de Curso (Graduação em História) - Universidade Estadual de Montes Claros.",
+        "ano": 1982,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Delva Lúcia de Aquino Mendes",
+        "membros_banca": [
+          "PACHECO, L. T.",
+          "ZIMMERMANN, Clóvis Roberto",
+          "NASCIMENTO, M. F. G. L."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "MARTINS, L. H. S.; ZIMMERMANN, Clóvis Roberto; ALMEIDA, C.. Participação em banca de Geusiani Pereira Silva.Violência e Representação Social: um estudo sobre as possibilidades de ação de jovens entre 15 e 24 anos num contexto de criminalidade em Montes Claros. 2006. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Estadual de Montes Claros.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Geusiani Pereira Silva",
+        "membros_banca": [
+          "MARTINS, L. H. S.",
+          "ZIMMERMANN, Clóvis Roberto",
+          "ALMEIDA, C."
+        ],
+        "titulo_trabalho": "Violência e Representação Social: um estudo sobre as possibilidades de ação de jovens entre 15 e 24 anos num contexto de criminalidade em Montes Claros",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "ALVES, M. R.; FERREIRA, M. L. A.; ZIMMERMANN, Clóvis Roberto. Participação em banca de Alessandra de Melo Franco Amorim.O sitstema de reserva de vagas para Afro-descendentes no vestibular da Universidade Estadual de Montes Claros nos últimos dois anos. 2006. Trabalho de Conclusão de Curso (Graduação em Ciências Socias) - Universidade Estadual de Montes Claros.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Alessandra de Melo Franco Amorim",
+        "membros_banca": [
+          "ALVES, M. R.",
+          "FERREIRA, M. L. A.",
+          "ZIMMERMANN, Clóvis Roberto"
+        ],
+        "titulo_trabalho": "O sitstema de reserva de vagas para Afro-descendentes no vestibular da Universidade Estadual de Montes Claros nos últimos dois anos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Socias)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      },
+      {
+        "descricao": "Correia; ZIMMERMANN, Clóvis Roberto; GUSMAO, R. J. M.. Participação em banca de Aluísio Costa Guimarães.Reforma Política e Aperfeiçoamento das Intituições Políticas Democráticas: Reflexões a partir das mudanças do Sistema partidário Brasileiro. 2006. Trabalho de Conclusão de Curso (Graduação em Ciências Socias) - Universidade Estadual de Montes Claros.",
+        "ano": 2006,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Aluísio Costa Guimarães",
+        "membros_banca": [
+          "Correia",
+          "ZIMMERMANN, Clóvis Roberto",
+          "GUSMAO, R. J. M."
+        ],
+        "titulo_trabalho": "Reforma Política e Aperfeiçoamento das Intituições Políticas Democráticas: Reflexões a partir das mudanças do Sistema partidário Brasileiro",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Socias)",
+        "universidade": "Universidade Estadual de Montes Claros"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "ZIMMERMANN, Clóvis Roberto; LESSA, Simoni Narciso. Participação em banca de Dulce Pereira dos Santos. Shopping popular na cidade de Montes Claros - MG: Uma análise de sua complexidade sob a ótica da teoria dos dois circuitos da economia urbana. 2006. Outra participação, Universidade Estadual de Montes Claros.",
+        "ano": 2006,
+        "tipo": "Participação em banca",
+        "aluno": "Dulce Pereira dos Santos",
+        "membros_banca": [
+          "ZIMMERMANN, Clóvis Roberto",
+          "LESSA, Simoni Narciso"
+        ],
+        "titulo_trabalho": "Shopping popular na cidade de Montes Claros - MG: Uma análise de sua complexidade sob a ótica da teoria dos dois circuitos da economia urbana",
+        "curso": "Outra participação, Universidade Estadual de Montes Claros.",
+        "universidade": ""
+      },
+      {
+        "descricao": "GUIMARAES, I.; BALTRUSIS, N.; ZIMMERMANN, Clóvis Roberto. Concurso público para seleção de docente da matéria Ciências Sociais e Desenvolvimento. 2009. Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2009,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Recôncavo da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ZIMMERMANN, Clóvis Roberto. professor assistente, ciência Política. 2009. Universidade Estadual de Santa Cruz.",
+        "ano": 2009,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Estadual de Santa Cruz.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PONTES, S. A.; VALENCA, D.; ZIMMERMANN, Clóvis Roberto. Processo seletivo para contratação de docente por tempo determinado da matéria Ciências Sociais. 2009. Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2009,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Recôncavo da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 48,
+    "total_livros": 8,
+    "total_capitulos": 27,
+    "total_trabalhos_congressos": 12,
+    "total_projetos_pesquisa": 11,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 53,
+    "total_orientacoes_andamento": 5
+  }
+}

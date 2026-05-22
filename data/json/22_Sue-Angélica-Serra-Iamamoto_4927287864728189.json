@@ -1,0 +1,2314 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "4927287864728189",
+    "nome_completo": "Sue Angélica Serra Iamamoto",
+    "nome_citacoes": "IAMAMOTO, S. A. S.;IAMAMOTO, SUE A. S.;IAMAMOTO, SUE ANGÉLICA SERRA;IAMAMOTO, SUE",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 33312755 URL da Homepage: http://www.ffch.ufba.br/",
+    "atualizacao_cv": "20/01/2026",
+    "url": "http://lattes.cnpq.br/4927287864728189",
+    "texto_resumo": "É professora adjunta no Departamento de Ciência Política da Universidade Federal da Bahia (UFBA). Possui graduação em Comunicação Social, habilitação Jornalismo (2002-2008) e mestrado em Ciência Política, ambos na Universidade de São Paulo (2009-2011), e doutorado em Ciência Política pela Queen Mary University of London (2011-2016). Fez estágios pós-doutorais no Instituto Iberoamericano em Berlim (2022) e na London School of Economics and Poltical Science (LSE) (2023/24) e na Universidade de São Paulo (2024). É autora dos livros El nacionalismo boliviano en tiempos de plurinacionalidad (OEP, 2013) e Memories and Social Struggles in Contemporary Bolivia: Platforms in Convulsive Times (Bloomsbury, 2025). Foi coordenadora do grupo de pesquisa do CNPq, vinculado à UFBA, Democracia, Participação e Representação Política (Depare). Atua como docente permanente do PPGCP e do PPGCS da UFBA. Seus principais interesses de pesquisa são: memórias sociais, movimentos sociais, América Latina, ditaduras militares, cidadania, ecologia política, estudos críticos do desenvolvimento, nacionalismo e plurinacionalidade, autoritarismo e democracia. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Ciência Política",
+      "nome_instituicao": "Queen Mary University of London, QMUL, Inglaterra",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2016",
+      "descricao": "Título: Collective Memories and Social Struggle in Contemporary Bolivia: A Study of Narratives of the Past during the 'Gas War' in La Paz (2003) and the Civic Strike in Potosí (2010), Ano de obtenção: 2016. Orientador: James Dunkerley. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Bolívia; Memória coletiva; Movimentos sociais; nacionalismo; movimentos indígenas. Grande área: Ciências Humanas Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política."
+    },
+    {
+      "tipo": "Mestrado em Ciência Política",
+      "nome_instituicao": "Universidade de São Paulo, USP, Brasil",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2011",
+      "descricao": "Título: O nacionalismo boliviano em tempos de plurinacionalidade: Revoltas antineoliberais e constituinte (2000-2009) O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2011. Orientador: Bernardo Ricupero. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Bolívia; nacionalismo; etnicidade; Nova Constituição Política do Estado; movimentos indígenas. Grande área: Ciências Humanas"
+    },
+    {
+      "tipo": "Graduação em Comunicação Social - Habilitação em Jornalismo",
+      "nome_instituicao": "Universidade de São Paulo, USP, Brasil",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2008",
+      "descricao": "Título: Terra e Território - a luta pela descolonização da Bolívia. Orientador: Alice Mitika Koshyiama."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - Atual",
+      "ano_inicio": "2016",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professora Adjunta",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Faculdade de Filosofia e Ciências Humanas, Programa de Pós-Graduação em Ciência Política."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Faculdade de Filosofia e Ciências Humanas."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Faculdade de Filosofia e Ciências Humanas, Colegiado de Curso de Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2018 - 08/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade de São Paulo, USP, Brasil.",
+      "instituicao_nome": "Universidade de São Paulo",
+      "instituicao_sigla": "USP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - 2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": "Pós-doutorado",
+      "enquadramento": "Pesquisadora doutora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "London School of Economics and Political Science, LSE, Grã-Bretanha.",
+      "instituicao_nome": "London School of Economics and Political Science",
+      "instituicao_sigla": "LSE",
+      "instituicao_pais": "Grã-Bretanha",
+      "periodo": "2023 - 2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": "Pós-doutorado",
+      "enquadramento": "Visiting scholar",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "London School of Economics and Political Science, LSE, Grã-Bretanha",
+      "instituicao_nome": "London School of Economics and Political Science",
+      "instituicao_sigla": "LSE",
+      "instituicao_pais": "Grã-Bretanha",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Insituto Ibero-Americano (Berlim), IAI, Alemanha.",
+      "instituicao_nome": "Insituto Ibero-Americano (Berlim)",
+      "instituicao_sigla": "IAI",
+      "instituicao_pais": "Alemanha",
+      "periodo": "2022 - 2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": "Estágio pós-doutoral",
+      "enquadramento": "Visiting scholar",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Insituto Ibero-Americano (Berlim), IAI, Alemanha",
+      "instituicao_nome": "Insituto Ibero-Americano (Berlim)",
+      "instituicao_sigla": "IAI",
+      "instituicao_pais": "Alemanha",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Newcastle University, NCU, Grã-Bretanha.",
+      "instituicao_nome": "Newcastle University",
+      "instituicao_sigla": "NCU",
+      "instituicao_pais": "Grã-Bretanha",
+      "periodo": "2021 - 2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": "Pesquisadora",
+      "enquadramento": "Pesquisadora doutora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Queen Mary - University of London, QMUL, Inglaterra.",
+      "instituicao_nome": "Queen Mary - University of London",
+      "instituicao_sigla": "QMUL",
+      "instituicao_pais": "Inglaterra",
+      "periodo": "2014 - 2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": "Contrato temporário",
+      "enquadramento": "Professora Assistente (Teaching assistant)",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Queen Mary - University of London, QMUL, Inglaterra",
+      "instituicao_nome": "Queen Mary - University of London",
+      "instituicao_sigla": "QMUL",
+      "instituicao_pais": "Inglaterra",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Queen Mary - University of London, QMUL, Inglaterra",
+      "instituicao_nome": "Queen Mary - University of London",
+      "instituicao_sigla": "QMUL",
+      "instituicao_pais": "Inglaterra",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade de Filosofia, Letras e Ciências Humanas - USP, FFLCH-USP, Brasil.",
+      "instituicao_nome": "Faculdade de Filosofia",
+      "instituicao_sigla": "Letras e Ciências Humanas - USP",
+      "instituicao_pais": "FFLCH-USP",
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "Voluntária",
+      "enquadramento": "Estágio no Programa Aperfeiçoamento Ensino",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Faculdade de Filosofia, Letras e Ciências Humanas - USP, FFLCH-USP, Brasil",
+      "instituicao_nome": "Faculdade de Filosofia",
+      "instituicao_sigla": "Letras e Ciências Humanas - USP",
+      "instituicao_pais": "FFLCH-USP",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Latino Americano das Nações Unidas para a Prevenção do Delito, ILANUD, Brasil.",
+      "instituicao_nome": "Instituto Latino Americano das Nações Unidas para a Prevenção do Delito",
+      "instituicao_sigla": "ILANUD",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": "Autônoma",
+      "enquadramento": "Assessora de Comunicação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Grupo de Trabalho sobre Propriedade Intelectual, GTPI, Brasil.",
+      "instituicao_nome": "Grupo de Trabalho sobre Propriedade Intelectual",
+      "instituicao_sigla": "GTPI",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": "Estágio",
+      "enquadramento": "Redatora de Conteúdo para sítio Web",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Grupo de Trabalho sobre Propriedade Intelectual, GTPI, Brasil",
+      "instituicao_nome": "Grupo de Trabalho sobre Propriedade Intelectual",
+      "instituicao_sigla": "GTPI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola de Comunicações e Artes USP, ECA USP, Brasil.",
+      "instituicao_nome": "Escola de Comunicações e Artes USP",
+      "instituicao_sigla": "ECA USP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2006",
+      "ano_inicio": "2006",
+      "ano_fim": "2006",
+      "vinculo": "Voluntária",
+      "enquadramento": "Professora em Projeto de Extensão - Redigir",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola de Comunicações e Artes USP, ECA USP, Brasil",
+      "instituicao_nome": "Escola de Comunicações e Artes USP",
+      "instituicao_sigla": "ECA USP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Escola de Comunicações e Artes USP, ECA USP, Brasil",
+      "instituicao_nome": "Escola de Comunicações e Artes USP",
+      "instituicao_sigla": "ECA USP",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2006 - 06/2006",
+      "ano_inicio": "2006",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Balanços da Bolívia Plurinacional",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Em 2009, a Bolívia adotou uma nova constituição que a transformava em um Estado Plurinacional. Junto com este Estado, foram propostas uma série de alterações institucionais nas esferas do poder judiciário, legislativo e executivo. Um dos conceitos mais importantes a organizar este novo Estado é o de democracia intercultural, que expressa a conjunção de trÊs modelos democráticos - o representativo, o participativo e o comunitário.Pensado como contra-imagem dos modelos estatais anteriores, o Estado plurinacional se propôs a resolver uma série de desigualdades e injustiças sofridas pelos povos indígenas e pelas populações mais pobres da Bolívia, com autoridades muitas vezes oriundas de movimentos sociais progressistas. Contudo, nestes quinze após a sua adoção, muitos desafios se colocam, tanto na consolidação das suas instituições e da democracia intercultural, que se mostraram vulneráveis nestes últimos cinco anos, sobretudo a partir da crise de 2019, quanto na relação deste Estado com os movimentos sociais, que tem se desgastado.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Sue Angélica Serra Iamamoto - Coordenador / Maria Isabel Tárcis Cardoso Marques - Integrante. Número de produções C, T & A: 1 / Número de orientações: 1"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maria Isabel Tárcis Cardoso Marques",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Cidadania e memória social em Salvador",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Esta pesquisa investiga as relações entre cidadania e memórias sociais, a fim de construir uma abordagem teórica multidisciplinar que combina os dois campos de estudo e que possa lançar luz sobre como marcos institucionais passados e eventos históricos informam ideais políticos e práticas de cidadania no presente. Este estudo teórico se inspira em um trabalho anterior (Iamamoto, 2022), em que investigo a cidadania indígena no povoado de Coroma, na Bolívia.Nesta nova pesquisa, o foco empírico será em ambientes urbanos, com a previsão de uma etapa de trabalho de campo a ser realizada nas periferias da cidade de Salvador.Uma das memórias a serem investigadas é a memória da ditadura, mas a pesquisa não se aterá a este evento.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Sue Angélica Serra Iamamoto - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Crises da democracia, nova direita e neoliberalismo no Brasil",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O presente projeto de pesquisa visa analisar o recente processo de desdemocratização pelo qual passa o Brasil, investigando o comportamento de atores políticos e sociais e sua relação com com as transformações econômicas e políticas mundiais.Nesse sentido, enfocamos tanto a ação de contramovimentos conservadores na sociedade brasileira, quanto a ação de parlamentares da nova direita, assim como a relação entre estes dois tipos de atores.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (1) / Doutorado: (1) . Integrantes: Sue Angélica Serra Iamamoto - Coordenador / Aditi Doria Vaz Almeida - Integrante / Geovana Pereira da Silva - Integrante / Luiza Pontes Esquivel - Integrante / Nair Casagrande - Integrante / Izabela G. Alves Simas - Integrante / Aline Martins - Integrante. Financiador(es): Universidade Federal da Bahia - Bolsa / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa. Número de produções C, T & A: 5"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Aditi Doria Vaz Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Geovana Pereira da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luiza Pontes Esquivel",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Nair Casagrande",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Izabela G",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Universidade Federal da Bahia",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "The Politics of Wildfires: A Pilot Study",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: Este é um estudo piloto para estabelecer as bases para entender o impacto de regimes políticos e institucionais na dinâmica dos incêndios florestais. Ele se guia pelas seguintes questões de pesquisa: Como diferentes arranjos políticos e institucionais impactam os regimes de incêndios florestais no Sul Global? Como normas e estruturas políticas podem explicar a variação entre fronteiras nacionais e ao longo do tempo na dinâmica dos incêndios florestais? Como os regimes de incêndios são moldados pela dinâmica do poder (por exemplo, política de clientelismo, corrupção, conflitos)?. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sue Angélica Serra Iamamoto - Integrante / Lorenza Fontana - Coordenador / Davi Moreira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lorenza Fontana",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Davi Moreira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Movimentos sociais e Câmara Municipal em Salvador pós-2013: entre cooperação e conflito",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O objetivo geral deste projeto é analisar as interações entre movimentos sociais e sistema político na cidade de Salvador, observando possíveis mudanças a partir da conjuntura política aberta em 2013 e suas relações de representação com o legislativo municipal. Do ponto de vista empírico, este projeto pretende estudar a interação entre três movimentos sociais da cidade de Salvador - mulheres, moradia e ?nova direita? ? e seus respectivos mandatos interlocutores na Câmara Municipal.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sue Angélica Serra Iamamoto - Coordenador / Rani Thaline de Alcântara Teles - Integrante / Luciano Pita dos Santos - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Universidade Federal da Bahia - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rani Thaline de Alcântara Teles",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luciano Pita dos Santos",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Universidade Federal da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Jovens ativistas e memória social da ditadura em Salvador",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O objetivo deste projeto é estudar a memória social da ditadura militar entre ativistas jovens da cidade de Salvador, tendo como foco entender como essa memória (ou esquecimento) afeta a construção de horizontes políticos. Dois elementos determinam este enfoque: o estudo da memória em momentos de ação coletiva e o recorte de juventude, de uma geração nasceu nos anos 1980 ou 1990 e que não tem uma memória ?direta? do período autoritário. Três campos de estudos se conjugam aqui: os estudos de movimentos sociais, de memória coletiva e das ditaduras militares latino-americanas. Esta pesquisa tem como objetivo contribuir empiricamente com estes campos, em um contexto ímpar de divulgação dos trabalhos da Comissão Nacional da Verdade e de massivas mobilizações de amplo espectro ideológico, cujas temáticas vão desde a desmilitarização da polícia, a denúncia de um novo golpe, a demanda por diretas já até o pedido de novas intervenções militares.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Sue Angélica Serra Iamamoto - Coordenador / Rani Thaline de Alcântara Teles - Integrante / Luciano Pita dos Santos - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Universidade Federal da Bahia - Bolsa / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa. Número de produções C, T & A: 11"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rani Thaline de Alcântara Teles",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luciano Pita dos Santos",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Universidade Federal da Bahia",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Memória, movimentos sociais e política na Bolívia contemporânea",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: O projeto decorre da pesquisa doutoramento e atualmente está em sua fase de conclusão e publicação de resultados. Seu objetivo é analisar as articulações entre memória social e ação coletiva contemporânea na Bolívia, com estudos empíricos em quantro localidades: El Alto (movimentos de bairro), Omasuyos (movimento camponês Aymara), Potosí (movimento cívico) e Coroma (comunidades indígenas). Para além de destacar a importância do papel que memórias coletivas cumprem em momentos de mobilização social, o pesquisa também obteve informações relevantes sobre perspectivas de cidadania, desenvolvimento e território no país.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Sue Angélica Serra Iamamoto - Coordenador. Financiador(es): Queen Mary - University of London - Auxílio financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa. Número de produções C, T & A: 17"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Queen Mary",
+          "tipo_apoio": "University of London - Auxílio financeiro"
+        },
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Curso Memória e Política",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Minicurso de introdução ao conceito de memória social e apresentação de algumas possibilidades de sua aplicação na ciência política. Abordou formulações clássicas sobre memória social, sobretudo Halbwachs, e o boom da memória a partir da década de 1990. Discutiu duas formas em que o conceito de memória social se conjuga com os estudos da política: nos estudos de nacionalismo e nos estudos de movimentos sociais.. Situação: Concluído; Natureza: Extensão. Integrantes: Sue Angélica Serra Iamamoto - Coordenador / Bernardo Ricupero - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Bernardo Ricupero",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Direitos Humanos em Diálogo",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O Projeto de Extensão ?Direitos Humanos em Diálogo? é coordenado por professores/as dos PPGs em Ciências Sociais, Filosofia e Ciência Política da UFBA, do IESP/UERJ, PPGD/UFRJ, do NEV/USP e da ANDHEP e teve três edições. Na primeira, seu público alvo foi voltado para jornalistas, na segunda, profissionais do direito e, na terceira, políticos e assessores políticos. O Projeto consistiu numa web-série de diálogos semanais realizados na plataforma Zoom todas as terças-feiras às 14hs. Os diálogos foram depois subidos o canal do YouTube do projeto, onde permanecem depositados e disponíveis ao público.. Situação: Concluído; Natureza: Extensão. Integrantes: Sue Angélica Serra Iamamoto - Integrante / Maíra Kubík Taveira Mano - Integrante / Mariana Possas - Coordenador / Rafael Lopes Azize - Integrante / Daniel Peres - Integrante / Paula Barreto - Integrante / Ricardo Cappi - Integrante / Juliana Tonche - Integrante / Rafael Arantes - Integrante / José Roberto Xavier - Integrante / José Eduardo Leon Szwako - Integrante / Luiz Lourenço - Integrante / Cristina Buarque de Hollanda - Integrante / Marcos Alvarez - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maíra Kubík Taveira Mano",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariana Possas",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rafael Lopes Azize",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Daniel Peres",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paula Barreto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ricardo Cappi",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juliana Tonche",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rafael Arantes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "José Roberto Xavier",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "José Eduardo Leon Szwako",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luiz Lourenço",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristina Buarque de Hollanda",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcos Alvarez",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Curso \"Interseccionalidade, política e produção de conhecimento\"",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (3) . Integrantes: Sue Angélica Serra Iamamoto - Coordenador / Victor Coutinho Lage - Integrante / Ailton de Sena de Jesus - Integrante / Daiene Oliveira da Silva - Integrante / Igor Souza de Farias - Integrante. Financiador(es): Universidade Federal da Bahia - Outra."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Sue Angélica Serra Iamamoto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Victor Coutinho Lage",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ailton de Sena de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Daiene Oliveira da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Igor Souza de Farias",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Universidade Federal da Bahia",
+          "tipo_apoio": "Outra"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [],
+  "idiomas": [
+    {
+      "nome": "Alemão",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "JLAS Best Article Prize, Journal of Latin American Studies.",
+      "ano": 2023
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Movimentos sociais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Representação política",
+      "objetivo": ""
+    },
+    {
+      "nome": "Memória social",
+      "objetivo": ""
+    },
+    {
+      "nome": "Ecologia Política",
+      "objetivo": ""
+    },
+    {
+      "nome": "Cidadania",
+      "objetivo": ""
+    },
+    {
+      "nome": "Democracia e autoritarismo",
+      "objetivo": ""
+    },
+    {
+      "nome": "Nacionalismo",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Jovens empreendedores e utopias periféricas na zona sul de São Paulo",
+        "ano": 2025,
+        "autores": "COSTA, H. ; IAMAMOTO, S. A. S.",
+        "revista": "REVISTA BRASILEIRA DE ESTUDOS URBANOS E REGIONAIS",
+        "volume": "27",
+        "numero": "",
+        "paginas": "1-23",
+        "issn": "2317-1529",
+        "doi": "http://dx.doi.org/10.22296/2317-1529.rbeur.202508pt",
+        "qualis": ""
+      },
+      {
+        "titulo": "Junho e anti-Junho: efeitos das narrativas de protestos nas trajetórias de jovens ativistas em Salvador",
+        "ano": 2025,
+        "autores": "IAMAMOTO, S. A. S.; TELES, R. T. A. ; SANTOS, L. P.",
+        "revista": "OPINIÃO PÚBLICA",
+        "volume": "31",
+        "numero": "",
+        "paginas": "1-27",
+        "issn": "1807-0191",
+        "doi": "http://dx.doi.org/10.1590/1807-0191202531106",
+        "qualis": ""
+      },
+      {
+        "titulo": "Layers of Indigenous Citizenship: Colonial, Republican and Plurinational Rights in Bolivia",
+        "ano": 2022,
+        "autores": "IAMAMOTO, S. A. S",
+        "revista": "JOURNAL OF LATIN AMERICAN STUDIES",
+        "volume": "54",
+        "numero": "",
+        "paginas": "1-25",
+        "issn": "0022-216X",
+        "doi": "http://dx.doi.org/10.1017/S0022216X22000190",
+        "qualis": ""
+      },
+      {
+        "titulo": "Brazilian far-right neoliberal nationalism: family, anti-communism and the myth of racial democracy",
+        "ano": 2021,
+        "autores": "IAMAMOTO, S. A. S.; MANO, Maíra Kubík ; SUMMA, R.",
+        "revista": "Globalizations",
+        "volume": "",
+        "numero": "",
+        "paginas": "1-17",
+        "issn": "1474-774X",
+        "doi": "http://dx.doi.org/10.1080/14747731.2021.1991745",
+        "qualis": ""
+      },
+      {
+        "titulo": "Entre crises e insurgências: a ecologia política em defesa da vida em comum",
+        "ano": 2021,
+        "autores": "EMPINOTTI, V. L. ; IAMAMOTO, S. A. S. ; LAMAS, I. ; PEREIRA, F. M.",
+        "revista": "AMBIENTE E SOCIEDADE (CAMPINAS)",
+        "volume": "24",
+        "numero": "",
+        "paginas": "1-17",
+        "issn": "1414-753X",
+        "doi": "http://dx.doi.org/10.1590/1809-4422asoc20210160vu2021L5ID",
+        "qualis": ""
+      },
+      {
+        "titulo": "Decolonial insurgencies for new ecological horizons",
+        "ano": 2021,
+        "autores": "EMPINOTTI, VANESSA ; LAMAS, ISABELA ; IAMAMOTO, SUE ; MILANEZ, FELIPE ; JACOBI, PEDRO ROBERTO ; LAUDA-RODRIGUEZ, ZENAIDA ; MILZ, BEATRIZ",
+        "revista": "AMBIENTE & SOCIEDADE (ONLINE)",
+        "volume": "24",
+        "numero": "",
+        "paginas": "1-10",
+        "issn": "1809-4422",
+        "doi": "http://dx.doi.org/10.1590/1809-4422asoceditorialvu2021l5ed",
+        "qualis": ""
+      },
+      {
+        "titulo": "Diálogos contemporâneos da ecologia política, contribuições desde a América Latina",
+        "ano": 2020,
+        "autores": "IAMAMOTO, S. A. S.; LAMAS, I. ; EMPINOTTI, V. L.",
+        "revista": "Revista de Ciências Sociais (UFC)",
+        "volume": "51",
+        "numero": "",
+        "paginas": "13-36",
+        "issn": "2318-4620",
+        "doi": "http://dx.doi.org/10.36517/rcs.51.2.d01",
+        "qualis": ""
+      },
+      {
+        "titulo": "?Culture War? against Brazilian universities: how budget cuts and changes in tertiary education policies are affecting the academic community",
+        "ano": 2020,
+        "autores": "LIMA, V. ; IAMAMOTO, S. A. S.",
+        "revista": "Alternautas",
+        "volume": "6",
+        "numero": "",
+        "paginas": "online",
+        "issn": "2057-4924",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "The Difficult Legacy of Mining in Past and Contemporary Potosí and Ouro Preto",
+        "ano": 2019,
+        "autores": "DE SOUZA SANTOS, ANDREZA ARUSKA ; IAMAMOTO, SUE A. S.",
+        "revista": "Journal of Latin American Geography",
+        "volume": "18",
+        "numero": "",
+        "paginas": "110-131",
+        "issn": "1548-5811",
+        "doi": "http://dx.doi.org/10.1353/lag.2019.0054",
+        "qualis": ""
+      },
+      {
+        "titulo": "Campo, gênero e academia: notas  sobre a experiência de cinco mulheres  brasileiras na Bolívia",
+        "ano": 2018,
+        "autores": "FREITAS, C. C. M. ; PANNAIN, R. N. ; GIMENEZ, H. M. ; IAMAMOTO, S. A. S. ; AMARAL, A. I.",
+        "revista": "CADERNOS DE CAMPO (USP)",
+        "volume": "26",
+        "numero": "",
+        "paginas": "348-369",
+        "issn": "2316-9133",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Introducción",
+        "ano": 2018,
+        "autores": "AMARAL, A. I. ; FREITAS, C. C. M. ; GIMENEZ, H. M. ; IAMAMOTO, S. A. S. ; PANNAIN, R. N.",
+        "revista": "Revista Boliviana de Investigación - Bolivian Research Review",
+        "volume": "13",
+        "numero": "",
+        "paginas": "7-11",
+        "issn": "2616-8928",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "La geografía política de Tupac Katari y Bartolina Sisa",
+        "ano": 2018,
+        "autores": "IAMAMOTO, S. A. S",
+        "revista": "Revista Boliviana de Investigación - Bolivian Research Review",
+        "volume": "13",
+        "numero": "",
+        "paginas": "35-51",
+        "issn": "2616-8928",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Home-made development in Bolivia",
+        "ano": 2017,
+        "autores": "IAMAMOTO, SUE ANGÉLICA SERRA",
+        "revista": "Civitas (Porto Alegre)",
+        "volume": "17",
+        "numero": "",
+        "paginas": "233",
+        "issn": "1984-7289",
+        "doi": "http://dx.doi.org/10.15448/1984-7289.2017.2.26954",
+        "qualis": ""
+      },
+      {
+        "titulo": "VISÕES DE NAÇÃO NA CONSTITUINTE BOLIVIANA",
+        "ano": 2016,
+        "autores": "IAMAMOTO, SUE A. S",
+        "revista": "Lua Nova (Impresso)",
+        "volume": "Jan-Ab",
+        "numero": "",
+        "paginas": "13-51",
+        "issn": "1807-0175",
+        "doi": "http://dx.doi.org/10.1590/0102-6445013-051/97",
+        "qualis": ""
+      },
+      {
+        "titulo": "Traditional Development or Vivir Bien? An Analysis of the Bolivian ?Gas War? in 2003",
+        "ano": 2015,
+        "autores": "IAMAMOTO, S. A. S",
+        "revista": "Alternautas",
+        "volume": "2",
+        "numero": "",
+        "paginas": "32-44",
+        "issn": "2057-4924",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Memories and Social Struggles in Contemporary Bolivia: Platforms in Convulsive Times",
+        "ano": 2025,
+        "autores": "IAMAMOTO, S. A. S",
+        "editora": "Bloomsbury",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "192"
+      },
+      {
+        "titulo": "Democracia na América Latina 2: descolonização, territórios e horizontes",
+        "ano": 2019,
+        "autores": "GONZALEZ, M. V. E. ; IAMAMOTO, S. A. S. ; CRUZ, D. U.",
+        "editora": "Buenos Aires; Feira de Santana: Clacso; Zarte",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "342"
+      },
+      {
+        "titulo": "El Nacionalismo Boliviano en Tiempos de Plurinacionalidad",
+        "ano": 2013,
+        "autores": "IAMAMOTO, S. A. S",
+        "editora": "La Paz: OEP / TSE / Sifde",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "258"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Brazilian Far-Right Neoliberal Nationalism: Family, Anti-Communism and the Myth of Racial Democracy",
+        "ano": 2025,
+        "autores": "IAMAMOTO, S. A. S.; MANO, Maíra Kubík ; SUMMA, R.",
+        "titulo_livro": "",
+        "editora": "Routledge",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-17"
+      },
+      {
+        "titulo": "The Authoritarian Prism: The Impact of Memories of the Dictatorship among Young Activists in Contemporary Brazil",
+        "ano": 2022,
+        "autores": "IAMAMOTO, S. A. S.; TELES, R. T. A. ; SANTOS, L. P.",
+        "titulo_livro": "",
+        "editora": "Routledge",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-21"
+      },
+      {
+        "titulo": "Metodologias de memória coletiva em estudos de movimentos sociais",
+        "ano": 2022,
+        "autores": "IAMAMOTO, S. A. S",
+        "titulo_livro": "",
+        "editora": "Eduerj",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "101-128"
+      },
+      {
+        "titulo": "Universidade e ideologia: reflexões sobre os ataques às ciências humanas e as possibilidades de defesa",
+        "ano": 2020,
+        "autores": "MANO, Maíra Kubík ; POSSAS, M. T. ; AZIZE, Rafael Lopes ; IAMAMOTO, S. A. S.",
+        "titulo_livro": "",
+        "editora": "Edufba",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "203-216"
+      },
+      {
+        "titulo": "Nacionalismo",
+        "ano": 2020,
+        "autores": "IAMAMOTO, S. A. S",
+        "titulo_livro": "",
+        "editora": "Juruá",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "485-487"
+      },
+      {
+        "titulo": "NACIONALISMO E PLURINACIONALIDADE NA BOLÍVIA CONTEMPORÂNEA",
+        "ano": 2016,
+        "autores": "IAMAMOTO, S. A. S",
+        "titulo_livro": "",
+        "editora": "Appris",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "229-254"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Neoliberalismo e colonialidade: contra-movimentos desdemocratizantes na América Latina",
+        "ano": 2024,
+        "autores": "IAMAMOTO, S. A. S.; ALMEIDA, A. D. V. ; SILVA, G. P. ; ESQUIVEL, L. P.",
+        "evento": "14o Encontro da Associação Brasileira de Ciência Política",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Jovens ativistas em Salvador: protestos recentes (2013-2018), memória e política",
+        "ano": 2020,
+        "autores": "IAMAMOTO, S. A. S.; TELES, R. T. A. ; SANTOS, L. P.",
+        "evento": "12o Encontro da ABCP",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Memória coletiva e movimentos sociais: um encontro de dois campos teóricos",
+        "ano": 2017,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": "41º Encontro Anual da Anpocs",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Colonial, Republican and Plurinational Law: the case of Coroma (Bolivia)",
+        "ano": 2016,
+        "autores": "IAMAMOTO, SUE A. S",
+        "evento": "2016 Congress of the Latin American Studies Association",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Memórias coletivas na Bolívia contemporânea: uma tentativa de entender a vigência da rebelião de Tupac Katari",
+        "ano": 2013,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": "XXIX Congreso Alas",
+        "cidade": "",
+        "paginas": "1-10",
+        "isbn": ""
+      },
+      {
+        "titulo": "Revoltas do Início do Século XXI na Bolívia",
+        "ano": 2010,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": "IV Simpósio Lutas Sociais na América Latina",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Momentos para a construção da nação boliviana: de 1809 a 1952",
+        "ano": 2010,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": "V Encontro de Pós-Graduandos da Faculdade de Filosofia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Neoliberalismo e colonialidade: contramovimentos e a crise da democracia no Brasil",
+        "ano": 2024,
+        "autores": "IAMAMOTO, S. A. S.; ALMEIDA, A. D. V. ; SILVA, G. P. ; ESQUIVEL, L. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "The politics of memory in plurinational times",
+        "ano": 2024,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "As disputas da memória na Bolívia plurinacional",
+        "ano": 2024,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Nacionalismo neoliberal de extrema direita brasileiro: família, anticomunismo e o mito da democracia racial",
+        "ano": 2022,
+        "autores": "IAMAMOTO, S. A. S.; MANO, Maíra Kubík ; SUMMA, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Ecologia política: uma introdução preliminar",
+        "ano": 2022,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "A memória e o esquecimento da ditadura militar brasileira e seus impactos políticos",
+        "ano": 2022,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Jóvenes Activistas En Brasil: Protestas Recientes (2013-2018), Redes Sociales y Memorias",
+        "ano": 2021,
+        "autores": "IAMAMOTO, S. A. S.; TELES, R. T. A. ; SANTOS, L. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "A grande regressão no mundo e na América Latina: desdemocratização, populismos e nacionalismos de direita",
+        "ano": 2021,
+        "autores": "MENEZES, D. M. ; TEIXEIRA, R. F. ; GONZALEZ, M. V. E. ; IAMAMOTO, SUE A. S. ; CRUZ, D. U.",
+        "evento": ""
+      },
+      {
+        "titulo": "Caminhos da democracia na América Latina",
+        "ano": 2021,
+        "autores": "IAMAMOTO, S. A. S.; SANTANDER, C. U.",
+        "evento": ""
+      },
+      {
+        "titulo": "Tensiones en Bolivia: élites, identidad, política y medio ambiente",
+        "ano": 2021,
+        "autores": "MORALES, H. ; IAMAMOTO, S. A. S. ; VARGAS, T. ; CHAVEZ, E. ; ZEBALLOS, G.",
+        "evento": ""
+      },
+      {
+        "titulo": "Teorias Sociais, Modernidades e Colonialidades",
+        "ano": 2020,
+        "autores": "ALVES, A. R. C. ; ZIMMERMANN, C. R. ; OLIVEIRA, L. A. ; GONZALEZ, M. V. E. ; REGATIERI, R. P. ; IAMAMOTO, S. A. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Democracia na América Latina",
+        "ano": 2020,
+        "autores": "GONZALEZ, M. V. E. ; CRUZ, D. U. ; IAMAMOTO, S. A. S. ; ARAUJO, V. ; FRANCISQUINI, R. ; SOUZA, C. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "DIREITOS HUMANOS, COMUNICAÇÃO SOCIAL E EXTENSÃO UNIVERSITÁRIA: REFLEXÕES EM TEMPOS DE CRISES",
+        "ano": 2020,
+        "autores": "POSSAS, M. T. ; AZIZE, Rafael Lopes ; IAMAMOTO, S. A. S. ; FERREIRA, G. ; SANTOS, E. R. ; NAGAMINE, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Jovens ativistas em Salvador: protestos recentes (2013-2018), memória e política",
+        "ano": 2020,
+        "autores": "IAMAMOTO, S. A. S.; TELES, R. T. A. ; SANTOS, L. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "América Latina em debate: Eleições na Bolívia e a população rural",
+        "ano": 2020,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Eleições na Bolívia",
+        "ano": 2020,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Sonhos de desenvolvimento e modernidade assombrada: memórias coloniais em Potosi contemporânea",
+        "ano": 2019,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Nacionalismo y plurinacionalidad a diez años de la Nueva Constitución Política del Estado en Bolivia",
+        "ano": 2019,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "¿Soberanía sitiada o soberanía plural? La plurinacionalidad en las políticas bolivianas de defensa y frontera",
+        "ano": 2019,
+        "autores": "GIMENEZ, H. M. ; IAMAMOTO, S. A. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Democracia e autoritarismo para jovens ativistas em Salvador",
+        "ano": 2019,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Teoria social e colonialidade",
+        "ano": 2019,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Debatedora na palestra ?Favela como problema público? de Maria Alice Rezende de Carvalho",
+        "ano": 2019,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Dreams of development and haunted modernity: colonial memories in contemporary Potosí",
+        "ano": 2018,
+        "autores": "IAMAMOTO, SUE A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "¿Soberanía sitiada o soberanía plural? La plurinacionalidad en las políticas bolivianas de defensa y frontera",
+        "ano": 2018,
+        "autores": "GIMENEZ, H. M. ; IAMAMOTO, S. A. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "América Latina HOY: Rumos da democracia",
+        "ano": 2018,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Memories of dictatorships and political crisis in Brazil and Argentina",
+        "ano": 2017,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "La geografía política de Tupac Katari y Bartolina Sisa",
+        "ano": 2017,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Tupac Katari, Bartolina Sisa e a Revolução Indígena na Bolívia",
+        "ano": 2017,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Memória coletiva e movimentos sociais: um encontro de dois campos teóricos",
+        "ano": 2017,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Collective Memory and Development Ideology among Bolivian Social Movements",
+        "ano": 2016,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Colonial, Republican and Plurinational Law: the case of Coroma (Bolivia)",
+        "ano": 2016,
+        "autores": "IAMAMOTO, SUE A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Memória, movimentos sociais e Estado na Bolívia contemporânea",
+        "ano": 2016,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Katari and the Seacoast during the Bolivian Gas War",
+        "ano": 2015,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Rebellious memories in contemporary Bolivia. The cases of Tupac Katari and the Cerro Rico of Potosí",
+        "ano": 2014,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Memórias coletivas na Bolívia contemporânea: uma tentativa de entender a vigência da rebelião de Tupac Katari",
+        "ano": 2013,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Memories of warfare in contemporary Bolivia",
+        "ano": 2013,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Revoltas do início do século XXI na Bolívia",
+        "ano": 2010,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Momentos para construção da nação boliviana: de 1809 a 1952",
+        "ano": 2010,
+        "autores": "IAMAMOTO, S. A. S",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Autoproclamada presidente não consegue conter mortes e violência na Bolívia",
+        "ano": 2019,
+        "autores": "IAMAMOTO, S. A. S.; PANNAIN, R. N.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 nov. 2019"
+      },
+      {
+        "titulo": "Após eleição na Bolívia, campo e cidade se enfrentam com greves e bloqueios",
+        "ano": 2019,
+        "autores": "IAMAMOTO, S. A. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "30 out. 2019"
+      },
+      {
+        "titulo": "Ataque do governo às universidades federais é tristemente ideológico",
+        "ano": 2019,
+        "autores": "MANO, Maíra Kubík ; POSSAS, Mariana ; AZIZE, Rafael Lopes ; IAMAMOTO, SUE ANGÉLICA SERRA",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 maio 2019"
+      },
+      {
+        "titulo": "Desafíos para pensar la memoria colectiva desde Bolivia",
+        "ano": 2015,
+        "autores": "IAMAMOTO, S. A. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 dez. 2015"
+      },
+      {
+        "titulo": "Dos formas de entender el Estado Plurinacional",
+        "ano": 2013,
+        "autores": "IAMAMOTO, S. A. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 jun. 2013"
+      },
+      {
+        "titulo": "Occupy London: a resistência continua",
+        "ano": 2011,
+        "autores": "IAMAMOTO, S. A. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "29 nov. 2011"
+      },
+      {
+        "titulo": "Bolívia: uma ideia de progresso, uma ideia de justiça",
+        "ano": 2011,
+        "autores": "IAMAMOTO, S. A. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "11 out. 2011"
+      },
+      {
+        "titulo": "O conflito pela terra no oriente boliviano",
+        "ano": 2004,
+        "autores": "IAMAMOTO, S. A. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "18 nov. 2004"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "Um mundo ch?ixi é possível. São Paulo: Editora Elefante",
+        "ano": 2024,
+        "autores": "IAMAMOTO, S. A. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "TRADUÇÃO de Urbinati, Nadia (2015). 'Uma revolta contra os corpos intermediários'. São Paulo: Revista Leviathan",
+        "ano": 2018,
+        "autores": "IAMAMOTO, S. A. S.; ROSA, G.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "The ayllu and territoriality in the Andes. Alternautas",
+        "ano": 2017,
+        "autores": "IAMAMOTO, S. A. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Relatório Final da Comissão Assessora da Área de Ciências Sociais Enade 2021",
+        "ano": 2022,
+        "autores": "IAMAMOTO, S. A. S.; LEAL, S. ; CAMPOY, L. C. ; CARVALHAES, F. ; PAGOTTO, C.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Revisão editorial do livro 'American Foreign Policy', de JF Drolet e J Dunkerley (2017), editado pela Manchester University Press",
+        "ano": 2016,
+        "autores": "IAMAMOTO, SUE A. S",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Memória e política",
+        "ano": 2024,
+        "autores": "IAMAMOTO, S. A. S.; RICUPERO, B.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Memória social: conceito e atualidade",
+        "ano": 2016,
+        "autores": "IAMAMOTO, S. A. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Workshop on Participant Observation and Participatory Action Research",
+        "ano": 2015,
+        "autores": "IAMAMOTO, S. A. S.; MARSHALL, J.",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "MULHERES EM MOVIMENTO: Um estudo de caso do MIQCB e dos efeitos políticos da Lei do Babaçu Livre no Brasil",
+          "ano_inicio": 2025,
+          "orientando": "LORENA DE BARROS TEIXEIRA SOUSA",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Os novos movimentos de direita e os Partidos Políticos: uma análise comparada das interações entre lideranças e partidos.",
+          "ano_inicio": 2024,
+          "orientando": "Izabela G. Alves Simas",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "PROIBIÇÃO, POLÍTICA PÚBLICA E MULHERES NO MERCADOS DE COCAINAS FUMADAS: a construção do poder/dominação em tempos de guerra às drogas na América Latina",
+          "ano_inicio": 2024,
+          "orientando": "Luana Silva Bastos Malheiro",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "OBJETOS BIOGRÁFICOS E MEMÓRIAS NA VELHICE: EXPLORANDO AS EXPERIÊNCIAS DE IDOSOS EM INSTITUIÇÕES DE LONGA PERMANÊNCIA",
+          "ano_inicio": 2025,
+          "orientando": "GABRIEL NUNES SEIXAS DE MEIRELLES",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Narrativas de Resistência: a atuação dos movimentos ambientais e climáticos na luta contra o desmonte da política de Licenciamento Ambiental na Amazônia Legal",
+          "ano_inicio": 2025,
+          "orientando": "LUCIANA GOMES TRAVASSOS",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "DIGNIDADE MENSTRUAL: FORMAÇÃO DE AGENDA DA POLÍTICA DE PROTEÇÃO E PROMOÇÃO DA SAÚDE MENSTRUAL",
+          "ano_inicio": 2024,
+          "orientando": "Ana Virgínia de Azevedo Oliveira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "11 da NCPE da Bolívia",
+          "ano_inicio": 2023,
+          "orientando": "MARIA ISABEL TARCIS CARDOSO MARQUES. OS LIMITES DA SOBERANIA POPULAR NO NOVO CONSTITUCIONALISMO LATINO- 3 AMERICANO: uma análise da democracia -participativa a partir do art",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Os des (caminhos) dos Conselhos dos Direitos da Criança e do Adolescente na Bahia: democracia participativa, sociedade civil e políticas públicas",
+          "ano_inicio": 2021,
+          "orientando": "ANA ELIZABETH COSTA GOMES",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "Mulheres, atuação política e luta anticolonial: elementos para a compreensão de uma pedagogia feminista",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "CAMILA TRIBESS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "Uma análise do lado ?não oculto? das Deputadas Federais Antifeministas",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "ALINE MARTINS DA SILVA. A ASCENSÃO DO ANTIFEMINISMO DE ESTADO NO BRASIL",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "AGENDA-SETTING DAS POLÍTICAS PÚBLICAS PARA MULHERES: Uma análise dos múltiplos fluxos do PL Gabriela Leite",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Lorena de Barros Teixeira Sousa",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O processo de lutas das trabalhadoras domésticas do Sindoméstico na aprovação e implementação da Pec das Domésticas no Brasil",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Jeferson de Jesus Nicácio",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "A Democracia na Atualidade Brasileira: limites e desafios sob o olhar dos estudantes da Faculdade de Educação da UFBA",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Nair Casagrande",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A escolha peversa: o impacto das políticas de austeridade fiscal promovidas por governos neoliberais na América Latina",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Aditi Doria Vaz Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "\"Significados em conflito: um estudo da representação política a partir do discurso das vereadoras da Câmara Municipal de Salvador sobre os direitos fundamentais (2017-2018)",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Júlia Teixeira Hirschle",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Gênero, Raça e representação política: uma análise da atuação política das vereadoras negras na câmara Municipal de Salvador (2017 - 2020).",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Rani Thaline de Alcantara Teles",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Neoliberalismo e colonialidade: desafios para a democracia na América Latina ? Direitos sociais universais em questão",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Aditi Doria Vaz Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Neoliberalismo e colonialidade: desafios para a democracia na América Latina ? Direitos especiais para a igualdade de gênero e raça em questão",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Geovana Pereira da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Neoliberalismo e colonialidade: desafios para a democracia na América Latina ? Direitos ambientais e da natureza em questão",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Luiza Pontes Esquivel",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Movimentos sociais e Câmara Municipal em Salvador pós-2013: entre cooperação e conflito ? A interação entre o movimento de mulheres e a Câmara Municipal de Salvador",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Rani Thaline de Alcantara Teles",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Movimentos sociais e Câmara Municipal em Salvador pós-2013: entre cooperação e conflito ? A interação entre o movimento de moradia e a Câmara Municipal de Salvador",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Luciano Pita dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens ativistas e memória social da ditadura em Salvador",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Rani Thaline de Alcantara Teles",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens ativistas e memória social da ditadura em Salvador",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Luciano Pita",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens ativistas e memória social da ditadura em Salvador - grupos culturais apartidários",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Rani Thaline de Alcantara Teles",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens ativistas e memória social da ditadura em Salvador ? grupos de esquerda tradicionais",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Luciano Pita dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens ativistas e memória social da ditadura em Salvador",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Rani Thaline de Alcantara Teles",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "14o Encontro da Associação Brasileira de Ciência Política",
+        "apresentacao": "Neoliberalismo e colonialidade: contramovimentos e a crise da democracia no Brasil1",
+        "ano": 2024,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "15 Years of Plurinational Bolivia: Democracy, Indigenous Rights, Development and Popular Economy",
+        "apresentacao": "The politics of memory in plurinational times",
+        "ano": 2024,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "48o Encontro Anual da Ancpos",
+        "apresentacao": "Balanços da Bolívia Plurinacional",
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Asen Conference 2024: Nationalism and Memory",
+        "apresentacao": null,
+        "ano": 2024,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso UFBA 2023",
+        "apresentacao": null,
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "46º Encontro Nacional da Anpocs",
+        "apresentacao": "Nacionalismo neoliberal de extrema direita brasileiro: família, anticomunismo e o mito da democracia racial",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Conferência do RC 21 ISA",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Virtual da UFBA 2021",
+        "apresentacao": "A grande regressão no mundo e na América Latina: desdemocratização, populismos e nacionalismos de direita",
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV ISA Forum",
+        "apresentacao": "Jóvenes Activistas En Brasil: Protestas Recientes (2013-2018), Redes Sociales y Memorias",
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "12º Encontro da Associação Brasileira de Ciência Política",
+        "apresentacao": "Jovens ativistas em Salvador: protestos recentes (2013-2018), memória e política",
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "44º Encontro Anual da ANPOCS",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Virtual da UFBA 2020",
+        "apresentacao": "Democracia na América Latina",
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "3º Congresso Latino-Americano de Ecologia Política",
+        "apresentacao": "Sonhos de desenvolvimento e modernidade assombrada: memórias coloniais em Potosi contemporânea",
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Colóquio Democracia como Valor Universal: 40 anos de Batalha de Ideias,",
+        "apresentacao": "Democracia e autoritarismo para jovens ativistas em Salvador",
+        "ano": 2019,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso anual da Latin American Studies Association",
+        "apresentacao": "Nacionalismo y plurinacionalidad a diez años de la Nueva Constitución Política del Estado en Bolivia",
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X Congreso de la Asociación de Estudios Bolivianos",
+        "apresentacao": "¿Soberanía sitiada o soberanía plural? La plurinacionalidad en las políticas bolivianas de defensa y frontera",
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "56º Congresso Internacional de Americanistas",
+        "apresentacao": "Soberania sitiada ou soberania compartilhada? A plurinacionalidade nas políticas públicas bolivianas de defesa e fronteira",
+        "ano": 2018,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Modern-Colonial Geographies in Latin America: The Mirage of The Civilizing City and The Archaic Countryside",
+        "apresentacao": "Dreams of development and haunted modernity: colonial memories in contemporary Potosí",
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "41º Encontro Anual da Anpocs",
+        "apresentacao": "Memória coletiva e movimentos sociais: um encontro de dois campos teóricos",
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Conferência Anual da SLAS 2017",
+        "apresentacao": "Memories of dictatorship and political crisis in Brazil and Argentina",
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IX Congreso de la Asociación de Estudios Bolivianos",
+        "apresentacao": "La geografía política de Tupac Katari",
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "The Andean region today: Political, International and Economic Challenges",
+        "apresentacao": "The Power of Collective Memory in Bolivian Contemporary Struggles",
+        "ano": 2016,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "2nd International Workshop on Law and Ideology: Memories of Struggles, Struggles of Memories",
+        "apresentacao": "Katari and the Seacoast during the ?Gas War? in Bolivia",
+        "ano": 2015,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Anglo-Bolivian Society Presentations",
+        "apresentacao": "Katari and the Seacoast during the Bolivian Gas War",
+        "ano": 2015,
+        "tipo_evento": "Exposição",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Discourse Theory and Psychoanalysis as Methods for Political Analysis",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "50th Annual Conference of the Society for Latin American Studies",
+        "apresentacao": "Rebellious memories in contemporary Bolivia",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Moving Memories",
+        "apresentacao": "Remembering and Reviving Conflict, Protest and Social Unrest in Connected Times",
+        "ano": 2014,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "23rd Annual ASEN Conference: Nationalism & Revolution",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "49th Annual Conference of the Society for Latin American Studies",
+        "apresentacao": "Memories of warfare in contemporary Bolivia",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "7º Congresso da Associação de Estudos Bolivianos",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIX Congresso da Associação Latino-Americana de Sociologia",
+        "apresentacao": "Memórias coletivas na Bolívia contemporânea: uma tentativa de entender a vigência da rebelião de Tupac Katari",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ECPR Summer School \"The International Politics of Latin America\"",
+        "apresentacao": "Past, memories and warfare in contemporary Bolivia",
+        "ano": 2012,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Interdisciplinary Seminar ?The return of the indian?",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Oficina sobre ?Viver bem? oferecida pelo IIADI e pelo Cenprotec",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Workshop on Memory and History (QMUL)",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Simpósio Lutas Sociais na América Latina",
+        "apresentacao": "Revoltas do início do século XXI na Bolívia",
+        "ano": 2010,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Encontro de Pós-Graduandos da FFLCH/USP",
+        "apresentacao": "Momentos para construção da nação boliviana: de 1809 a 1952",
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Seminário de Lutas e Resistências: ?Lutas sociais na Bolívia?",
+        "apresentacao": "Bolívia: nacionalismo e etnicidade nas lutas contemporâneas",
+        "ano": 2010,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "33o",
+        "apresentacao": "Encontro Anual da Anpocs",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "IAMAMOTO, S. A. S.; AMARAL, A. I. ; MCNELLY, A.",
+        "evento": "15 Years of Plurinational Bolivia: Democracy, Indigenous Rights, Development and Popular Economy",
+        "ano": 2024,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "IAMAMOTO, S. A. S.. III Congresso Latino-Americano de Ecologia Política. 2019. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "ARANTES, R.; SOUZA, C. A.; IAMAMOTO, S. A. S.. Participação em banca de LUCIANO PITA DOS SANTOS. Repertórios de interação da ?Articulação do Centro Antigo de Salvador? com a Câmara Municipal: demandas de luta por moradia e permanência no território. 2025. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "LUCIANO PITA DOS SANTOS",
+        "membros_banca": [
+          "ARANTES, R.",
+          "SOUZA, C. A.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "Repertórios de interação da ?Articulação do Centro Antigo de Salvador? com a Câmara Municipal: demandas de luta por moradia e permanência no território",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "VARGAS, F.; FLEURY, L.C.; IAMAMOTO, S. A. S.. Participação em banca de JULIANA MARIA TEIXEIRA DA CONCEIÇÃO. ENTRE SUJEITOS, DOCUMENTOS E POSSIBILIDADES DISCURSIVAS: A CONSTRUÇÃO DO TEMA DAS MUDANÇAS CLIMÁTICAS A PARTIR DOS DISCURSOS MOBILIZADOS PELAS NAÇÕES UNIDAS DO BRASIL E A CLIMA INFO.. 2025. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "JULIANA MARIA TEIXEIRA DA CONCEIÇÃO",
+        "membros_banca": [
+          "VARGAS, F.",
+          "FLEURY, L.C.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "ENTRE SUJEITOS, DOCUMENTOS E POSSIBILIDADES DISCURSIVAS: A CONSTRUÇÃO DO TEMA DAS MUDANÇAS CLIMÁTICAS A PARTIR DOS DISCURSOS MOBILIZADOS PELAS NAÇÕES UNIDAS DO BRASIL E A CLIMA INFO",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "PEREIRA, C. G.; TEIXEIRA, R. F.; EPITACIO, S. S. F.; IAMAMOTO, S. A. S.. Participação em banca de VICTÓRIA MARTINS DE SOUZA ALICRIM. ENTRE PROJETOS E NARRATIVAS: Uma análise da atuação política dos vereadores da extrema direita na Câmara Municipal de Salvador (2017-2020). 2024. Dissertação (Mestrado em CIÊNCIA POLÍTICA) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "VICTÓRIA MARTINS DE SOUZA ALICRIM",
+        "membros_banca": [
+          "PEREIRA, C. G.",
+          "TEIXEIRA, R. F.",
+          "EPITACIO, S. S. F.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "NASCIMENTO, L. F.; FERNANDES, D. C.; IAMAMOTO, S. A. S.. Participação em banca de JUCIANE PEREIRA DE JESUS. RESGATAR BONS VALORES, IDEIAS E SENTIMENTOS NO CORAÇÃO DOS BRASILEIROS: O BRASIL PARALELO E SEU PROJETO DE CONTRARREVOLUÇÃO CULTURAL. 2024. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "JUCIANE PEREIRA DE JESUS",
+        "membros_banca": [
+          "NASCIMENTO, L. F.",
+          "FERNANDES, D. C.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "RESGATAR BONS VALORES, IDEIAS E SENTIMENTOS NO CORAÇÃO DOS BRASILEIROS: O BRASIL PARALELO E SEU PROJETO DE CONTRARREVOLUÇÃO CULTURAL",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "MANO, Maíra Kubík; COLLING, L.; IAMAMOTO, S. A. S.. Participação em banca de Valentina Paz Bascur Molina. Kümedungun: Trajetórias de vida e a escrita de si de mulheres poetas Mapuche. 2019. Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Mestrado",
+        "aluno": "Valentina Paz Bascur Molina",
+        "membros_banca": [
+          "MANO, Maíra Kubík",
+          "COLLING, L.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "Kümedungun: Trajetórias de vida e a escrita de si de mulheres poetas Mapuche",
+        "curso": "Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CARDEL, L. M. P. S.; CAMARA, A. S.; SANTOS, D. A.; IAMAMOTO, S. A. S.. Participação em banca de Paulo Henrique Dantas. Mídia e MST: A construção da imagem e a atuação midiática do Movimento dos Trabalhadores Rurais Sem Terra no jornal O Estado de São Paulo (2001-2004). 2019. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2001,
+        "tipo": "Mestrado",
+        "aluno": "Paulo Henrique Dantas",
+        "membros_banca": [
+          "CARDEL, L. M. P. S.",
+          "CAMARA, A. S.",
+          "SANTOS, D. A.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "PEREIRA, C. G.; DANTAS NETO, P. F.; IAMAMOTO, S. A. S.. Banca examinadora de seleção do mestrado em ciência política. 2022. Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "REGATIERI, R. P.; BARREIROS, B. C.; IAMAMOTO, S. A. S.. Banca examinadora de seleção do mestrado em ciências sociais. 2022. Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "BRINGEL, B.; ALONSO, A.; BORBA, P.; MILANI, C. R. S.; IAMAMOTO, S. A. S.. Participação em banca de Marília Bernardes Closs. Entre palos, piedras y petardos: confronto político e repertórios violentos do sindicalismo cocalero do Trópico de Cochabamba na Bolívia Rio de Janeiro 2024. 2024. Tese (Doutorado em Pós-Graduação em Ciência Política) - Instituto de Estudos Sociais e Políticos.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Marília Bernardes Closs",
+        "membros_banca": [
+          "BRINGEL, B.",
+          "ALONSO, A.",
+          "BORBA, P.",
+          "MILANI, C. R. S.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "Entre palos, piedras y petardos: confronto político e repertórios violentos do sindicalismo cocalero do Trópico de Cochabamba na Bolívia Rio de Janeiro 2024",
+        "curso": "2024. Tese (Doutorado em Pós-Graduação em Ciência Política)",
+        "universidade": "Instituto de Estudos Sociais e Políticos"
+      },
+      {
+        "descricao": "GONZALEZ, M. V. E.; MIGUEL, L. F.; MANO, Maíra Kubík; REGATIERI, R. P.; SOUZA, C. A.; IAMAMOTO, S. A. S.. Participação em banca de GELMA GABRIELA DE MATOS MESSIAS. OS VEREADORES DE SALVADOR (1996-2016): PERFIS SOCIAIS, CAPITAL POLÍTICO E OS \"LUGARES\" DAS MULHERES.. 2022. Tese (Doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 1996,
+        "tipo": "Tese de Doutorado",
+        "aluno": "GELMA GABRIELA DE MATOS MESSIAS",
+        "membros_banca": [
+          "GONZALEZ, M. V. E.",
+          "MIGUEL, L. F.",
+          "MANO, Maíra Kubík",
+          "REGATIERI, R. P.",
+          "SOUZA, C. A.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ALMEIDA, A. J. F. S.; PEREIRA, F. M.; CANCELA, F. E. T.; CAMARA, A. S.; IAMAMOTO, S. A. S.. Participação em banca de Fernando José Larrea Maldonado. Estado e Movimento Indígenano Equador: Do Multiculturalismo neoliberal ao Estado Plurinacional degradado (1990-2017). 2018. Tese (Doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 1990,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Fernando José Larrea Maldonado",
+        "membros_banca": [
+          "ALMEIDA, A. J. F. S.",
+          "PEREIRA, F. M.",
+          "CANCELA, F. E. T.",
+          "CAMARA, A. S.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "RESENDE, R. C.; PEREIRA, C. G.; IAMAMOTO, S. A. S.. Participação em banca de ANA VIRGINIA DE AZEVEDO OLIVEIRA.DIGNIDADE MENSTRUAL: FORMAÇÃO DE AGENDA DA POLÍTICA PÚBLICA NO BRASIL. 2024. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "ANA VIRGINIA DE AZEVEDO OLIVEIRA",
+        "membros_banca": [
+          "RESENDE, R. C.",
+          "PEREIRA, C. G.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "DIGNIDADE MENSTRUAL: FORMAÇÃO DE AGENDA DA POLÍTICA PÚBLICA NO BRASIL",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "TEIXEIRA, R. F.; PEREIRA, C. G.; IAMAMOTO, S. A. S.. Participação em banca de Izabela Graziani Alves Simas.Uma nova face dos movimentos sociais: a direita que vai às ruas e às redes. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Izabela Graziani Alves Simas",
+        "membros_banca": [
+          "TEIXEIRA, R. F.",
+          "PEREIRA, C. G.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "Uma nova face dos movimentos sociais: a direita que vai às ruas e às redes",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARROS, L. V.; SAMAGAIA, J.; IAMAMOTO, S. A. S.. Participação em banca de Sara Matos do Nascimento.Revisão de literatura sobre movimentos sociais no Brasil: reflexões acerca da categoria classes sociais. 2018. Trabalho de Conclusão de Curso (Graduação em Serviço Social) - Universidade Federal da Bahia.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Sara Matos do Nascimento",
+        "membros_banca": [
+          "BARROS, L. V.",
+          "SAMAGAIA, J.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "Revisão de literatura sobre movimentos sociais no Brasil: reflexões acerca da categoria classes sociais",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Serviço Social)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "PEREIRA, C. G.; AMORIM, M. S. S.; IAMAMOTO, S. A. S.. Participação em banca de VICTÓRIA MARTINS DE SOUZA ALICRIM.Em busca da nova direita: uma análise da produção legislativa da Câmara Municipal de Salvador (2017-2019). 2020.",
+        "ano": 2017,
+        "tipo": "Participação em banca",
+        "aluno": "VICTÓRIA MARTINS DE SOUZA ALICRIM",
+        "membros_banca": [
+          "PEREIRA, C. G.",
+          "AMORIM, M. S. S.",
+          "IAMAMOTO, S. A. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "MALOMALO, B. I.; BENEVIDES, S. C. O.; IAMAMOTO, S. A. S.. Concurso Público de Provas e Títulos para Provimento Efetivo de Vagas da Carreira de Magistério Superior, na Classe de Professor Adjunto A, do Edital no. 92/2016, no Setor de Estudo: Ciência Política. 2017. Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2016,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "PEREIRA, C. G.; OLIVEIRA, C. L. P.; IAMAMOTO, S. A. S.. Banca de Seleção de Professor por tempo determinado DCP/UFBA. 2021.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 15,
+    "total_livros": 3,
+    "total_capitulos": 6,
+    "total_trabalhos_congressos": 7,
+    "total_projetos_pesquisa": 7,
+    "total_projetos_extensao": 3,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 14,
+    "total_orientacoes_andamento": 8
+  }
+}

@@ -1,0 +1,4515 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "0974813858531390",
+    "nome_completo": "Lucas Amaral de Oliveira",
+    "nome_citacoes": "OLIVEIRA, L. A.;OLIVEIRA, LUCAS AMARAL DE;OLIVEIRA, LUCAS;OLIVEIRA, LUCAS AMARAL;DE OLIVEIRA, LUCAS AMARAL;LUCAS AMARAL DE OLIVEIRA",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Federal da Bahia, Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: https://sociologia.ufba.br/prof-lucas-amaral-de-oliveira",
+    "atualizacao_cv": "28/04/2026",
+    "url": "http://lattes.cnpq.br/0974813858531390",
+    "texto_resumo": "Professor do Departamento de Sociologia e coordenador do Programa de Pós-Graduação em Ciências Sociais (PPGCS) da Universidade Federal da Bahia (UFBA), onde lidera o PERIFÉRICAS - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades. Foi Visiting Fellow da British Academy na Queens University Belfast (2023) e pesquisador visitante na Universidade de Copenhague, no âmbito do CAPES-PrInt (2024). Doutor e mestre em Sociologia pela Universidade de São Paulo (USP) e bacharel em Ciências Sociais pela Universidade Estadual de Londrina (UEL). É autor de ''Experiências Estéticas em Movimento'' (ApeKu, 2020) e coorganizador de ''Teoria Social e Desafios Pós-Coloniais'' (Edufba, 2024). Desenvolve pesquisas em história intelectual e das ideias, sociologia da cultura e sociologia urbana, com ênfase nos debates sobre formação nacional, questão racial e processos de produção e disputa do espaço urbano. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Sociologia",
+      "nome_instituicao": "Universidade de São Paulo, USP, Brasil",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2018",
+      "descricao": "com período sanduíche em Aarhus University (Orientador: Derek Pardue). Título: Experiências estéticas em movimento: produção literária nas periferias paulistanas O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2018. Orientador: Maria Helena Oliva Augusto. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil."
+    },
+    {
+      "tipo": "Mestrado em Sociologia",
+      "nome_instituicao": "Universidade de São Paulo, USP, Brasil",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "descricao": "com período sanduíche em Università di Bologna (Orientador: Roberto Vecchi). Título: Primo Levi e os rumores da memória: limites e desafios na construção do testemunho. O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2013. Orientador: Maria Helena Oliva Augusto. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Cultura."
+    },
+    {
+      "tipo": "Graduação em Ciências Sociais",
+      "nome_instituicao": "Universidade Estadual de Londrina, UEL, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2010",
+      "descricao": "Título: A Atualidade da Exceção: considerações sobre o paradigma biopolítico da modernidade. Orientador: Ana Cleide Chiarotti Cesário."
+    },
+    {
+      "tipo": "Graduação interrompida em 2007 em Direito",
+      "nome_instituicao": "Universidade Estadual do Norte do Paraná, UENP, Brasil",
+      "ano_inicio": "2005 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Ano de interrupção: 2007"
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Adjunto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Programa de Pós-Graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Programa de Pós-Graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Programa de Pós-Graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Programa de Pós-Graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2025 - 12/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2025 - 07/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2024 - 05/2025",
+      "ano_inicio": "2024",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Programa de Pós-Graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2024 - 12/2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 07/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2022 - 01/2023",
+      "ano_inicio": "2022",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Programa de Pós-Graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2021 - 09/2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Colegiado de Ciências Sociais - UFBA."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2021 - 07/2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Colegiado de Ciências Sociais - UFBA."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2020 - 06/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "University of Copenhagen, UK, Dinamarca.",
+      "instituicao_nome": "University of Copenhagen",
+      "instituicao_sigla": "UK",
+      "instituicao_pais": "Dinamarca",
+      "periodo": "2023 - 2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": "Professor Visitante",
+      "enquadramento": "Guest Researcher",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Queen's University Belfast, QUB, Irlanda do Norte.",
+      "instituicao_nome": "Queen's University Belfast",
+      "instituicao_sigla": "QUB",
+      "instituicao_pais": "Irlanda do Norte",
+      "periodo": "2023 - 2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": "Pós-Doutorado",
+      "enquadramento": "Pesquisador Visitante",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade de Brasília, UnB, Brasil.",
+      "instituicao_nome": "Universidade de Brasília",
+      "instituicao_sigla": "UnB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - 2024",
+      "ano_inicio": "2024",
+      "ano_fim": "2024",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pós-Doutorado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil.",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2019",
+      "ano_inicio": "2018",
+      "ano_fim": "2019",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor substituto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2018 - 12/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2018 - 12/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2018 - 12/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Goiás, UFG, Brasil",
+      "instituicao_nome": "Universidade Federal de Goiás",
+      "instituicao_sigla": "UFG",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2018 - 12/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Aarhus University, AU, Dinamarca.",
+      "instituicao_nome": "Aarhus University",
+      "instituicao_sigla": "AU",
+      "instituicao_pais": "Dinamarca",
+      "periodo": "2016 - 2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": "Visiting Fellow",
+      "enquadramento": "Researcher at Department of Global Studies",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade de São Paulo, USP, Brasil.",
+      "instituicao_nome": "Universidade de São Paulo",
+      "instituicao_sigla": "USP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2018",
+      "ano_inicio": "2011",
+      "ano_fim": "2018",
+      "vinculo": "Livre",
+      "enquadramento": "Pesquisador",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Università di Bologna, UNIBO, Itália.",
+      "instituicao_nome": "Università di Bologna",
+      "instituicao_sigla": "UNIBO",
+      "instituicao_pais": "Itália",
+      "periodo": "2012 - 2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": "Pesquisador Visitante",
+      "enquadramento": "Visiting Researcher",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Londrina, UEL, Brasil.",
+      "instituicao_nome": "Universidade Estadual de Londrina",
+      "instituicao_sigla": "UEL",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2010",
+      "ano_inicio": "2007",
+      "ano_fim": "2010",
+      "vinculo": "Livre",
+      "enquadramento": "Aluno",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual de Londrina, UEL, Brasil",
+      "instituicao_nome": "Universidade Estadual de Londrina",
+      "instituicao_sigla": "UEL",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Analysis - Soluções em Estatística, ANALYSIS, Brasil.",
+      "instituicao_nome": "Analysis - Soluções em Estatística",
+      "instituicao_sigla": "ANALYSIS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2014",
+      "ano_inicio": "2013",
+      "ano_fim": "2014",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Prestação de serviço autônomo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Jacarezinho, P/JACAREZINHO, Brasil.",
+      "instituicao_nome": "Prefeitura Municipal de Jacarezinho",
+      "instituicao_sigla": "P/JACAREZINHO",
+      "instituicao_pais": "Brasil",
+      "periodo": "2006 - 2007",
+      "ano_inicio": "2006",
+      "ano_fim": "2007",
+      "vinculo": "Servidor público",
+      "enquadramento": "Chefe de Seção de Pesquisas e Documentos",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Jacarezinho, P/JACAREZINHO, Brasil",
+      "instituicao_nome": "Prefeitura Municipal de Jacarezinho",
+      "instituicao_sigla": "P/JACAREZINHO",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual do Norte do Paraná, UENP, Brasil.",
+      "instituicao_nome": "Universidade Estadual do Norte do Paraná",
+      "instituicao_sigla": "UENP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": "Livre",
+      "enquadramento": "Aluno",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Estadual do Norte do Paraná, UENP, Brasil",
+      "instituicao_nome": "Universidade Estadual do Norte do Paraná",
+      "instituicao_sigla": "UENP",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2005 - 12/2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Diretório Acadêmico Octávio Mazziotti."
+      ]
+    },
+    {
+      "instituicao": "Universidade Estadual do Norte do Paraná, UENP, Brasil",
+      "instituicao_nome": "Universidade Estadual do Norte do Paraná",
+      "instituicao_sigla": "UENP",
+      "instituicao_pais": "Brasil",
+      "periodo": "12/2005 - 12/2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Fundinopi."
+      ]
+    },
+    {
+      "instituicao": "Universidade Estadual do Norte do Paraná, UENP, Brasil",
+      "instituicao_nome": "Universidade Estadual do Norte do Paraná",
+      "instituicao_sigla": "UENP",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2006 - 11/2006",
+      "ano_inicio": "2006",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino Pesquisa e Extensão Fundinopi."
+      ]
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "A crise ambiental em perspectiva: redes sociotécnicas e a decolonização da política climática nos territórios do Sul da Bahia",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O projeto tem como pano de fundo a construção coletiva de epistemologias insurgentes face à atual crise climática. O objetivo central é analisar e fomentar a criação de uma rede de pesquisa (com reuniões, eventos e acervos) desde a multiplicidade das práticas capazes de coproduzir conhecimento: cientistas, indígenas, quilombolas, gestores são concernidos por chuvas, plantas, solos, rios etc. formando um tecido disparate de experiências (i) de saber e (ii) de arranjo político. O enclave empírico é a região sul da Bahia. A metodologia se funda na teoria-ator-rede e na pesquisa em co-labor.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) / Doutorado: (3) . Integrantes: Lucas Amaral de Oliveira - Integrante / GIULIA VENTURA DIAS DE FREITAS Cunha - Integrante / Juliana Maria Teixeira da Conceição - Integrante / Débora Moreira Lemes da Silva - Integrante / Felipe Milanez - Integrante / Felipe Vargas - Coordenador.",
+        "Descrição: O projeto tem como pano de fundo a construção coletiva de epistemologias insurgentes face à atual crise climática. O objetivo central é analisar e fomentar a criação de uma rede de pesquisa (com reuniões, eventos e acervos) desde a multiplicidade das práticas capazes de coproduzir conhecimento e existência: cientistas, indígenas, quilombolas, gestores são concernidos por chuvas, plantas, solos, rios etc. formando um tecido disparate de experiências (i) de saber e (ii) de arranjo político. O enclave empírico é a região sul da Bahia, nos Territórios-Identidade Litoral Sul, Costa do Descobrimento, e Extremo Sul. A metodologia se funda na teoria-ator-rede e na pesquisa em co-labor.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) / Doutorado: (2) . Integrantes: Felipe Vargas - Coordenador / Ângela Camana - Integrante / Lucas Amaral De Oliveira - Integrante / GIULIA VENTURA DIAS DE FREITAS Cunha - Integrante / Juliana Maria Teixeira da Conceição - Integrante / Alice Alves de Carvalho - Integrante / Alice Giovanna dos Anjos Camacã - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "GIULIA VENTURA DIAS DE FREITAS Cunha",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juliana Maria Teixeira da Conceição",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Débora Moreira Lemes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Felipe Milanez",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Felipe Vargas",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ângela Camana",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Amaral De Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Alice Alves de Carvalho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Alice Giovanna dos Anjos Camacã",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "A contrapelo do cânone: descolonizando a teoria social, a docência e a formação de cientistas sociais",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Considerando debates recentes acerca da descolonização de universidades, currículos e espaços educacionais, sobretudo no contexto das instituições públicas brasileiras de ensino superior, onde essa agenda tem adquirido densidade com a consolidação das ações afirmativas, este projeto pretende analisar o impacto dessas dinâmicas na formação de estudantes e docentes de Ciências Sociais, bem como no ensino de sociologia na educação básica. Para tanto, questiona-se quais os efeitos desses esforços sobre o cânone, as tradições intelectuais, o repertório conceitual e as metodologias que informam o campo das Ciências Sociais. O projeto possui três objetivos principais. 1) Mapear autoras(es) e perspectivas presentes nos currículos da formação de cientistas sociais, bem como nas disciplinas de sociologia, antropologia e ciência política ofertadas a outros cursos em IES públicas brasileiras. 2) Sistematizar uma releitura crítica do repertório que orienta a formação de cientistas sociais e docentes, buscando dilatar as referências utilizadas, o que demanda a crítica imanente dos textos, a análise do contexto de produção e das dinâmicas de poder envolvidas em disputas teóricas e sua presença na literatura especializada e nos currículos. 3) Realizar pesquisa sistemática e promover discussões aprofundadas de autoras(es), conceitos e tradições que sofreram processos de apagamento. O debate em torno da diversidade, que permeia o ensino das Ciências Sociais de forma transversal, envolve embates teóricos e a prática educacional. Nesse sentido, este projeto pretende aprofundar as discussões sobre democratização e descolonização da universidade, tanto em relação à sua estrutura institucional quanto às iniciativas curriculares. Para materializar os achados da pesquisa, estão previstas ações extensionistas que visam a formação docente e a promoção de uma maior diversidade de perspectivas, contribuindo para uma compreensão mais informada dos desafios enfrentados pela sociedade brasileira.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (11) . Integrantes: Lucas Amaral de Oliveira - Integrante / Bruna Nunes da Costa Triana - Integrante / Mariana Toledo - Integrante / Camila Mainardi - Integrante / Ricardo Pagliuso Regatieri - Integrante / Fabiana Augusta Alves Jardim - Integrante / Patrícia da Silva Santos - Integrante / Stefan Fornos Klein - Coordenador / Marcelo Carvalho Rosa - Integrante / Luciana de Oliveira Dias - Integrante / Aristeu Portela Júnior - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Cooperação."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruna Nunes da Costa Triana",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariana Toledo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Camila Mainardi",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ricardo Pagliuso Regatieri",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fabiana Augusta Alves Jardim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Patrícia da Silva Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Stefan Fornos Klein",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Carvalho Rosa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luciana de Oliveira Dias",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Aristeu Portela Júnior",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    },
+    {
+      "nome": "Histórias contestadas da formação nacional: contranarrativas na literatura brasileira contemporâne",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Nas últimas duas décadas, as literaturas brasileiras de autoria negra, sintetizadas em obras e autores/as que vêm marcando o mercado editorial contemporâneo a exemplo de Conceição Evaristo, Ana Maria Gonçalves, Itamar Vieira Júnior, Eliana Alves Cruz e Jeferson Tenório , têm conformado um conjunto importante de contranarrativas da formação nacional. O objetivo desta pesquisa é identificar tanto os atributos dessa emergência quanto o sentido político que pode ter a presença dessas contranarrativas no sistema literário brasileiro. A pesquisa se orienta por duas questões. 1) De um lado, entender até que ponto a maior representatividade de autores/as não-brancos/as no mercado editorial reflete mudanças não só na conformação do campo literário no que tange à visibilidade, reconhecimento e prestígio, mas sobretudo em espaços institucionalizados de produção de fala, escrita e conhecimento. 2) De outro, analisar em que medida literaturas de autoria negra têm conseguido tensionar debates sobre o sentido da formação, verificando como alguns ideologemas responsáveis por ficções nacionais como democracia racial, mestiçagem e cordialidade são enfrentados por escritores/as em suas obras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Lucas Amaral de Oliveira - Coordenador / Rodrigo Rui Simão de Medeiros - Integrante / Taina Moraes dos Santos - Integrante / Edielso Barbosa dos Santos - Integrante / Amanda Ferreira Dantas Souza - Integrante / Hortencia Sabrine Vinhas Teles - Integrante / Carlos Alves Siqueira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rodrigo Rui Simão de Medeiros",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Taina Moraes dos Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Edielso Barbosa dos Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Amanda Ferreira Dantas Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Hortencia Sabrine Vinhas Teles",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carlos Alves Siqueira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Representações sociais e midiáticas sobre a atuação de facções criminosas nas periferias urbanas de Salvador",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: A atuação de facções dentro e fora das prisões conta com uma série de trabalhos em diversos contextos. As prisões brasileiras não são exceção e engrossam os exemplos de formação e atuação destes grupos. Hoje, as facções se constituem como parte integrante da cadeia de relações econômicas, sociais e políticas dentro das unidades prisionais, influenciando nas dinâmicas também em áreas urbanas onde exercem influência. O objetivo central desta proposta é analisar em que medida a existência e a atuação de facções criminosas, em bairros da cidade de Salvador, são construídas a partir de representações sociais (descritas, narradas e pensadas) por moradores/as das áreas onde esses grupos atuam ou exercem influência. Paralelamente, pretende-se abordar, através da análise de conteúdo, a forma como os principais veículos de informação da capital baiana reportam a atuação desses grupos, com atenção especial para os jornais \"O Correio\" e \"A Tarde\". Usaremos o ferramental teórico metodológico ligado a literatura sobre representações sociais e violência e também de análise de conteúdo e representações midiáticas. Esperamos poder contrastar as especificidades dos grupos locais frente as principais facções nacionais e situar as principais dinâmicas existentes no cenário de Salvador.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Lucas Amaral de Oliveira - Integrante / Juliana Oliveira Santos das Neves - Integrante / Janaina Barros de Santana - Integrante / Renata Isabel de Almeida Ferreira - Integrante / Luiz Claudio Lourenço - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juliana Oliveira Santos das Neves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Janaina Barros de Santana",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Renata Isabel de Almeida Ferreira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luiz Claudio Lourenço",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Glossário Periférico: Descentrando Conceitos das Ciências Sociais",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O apelo para descolonizar universidades, currículos e espaços educacionais tem ganhado força nos últimos anos. Um eixo importante desse importante processo, no interior das Ciências Sociais, tem sido o exercício de repensar teóricos/as, tradições, correntes, epistemologias e bibliografias que embasam disciplinas, ementas e programas de ensino. No entanto, ao menos no Brasil, pouco se tem refletido sobre como descentrar categorias que, frequentemente, são operacionalizadas para enquadrar nossas análises científicas. Esta proposta de pesquisa é uma forma de contribuir com esse processo de descolonização das Ciências Sociais, em particular da Teoria Sociológica. O objetivo é construir um glossário crítico de conceitos fundamentais que informam a Teoria Social contemporânea, a partir de uma perspectiva do Sul Global, periférica e pós-colonial. Para tanto, a pesquisa envolverá cinco eixos: (I) levantamento de categorias de análise cruciais para o debate pós e decolonial; (II) mapeamento de autores/as que foram apagados/as ou menorizados/as na constituição dos cânones e das tradições; (III) discussão da literatura específica que embasa conceitos e contribuições teórico-metodológicas desses/as autores/as, a partir de tensionamentos, deslocamentos e descentramentos recentes na Teoria Sociológica; (IV) construção de um banco de conceitos, composto de dois eixos estruturantes, a saber, ?categorias? e ?intelectuais?; e, por fim, (V) confecção de uma plataforma digital para a disposição e divulgação do Glossário Periférico, integrada ao grupo de pesquisa que lidero na UFBA (www.perifericas.org), a fim de que alunos/as, professores/as, acadêmicos/as e interessados/as em Teoria Social contemporânea (e áreas correlatas) possam acessar e dispor de um repertório sistematizado, a partir de uma perspectiva não eurocêntrica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Lucas Amaral de Oliveira - Coordenador / Bruna de Santana Souza - Integrante / Isabelle dos Santos Dorea Goncalves - Integrante / Raquel Chagas Paim - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Bruna de Santana Souza",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isabelle dos Santos Dorea Goncalves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Raquel Chagas Paim",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "As editoras cartoneras e os contra-usos da cultura em cidades latino-americanas",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: A pesquisa busca analisar, de um lado, como cartoneras de diferentes cidades latino-americanas vêm descentralizando práticas literárias urbanas e, de outro, como tal processo está ligado à ampliação de redes locais, translocais e transnacionais de atuação, decorrentes da circulação de pessoas, saberes, línguas, projetos, práticas e objetos literários. Mais designadamente, o projeto examina os dispositivos que têm sido colocados em prática por cartoneras de diferentes cidades latino-americanas para ampliar os contra-usos da cultura urbana em suas respectivas cidades de atuação. Inicialmente, o plano abrange quatro coletivos literários: Severina Catadora (Garanhuns) e Mariposa Cartonera (Recife), no Brasil; Eloísa Cartonera (Buenos Aires), na Argentina, e Mamá Dolores (Queretaro), no México. A partir desses projetos, a pesquisa pode ampliar o seu recorte empírico para outras cartoneras e cidades da América Latina. O objetivo é compreender em que medida o associativismo comunitário e as políticas editoriais de diferentes cartoneras refletem especificidades urbanas de seus respectivos lugares de ação e atuação, e como o vínculo entre editoras e cooperativas de catadores/as indicam contra-usos de espaços urbanos e reivindicações públicas quanto ao direito à cidade. Para tanto, a bolsista deverá: (a) coletar materiais referentes às cartoneras, (b) sistematizar revisões bibliográficas; (c) realizar etnografia digital das editoras cartoneras em diferentes cidades; (d) mapear e contatar agentes ligados/as aos quatro projetos contemplados por este plano de trabalho; (e) junto com o orientador, realizar entrevistas com agentes envolvidos/as com o universo das cartoneras.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Lucas Amaral de Oliveira - Coordenador / Bruna de Santana Souza - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Bruna de Santana Souza",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Decolonizando práticas literárias na América Latina",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: O projeto se debruça sobre ?cartoneras? latino-americanas, editoras que produzem e compartilham livros artesanais, confeccionados à mão, a partir da reciclagem de materiais coletados por cooperativas de catadores. Desde de seu surgimento, em Buenos Aires, em 2003, com ?Eloísa Cartonera?, o movimento se espalhou pelo Sul Global, especialmente na América Latina, promovendo a produção literária e a participação comunitária local em projetos culturais altamente sustentáveis. Esta pesquisa tem como objetivo analisar a rede transcultural estabelecida entre nove ?cartoneras? no Brasil, na Argentina e no México, abordando-as como movimento transnacional que, por um lado, propõe formas alternativas de produzir e distribuir livros em espaços não institucionalizados e, por outro, incentiva a transformação de objetos ?não artísticos? em ?arte?. Busca-se verificar em que medida o potencial de criatividade epistemológica e artística colocado em prática pelas ?cartoneras? tem sido responsável por um processo de decolonização de práticas literárias na América Latina. Ao mesmo tempo, a partir de pesquisa etnográfica e midiática, alinhada a trabalhos sobre Teorias Decoloniais, o projeto examinará os fatores que moldam as perspectivas transnacionais, socioculturais e estéticas de agentes cartoneros, que incluem: descentralização de saberes, práticas e estéticas, impulsionada pela ideia de estimular a circulação ampla de bens literários em espaços não institucionalizados, mediante a difusão física e/ou digital de livros; o surgimento e o fortalecimento de redes transnacionais de agenciamento a partir da circulação de pessoas, saberes, línguas, projetos e bens literários. O impacto da pesquisa será expandir os debates acadêmicos e extra-acadêmicos sobre formas sustentáveis, inovadoras, inclusivas e transgressivas de produção literária, destacando o uso de materiais recicláveis na produção de livros.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Lucas Amaral de Oliveira - Coordenador / Laura de Souza Oliveira Araújo - Integrante / Isabelle dos Santos Dorea Goncalves - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Laura de Souza Oliveira Araújo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isabelle dos Santos Dorea Goncalves",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Periféricas - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades",
+      "ano_inicio": "2019",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Periféricas - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades, vinculado à Faculdade de Filosofia e Ciências Humanas da Universidade Federal da Bahia (FFCH/UFBA), reúne pesquisas preocupadas com a emergência de teorias sociais produzidas nas periferias do capitalismo, a partir da afirmação do Sul Global como lugar de enunciação, e empenhadas em tensionar as implicações do orientalismo, colonialismo, eurocentrismo, racismo e androcentrismo nas dinâmicas de produção do conhecimento. O núcleo tem como tarefa primordial discutir os limites e as possibilidades analíticas, epistêmicas e metodológicas de projetos teóricos de descolonização do saber no mundo contemporâneo, sobretudo aqueles produzidos nos contextos latino-americano, africano e asiático. Em especial, dentro dessa seara, cabe reexaminar aportes da teoria social brasileira que se destacaram, na segunda metade do século XX, pela recepção crítica e reelaboração de enfoques do Norte Global, propondo novos itinerários para tratar da complicada inserção das sociedades periféricas no projeto de ?modernidade?. Essas contribuições exprimem convergências, mas também contrapontos interessantes com o pensamento pós e decolonial, na medida em que pautam suas análises na especificidade da formação histórica brasileira. O Periféricas também pretende constituir um espaço de produção, leitura e circulação de aportes críticos entre docentes e discentes da UFBA e de outras instituições nacionais, de modo a privilegiar novos caminhos etnográficos e teóricos-metodológicos de investigação social. O objetivo do núcleo é ampliar os debates sobre os paradigmas emergentes na teoria social contemporânea, sobretudo os que ultimamente têm questionado alguns fundamentos supostamente universalizantes que balizam as ciências sociais no mundo inteiro, colocando-se em contraste com discursos hegemônicos da área e reconhecendo experiências históricas, paradigmas políticos e práticas socioculturais que não exclusivamente as do Norte Global. O Periféricas busca ser um canal de reflexão no Nordeste brasileiro sobre os desafios desses movimentos de descolonização do saber, atuando a partir de nove eixos que abrangem pesquisas teóricas e empíricas de docentes e discentes do núcleo: (1) Modernidades e Teoria Social; (2) Releituras da Teoria Social Brasileira; (3) Aportes Pós-Coloniais, Decoloniais, Pós-Ocidentais, Teorias do Sul e Teorias Críticas; (4) O Local na Produção de Contra-Hegemonias; (5) Capitalismo, Colonialidades e Dependência; (6) Centros, Periferias e Geopolíticas do Conhecimento; (7) Colonialidade do Poder e Interseccionalidade; (8) Epistemologias Feministas, Antirracistas e Indígenas; (9) Ecologia Política e Paradigmas Alternativos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (13) / Mestrado acadêmico: (5) / Doutorado: (23) . Integrantes: Lucas Amaral de Oliveira - Coordenador / Ana Rodrigues Cavalcanti Alves - Integrante / Ricardo Pagliuso Regatieri - Integrante / Resultados da pesquisa Resultados da Web Sue Angélica Serra - Integrante / Clóvis Roberto Zimmermann - Integrante / Maria Victória Espiñeira González - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ricardo Pagliuso Regatieri",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Resultados da pesquisa Resultados da Web Sue Angélica Serra",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Clóvis Roberto Zimmermann",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Victória Espiñeira González",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "The case of marginal literature in São Paulo: theoretical, analytical and methodological contributions",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: This is a project for a Research Internship Abroad involving an eight-month period as a visiting researcher to be spent at the Department of Global Studies at Aarhus University, Denmark, under the supervision of Dr Derek Pardue. The proposal is linked to the research I am conducting for the PhD Program in Sociology at University of São Paulo, the aim of which is to understand how some spaces of community participation and artistic creation in neighbourhoods on the outskirts of São Paulo make the emergence of new writers possible. The research abroad will afford me the opportunity to acquire information, knowledge and experience that are essential to my research, namely in relation to three aspects: a) the systematisation and discussions on recent publications on popular culture, and in particular the relationship between literature and the periphery in contemporary Brazil; b) furthering my theoretical and methodological knowledge through exchanges with other researchers and participation in seminars focused on my theme; c) getting in touch with research sources that help to strengthen the reflective and empirical aspects of my PhD.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Lucas Amaral de Oliveira - Integrante / Maria Helena Oliva Augusto - Integrante / Derek Pardue - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Helena Oliva Augusto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Derek Pardue",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Experiências estéticas em movimento: os saraus e a produção literária nas periferias paulistanas",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: Há mais de uma década, tem sido possível observar nas periferias paulistanas dois fenômenos culturais concomitantes. De um lado, a projeção literária de escritores oriundos de bairros pobres da capital, que atribuem a si próprios e a seus produtos os adjetivos ?marginal? e/ou ?periférico?. De outro, o surgimento e a proliferação de instâncias de criação, circulação e consumo de produtos literários, os saraus, que reúnem regularmente centenas de pessoas em várias regiões de São Paulo e que vêm ajudando a modificar as dinâmicas artísticas e as representações desses espaços tidos como periféricos. Nesse contexto, gostaríamos de analisar o processo de formação de novos escritores da literatura marginal no ?subcampo de produção literária periférica? e a comunidade de redes interpessoais e translocais que eles vêm construindo a partir de sua participação em saraus de São Paulo, desde o final dos anos 1990. Interessa-nos saber qual o impacto dos saraus na trajetória de alguns moradores de bairros com pouco acesso a equipamentos culturais, vale dizer, como tais espaços de participação e criação artística viabilizam experiências literárias e, assim, possibilitam o surgimento de novos escritores.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (1) . Integrantes: Lucas Amaral de Oliveira - Integrante / Maria Helena Oliva Augusto - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Helena Oliva Augusto",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Entre Afogados e Sobreviventes: o testemunho de Primo Levi e a barbárie moderna",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: Este projeto de mestrado pretende trabalhar no âmbito de uma sociologia do testemunho, convertendo os relatos de Levi em problemas de caráter sociológico, na tentativa de contribuir na seara de investigações aberta pelos depoimentos desse grande literato ítalo-judeu. Para tanto, serão utilizadas como base teórica as contribuições de alguns autores da teoria social, desenvolvidas a partir das equações de Jameson para uma sociologia da literatura politicamente orientada, a fim de apreender em que medida a obra memorialística de Levi pode contribuir para um diagnóstico histórico e social da vida contemporânea.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Amaral de Oliveira - Coordenador / Maria Helena Oliva Augusto - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Maria Helena Oliva Augusto",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "A memória de Primo Levi sobre os campos de concentração e extermínio nazistas",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2011",
+      "descricao": [
+        "Descrição: Este estudo pretende expor alguns dos resultados, que ainda são provisórios, que chegamos até então em nossa pesquisa que, desde o início, propôs-se a fazer uma análise sociológica da literatura-memorialística do escritor italiano, químico, intelectual, judeu e sobrevivente de Auschwitz, Primo Levi. Para tanto, não faremos o simples resgate de uma memória individual e traumática, mas sim de processos sociais e de mecanismos culturais pelos quais um exemplo particular conseguiu conectar suas experiências subjetivas com outras semelhantes, convertendo-as, assim, em experiências coletivas.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Amaral de Oliveira - Coordenador / ANA CLEIDE CHIAROTTI CESARIO - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "ANA CLEIDE CHIAROTTI CESARIO",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Memória Coletiva e Patrimônio Cultural",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2010",
+      "descricao": [
+        "Descrição: Este projeto pretende dirigir um olhar compreensivo sobre a produção de signos e significados que geralmente acompanha a construção material da cidade. Para isso, entende-se que o ambiente urbano se faz presente no cotidiano dos cidadãos que, agindo não apenas como formadores de identidades individuais, se interagem expressando desigualdades, diferenças e contradições entre si. Deste modo, busca-se, com essa pesquisa, compreender como os moradores da cidade de Londrina-PR se relacionam com os referenciais do passado ? mediante o usufruto da memória coletiva ?, bem como com o seu entorno. Espera-se, destarte, ser possível entender os ?monumentos da cidade? mediante uma intertextualidade marcada pela confluência de uma memória regional com uma memória nacional.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Amaral de Oliveira - Integrante / ANA CLEIDE CHIAROTTI CESARIO - Coordenador / Ana Maria Chiarotti - Integrante. Financiador(es): Universidade Estadual de Londrina - Cooperação."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ANA CLEIDE CHIAROTTI CESARIO",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ana Maria Chiarotti",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Universidade Estadual de Londrina",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    },
+    {
+      "nome": "Julio Cortázar 2: no Jogo da Amarelinha",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2009",
+      "descricao": [
+        "Descrição: Projeto de Pesquisa que analisa o romance \"Rayuela\" de Julio Cortázar, à luz de conceitos como: fantástico, real/imaginário; realidade/verossimilhança; modernidade, unidade, jogo, entre outros. A partir dessa leitura, pretende-se fazer um questionamento acerca dos paradigmas teóricos de interpretação da realidade, uma vez que esta obra apresenta o homem de forma lúdica e lúcida, permitindo ao leitor entrar nas arestas insuspeitáveis do cotidiano até aceitar a presença de outras realidades que existem paralelamente à sua. Resta ao leitor decidir em qual lado da realidade vai-se instalar.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Lucas Amaral de Oliveira - Integrante / Amanda Pérez Montanez - Coordenador. Financiador(es): Universidade Estadual de Londrina - Cooperação."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Amanda Pérez Montanez",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Universidade Estadual de Londrina",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    },
+    {
+      "nome": "Integração Mestrado e Graduação",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2006",
+      "descricao": [
+        "Descrição: Essa integração tem um sentido propriamente acadêmico: visa enriquecer o repertório de questões a serem analisadas pelo programa de mestrado da instituição, no âmbito da teoria do direito e da justiça, fomentando ao máximo a cooperação e o potencial de trabalho coletivo disponível, a fim de que ocorra uma troca de conhecimentos, experiências e o enriquecimento dos saberes das partes envolvidas. Ademais, esta integração entre mestrandos e graduandos busca atender a indissociabilidade entre o ensino, a pesquisa e a extensão, além de assegurar a geração de conhecimentos necessários à melhoria da qualidade de vida da Região do Norte Pioneiro,. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (16) / Mestrado acadêmico: (10) . Integrantes: Lucas Amaral de Oliveira - Integrante / PELLIZZARI, Mateus Faeda - Integrante / CORREA, Elídia Aparecida - Integrante / CAMARGO, Daniel Marques de - Integrante / Romualdo Flávio Dropa - Coordenador. Financiador(es): Universidade Estadual do Norte do Paraná - Cooperação."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "PELLIZZARI, Mateus Faeda",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "CORREA, Elídia Aparecida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "CAMARGO, Daniel Marques de",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Romualdo Flávio Dropa",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Universidade Estadual do Norte do Paraná",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Desafios do Fazer Sociológico",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: O curso de extensão Desafios do fazer sociológico: novos rumos para problemas antigos pretende oferecer a toda a comunidade acadêmica e extra-acadêmica um conjunto de reflexões fundamentais sobre o processo de construção do conhecimento científico na área das ciências sociais e humanas. O objetivo é auxiliar os/as participantes a enfrentarem dificuldades no desenvolvimento de pesquisa, desde os desafios iniciais, de construção de um objeto de estudo, até a produção escrita de um texto, isto é, de compartilhamento e publicização dos resultados obtidos. Os temas que figuram em cada uma das sessões foram cuidadosamente elaborados para ensejar debates e exercícios sobre momentos cruciais do fazer sociológico. O primeiro encontro trata dos desafios relativos à construção do objeto nas ciências sociais, com ênfase em uma sociologia disposicionalista que afirma a necessária relação entre teoria e pesquisa. O segundo se dedica, mais detidamente, à etapa do trabalho de campo, debruçando-se sobre as vicissitudes de inserção no campo e das negociações com os interlocutores/as da pesquisa. Já o terceiro encontro se volta para algumas técnicas de análise de dados orais e escritos, destacando as distinções metodológicas e os limites entre elas. A quarta sessão, por sua vez, aborda dois caminhos que conduzem à análise de espaços sociais a partir de trajetórias - a biografia e a prosopografia. Por fim, a última sessão trata mais propriamente do processo de produção do saber sociológico, com foco especial na elaboração de textos, acadêmicos ou não, e na publicização do conhecimento gerado ao longo das pesquisas para o público geral.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (20) / Mestrado acadêmico: (15) / Doutorado: (15) . Integrantes: Lucas Amaral de Oliveira - Coordenador / Ana Rodrigues Cavalcanti Alves - Integrante / Felipe Vargas - Integrante / Luciana Duccini - Integrante / Bruno C. Barreiros - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Felipe Vargas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luciana Duccini",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno C",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "História",
+      "subarea": "História das Ideias",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: História / Subárea: História das Ideias."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "História",
+      "subarea": "Teoria Social Contemporânea",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: História / Subárea: Teoria Social Contemporânea."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "História",
+      "subarea": "Sociologia da Literatura",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: História / Subárea: Sociologia da Literatura."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "História",
+      "subarea": "Sociologia da Cultura",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: História / Subárea: Sociologia da Cultura."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "História",
+      "subarea": "LITERATURA MODERNAS, COMPARADAS E PÓS-COLONIAIS",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: História / Subárea: LITERATURA MODERNAS, COMPARADAS E PÓS-COLONIAIS."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Italiano",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Bolsa do Programa de Apoio a Jovens Pesquisadores ? JOVEMPESQ, Universidade Federal da Bahia.",
+      "ano": 2023
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Cultura, Arte e Sociabilidades Digitais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Teorias Sociais e História das Ideias",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Counternarratives in Contemporary Brazilian Literature: Challenging the Ideologemes of Nation-Building",
+        "ano": 2026,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "revista": "JOURNAL OF IBERIAN AND LATIN AMERICAN STUDIES",
+        "volume": "32",
+        "numero": "",
+        "paginas": "1-21",
+        "issn": "1326-0219",
+        "doi": "http://dx.doi.org/10.1080/14701847.2026.2628694",
+        "qualis": ""
+      },
+      {
+        "titulo": "Do Texto ao Tecido: Ressonâncias de Gilberto Freyre na Moda Brasileira",
+        "ano": 2026,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; Medeiros, Rodrigo Rui Simão de",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "28",
+        "numero": "",
+        "paginas": "e148187",
+        "issn": "1807-0337",
+        "doi": "http://dx.doi.org/10.1590/1807-0337/e148187",
+        "qualis": ""
+      },
+      {
+        "titulo": "Fractured Form: Formation and Deformation in Brazilian Social Thought",
+        "ano": 2025,
+        "autores": "OLIVEIRA, LUCAS AMARAL",
+        "revista": "ESTUDOS HISTÓRICOS",
+        "volume": "38",
+        "numero": "",
+        "paginas": "e20250618",
+        "issn": "2178-1494",
+        "doi": "http://dx.doi.org/10.1590/S2178-149420250618",
+        "qualis": ""
+      },
+      {
+        "titulo": "Decoding the invisible ink: Black readership of Machado de Assis in the pages of Getulino, O Clarim d?Alvorada and A Voz da Raça (1923?1933)",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; FLAHERTY-ECHEVERRIA, S.",
+        "revista": "MACHADO DE ASSIS EM LINHA",
+        "volume": "17",
+        "numero": "",
+        "paginas": "e282742",
+        "issn": "1983-6821",
+        "doi": "http://dx.doi.org/10.1590/1983-68212024177",
+        "qualis": ""
+      },
+      {
+        "titulo": "Narrating Impossible Lives: Critical Fabulation in Brazilian Black-Authored Fiction",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; FLAHERTY-ECHEVERRIA, S.",
+        "revista": "Portuguese Studies",
+        "volume": "40",
+        "numero": "",
+        "paginas": "63-80",
+        "issn": "2222-4270",
+        "doi": "http://dx.doi.org/10.1353/port.00006",
+        "qualis": ""
+      },
+      {
+        "titulo": "Relendo a teoria sociológica brasileira à luz da crítica pós-colonial",
+        "ano": 2023,
+        "autores": "Lucas Oliveira ; ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "REVISTA SOCIEDADE E ESTADO",
+        "volume": "38",
+        "numero": "",
+        "paginas": "211-211",
+        "issn": "1980-5462",
+        "doi": "http://dx.doi.org/10.1590/s0102-6992-202338010009pt",
+        "qualis": ""
+      },
+      {
+        "titulo": "Brazilian sociological theory and postcolonial criticism",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE ; ALVES, ANA RODRIGUES CAVALCANTI",
+        "revista": "REVISTA SOCIEDADE E ESTADO",
+        "volume": "38",
+        "numero": "",
+        "paginas": "211-211",
+        "issn": "1980-5462",
+        "doi": "http://dx.doi.org/10.1590/s0102-6992-202338010009",
+        "qualis": ""
+      },
+      {
+        "titulo": "Práticas de democratização da literatura",
+        "ano": 2022,
+        "autores": "OLIVEIRA, LUCAS; SOUZA, BRUNA ; DOREA, ISABELLE ; ARAÚJO, LAURA",
+        "revista": "PRAGMATIZES- REVISTA LATINO AMERICANA DE ESTUDOS EM CULTURA",
+        "volume": "12",
+        "numero": "",
+        "paginas": "520-550",
+        "issn": "2237-1508",
+        "doi": "http://dx.doi.org/10.22409/pragmatizes.v12i22.51322",
+        "qualis": ""
+      },
+      {
+        "titulo": "Práticas e processos de produção do espaço urbano",
+        "ano": 2022,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; ARANTES, RAFAEL DE AGUIAR",
+        "revista": "ESTUDOS DE SOCIOLOGIA",
+        "volume": "27",
+        "numero": "",
+        "paginas": "e022001",
+        "issn": "1982-4718",
+        "doi": "http://dx.doi.org/10.52780/res.v27iesp1.16225",
+        "qualis": ""
+      },
+      {
+        "titulo": "Practice and processes in the production of urban space: decentering perspectives",
+        "ano": 2022,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; ARANTES, RAFAEL DE AGUIAR",
+        "revista": "ESTUDOS DE SOCIOLOGIA",
+        "volume": "27",
+        "numero": "",
+        "paginas": "e022001",
+        "issn": "1982-4718",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Literatura como ação e cooperação",
+        "ano": 2021,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "ESTUDOS DE SOCIOLOGIA",
+        "volume": "26",
+        "numero": "",
+        "paginas": "497-520",
+        "issn": "1982-4718",
+        "doi": "http://dx.doi.org/10.52780/res.13146",
+        "qualis": ""
+      },
+      {
+        "titulo": "Por uma Sociologia do Encontro: Trabalho de Campo, Posições Sociais e Processos de Interação na Produção do Conhecimento",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "Revista Mediações (UEL)",
+        "volume": "25",
+        "numero": "",
+        "paginas": "142-160",
+        "issn": "1414-0543",
+        "doi": "http://dx.doi.org/10.5433/2176-6665.2020v25n1p142",
+        "qualis": ""
+      },
+      {
+        "titulo": "Neighborhood Effects and Urban Inequalities: The Impact of Covid-19 on the Periphery of Salvador, Brazil",
+        "ano": 2020,
+        "autores": "OLIVEIRA, LUCAS AMARAL; AGUIAR ARANTES, RAFAEL",
+        "revista": "City & Society",
+        "volume": "32",
+        "numero": "",
+        "paginas": "ciso.12266",
+        "issn": "1548-744X",
+        "doi": "http://dx.doi.org/10.1111/ciso.12266",
+        "qualis": ""
+      },
+      {
+        "titulo": "Sociogênese possível dos saraus: uma história de rupturas na cultura brasileira",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "Sociedade e Cultura",
+        "volume": "23",
+        "numero": "",
+        "paginas": "e62830",
+        "issn": "1980-8194",
+        "doi": "http://dx.doi.org/10.5216/sec.v23i.62830",
+        "qualis": ""
+      },
+      {
+        "titulo": "Teoria social e desafios epistemológicos na geopolítica do conhecimento",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "REVISTA BRASILEIRA DE HISTÓRIA & CIÊNCIAS SOCIAIS",
+        "volume": "12",
+        "numero": "",
+        "paginas": "448-476",
+        "issn": "2175-3423",
+        "doi": "http://dx.doi.org/10.14295/rbhcs.v12i24.11339",
+        "qualis": ""
+      },
+      {
+        "titulo": "Antropofagias periféricas: o movimento marginal, a crítica da tradição e os contra-usos da literatura",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "OPSIS",
+        "volume": "20",
+        "numero": "",
+        "paginas": "1-15",
+        "issn": "2177-5648",
+        "doi": "http://dx.doi.org/10.5216/o.v20i1.63748",
+        "qualis": ""
+      },
+      {
+        "titulo": "A crítica do cânone e as sociologias alternativas",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "AFROASIA",
+        "volume": "",
+        "numero": "",
+        "paginas": "224-237",
+        "issn": "1981-1411",
+        "doi": "http://dx.doi.org/10.9771/aa.v0i61.39209",
+        "qualis": ""
+      },
+      {
+        "titulo": "Desafios para uma sociologia pós-colonial",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "Sociedade e Estado",
+        "volume": "35",
+        "numero": "",
+        "paginas": "983-990",
+        "issn": "0102-6992",
+        "doi": "http://dx.doi.org/10.1590/s0102-6992-202035030014",
+        "qualis": ""
+      },
+      {
+        "titulo": "Urbanização de assentamentos precarizados e direito à cidade",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; MANZI, M.",
+        "revista": "Revista Territorialidades",
+        "volume": "1",
+        "numero": "",
+        "paginas": "7-16",
+        "issn": "2675-7958",
+        "doi": "http://dx.doi.org/10.17648/revistaterritorialidades-v1n1-1",
+        "qualis": ""
+      },
+      {
+        "titulo": "City as mobility: a contribution of brazilian saraus to urban theory",
+        "ano": 2018,
+        "autores": "OLIVEIRA, L. A.; PARDUE, D.",
+        "revista": "VIBRANT (FLORIANÓPOLIS)",
+        "volume": "15",
+        "numero": "",
+        "paginas": "1-19",
+        "issn": "1809-4341",
+        "doi": "http://dx.doi.org/10.1590/1809-43412018v15n1a400",
+        "qualis": ""
+      },
+      {
+        "titulo": "Direito à cidade: problema teórico e necessidade empírica",
+        "ano": 2018,
+        "autores": "OLIVEIRA, L. A.; PARDUE, D.",
+        "revista": "PLURAL (SÃO PAULO. ONLINE)",
+        "volume": "25",
+        "numero": "",
+        "paginas": "1-19",
+        "issn": "2176-8099",
+        "doi": "http://dx.doi.org/10.11606/issn.2176-8099.pcso.2018.153220",
+        "qualis": ""
+      },
+      {
+        "titulo": "Experiência literária e experiência urbana: notas sobre a literatura marginal",
+        "ano": 2018,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "revista": "Veredas: Revista da Associação Internacional de Lusitanistas",
+        "volume": "1",
+        "numero": "",
+        "paginas": "24-46",
+        "issn": "2183-816X",
+        "doi": "http://dx.doi.org/10.24261/2183-816x0227",
+        "qualis": ""
+      },
+      {
+        "titulo": "O testemunho ético de Primo Levi sobre a zona cinzenta: um problema de julgamento e representação",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "PATRIMÔNIO E MEMÓRIA (UNESP)",
+        "volume": "13",
+        "numero": "",
+        "paginas": "103-130",
+        "issn": "1808-1967",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "The limits of literary testimony: understanding Levi?s paradox",
+        "ano": 2017,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "revista": "Arquivo Maaravi",
+        "volume": "11",
+        "numero": "",
+        "paginas": "127-150",
+        "issn": "1982-3053",
+        "doi": "http://dx.doi.org/10.17851/1982-3053.11.21.127-150",
+        "qualis": ""
+      },
+      {
+        "titulo": "Speaking for themselves: observations on a -marginal- tradition in Brazilian Literature",
+        "ano": 2017,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "revista": "Brasiliana: Journal for Bazilian Studies",
+        "volume": "5",
+        "numero": "",
+        "paginas": "441-471",
+        "issn": "2245-4373",
+        "doi": "http://dx.doi.org/10.25160/bjbs.v5i1.23793",
+        "qualis": ""
+      },
+      {
+        "titulo": "Cidadania Contestada: rap kriolu e experiências migratórias em Lisboa",
+        "ano": 2016,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "revista": "Caderno CRH (Online)",
+        "volume": "29",
+        "numero": "",
+        "paginas": "611-614",
+        "issn": "1983-8239",
+        "doi": "http://dx.doi.org/10.1590/s0103-49792016000300013",
+        "qualis": ""
+      },
+      {
+        "titulo": "Literature from the Periphery of São Paulo at the Buenos Aires International Book Fair",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A.; MUNIZ JR, J. S.",
+        "revista": "JOURNAL OF ARTS MANAGEMENT, LAW AND SOCIETY",
+        "volume": "45",
+        "numero": "",
+        "paginas": "119-133",
+        "issn": "1063-2921",
+        "doi": "http://dx.doi.org/10.1080/10632921.2015.1043417",
+        "qualis": ""
+      },
+      {
+        "titulo": "Márgenes urbanos: experiencia transnacional de escritores de la periferia de São Paulo",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A.; MUNIZ JR, J. S.",
+        "revista": "BIFURCACIONES - REVISTA DE ESTUDIOS CULTURALES URBANOS",
+        "volume": "19",
+        "numero": "",
+        "paginas": "1-16",
+        "issn": "0718-1132",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Mário Augusto Medeiros da Silva - A descoberta do insólito: literatura negra e literatura periférica no Brasil (1960-2000)",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "Estudos de Literatura Brasileira Contemporânea",
+        "volume": "",
+        "numero": "",
+        "paginas": "465-471",
+        "issn": "2316-4018",
+        "doi": "http://dx.doi.org/10.1590/2316-40184519",
+        "qualis": ""
+      },
+      {
+        "titulo": "A fabricação de uma forma pervertida de humano: Primo Levi e os rumores da memória",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "KRYPTON",
+        "volume": "5/6",
+        "numero": "",
+        "paginas": "136-149",
+        "issn": "2282-3301",
+        "doi": "http://dx.doi.org/10.13134/2282-3301/619",
+        "qualis": ""
+      },
+      {
+        "titulo": "Notas críticas sobre uma trajetória adversa: uma viagem de Turim a Auschwitz",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "LITERATURA E AUTORITARISMO (UFSM)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "28-45",
+        "issn": "1679-849X",
+        "doi": "http://dx.doi.org/10.5902/1679849X10760",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Revista Plural no contexto de profissionalização da Sociologia no Brasil: entrevista com Maria Arminda do Nascimento Arruda",
+        "ano": 2014,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; AMARAL, RODRIGO CORREIA DO",
+        "revista": "PLURAL (SÃO PAULO. ONLINE)",
+        "volume": "21",
+        "numero": "",
+        "paginas": "199-213",
+        "issn": "2176-8099",
+        "doi": "http://dx.doi.org/10.11606/issn.2176-8099.pcso.2014.97220",
+        "qualis": ""
+      },
+      {
+        "titulo": "Quem fala por meio do testemunho? Alguns apontamentos teórico-metodológicos sobre a escrita testemunhal a partir da literatura de Primo Levi",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "REVISTA LATINOAMERICANA DE METODOLOGÍA DE LA INVESTIGACIÓN SOCIAL",
+        "volume": "5",
+        "numero": "",
+        "paginas": "42-55",
+        "issn": "1853-6190",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Se questo è un Uomo: Primo Levi e o paradigma político da modernidade",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "REVISTA HABITUS",
+        "volume": "9",
+        "numero": "",
+        "paginas": "140-158",
+        "issn": "1809-7065",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Juventude e Drogas: uma outra abordagem",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "revista": "JUVENTUDE.BR (CENTRO DE ESTUDOS E MEMÓRIA DA JUVENTUDE)",
+        "volume": "5",
+        "numero": "",
+        "paginas": "15-22",
+        "issn": "1809-9564",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Os limites do discurso",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "revista": "MEDIAÇÕES - REVISTA DE CIÊNCIAS SOCIAIS",
+        "volume": "15",
+        "numero": "",
+        "paginas": "345",
+        "issn": "2176-6665",
+        "doi": "http://dx.doi.org/10.5433/2176-6665.2010v15n2p345",
+        "qualis": ""
+      },
+      {
+        "titulo": "Cinema e sociedade: -seis questões para seis intelectuais-",
+        "ano": 2011,
+        "autores": "MONTEIRO, GUILHERME SETO ; OLIVEIRA, LUCAS AMARAL DE",
+        "revista": "PLURAL (SÃO PAULO. ONLINE)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "185-218",
+        "issn": "2176-8099",
+        "doi": "http://dx.doi.org/10.11606/issn.2176-8099.pcso.2011.74508",
+        "qualis": ""
+      },
+      {
+        "titulo": "A memória de Primo Levi sobre os campos de morte nazistas",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "revista": "REVISTA LITERATURA EM DEBATE",
+        "volume": "4",
+        "numero": "",
+        "paginas": "140-154",
+        "issn": "1982-5625",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Teoria Social e Desafios Pós-Coloniais",
+        "ano": 2024,
+        "autores": "REGATIERI, R. P. ; OLIVEIRA, LUCAS AMARAL DE",
+        "editora": "Salvador: EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "311"
+      },
+      {
+        "titulo": "Experiências Estéticas em Movimento",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "editora": "Rio de Janeiro: Ape'Ku",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "364"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Introdução",
+        "ano": 2024,
+        "autores": "REGATIERI, R. P. ; OLIVEIRA, LUCAS AMARAL DE",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "7-19"
+      },
+      {
+        "titulo": "Releituras da teoria sociológica brasileira",
+        "ano": 2024,
+        "autores": "RODRIGUES CAVALCANTI ALVES, ANA; Lucas Oliveira",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "181-204"
+      },
+      {
+        "titulo": "REDIMENSIONANDO GUERREIRO RAMOS: UM EXERCÍCIO DE RELEITURA DA SOCIOLOGIA BRASILEIRA",
+        "ano": 2024,
+        "autores": "Alves, Ana Rodrigues Cavalcanti ; OLIVEIRA, LUCAS AMARAL DE",
+        "titulo_livro": "",
+        "editora": "Pimenta Cultural",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "197-224"
+      },
+      {
+        "titulo": "A Postcolonial Approach to the Right to the City. Oxford Research Encyclopedia of Anthropology. 1ed.Londres",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; Triana, B. N. C",
+        "titulo_livro": "",
+        "editora": "",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1"
+      },
+      {
+        "titulo": "Cultura, política e produção de conhecimento na periferia",
+        "ano": 2019,
+        "autores": "OLIVEIRA, L. A.; BISCHAIN, S. R.",
+        "titulo_livro": "",
+        "editora": "Zouk",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "55-80"
+      },
+      {
+        "titulo": "Três comentários sobre certa",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A",
+        "titulo_livro": "",
+        "editora": "Atena",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "93-111"
+      },
+      {
+        "titulo": "Language and Urban Place",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A.; PARDUE, D.",
+        "titulo_livro": "",
+        "editora": "Oxford University Press",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Do texto ao tecido: ressonâncias de Gilberto Freyre na moda brasileira",
+        "ano": 2024,
+        "autores": "Medeiros, Rodrigo Rui Simão de ; OLIVEIRA, LUCAS AMARAL DE",
+        "evento": "48º Encontro Anual da ANPOCS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Experiência urbana e criação literária das periferias de São Paulo",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "XII Conlab",
+        "cidade": "",
+        "paginas": "6562-6575",
+        "isbn": ""
+      },
+      {
+        "titulo": "(Re)Criação Literária nas Periferias de São Paulo",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "XIV CONGRESSO INTERNACIONAL DA ASSOCIAÇÃO BRASILEIRA DE LITERATURA COMPARADA",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Experiência Literária na periferia de São Paulo",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "39° Encontro Nacional da ANPOCS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "O testemunho literário como documento empírico: uma reflexão metodológica sobre a memória a partir da obra de Primo Levi",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "III Encontro Internacional de Ciências Sociais",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Pode a vítima falar? O testemunho como recipiente de memórias traumáticas",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "Colóquio Internacional O Colapso das Ditaduras: Sul da Europa",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "El testimonio como documento de la historia: una reflexión metodológica sobre la memoria colectiva y la identidad narrativa",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "III Congreso Latinoamericano de Antropología",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A atualidade da exceção e os novos campos de concentração",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "XV Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Entre Afogados e Sobreviventes: o testemunho de Primo Levi e a barbárie moderna",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "IV Seminário Internacional Políticas de la memoria",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A memória de Primo Levi sobre os campos de concentração e extermínio nazistas",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "VIII Seminário de Pesquisa em Ciências Humanas",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Primo Levi: memória e testemunho dos campos de extermínio nazistas",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "1° Simpósio de História Oral e Memória",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Juventude e Drogas: uma outra abordagem",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "evento": "II Simpósio Estadual sobre a Formação de Professores de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Horácio Oliveira Del Lado De Allá de Rayuela: o exílio interno e o sentimento de desenraizamento como conseqüências da modernidade",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "III Colóquio de Estudos Literários: Diálogos e Perspectivas",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Primo Levi: Memória e Testemunho dos Campos de Extermínio Nazistas",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "III Colóquio de Estudos Literários: Diálogos e Perspectivas",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "A atualidade da exceção e os novos campos de concentração",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "XV Congresso Brasileiro de Sociologia: Mudanças, Permanências e Desafios Sociológicos, 2011, Curitiba. Anais do XV Congresso Brasileiro de Sociologia, realizado em Curitiba-PR, de 26 a 29 de julho de 2011",
+        "cidade": "",
+        "paginas": ""
+      },
+      {
+        "titulo": "Política e Alteridade no Espaço Público",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "evento": "IV Jornada de Humanidades, 2010, Londrina. A Humanidade e suas Relações de Poder. Londrina",
+        "cidade": "",
+        "paginas": "12-13"
+      },
+      {
+        "titulo": "Se questo è un uomo: Primo Levi e os paradoxos da modernidade",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "II Colóquio da Pós-Graduação em Letras da UNESP, 2010, Assis. Literatura e Vida Social",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "Mobilidades, performances e encontros: a cidade como espaço de representação e criação",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "VII Simpósio Internacional sobre a Juventude Brasileira ? JUBRA, 2017, Fortaleza. Anais do VII Simpósio Internacional sobre a Juventude Brasileira: JUBRA. Fortaleza: Expressão Gráfica",
+        "cidade": ""
+      },
+      {
+        "titulo": "A dimensão coletiva das práticas culturais juvenis",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A.; MUNIZ JR, J. S. ; OLIVEIRA, M. C. V. E.",
+        "evento": "VII Simpósio Internacional sobre a Juventude Brasileira ? JUBRA, 2017, Fortaleza. Anais do VII Simpósio Internacional sobre a Juventude Brasileira: JUBRA. Fortaleza: Expressão Gráfica",
+        "cidade": ""
+      },
+      {
+        "titulo": "Se Questo è un Uomo: Primo Levi e os paradoxos da modernidade",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "II Colóquio da Pós-Graduação em Letras, 2010, Assis. Literatura e Vida Social. Assis",
+        "cidade": ""
+      },
+      {
+        "titulo": "Primo Levi: memória e testemunho dos campos de extermínio nazistas",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "I Simpósio de História Oral e Memória, 2010, São Paulo. I Simpósio de História Oral e Memória. São Paulo",
+        "cidade": ""
+      },
+      {
+        "titulo": "A memória de Primo Levi sobre os campos de concentração e extermínio nazistas",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "VIII Sepech - Seminário de Pesquisa em Ciências Humanas, 2010, Londrina. Cadernos de Resumos",
+        "cidade": ""
+      },
+      {
+        "titulo": "Juventude e Drogas: uma outra abordagem",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "evento": "II Simpósio Estadual sobre a Formação de Professores de Sociologia, 2009, Londrina. Resumos do II Simpósio Estadual sobre a Formação de Professores de Sociologia",
+        "cidade": ""
+      },
+      {
+        "titulo": "Horácio Oliveira Del Lado De Allá de Rayuela: o exílio interno e o sentimento de desenraizamento como conseqüências da modernidade",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "III Colóquio de Estudos Literários: Diálogos e Perspectivas, 2009, Londrina. Caderno de Programação e Resumos",
+        "cidade": ""
+      },
+      {
+        "titulo": "Primo Levi: Memória e Testemunho dos Campos de Extermínio Nazistas",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "III Colóquio de Estudos Literários: Diálogos e Perspectivas, 2009, Londrina. Caderno de Programação e Resumos",
+        "cidade": ""
+      },
+      {
+        "titulo": "Ensaios sobre o Poder: uma análise sociológica dos mecanismos de poder através da narrativa de José Saramago",
+        "ano": 2008,
+        "autores": "OLIVEIRA, L. A",
+        "evento": "Semana de Ciências Sociais, 2008, Lonrina. Caderno de Resumos da Semana de Ciências Sociais",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [
+      {
+        "titulo": "Experimentalismo contextualizado na prática: Osbrega, disputas institucionais e públicos da música de concerto na Bahia",
+        "ano": 2026,
+        "autores": "BARRETO, N. S. R. B. ; OLIVEIRA, LUCAS AMARAL DE",
+        "revista": "OPUS (PORTO ALEGRE)",
+        "issn": ""
+      }
+    ],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Os limites da ideia de ?cultura brasileira?: críticas e contribuições do pensamento social",
+        "ano": 2025,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Forma fraturada: formação e deformação no pensamento social brasileiro",
+        "ano": 2025,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Literatura de autoria negra e as fraturas da formação nacional",
+        "ano": 2025,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "?Mind the Gap?: Hacia una sociología de las prácticas y procesos literarios",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Por uma sociologia das práticas e dos processos literários",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Do Texto ao Tecido: Ressonâncias de Gilberto Freyre na Moda Brasileira",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; Medeiros, Rodrigo Rui Simão de",
+        "evento": ""
+      },
+      {
+        "titulo": "Ficção e Formação: a literatura de autoria negra na crítica dos ideologemas nacionais",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "O Avesso da Formação: Contranarrativas na Literatura Brasileira Contemporânea",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Counter-Narratives in Contemporary Brazilian Literature",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Contested Histories of Nation-Building: Counternarratives in Contemporary Brazilian Literature",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Minding the Gap: Towards a Sociology of Literary Practices and Processes",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Contested Histories of Nation-Building: Counternarratives in Contemporary Brazilian Literature",
+        "ano": 2023,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "Ideologemas da 'cultura brasileira': uma releitura do sentido da formação nacional",
+        "ano": 2022,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "evento": ""
+      },
+      {
+        "titulo": "(Re)leituras do pensamento social brasileiro",
+        "ano": 2022,
+        "autores": "OLIVEIRA, L. A.; CHIAROTTI, Ana Maria ; TRINDADE, L. ; TAVOLARO, S. ; VALENCA, D. ; MATIAS, J. ; LOMBARDI, F.",
+        "evento": ""
+      },
+      {
+        "titulo": "A Modernidade e os Ideologemas da Cultura Brasileira",
+        "ano": 2022,
+        "autores": "OLIVEIRA, L. A.; LIMA, B. D. T. C. ; REGATIERI, R. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "O Avesso da Formação: Contranarrativas na Literatura Brasileira Contemporânea",
+        "ano": 2022,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Cultura Brasileira como Ideologema: Reflexões Hipotéticas",
+        "ano": 2021,
+        "autores": "FARIAS, E. ; OLIVEIRA, L. A. ; LIMA, M. M. B. ; LEAO, A. B. ; MACIEL, F",
+        "evento": ""
+      },
+      {
+        "titulo": "Que Cultura Brasileira?",
+        "ano": 2021,
+        "autores": "OLIVEIRA, L. A.; FARIAS, E. ; LEAO, A. B. ; MACIEL, F",
+        "evento": ""
+      },
+      {
+        "titulo": "Por uma Sociologia das Práticas Literárias",
+        "ano": 2021,
+        "autores": "TEIXEIRA, A. L. ; OLIVEIRA, L. A. ; TAVARES-DOS-SANTOS, J. ; JARDIM, F. A. A. ; HOELZ, M.",
+        "evento": ""
+      },
+      {
+        "titulo": "Teoria social e desafios epistemológicos na geopolítica do conhecimento",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Literatura como direito fundamental",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "O PENSADOR É... MUNIZ SODRÉ",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; MARTINS, Z. ; ROSA, A. ; NETO, P. ; EUCLENIO, S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Literatura como ação e cooperação",
+        "ano": 2019,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Práticas de Produção do Saber Sociológico",
+        "ano": 2019,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiências Estéticas em Movimento",
+        "ano": 2019,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Brazilian Popular Culture and Citizenship",
+        "ano": 2018,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "O direito à cidade e seus influxos culturais: a dinâmica de produção e circulação de bens literários nas periferias paulistanas",
+        "ano": 2018,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Cultura periférica e saberes localizados: uma perspectiva epistemológica sobre o movimento da literatura marginal",
+        "ano": 2018,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Brazilian Popular Culture and Citizenship: the case of marginal literature in São Paulo",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Mobilidades, performances e encontros: a cidade como espaço de representação e criação",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Práticas Culturais e Territorialidade: o caso da literatura marginal em São Paulo",
+        "ano": 2016,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Aesthetic Experiences in Movement: Literary Production in the Periphery of São Paulo",
+        "ano": 2016,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Prácticas culturales y territorialidad: el caso de la literatura marginal en Brasil",
+        "ano": 2016,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "A 'Marginal' Tradition in Brazilian Literature",
+        "ano": 2016,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Escrevendo a Cidade: práticas literárias nas periferias de São Paulo",
+        "ano": 2016,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiência urbana e criação literária das periferias de São Paulo",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "(Re)Criação estética nas periferias de São Paulo",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "As Outras Regras da Arte: uma primeira leitura da gênese e estrutura do subcampo de produção literária periférica",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "A produção literária nas periferias de São Paulo",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiências literárias nas periferias",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "A produção marginal da escrita",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiências Estéticas em Movimento: saraus e produção literária na periferia de São Paulo",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "20 Anos da Revista Plural",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A.; PINHEIRO FILHO, F. A. ; ALONSO, A. ; MARIANO, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Literature from the Periphery of São Paulo at the Buenos Aires International Book Fair",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A.; MUNIZ JR, J. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "De Gilberto a Gilberto: o Brasil que Freyre não idealizou, mas que Gil cantou",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "O testemunho literário como documento empírico: uma reflexão metodológica sobre a memória a partir da obra de Primo Levi",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Pode a vítima falar? O testemunho como recipiente de memórias traumáticas",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "El testimonio como documento de la historia: una reflexión metodológica sobre la memoria colectiva y la identidad narrativa",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "A atualidade da exceção e os novos campos de concentração",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Entre hundidos y salvados: el testimonio de Primo Levi y la barbarie moderna",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Política e Alteridade no Espaço Público",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Se Questo è un Uomo: Primo Levi e os paradoxos da modernidade",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Primo Levi: memória e testemunho dos campos de extermínio nazistas",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "A memória de Primo Levi sobre os campos de concentração e extermínio nazistas",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Primo Levi: Memória e Testemunho dos Campos de Extermínio Nazistas",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Horácio Oliveira Del Lado De Allá de Rayuela: o exílio interno e o sentimento de desenraizamento como conseqüências da modernidade",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Juventude e Drogas: uma outra abordagem",
+        "ano": 2009,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Ensaios sobre o Poder: uma análise sociológica dos mecanismos de Poder através da narrativa de José Saramago",
+        "ano": 2008,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      },
+      {
+        "titulo": "Direito e(m) Crise: Teoria Crítica, Direito Alternativo e Pluralismo Jurídico",
+        "ano": 2005,
+        "autores": "OLIVEIRA, L. A",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Teoria Social e Desafios Pós-Coloniais",
+        "ano": 2024,
+        "autores": "REGATIERI, R. P. ; OLIVEIRA, LUCAS AMARAL DE",
+        "jornal": "",
+        "cidade": "",
+        "data": "02 maio 2024"
+      },
+      {
+        "titulo": "Os Tempos de Salvador",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "jornal": "",
+        "cidade": "",
+        "data": "26 maio 2020"
+      },
+      {
+        "titulo": "Este não é um texto sobre a pandemia",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 maio 2020"
+      },
+      {
+        "titulo": "Enredos da catástrofe anunciada",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "jornal": "",
+        "cidade": "",
+        "data": "09 abr. 2020"
+      },
+      {
+        "titulo": "Octubre: el mes que no terminó",
+        "ano": 2018,
+        "autores": "OLIVEIRA, L. A.; ALVES, B. V. W.",
+        "jornal": "",
+        "cidade": "",
+        "data": "26 dez. 2018"
+      },
+      {
+        "titulo": "Empatia desobediente",
+        "ano": 2018,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 dez. 2018"
+      },
+      {
+        "titulo": "Experiências estéticas em movimento",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 ago. 2015"
+      },
+      {
+        "titulo": "Análise Social da Obra de Primo Levi: interlocuções possíveis entre sociologia e literatura",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 jul. 2014"
+      },
+      {
+        "titulo": "Intercâmbio entre a periferia brasileira e argentina agita 1ª semana da Feira do Livro de Buenos Aires",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "05 maio 2014"
+      },
+      {
+        "titulo": "Produção literária da periferia ganha versão em espanhol",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "29 abr. 2014"
+      },
+      {
+        "titulo": "Em primeiro sarau, poesia da periferia emociona Buenos Aires",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "28 abr. 2014"
+      },
+      {
+        "titulo": "A periferia paulistana no centro argentino",
+        "ano": 2014,
+        "autores": "OLIVEIRA, L. A",
+        "jornal": "",
+        "cidade": "",
+        "data": "25 abr. 2014"
+      },
+      {
+        "titulo": "Aviso de incendio: sobre las protestas un Brasil",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A.; Souza, Rafael de ; SCHINCARIOL, R. ; FIGUEIREDO, Clara F.",
+        "jornal": "",
+        "cidade": "",
+        "data": "28 jun. 2013"
+      },
+      {
+        "titulo": "Allarme Incendio: sulle proteste in Brasile",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A.; Souza, Rafael de ; SCHINCARIOL, R. ; FIGUEIREDO, Clara F.",
+        "jornal": "",
+        "cidade": "",
+        "data": "26 jun. 2013"
+      },
+      {
+        "titulo": "O aviso de incêndio soou: A esquerda diante do ?gigante verde-amarelo?",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A.; Souza, Rafael de ; SCHINCARIOL, R. ; FIGUEIREDO, Clara F.",
+        "jornal": "",
+        "cidade": "",
+        "data": "24 jun. 2013"
+      },
+      {
+        "titulo": "A esquerda diante do ?gigante verde-amarelo?",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A.; Souza, Rafael de ; SCHINCARIOL, R. ; FIGUEIREDO, Clara F.",
+        "jornal": "",
+        "cidade": "",
+        "data": "24 jun. 2013"
+      },
+      {
+        "titulo": "Orden y Progreso: ¿Para Quién? Sobre las protestas urbanas en San Pablo durante los últimos días",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A.; Souza, Rafael de",
+        "jornal": "",
+        "cidade": "",
+        "data": "17 jun. 2013"
+      },
+      {
+        "titulo": "Os órgãos do Estado romperam com o autoritarismo?",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A.; FRANCO, Fábio ; PEDROSO, Catarina ; NEGREIROS, Dario de",
+        "jornal": "",
+        "cidade": "",
+        "data": "20 out. 2011"
+      },
+      {
+        "titulo": "Referendo: entre o \"Sim\" e o \"Não\"",
+        "ano": 2005,
+        "autores": "OLIVEIRA, L. A.; SCHINCARIOL, R. ; NEME, A. A.",
+        "jornal": "",
+        "cidade": "",
+        "data": "21 out. 2005"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "Do mimetismo à autenticidade: o ISEB e a ideia de cultura brasileira (1954-1960). Rio de Janeiro: Brazilian Journal of Political Economy",
+        "ano": 2025,
+        "autores": "CAMPBELL, C. J. ; OLIVEIRA, LUCAS AMARAL DE",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Práticas e processos de produção do espaço urbano: descentrando perspectivas. Araraquara: Estudos de Sociologia",
+        "ano": 2022,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; ARANTES, RAFAEL DE AGUIAR",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Assentamentos precarizados: urbanização desigual e (re)apropriação do território. Salvador: Territorialidades",
+        "ano": 2020,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; MANZI, M.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Uma cidade chamada memória. Jaú, 2019. (Prefácio",
+        "ano": 2019,
+        "autores": "OLIVEIRA, L. A",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Teoria Social Urbana e Direito à Cidade: um debate interdisciplinar. São Paulo: Plural",
+        "ano": 2018,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; PARDUE, D.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Rastreando a fotografia. São Paulo: Terceiro Nome",
+        "ano": 2016,
+        "autores": "OLIVEIRA, L. A.; Triana, B. N. C",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "A crise das esquerdas mexicanas à luz do movimento pelos ?43 deAyotzinapa?, em 2014. São Paulo: Plural",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A.; FERREIRA, M. T",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Vida e época da primeira New Left. São Paulo: Plural",
+        "ano": 2015,
+        "autores": "OLIVEIRA, L. A.; RODRIGUES, W. E.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "A memória, o homunculus e a arte da ficção",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A.; GIACCHERINO, I. R.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Depois do Sexo. Vivara Editora Nacional",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Kafka e o trabalho da dominação. São Paulo: Revista Plural",
+        "ano": 2012,
+        "autores": "OLIVEIRA, L. A.; MONTEIRO, G. S.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Sobre o conceito de ?afinidade eletiva? em Max Weber",
+        "ano": 2011,
+        "autores": "OLIVEIRA, L. A.; FERREIRA, M. T",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Quarta-feira alheia afogada nas águas insanas de um março tardio, um dia inteiro com o lençol imundo e todas as camisetas brancas ainda muito sujas. Curitiba: Governo do Estado do Paraná",
+        "ano": 2008,
+        "autores": "OLIVEIRA, L. A",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Revisão do livro 'Olhares de devoram sonhos', de Sonia Regina Bischain",
+        "ano": 2019,
+        "autores": "OLIVEIRA, L. A",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Revisão Técnica de Entrevista com Michel Cahen",
+        "ano": 2013,
+        "autores": "OLIVEIRA, L. A.; ALVES, B. V. W.",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Relatório técnico de bolsa de pós-doutorado do exterior da British Academy (Queen?s University Belfast)",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Práticas e processos de produção do espaço urbano: descentrando perspectivas",
+        "ano": 2022,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; ARANTES, RAFAEL DE AGUIAR",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Assentamentos precarizados: urbanização desigual e (re)apropriação do território",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; MANZI, M.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório técnico de bolsa de doutorado FAPESP no país",
+        "ano": 2018,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Teoria Social Urbana e Direito à Cidade: um debate interdisciplinar",
+        "ano": 2017,
+        "autores": "OLIVEIRA, L. A.; PARDUE, D.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório técnico de bolsa de pesquisa no exterior (BEPE-FAPESP)",
+        "ano": 2017,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório técnico de IC para o projeto temático 'Memória Coletiva e Patrimônio Cultural'",
+        "ano": 2010,
+        "autores": "OLIVEIRA, L. A.; CESÁRIO, Ana Cleide Chiarotti",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Tese de Diretrizes da Construção da Universidade Estadual do Norte do Paraná",
+        "ano": 2006,
+        "autores": "OLIVEIRA, L. A.; CRUZ, Wellen ; OLIVEIRA, Danilo ; XAVIER, Érica ; GONÇALVES, Giovano ; CAZULA, André ; ALVES, A",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório técnico de Projeto de Ensino e Extensão",
+        "ano": 2005,
+        "autores": "OLIVEIRA, L. A",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Cultura e Raça no Brasil",
+        "ano": 2025,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; SANTOS, D. V. ; SANTOS, G. M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Implicações entre circulação cultural e geopolítica",
+        "ano": 2024,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; LEAO, A. B. ; FARIAS, E. ; LIMA, M. M. B.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Expressões literárias periféricas",
+        "ano": 2022,
+        "autores": "OLIVEIRA, L. A.; MUNIZ JR, J. S. ; SILVA, A. M. S. E. ; OLIVEIRA, A. B. ; VILHENA, F. K. B.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "(Re)leituras do pensamento social brasileiro",
+        "ano": 2022,
+        "autores": "OLIVEIRA, L. A.; ALVES, A. R. C. ; TAVOLARO, S. ; VALENCA, D. ; MATIAS, J. ; LOMBARDI, F. ; TRINDADE, L.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "ATOS MODERNOS",
+        "ano": 2022,
+        "autores": "OLIVEIRA, L. A",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Cultura brasileira e literatura modernista",
+        "ano": 2022,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; LIMA, B. D. T. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Cultura brasileira: ainda uma chave heurística?",
+        "ano": 2021,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; FARIAS, E. ; LEAO, A. B. ; MACIE, F.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Cultura Brasileira entre deslocamentos e descentramentos nos estudos das práticas culturais",
+        "ano": 2021,
+        "autores": "OLIVEIRA, L. A.; LEAO, A. B. ; FARIAS, E. ; MACIEL, F ; LIMA, M. M. B.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Mulheres nas Ciências Sociais: Flávia Rios",
+        "ano": 2021,
+        "autores": "RIOS, F. ; OLIVEIRA, L. A.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Literatura e conflitos sociais",
+        "ano": 2021,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; TEIXEIRA, A. L. ; SANTOS, J. T. ; JARDIM, F. A. A. ; HOELZ, M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Teorias Sociais, Modernidades e Colonialidades",
+        "ano": 2020,
+        "autores": "Lucas Oliveira ; REGATIERI, R. P. ; IAMAMOTO, S. A. S. ; ALVES, ANA RODRIGUES CAVALCANTI ; ZIMMERMANN, C. ; GONZALEZ, M. V. E.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Releituras da Teoria Sociológica Braisleira: Guerreiro Ramos",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; ALVES, A. R. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "O Pensador é... Muniz Sodré",
+        "ano": 2020,
+        "autores": "SODRE, M. ; OLIVEIRA, L. A. ; ROSA, A. ; MARTINS, Z. ; NETO, P. ; EUCLENIO, S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "O Alcance das Epistemologias do Sul: Maria Paula Meneses",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; MENESES, M. P.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "DESAFIOS PÓS-COLONIAIS: DIÁLOGOS PRELIMINARES ENTRE FANON, SAID E HOUNTONDJI",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; MIGLIEVICH-RIBEIRO, A.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "DOCUMENTOS DE CULTURA E BARBÁRIE, IMAGINÁRIO E COLONIALIDADE",
+        "ano": 2020,
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; SANTOS, P. S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "TEORIAS SOCIAIS DO SUL: Adrián Scribano",
+        "ano": 2020,
+        "autores": "OLIVEIRA, L. A.; SCRIBANO, A.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2026,
+          "orientando": "Rafael Xucuru-Kariri - Carlos Rafael da Silva",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Federal da Bahia.",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "Feiras literárias na Bahia: cidade, mercado e circulação de bens simbólicos (2011?2025)",
+          "ano_inicio": 2026,
+          "orientando": "Bruna de Santana Souza",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A construção de um imaginário social de Salvador e do Recôncavo Baiano na obra do artista plástico Carybé",
+          "ano_inicio": 2025,
+          "orientando": "Rafaela Santiago Lobo",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Um Brasil para os brasileiros: uma narrativa contra-nacional de Carolina Maria de Jesus",
+          "ano_inicio": 2024,
+          "orientando": "Carlos Alves Siqueira",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A formação do pensamento negro brasileiro de Manuel Querino",
+          "ano_inicio": 2024,
+          "orientando": "Fernando José Filho",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade de São Paulo",
+          "curso": ""
+        },
+        {
+          "titulo": "Costurando a Identidade Nacional: Imagens de Brasilidade na Moda",
+          "ano_inicio": 2024,
+          "orientando": "Rodrigo Rui Simão de Medeiros",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "Bibliotecas comunitárias em rede: gestão cultural e ação coletiva na periferia de Salvador",
+          "ano_inicio": 2026,
+          "orientando": "Sophia Volkmer Medeiros Santana",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Entre cânone e descolonização: o currículo da pós-graduação em sociologia no Brasil",
+          "ano_inicio": 2026,
+          "orientando": "Hortencia Sabrine Vinhas Teles",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Imagens de Libertação: a formação da estética pós-colonial no cinema africano",
+          "ano_inicio": 2025,
+          "orientando": "Amanda Santos dos Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desafios para a efetivação da democracia cultural: um estudo de caso sobre o público potencial da Orquestra Sinfônica da Bahia",
+          "ano_inicio": 2024,
+          "orientando": "Natália de Sá Ribeiro de Barros Barreto",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade de São Paulo",
+          "curso": ""
+        },
+        {
+          "titulo": "Entre Retratos e Autoretratos: Masciulinidade negra e autorepresentação em Sydnei Sanches",
+          "ano_inicio": 2024,
+          "orientando": "Geovana Cristina Pereira de Freitas",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A construção do pacto da branquitude na obra de Jane Austen",
+          "ano_inicio": 2024,
+          "orientando": "Tainá Moraes dos Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Disputando a formação nacional: um diálogo entre Gilberto Freyre e Ana Maria Gonçalves",
+          "ano_inicio": 2023,
+          "orientando": "Isabelle dos Santos Dorea Gonçalves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Tensões na Sala de Visitas: Pacto da Branquitude nos Diários de Carolina Maria de Jesus",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Carlos Alves Siqueira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A Cidade dos Intelectuais: Formação da Sociologia Urbana no Brasil",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Bruna de Santana Souza",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade de São Paulo",
+          "curso": ""
+        },
+        {
+          "titulo": "A concepção de morte no povo Balanta Patch de Guiné-Bissau",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Vânia Virgínia Mendes Correia Tavares",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [
+        {
+          "titulo": "Contranarrativas da Escrevivência: Representações de Mulheres Negras na Literatura de Conceição Evaristo SALVADOR 2025",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Hortência Sabrine Vinhas Teles",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "tcc": [
+        {
+          "titulo": "Música e Política no Modernismo Brasileiro (1920-1930)",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Vinícius dos Santos Junqueira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O Pacto pela Educação: alguns aspectos de uma política pública educacional no Estado de Goiás",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Linky Kermam Vasconcelos Sales",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal de Goiás",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "O impacto de dinâmicas de descolonização no ensino das Ciências Sociais brasileiras: um diagnóstico crítico de currículos, ementas e programas",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Hortencia Sabrine Vinhas Teles",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Literaturas brasileiras contemporâneas de autoria negra: disputando a formação nacional",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Hortencia Sabrine Vinhas Teles",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Ficções narrativas e ficções nacionais: contrainsurgências na literatura de autoria negra",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Rodrigo Rui Simão de Medeiros",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Mercado editorial e literaturas de autoria não-branca: inflexões no sistema literário brasileiro",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Amanda Ferreira Dantas Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Literaturas de autoria negra e o sentido da formação nacional: debates contemporâneos",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Tainá Moraes dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Inflexões no sistema literário brasileiro: o mercado editorial e as literaturas de autoria não-branca",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Edielso Barbosa dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Glossário Periférico: levantamento das principais categorias analíticas e contribuições teórico-metodológicas do debate pós e decolonial",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Isabelle dos Santos Dorea Goncalves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Glossário Periférico: repensando a teoria urbana a partir do debate pós e decolonial",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Bruna de Santana Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Glossário Periférico: repensando a sociologia da cultura a partir do debate pós e decolonial",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Raquel Chagas Paim",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Os ?contra-usos? da cultura urbana: as cartoneras latino-americanas e a reivindicação por ?direito à cidade? a partir da literatura",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Bruna de Santana Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Do lixo ao livro: democratizando práticas literárias na América Latina",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Laura de Souza Oliveira Araujo",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Cidades de papel: uma etnografia digital de editoras cartoneras latino americanas",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Isabelle dos Santos Dorea Goncalves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "2° COLÓQUIO DE TEORIA SOCIAL, ESTADO E SOCIEDADE",
+        "apresentacao": "Deformação, Ferida e Outras Ontologias",
+        "ano": 2025,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "49º Encontro Anual da ANPOCS",
+        "apresentacao": "Organização do GT66. Sociologia das Práticas Culturais Urbanas",
+        "ano": 2025,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Palestra no Mestrado Profissional do IPHAN",
+        "apresentacao": "Os limites da ideia de ?cultura brasileira?: críticas e contribuições do pensamento social",
+        "ano": 2025,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "48º Encontro Anual da ANPOCS",
+        "apresentacao": "Urgências climáticas e geopolíticas no campo dos patrimônios e das culturas brasileiras - Sessão 1. Implicações entre circulação cultural e geopolítica",
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "48º Encontro Anual da ANPOCS",
+        "apresentacao": "Releituras de Brasil: arte e formação nacional",
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "48º Encontro Anual da ANPOCS",
+        "apresentacao": "Do Texto ao Tecido: Ressonâncias de Gilberto Freyre na Moda Brasileira",
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "21º Congresso Brasileiro de Sociologia",
+        "apresentacao": "O Avesso da Formação: Contranarrativas na Literatura Brasileira Contemporânea",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Brazil: Methods in Context",
+        "apresentacao": "Contested Histories of Nation-Building: Counternarratives in Contemporary Brazilian Literature",
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Brazil: Methods in Context",
+        "apresentacao": "Minding the Gap: Towards a Sociology of Literary Practices and Processes",
+        "ano": 2023,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso UFBA 2023",
+        "apresentacao": "Sociologia",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "ML CDRG Seminar",
+        "apresentacao": "Counter-Narratives in Contemporary Brazilian Literature",
+        "ano": 2023,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X ABIL CONFERENCE",
+        "apresentacao": "Contested Histories of Nation-Building: Counternarratives in Contemporary Brazilian Literature",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "46º Encontro Anual da ANPOCS",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "5th International Conference of REBRAC (European Network of Brazilianists Working in Cultural Analysis)",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "COLÓQUIO (RE)LEITURAS DESDE O PENSAMENTO SOCIAL BRASILEIRO: UM BALANÇO CRÍTICO",
+        "apresentacao": "Relendo a teoria sociológica brasileira à luz da crítica pós-colonial",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Colóquio 100 Anos da Semana de Arte Moderna",
+        "apresentacao": "A modernidade e os ideologemas da cultura brasileira",
+        "ano": 2022,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Congresso Internacional Multidisciplinar Arte&Cultura",
+        "apresentacao": "MR02: Expressões Literárias Periféricas",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "20º Congresso Brasileiro de Sociologia",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "45º Encontro Anual da ANPOCS",
+        "apresentacao": null,
+        "ano": 2021,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI Fórum Discente do Programa de Pós-Graduação em Sociologia Política da UENF",
+        "apresentacao": "Cultura Brasileira entre deslocamentos e descentramentos nos estudos das práticas culturais",
+        "ano": 2021,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "44º Encontro Anual da ANPOCS",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Internacional de Direitos Humanos",
+        "apresentacao": "Literatura como direito fundamental",
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Virtual UFBA 2020",
+        "apresentacao": "Teoria social e desafios epistemológicos na geopolítica do conhecimento",
+        "ano": 2020,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Metamorfoses da colonialidade",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Pensar Africanamente",
+        "apresentacao": "O PENSADOR É... MUNIZ SODRÉ",
+        "ano": 2020,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário de Avaliação e Planejamento Estratégico do Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia",
+        "apresentacao": null,
+        "ano": 2020,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Simpósio da Faculdade de Ciências Sociais da UFG",
+        "apresentacao": "Literatura como ação e cooperação",
+        "ano": 2019,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "17th Annual Graduate Student Conference",
+        "apresentacao": "Globalizing Latin America: New Approaches to the Nation State & ldentity",
+        "ano": 2018,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Cinema no Museu Antropológico",
+        "apresentacao": "Aquarius (2016)",
+        "ano": 2018,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Claraboia ? Educação Criativa, Colaborativa e Humana",
+        "apresentacao": "Oficina de capacitação de professores",
+        "ano": 2018,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Semana de Ciências Sociais da UFG",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "LASA",
+        "apresentacao": "O direito à cidade e seus influxos culturais: a dinâmica de produção e circulação de bens literários nas periferias paulistanas",
+        "ano": 2018,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Reunião Brasileira de Antropologia",
+        "apresentacao": "Cultura periférica e saberes localizados: uma perspectiva epistemológica sobre o movimento da literatura marginal",
+        "ano": 2018,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário de Antropologia Política: Insurgências, lutas políticas e práticas emancipatórias",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Doctoral College Conference",
+        "apresentacao": "Santander Universities Award",
+        "ano": 2017,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "JUBRA",
+        "apresentacao": "Mobilidades, performances e encontros: a cidade como espaço de representação e criação",
+        "ano": 2017,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Brazilian Days: Text, Performance and Identity",
+        "apresentacao": "Text, Performance and Identity",
+        "ano": 2016,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Português de Sociologia",
+        "apresentacao": "Práticas Culturais e Territorialidade: o caso da literatura marginal em São Paulo",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Festival Literatura Copenhague",
+        "apresentacao": "Prácticas culturales y territorialidad: El caso de la literatura marginal en Brasil",
+        "ano": 2016,
+        "tipo_evento": "Feira",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "REBRAC INTERNATIONAL CONFERENCE: Brazil in the Spotlight",
+        "apresentacao": "Escrevendo a Cidade: práticas literárias nas periferias de São Paulo",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Third ISA Forum",
+        "apresentacao": "Aesthetic Experiences in Movement: literary production in the periphery of São Paulo",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "39º Encontro Anual da Anpocs",
+        "apresentacao": "Experiência Literária na Periferia de São Paulo",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário Discente da Pós-Graduação em Sociologia da Universidade de São Paulo",
+        "apresentacao": "Experiências Estéticas em Movimento: a produção literária nas periferias de São Paulo",
+        "ano": 2015,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII Congresso Luso-Afro-Brasileiro - CONLAB",
+        "apresentacao": "Experiência urbana e criação literária das periferias de São Paulo",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Reunião de Antropologia do MERCOSUL",
+        "apresentacao": "A produção marginal da escrita",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XIV Congresso Internacional da Abralic",
+        "apresentacao": "(Re)criação literária nas periferias de São Paulo",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII Congresso Brasileiro de Sociologia",
+        "apresentacao": "As Outras Regras da Arte: uma primeira leitura da gênese e estrutura do subcampo de produção literária periférica",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "40° Feira Internacional do Livro de Buenos Aires",
+        "apresentacao": null,
+        "ano": 2014,
+        "tipo_evento": "Feira",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "50 anos de ?A Integração do Negro na Sociedade de Classes\"",
+        "apresentacao": null,
+        "ano": 2014,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "International Conference of Social Theory, Politics and the Arts",
+        "apresentacao": "Literature from the Periphery of São Paulo at the Buenos Aires International Book Fair",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Os 50 anos do golpe civil-militar de 1964 ? ?Colapso do Populismo??",
+        "apresentacao": null,
+        "ano": 2014,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Internacional Trabalho, cuidado e políticas sociais",
+        "apresentacao": null,
+        "ano": 2014,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Simpósio Internacional, Movimentos Sociais e Instituições Políticas na América Latina",
+        "apresentacao": "20 Anos da Revista Plural",
+        "ano": 2014,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Big Data, automação e novas tecnologias para análise de dados (CEBRAP)",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Congresso Latino-americano de Estudos do Trabalho",
+        "apresentacao": null,
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Colóquio Internacional O Colapso das Ditaduras: Sul da Europa, América Latina, Leste Europeu e África do Sul - História e Memória",
+        "apresentacao": "Pode a vítima falar? O testemunho como recipiente de memórias traumáticas",
+        "ano": 2012,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III EICS - Encontro Internacional de Ciências Sociais",
+        "apresentacao": "O testemunho literário como documento empírico: uma reflexão metodológica sobre a memória a partir da obra de Primo Levi",
+        "ano": 2012,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Symposium internazionale in memoria di Primo Levi: \"Scrittura e testimonianza\"",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Tercer Congreso Latinoamericano de Antropología ALA 2012",
+        "apresentacao": "El testimonio como documento de la historia: una reflexión metodológica sobre la memoria colectiva y la identidad narrativa",
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Homenagem ao professor Claude Lefort",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Seminario Internacional Políticas de la Memoria",
+        "apresentacao": "Entre hundidos y salvados: el testimonio de Primo Levi y la barbarie moderna",
+        "ano": 2011,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Revoluções",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XV Congresso Brasileiro de Sociologia",
+        "apresentacao": "A atualidade da exceção e os novos campos de concentração",
+        "ano": 2011,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro Nacional de Antropologia e Performance",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "História do Cinema",
+        "apresentacao": null,
+        "ano": 2010,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Colóquio da Pós-Graduação em Letras",
+        "apresentacao": "Se Questo è un Uomo: Primo Levi e os paradoxos da modernidade",
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Simpósio de Hstória Oral e Memória",
+        "apresentacao": "Primo Levi: memória e testemunho dos campos de extermínio nazistas",
+        "ano": 2010,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Jornada de Humanidades",
+        "apresentacao": "Política e Alteridade no Espaço Público",
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VIII Sepech - Seminário de Pesquisa em Ciências Humanas",
+        "apresentacao": "A memória de Primo Levi sobre os campos de concentração e extermínio nazistas",
+        "ano": 2010,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Colóquio de Estudos Literários: Diálogos e Perspectivas",
+        "apresentacao": "Horácio Oliveira Del Lado De Allá de Rayuela: o exílio interno e o sentimento de desenraizamento como conseqüências da modernidade",
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Colóquio de Estudos Literários: Diálogos e Perspectivas",
+        "apresentacao": "PRIMO LEVI: MEMÓRIA E TESTEMUNHO DOS CAMPOS DE EXTERMÍNIO NAZISTAS",
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Simpósio Estadual sobre a Formação de Professores de Sociologia",
+        "apresentacao": "Juventude e Drogas: uma outra abordagem",
+        "ano": 2009,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Oficina de Roteiro da IV Bienal de Cultura da UNE",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VI Bienal de Cultura da UNE",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Seminário de Cinema Contemporâneo",
+        "apresentacao": null,
+        "ano": 2009,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "40 anos da obra de Nicos Poulantzas: \"poder político e classes sociais\"",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Gênero nas Telas: a construção da feminilidade e da masculinidade através do cinema",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana de Ciências Sociais",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Semana de Ciências Sociais",
+        "apresentacao": "ENSAIOS SOBRE O PODER: UMA ANÁLISE SOCIOLÓGICA DOS MECANISMOS DE PODER ATRAVÉS DA NARRATIVA DE JOSÉ SARAMAGO",
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Singularidade, Arte e Formação (Bildung) em Nietzche",
+        "apresentacao": null,
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Cotidiano e Trabalho no Cinema",
+        "apresentacao": null,
+        "ano": 2007,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Introdução à História do Cinema",
+        "apresentacao": null,
+        "ano": 2007,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminário Caio Prado Junior",
+        "apresentacao": null,
+        "ano": 2007,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "\"Análise da Política Tributária e a Ética no Sistema Tributário Nacional\" e \"Secretaria da Solidariedade - Conselho da Cidadania\"",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Encontro de Direito e Cultura Latino-Americanos: diversidade, identidade e emancipação",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Congresso Brasileiro de Direito Constitucional e Cidadania",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Encontro Científico Brasileiro de Direito Constitucional e Cidadania",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Congresso Nacional das Entidades de Base da UNE",
+        "apresentacao": null,
+        "ano": 2006,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Encontro de Direito e Cultura Latino-Americanos: diversidade, identidade e emancipação",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Congresso Paranaense de Direito Constitucional e Cidadania",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Projeto de Ensino \"Integração Mestrado e Graduação\"",
+        "apresentacao": "Direito e(m) Crise: Teoria Crítica, Direito Alternativo e Pluralismo Jurídico",
+        "ano": 2005,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XLIII Semana Jurídica",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; CAMARA, A. D. S.",
+        "evento": "IV Encontro Arte e Sociedade",
+        "ano": 2025,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; SANTOS, D. V.",
+        "evento": "GT66. Sociologia das Práticas Culturais Urbanas",
+        "ano": 2025,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, LUCAS AMARAL DE. Sessão 5 - Literatura e Artes Poéticas. 2025. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; JESUS, A. S. ; ALVES, A. R. C. ; SIQUEIRA, C. A.",
+        "evento": "Oficina Metodológica: Mau Encontro e Poética da Disposição Editorial",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; SANTOS, D. V. ; SANTOS, P. S.",
+        "evento": "PV18. Releituras de Brasil: arte e formação nacional",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; CARDEL, L. M. P. S.",
+        "evento": "Coordenação de Mesa da Área de Sociologia no Congresso UFBA",
+        "ano": 2023,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; HOLMES, T. ; BOWSKILL, S.",
+        "evento": "Brazil: Methods in Context",
+        "ano": 2023,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; MIGLIEVICH-RIBEIRO, A.",
+        "evento": "ST08: Ciências Sociais e Descolonização",
+        "ano": 2022,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; MUNIZ JR, J. S.",
+        "evento": "MR02: Expressões Literárias Periféricas - I Congresso Internacional Multidisciplinar Arte&Cultura",
+        "ano": 2022,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, LUCAS AMARAL DE; SANTOS, D. V. ; PARDUE, D.",
+        "evento": "GT06 - Formas e Experiências Culturais Periféricas",
+        "ano": 2021,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; MACHADO, B. F.",
+        "evento": "SPG30 - Narrativas de si e regimes de visibilidade",
+        "ano": 2021,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; REGATIERI, R. P. ; ALVES, A. R. C. ; IAMAMOTO, S. A. S. ; ZIM, R. P. R. W. C. R. ; GONZALEZ, M. V. E.",
+        "evento": "Teorias Sociais, Modernidades e Colonialidades",
+        "ano": 2020,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; TEIXEIRA, J. M.",
+        "evento": "SPG32 - Narrativas de si e regimes de visibilidade",
+        "ano": 2020,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; FERREIRA, T. S.",
+        "evento": "Sociologia das Práticas Culturais Urbanas",
+        "ano": 2019,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; PARDUE, D.",
+        "evento": "Urban Theory and the Right to the City: An Interdisciplinary Debate",
+        "ano": 2018,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; MUNIZ JR, J. S. ; VASCONCELOS-OLIVEIRA, M. C.",
+        "evento": "A dimensão coletiva das práticas culturais juvenis",
+        "ano": 2017,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.; PARDUE, D.",
+        "evento": "Brazilian Days",
+        "ano": 2016,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.. Seminário Internacional ?Trabalho, cuidado e políticas sociais: Brasil-França em debate?. 2014. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.. Simpósio Internacional, Movimentos Sociais e Instituições Políticas na América Latina. 2014. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, L. A.. VII Congresso Latino-americano de Estudos do Trabalho. 2013. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; DUCCINI, L.; ANDRADE, R. T. C.. Participação em banca de Vânia Virgínia Mendes Correia Tavares. Vida e transcendência: um estudo sobre a concepção de morte na cultura Balanta Patch da Guiné-Bissau. 2025. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Vânia Virgínia Mendes Correia Tavares",
+        "membros_banca": [
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "DUCCINI, L.",
+          "ANDRADE, R. T. C."
+        ],
+        "titulo_trabalho": "Vida e transcendência: um estudo sobre a concepção de morte na cultura Balanta Patch da Guiné-Bissau",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; NASCIMENTO, L. F.; ARANTES, RAFAEL DE AGUIAR; MENDES, L. F. G.. Participação em banca de Jéfte Batista de Oliveira. De ?bairro de vovó? a cenário de novela: gentrificação turística no Santo Antônio Além do Carmo ? Salvador (BA). 2025. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Jéfte Batista de Oliveira",
+        "membros_banca": [
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "NASCIMENTO, L. F.",
+          "ARANTES, RAFAEL DE AGUIAR",
+          "MENDES, L. F. G."
+        ],
+        "titulo_trabalho": "De ?bairro de vovó? a cenário de novela: gentrificação turística no Santo Antônio Além do Carmo ? Salvador (BA)",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; ALVES, A. R. C.; MIRANDA, F. R.. Participação em banca de Carlos Alves Siqueira. Tensões na Sala de Visitas: Pacto da Branquitude nos Diários de Carolina Maria de Jesus. 2024. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Carlos Alves Siqueira",
+        "membros_banca": [
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "ALVES, A. R. C.",
+          "MIRANDA, F. R."
+        ],
+        "titulo_trabalho": "Tensões na Sala de Visitas: Pacto da Branquitude nos Diários de Carolina Maria de Jesus",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SANTOS, P. S.; GONCALVES, T. A.; LIMA, B. D. T. C.; OLIVEIRA, L. A.. Participação em banca de Camila Buenaño Ribeiro. Casamento e Maternidade na Série Napolitana, de Elena Ferrante. 2024. Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia e Antropologia - PPGSA) - Universidade Federal do Pará.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Camila Buenaño Ribeiro",
+        "membros_banca": [
+          "SANTOS, P. S.",
+          "GONCALVES, T. A.",
+          "LIMA, B. D. T. C.",
+          "OLIVEIRA, L. A."
+        ],
+        "titulo_trabalho": "Casamento e Maternidade na Série Napolitana, de Elena Ferrante",
+        "curso": "Dissertação (Mestrado em Programa de Pós-Graduação em Sociologia e Antropologia",
+        "universidade": "Universidade Federal do Pará"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "HITA, M. G.; FRUGOLI JR, H.; SANSONE, L.; PERELMAN, M.; OLIVEIRA, LUCAS AMARAL DE. Participação em banca de Umeru Bahia de Azevedo. No Tempo da Cultura: estudo sobre a multidimensionalidade dos agentes culturais de um bairro popular de Salvador. 2024. Tese (Doutorado em Programa de Pós-Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Umeru Bahia de Azevedo",
+        "membros_banca": [
+          "HITA, M. G.",
+          "FRUGOLI JR, H.",
+          "SANSONE, L.",
+          "PERELMAN, M.",
+          "OLIVEIRA, LUCAS AMARAL DE"
+        ],
+        "titulo_trabalho": "No Tempo da Cultura: estudo sobre a multidimensionalidade dos agentes culturais de um bairro popular de Salvador",
+        "curso": "Tese (Doutorado em Programa de Pós-Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; MOCELLIM, A. D.; HARMAN, G.; CORREA, D. S.; PETERS, G. M.. Participação em banca de Thiago de Araujo Pinho. Rumo a uma Teoria Social Alternativa (T.S.A): Bruno Latour e a Retomada do Vitalismo. 2021. Tese (Doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Thiago de Araujo Pinho",
+        "membros_banca": [
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "MOCELLIM, A. D.",
+          "HARMAN, G.",
+          "CORREA, D. S.",
+          "PETERS, G. M."
+        ],
+        "titulo_trabalho": "Rumo a uma Teoria Social Alternativa (T.S.A): Bruno Latour e a Retomada do Vitalismo",
+        "curso": "Tese (Doutorado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; SALLES, E. P.; CASTRO, B. A. C.; GALLO, F.; ALVES, C. N.. Participação em banca de Renan Lélis Gomes. O Relevo da Voz: um grito cartográfico dos saraus em São Paulo. 2019. Tese (Doutorado em Geografia) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+        "ano": 2019,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Renan Lélis Gomes",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "SALLES, E. P.",
+          "CASTRO, B. A. C.",
+          "GALLO, F.",
+          "ALVES, C. N."
+        ],
+        "titulo_trabalho": "O Relevo da Voz: um grito cartográfico dos saraus em São Paulo",
+        "curso": "Tese (Doutorado em Geografia)",
+        "universidade": "Universidade Estadual Paulista Júlio de Mesquita Filho"
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; IAMAMOTO, S. A. S.; BARREIROS, B. C.. Comissão de Seleção do Doutorado. 2025. Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; BEZERRA, G. M. P.; PASSIANI, E.; BRASIL JUNIOR, A. S.; TEIXEIRA, A. L. F.; LEAO, A. B.; ARRUDA, M. A. N.. 10ª Edição do Prêmio Tese Destaque USP. 2021. Universidade de São Paulo.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade de São Paulo.",
+        "universidade": ""
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; SANTOS, P. S.; OLIVEIRA, D. R.; GONCALVES, T. A.. Participação em banca de Livia Coelho Netto Affonso. Classe, raça, gênero e trabalho doméstico nas obras de Eliana Alves Cruz. 2025. Exame de qualificação (Mestrando em SOCIOLOGIA E ANTROPOLOGIA) - Universidade Federal do Pará.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Livia Coelho Netto Affonso",
+        "membros_banca": [
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "SANTOS, P. S.",
+          "OLIVEIRA, D. R.",
+          "GONCALVES, T. A."
+        ],
+        "titulo_trabalho": "Classe, raça, gênero e trabalho doméstico nas obras de Eliana Alves Cruz",
+        "curso": "Exame de qualificação (Mestrando em SOCIOLOGIA E ANTROPOLOGIA)",
+        "universidade": "Universidade Federal do Pará"
+      },
+      {
+        "descricao": "NASCIMENTO, L. F.; ARANTES, RAFAEL DE AGUIAR; OLIVEIRA, LUCAS; MENDES, L. F. G.. Participação em banca de Jéfte Batista de Oliveira. De \"bairro de vovó\" a cenário de novela: a gentrificação turística do Santo Antônio Além do Carmo. 2024. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Jéfte Batista de Oliveira",
+        "membros_banca": [
+          "NASCIMENTO, L. F.",
+          "ARANTES, RAFAEL DE AGUIAR",
+          "OLIVEIRA, LUCAS",
+          "MENDES, L. F. G."
+        ],
+        "titulo_trabalho": "De \"bairro de vovó\" a cenário de novela: a gentrificação turística do Santo Antônio Além do Carmo",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; DUCCINI, L.; SANTOS, L. P.. Participação em banca de Vânia Virgínia Mendes Correia Tavares. A Vida na Transcendência: um estudo a respeito da concepção de morte na cultura Balanta Patch da Guiné-Bissau. 2024. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Vânia Virgínia Mendes Correia Tavares",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "DUCCINI, L.",
+          "SANTOS, L. P."
+        ],
+        "titulo_trabalho": "A Vida na Transcendência: um estudo a respeito da concepção de morte na cultura Balanta Patch da Guiné-Bissau",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "JACKSON, L. C.; OLIVEIRA, LUCAS AMARAL DE; BARBOZA, D. P.. Participação em banca de Bruna de Santana Souza. A Cidade dos Intelectuais: Formação da Sociologia Urbana no Brasil (1964-1985). 2024. Exame de qualificação (Mestrando em Sociologia) - Universidade de São Paulo.",
+        "ano": 1964,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Bruna de Santana Souza",
+        "membros_banca": [
+          "JACKSON, L. C.",
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "BARBOZA, D. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade de São Paulo"
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; ALVES, A. R. C.; MIRANDA, F. R.. Participação em banca de Carlos Alves Siqueira. Tensões na Sala de Visitas: Pacto da Branquitude e Relações de Poder nos Diários de Carolina Maria de Jesus. 2023. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Carlos Alves Siqueira",
+        "membros_banca": [
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "ALVES, A. R. C.",
+          "MIRANDA, F. R."
+        ],
+        "titulo_trabalho": "Tensões na Sala de Visitas: Pacto da Branquitude e Relações de Poder nos Diários de Carolina Maria de Jesus",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "OLIVEIRA, L. A.; HITA, M. G.; FRUGOLI JR, H.; PERELMAN, M.. Participação em banca de Umeru Bahia de Azevedo. No Tempo da Cultura: estudo sobre a multidimensionalidade do ator cultural de um bairro popular de Salvador (BA). 2022. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Umeru Bahia de Azevedo",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "HITA, M. G.",
+          "FRUGOLI JR, H.",
+          "PERELMAN, M."
+        ],
+        "titulo_trabalho": "No Tempo da Cultura: estudo sobre a multidimensionalidade do ator cultural de um bairro popular de Salvador (BA)",
+        "curso": "Exame de qualificação (Doutorando em Programa de Pós-Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SANTOS, P. S.; OLIVEIRA, LUCAS AMARAL DE; DANTAS, L. M. S.; GONCALVES, T. A.; LIMA, B. D. T. C.. Participação em banca de Camila Buenaño Ribeiro. Representação das mulheres e opressões de gênero na Série Napolitana, de Elena Ferrante. 2023. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Sociologia e Antropologia - PPGSA) - Universidade Federal do Pará.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Camila Buenaño Ribeiro",
+        "membros_banca": [
+          "SANTOS, P. S.",
+          "OLIVEIRA, LUCAS AMARAL DE",
+          "DANTAS, L. M. S.",
+          "GONCALVES, T. A.",
+          "LIMA, B. D. T. C."
+        ],
+        "titulo_trabalho": "Representação das mulheres e opressões de gênero na Série Napolitana, de Elena Ferrante",
+        "curso": "Exame de qualificação (Mestrando em Programa de Pós-Graduação em Sociologia e Antropologia",
+        "universidade": "Universidade Federal do Pará"
+      },
+      {
+        "descricao": "VARGAS, F.; LOOSE, E. B.; OLIVEIRA, LUCAS AMARAL DE. Participação em banca de Victória de Assis Menezes.Crise ambiental contemporânea: negacionismo e ceticismo climático no Brasil. 2022. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Victória de Assis Menezes",
+        "membros_banca": [
+          "VARGAS, F.",
+          "LOOSE, E. B.",
+          "OLIVEIRA, LUCAS AMARAL DE"
+        ],
+        "titulo_trabalho": "Crise ambiental contemporânea: negacionismo e ceticismo climático no Brasil",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SOTERO, E. C.; CARVALHO, J.; OLIVEIRA, LUCAS AMARAL DE. Participação em banca de Terezinha Conceição dos Santos.Realidade ou Mito? Um olhar sociológico sobre a violência obstétrica e o racismo institucional em maternidades públicas. 2022. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Terezinha Conceição dos Santos",
+        "membros_banca": [
+          "SOTERO, E. C.",
+          "CARVALHO, J.",
+          "OLIVEIRA, LUCAS AMARAL DE"
+        ],
+        "titulo_trabalho": "Realidade ou Mito? Um olhar sociológico sobre a violência obstétrica e o racismo institucional em maternidades públicas",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "DUCCINI, L.; RABELO, M. C. M.; OLIVEIRA, L. A.. Participação em banca de Ilma Reis de Araújo.Mulheres Sobreviventes ao Câncer de Mama da Comunidade Católica Shalom em Salvador (BA). 2022. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Ilma Reis de Araújo",
+        "membros_banca": [
+          "DUCCINI, L.",
+          "RABELO, M. C. M.",
+          "OLIVEIRA, L. A."
+        ],
+        "titulo_trabalho": "Mulheres Sobreviventes ao Câncer de Mama da Comunidade Católica Shalom em Salvador (BA)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS; DUCCINI, L.; RABELO, M. C. M.. Participação em banca de Luiza Souza de Camargo.Transparência e nebulosidade nos estudos acadêmicos sobre Nova Era no Brasil. 2022. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Luiza Souza de Camargo",
+        "membros_banca": [
+          "OLIVEIRA, LUCAS",
+          "DUCCINI, L.",
+          "RABELO, M. C. M."
+        ],
+        "titulo_trabalho": "Transparência e nebulosidade nos estudos acadêmicos sobre Nova Era no Brasil",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; SOUZA, I. M. A.; VARGAS, F.. Participação em banca de Gregório Correia Barbosa.A Quinta do Doce: uma etnografia da experiência lisérgica. 2022. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Gregório Correia Barbosa",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "SOUZA, I. M. A.",
+          "VARGAS, F."
+        ],
+        "titulo_trabalho": "A Quinta do Doce: uma etnografia da experiência lisérgica",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; LOURENCO, L. C.; PRADO, A.. Participação em banca de Laura Regina Rodrigues Ferreira.Saúde da mulher e encarceramento feminino: avanços e lacunas no acesso à saúde. 2022. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Laura Regina Rodrigues Ferreira",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "LOURENCO, L. C.",
+          "PRADO, A."
+        ],
+        "titulo_trabalho": "Saúde da mulher e encarceramento feminino: avanços e lacunas no acesso à saúde",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; MACHADO, B. F.. Participação em banca de Linky Kermam Vasconcelos Sales.O Pacto pela Educação: alguns aspectos de uma política pública educacional no Estado de Goiás. 2019. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal de Goiás.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Linky Kermam Vasconcelos Sales",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "MACHADO, B. F."
+        ],
+        "titulo_trabalho": "O Pacto pela Educação: alguns aspectos de uma política pública educacional no Estado de Goiás",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal de Goiás"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; HIRANO, L. F. K.. Participação em banca de Matheus de Leles Morais Silva.Entre Franceses e Brasileiros: uma análise das inspirações francesas na obra Recordações do Escrivão Isaías Caminha. 2019. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal de Goiás.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Matheus de Leles Morais Silva",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "HIRANO, L. F. K."
+        ],
+        "titulo_trabalho": "Entre Franceses e Brasileiros: uma análise das inspirações francesas na obra Recordações do Escrivão Isaías Caminha",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal de Goiás"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; MAINARDI, C.. Participação em banca de Mariane Oliveira Neves.Sob as lentes de Paulinho Eceare Kadojeba: reflexão com o filme Boe Ero Karireu - A Grande Tradição Bororo. 2019. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal de Goiás.",
+        "ano": 2019,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Mariane Oliveira Neves",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "MAINARDI, C."
+        ],
+        "titulo_trabalho": "Sob as lentes de Paulinho Eceare Kadojeba: reflexão com o filme Boe Ero Karireu - A Grande Tradição Bororo",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal de Goiás"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; MAINARDI, C.; FERREIRA, T. S.. Participação em banca de Marina dos Santos Conceição.A questão indígena no livro didático de sociologia. 2018. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal de Goiás.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marina dos Santos Conceição",
+        "membros_banca": [
+          "OLIVEIRA, L. A.",
+          "MAINARDI, C.",
+          "FERREIRA, T. S."
+        ],
+        "titulo_trabalho": "A questão indígena no livro didático de sociologia",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal de Goiás"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "VARGAS, F.; DAVID, M. L.; OLIVEIRA, LUCAS AMARAL DE. Participação em banca de Victória de Assis Menezes. Ultraprocessados e Suas Dimensões Nutricionais, Sociais e Sensíveis: Disputas em torno de Regimes de Prazer. 2025.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Victória de Assis Menezes",
+        "membros_banca": [
+          "VARGAS, F.",
+          "DAVID, M. L.",
+          "OLIVEIRA, LUCAS AMARAL DE"
+        ],
+        "titulo_trabalho": "Ultraprocessados e Suas Dimensões Nutricionais, Sociais e Sensíveis: Disputas em torno de Regimes de Prazer",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; BARREIROS, B. C.; PREVIATTI, D.. Seleção para contratação de docente por tempo determinado. 2023. Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "OLIVEIRA, LUCAS AMARAL DE; ALVES, A. R. C.; BARREIROS, B. C.. Seleção para contratação de docente por tempo determinado. 2021. Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 38,
+    "total_livros": 2,
+    "total_capitulos": 7,
+    "total_trabalhos_congressos": 14,
+    "total_projetos_pesquisa": 15,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 15,
+    "total_orientacoes_andamento": 12
+  }
+}

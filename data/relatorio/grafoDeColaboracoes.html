@@ -1,0 +1,565 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>PPGCS-UFBA-permanentes</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>PPGCS-UFBA-permanentes</h2></div>
+    <h3>Grafo de colaborações</h3>
+    <p>
+      <a href="membros.html">
+        23 currículos Lattes
+      </a> geraram este grafo baseado em <em>Artigos completos publicados em periódicos, Livros publicados/organizados ou edições, Capítulos de livros publicados, Textos em jornais de notícias/revistas, Trabalhos completos publicados em anais de congressos, Resumos expandidos publicados em anais de congressos, Resumos publicados em anais de congressos, Artigos aceitos para publicação, Apresentações de trabalho, Demais tipos de produção bibliográfica, Programas de computador com registro, Programas de computador sem registro, Produtos tecnológicos, Processos ou técnicas, Trabalhos técnicos , Demais tipos de produção técnica, Entrevistas, mesas redondas, programas e comentários na mídia, Produções artísticas</em>.<br>
+      O tamanho do vértice é proporcional ao número de colaboradores. A espessura da aresta é proporcional ao número de colaborações.
+    </p>
+    
+    <style>
+      .viz-wrap { display:flex; gap:1rem; }
+      #info-pane {
+        flex:1; max-height: 1200px; overflow:auto;
+        border:1px solid #ddd; padding:0.75rem; background:#fafafa;
+      }
+      .toolbar {
+        display:flex; gap:0.5rem; align-items:center; margin-bottom:0.5rem; flex-wrap: wrap;
+      }
+      .toolbar input[type="text"] {
+        flex:1; min-width: 220px; padding:0.5rem; border:1px solid #ccc; border-radius:8px;
+      }
+      .toolbar button {
+        padding:0.5rem 0.75rem; border:1px solid #ccc; border-radius:8px; background:#fff; cursor:pointer;
+      }
+      .legend { display:flex; align-items:center; gap:.5rem; flex-wrap:wrap;
+        font: 14px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; }
+      .legend .title { margin-right:.25rem; }
+      .legend .item { display:inline-flex; align-items:center; gap:.35rem; margin-right:.75rem; }
+      .legend .swatch { width:14px; height:14px; display:inline-block; border-radius:2px; border:1px solid rgba(0,0,0,.2); }
+    
+      #viz-container { flex:3; height: 70vh; min-height: 620px; border:1px solid #ccc; position:relative; }
+      @media (min-width: 1200px) { #viz-container { height: 1200px; } }
+      @media (max-height: 600px) { #viz-container { height: 60vh; } }
+    
+      .node { cursor:grab; }
+      .node:active { cursor:grabbing; }
+      .node.selected circle { stroke:#111; stroke-width:1px; }
+      .dimmed { opacity:0.15; }
+    
+      .label { font: 5px/1.2 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; pointer-events:none; }
+      .edge-label { font-size: 3px; line-height: 1; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, sans-serif; fill:#555; }
+      .edge { stroke:#aaa; stroke-opacity:0.85; }
+      .edge.highlight { stroke:#333; }
+      .hidden { display:none !important; }
+    
+      /* Ellipsis + tooltip nas tabelas (aplicado quando Tabulator monta) */
+      #tabela-vertices .tabulator-cell,
+      #tabela-arestas  .tabulator-cell {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+      }
+    </style>
+    
+    <div class="viz-wrap">
+      <div style="flex:3; display:flex; flex-direction:column;">
+        <div class="toolbar">
+          <div id="legend" class="legend">
+            <span class="title">As cores representam os seguintes rótulos:</span>
+          </div>
+          <button id="btnToggleLabels" title="Mostrar/ocultar rótulos (vértices e arestas)">Ocultar rótulos</button>
+          <input id="searchBox" type="text" placeholder="Buscar pesquisador (nome ou ID)..." />
+          <button id="btnSearch">Buscar</button>
+          <button id="btnClear">Limpar seleção</button>
+        </div>
+    
+        <div id="viz-container">
+          <svg id="viz" width="100%" height="100%"></svg>
+        </div>
+      </div>
+    
+      <div id="info-pane">
+        <h4>Informação do Pesquisador</h4>
+        <p>Clique em um nó (ou use a busca) para ver detalhes aqui.</p>
+      </div>
+    </div>
+    
+    <p>Você pode baixar o grafo em formato GEXF:
+      <a href="grafo_de_colaboracoes.gexf" download="grafo_de_colaboracoes.gexf">grafo_de_colaboracoes.gexf</a>
+    </p>
+    
+    <!-- D3 global (sem módulos) -->
+    <script src="js/d3.min.js"></script>
+    
+    <script>
+      // ======= dados =======
+      var graphData = {"directed": false, "multigraph": false, "graph": {}, "nodes": [{"label": "Ana Rodrigues Cavalcanti Alves", "url": "http://lattes.cnpq.br/6506286038414113", "publicacoesEmCoautoria": 5, "atualizacaoCV": "26/03/2026", "resumo": "Professora Adjunta do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e do Programa de Pós-graduação em Ciências Sociais - PPGCS/UFBA. Possui graduação sanduíche em Ciências Sociais pela Universidade Federal de Pernambuco (2008) e Universidade de Hamburgo/ Alemanha (2006-2007), mestrado em Sociologia (2011) e doutorado em Sociologia (2018) pelo PPGS-UFPE. Realizou pós-doutorado em Sociologia pela Universidade Federal de Pernambuco (2018-2019). Tem experiência na área de Sociologia, com ênfase em teoria social, sociologia brasileira e sociologia do consumo. Integra o Projeto de Pesquisa ''Uma sociologia do artesanato intelectual: a Biblioteca de Florestan Fernandes e a América Latina (1959-1985)'', financiado pelo CNPq, bem como os seguintes Grupos de Pesquisa: Periféricas - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades (UFBA); Vice-líder do Laboratório de Pesquisa e Estudos em Pensamento Social no Brasil (LAPES-Br). (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431", "artigosPeriodicos": 14, "artigosEventos": 5, "capitulosDeLivros": 5, "livros": 3, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": -0.49010634570688766, "y": 0.04340280770713745, "size": 2, "id": 0}, {"label": "Antonio da Silva Camara", "url": "http://lattes.cnpq.br/4868229187967997", "publicacoesEmCoautoria": 1, "atualizacaoCV": "26/01/2026", "resumo": "ANTONIO DA SILVA CÂMARA concluiu o doutorado em Sociologia - Université de Paris VII em 1994. Realizou Pós-doutoramento no CNRS/Universidade Toulouse le Mirail (França) em 2000. Atualmente é PROFESSOR Titular da Universidade Federal da Bahia. Publicou 36 artigos em periódicos especializados. Organizador de cinco livros, publicou 24 capítulos de livros. Orientou 39 dissertações de mestrado e coorientou 4, orientou 25 teses de doutorado, além de ter orientado 70 trabalhos de iniciação científica e 39 trabalhos de conclusão de curso na área de Sociologia. Entre 1999 e 2019 coordenou 15 projetos de pesquisa. Atualmente coordena 01 projeto de pesquisa. Atua na área de Sociologia, com ênfase em Sociologia da Arte, Representações sociais no cinema e cinema e ideologia. Em suas atividades profissionais interagiu com colaboradores em coautorias de trabalhos científicos. Em seu currículo Lattes os termos mais frequentes na contextualização da produção científica, tecnológica e artístico-cultural são: arte, sociologia da arte, cinema, ideologia, movimentos sociais, representações sociais. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de são Lázaro 197 FEDERAÇAO 40210730 - Salvador, BA - Brasil Telefone: (71) 32836454 Fax: (71) 2354635", "artigosPeriodicos": 38, "artigosEventos": 26, "capitulosDeLivros": 24, "livros": 5, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": 0.7000000000000001, "y": -0.07827554117937754, "size": 2, "id": 1}, {"label": "Bruno Costa Barreiros", "url": "http://lattes.cnpq.br/5274872727972308", "publicacoesEmCoautoria": 1, "atualizacaoCV": "03/02/2026", "resumo": "Professor Adjunto no Departamento de Sociologia da Universidade Federal da Bahia. Professor permanente da Pós-Graduação em Ciências Sociais da UFBA (PPGCS-UFBA). Graduado em psicologia pela UFBA, realizou mestrado e doutorado em Sociologia Política pela UFSC, incluindo estágio doutoral na École Normale Supérieure de Paris. Suas pesquisas se inserem na interface entre a sociologia econômica e a sociologia das elites. Atualmente, desenvolve pesquisa sobre as estratégias políticas do empresariado na promoção do desenvolvimento sustentável. É integrante apoiador do Comitê de Pesquisa de Sociologia Econômica (CPSE) da Sociedade Brasileira de Sociologia (SBS). É um dos líderes do LAPOCS - Laboratório de Pesquisas em Poder, Cultura, Política, Práticas Sociais e Hierarquias Simbólicas. Também é pesquisador associado ao NESPOM-UNESP (Núcleo de Estudos e Pesquisa sobre Sociedade, Emoções, Poder, Organização e Mercado). Coordenador do GT ANPOCS \"Sociedade e Vida Econômica\" desde 2023. Principais áreas de interesse: Sociologia Econômica, Sociologia Política, Sociologia das Elites, Análise do Discurso, Metodologia de pesquisa em ciências sociais e Desenvolvimento Sustentável. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 16, "artigosEventos": 11, "capitulosDeLivros": 0, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": -0.38604557916099996, "y": -0.512986261263405, "size": 2, "id": 2}, {"label": "Clóvis Roberto Zimmermann", "url": "http://lattes.cnpq.br/7132903863839824", "publicacoesEmCoautoria": 1, "atualizacaoCV": "03/05/2026", "resumo": "Possui graduação em Sociologia e Teologia pela Universidade de Heidelberg na Alemanha e doutorado em Sociologia - Universitat Heidelberg (Ruprecht-Karls) (2004). Atualmente é professor adjunto de Sociologia da Universidade Federal da Bahia e membro do Programa de pós-graduação em Ciências Sociais da mesma universidade. Orientador de pós-graduação na área de Sociologia, com ênfase em Políticas Sociais, atuando principalmente nos seguintes temas: teoria das políticas sociais, participação nas políticas sociais e direitos sociais. Orientador de doutorado do trabalho de Rafael Xucuru-Kariri (Carlos Rafael da Silva), que venceu a edição de 2024 do Prêmio CAPES de Tese na área de Sociologia e também vendedor do Grande Prêmio CAPES de Tese Lélia Gonzalez (Colégio de Humanidades - Ciências Humanas, Linguística, Letras, Artes e Ciências Sociais Aplicadas). (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, FFCH", "enderecoProfissional": "Universidade Federal da Bahia, FFCH. Faculdade de Filosofia e Ciências Humanas SãoLázaro 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: http://www.ffch.ufba.br", "artigosPeriodicos": 48, "artigosEventos": 12, "capitulosDeLivros": 27, "livros": 8, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": 0.2626511759260616, "y": 0.5656958735540296, "size": 2, "id": 3}, {"label": "Débora Previatti", "url": "http://lattes.cnpq.br/0212366491733548", "publicacoesEmCoautoria": 1, "atualizacaoCV": "07/05/2026", "resumo": "Graduada em Ciências Sociais pela Universidade Federal de Santa Catarina (UFSC), com mestrado e doutorado em Sociologia Política pela mesma instituição, e doutorado sanduíche na École des Hautes Études en Sciences Sociales (EHESS), no Centre Européen de Sociologie et de Science Politique (CESSP). É Professora Adjunta da Universidade Federal da Bahia (UFBA), atuando nos bacharelados em Nutrição e Gastronomia, e docente permanente do Programa de Pós-Graduação em Ciências Sociais. É uma das líderes do LAPOCS Laboratório de Pesquisas em Poder, Cultura, Política, Práticas Sociais e Hierarquias Simbólicas. Em 2025, coordenou o Grupo de Trabalho Sociologia da Alimentação da Sociedade Brasileira de Sociologia. Possui experiência na área de Sociologia, com ênfase em Sociologia da Cultura, Sociologia da Alimentação, Sociologia das Elites e Sociologia da Saúde. Seus temas atuais de interesse incluem a circulação de bens culturais e a construção de legitimidades; gostos, estilos de vida e hierarquias sociais; livros de culinária e gastronomia; lógicas sociais da edição; intermediários culturais e trajetórias; práticas alimentares e desigualdades. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Escola de Nutrição", "enderecoProfissional": "Universidade Federal da Bahia, Escola de Nutrição. Rua Araújo Pinho, 32 Canela 40301110 - Salvador, BA - Brasil Telefone: (71) 32837700", "artigosPeriodicos": 10, "artigosEventos": 8, "capitulosDeLivros": 5, "livros": 1, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": -0.3738957564666214, "y": -0.4978066832008158, "size": 2, "id": 4}, {"label": "Felipe Vargas", "url": "http://lattes.cnpq.br/6150854485177629", "publicacoesEmCoautoria": 0, "atualizacaoCV": "02/03/2026", "resumo": "Pós-Doutor em Desenvolvimento Rural pelo Programa de Pós-Graduação em Desenvolvimento Rural (PGDR/UFRGS). Doutor em Sociologia (PPGS/UFRGS). Mestre em Sociologia (PPGS/UFRGS). Graduado em Ciências Jurídicas e Sociais (UFRGS). Professor Ajunto na Universidade Federal da Bahia (UFBA), Faculdade de Filosofia e Ciências Humanas (FFCH) no Departamento de Sociologia. Professor permanente do Programa de Pós-graduação em Ciências Sociais (PPGCS) vinculado a FFCH/UFBA. Professor colaborador do Programa Multidisciplinar de Pós-graduação em Cultura e Sociedade, vinculado ao Instituto de Humanidades, Artes e Ciência Professor Milton Santos (IHAC) na UFBA. Integrante do Grupo de Pesquisa Periféricas, vinculado à Faculdade de Filosofia e Ciências Humanas da Universidade Federal da Bahia (UFBA). Coordenador do grupo de pesquisa NUCLEAR (Núcleo de Estudos Ambientais Urbanos e Rurais), vinculado à Faculdade de Filosofia e Ciências Humanas da UFBA. Membro do Grupo Ecologia Política da CLACSO. Colaborador do Groupe d'Études Constructivistes (GECo) da Université Libre de Bruxelles (ULB). Áreas de interesse de pesquisa: (i) questão ambiental; (ii) questão colonial; (iii) relação sociedade-natureza; (iv) estudos científicos (Science Studies); (v) antropologia indígena. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada de São Lázaro Federação 40226365 - Salvador, BA - Brasil Telefone: (071) 32836431", "artigosPeriodicos": 11, "artigosEventos": 1, "capitulosDeLivros": 7, "livros": 1, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.4669132031545418, "y": 0.4407049754775299, "size": 2, "id": 5}, {"label": "Iara Maria de Almeida Souza", "url": "http://lattes.cnpq.br/1266626414413147", "publicacoesEmCoautoria": 20, "atualizacaoCV": "23/03/2026", "resumo": "Fiz a graduação (1985), mestrado (1995) e doutorado (2004) em Ciências Sociais na Universidade Federal da Bahia, onde sou docente do Departamento de Sociologia. Integro o Programa de Pós-Graduação em Ciências Sociais, tendo exercido a coordenação entre 2009 e 2011. Pós-doutorado no Museu Nacional (UFRJ) e na UFMG. Faço pesquisa em sobre ciência e relação humano animal. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de São Lázaro, 197 Federação 40210-730 - Salvador, BA - Brasil Telefone: (71) 32354635 Fax: (71) 32354635", "artigosPeriodicos": 20, "artigosEventos": 15, "capitulosDeLivros": 14, "livros": 3, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 3, "x": 0.08177092010999175, "y": -0.04399085773985789, "size": 4, "id": 6}, {"label": "Jair Batista da Silva", "url": "http://lattes.cnpq.br/7967150503062793", "publicacoesEmCoautoria": 1, "atualizacaoCV": "03/03/2026", "resumo": "Sou professor associado IV do Departamento de Sociologia, do Programa de Pós-graduação em Ciências Sociais e do Porgrama de Pós-Graduação em Serviço Social. Coordenador do Grupo de Pesquisa ''Trabalho, Desigualdades e Teoria Social'', além de pesquisador do Centro de Estudos e Pesquisas em Humanidades (CRH), atuo ainda como edtior de resenhas na Revista Caderno CRH e como membro do Conselho Editorial da revista. Fui bolsista produtividade do CNPq (2019-2021), atue ainda comoi chefe do Departamento de Sociologia/UFBA (2020-2022). Coordenei o CRH-Centro de Estudos e Pesquisas em Humanidades da Universidade Federal da Bahia(gestão 2011-2013). Fui professor do departamento de Ciências Sociais e do Programa de Pós-Graduação em Sociologia da Universidade Federal da Paraíba(UFPB). Desenvolvi pesquisa de pós-doutorado no Programa de Pós-Graduação em Ciências Sociais/UFBA através de bolsa concedida pela CAPES/CNPq, entre julho/2008 a novembro de 2009. Realizei estágio pós doutoral no Programa de Pós-Graduação em Ciências Sociais da Universidade Federal de São Paulo (Unifesp) entre outubro de 2017 a setembro de 2018. Possuo ainda doutorado em Ciências Sociais pela Universidade Estadual de Campinas (2008) e mestrado em Sociologia pela mesma Universidade (2002). Além disso, graduei-me em Licenciatura em Ciências Sociais (1999) e Bacharelado em Ciências Sociais, com ênfase em Sociologia, pela Universidade Federal da Bahia (2000). Tenho experiência na área de Sociologia, especialmente em Sociologia do trabalho e teoria social, atuando e publicando trabalhos nos seguintes temas: racismo, sindicalismo, classes sociais, teoria social, teoria crítica, reestruturação produtiva e trabalho bancário. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Departamento de Sociologia. Estrada de São Lázaro Federação 40210730 - Salvador, BA - Brasil - Caixa-postal: 40150000 Telefone: (71) 32835852 URL da Homepage: www.ffch.ufba.br", "artigosPeriodicos": 7, "artigosEventos": 9, "capitulosDeLivros": 23, "livros": 5, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": 0.10615836185694866, "y": -0.05488331682559352, "size": 2, "id": 7}, {"label": "Julio Souto Salom", "url": "http://lattes.cnpq.br/8500045280840862", "publicacoesEmCoautoria": 0, "atualizacaoCV": "27/03/2026", "resumo": "Professor no Departamento de Sociologia da Universidade Federal da Bahia (UFBA). Professor Permanente do Programa de Pós-Graduação em Ciências Sociais da UFBA. Doutor em Sociologia (UFRGS, 2019), Mestre em Sociologia (UFRGS, 2014) e Licenciado em Sociología - Universitat de València (2011). Tem experiência na área de Sociologia da Cultura e das Relações Étnico Raciais, atuando principalmente nos seguintes temas: políticas públicas da cultura, poéticas orais, filosofia afro-brasileira. Integrante do grupo de pesquisa 'A Cor da Bahia' (UFBA) e do 'Laboratório Urgente de Teorias Armadas' (LUTA), grupo de trabalho associado ao NEABI-UFRGS. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 19, "artigosEventos": 9, "capitulosDeLivros": 6, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.5610651282036682, "y": 0.35853057929571863, "size": 2, "id": 8}, {"label": "Leandro de Paula Santos", "url": "http://lattes.cnpq.br/3833811692758640", "publicacoesEmCoautoria": 1, "atualizacaoCV": "06/04/2026", "resumo": "Professor Adjunto III da Universidade Federal da Bahia (UFBA), vinculado ao Instituto de Humanidades, Artes e Ciências (IHAC) e aos Programas de Pós-Graduação em Ciências Sociais (PPGCS) e Multidisciplinar em Cultura e Sociedade (Pós-Cultura). Doutor em Comunicação pela UFRJ (2016), com estágio de pesquisa de doze meses no departamento de Ciências da Religião (Religious Studies) da Universidade da Califórnia, em Santa Barbara (UCSB, EUA, 2014-2015). Estágios de pós-doutorado em Antropologia na Universidade de Edimburgo (Escócia, 2023) e em Ciências Sociais na Scuola Normale Superiore (Itália, 2023), com bolsa Capes, e no Programa de Pós-Graduação em Cultura e Territorialidades da UFF (2024). Mestrado em Comunicação pela PUC-Rio (2009) e Graduação em Produção Cultural pela UFF (2006). Com Hannah Bellini, organizou a coletânea ''Religião e Cenas Morais: modos religiosos de ler e habitar o mundo'' (Edufba, 2025). Líder do LOGIN - Grupo de Pesquisa 'Cultura, Política, Lógicas Identitárias e Produtivas', certificado pelo CNPq desde 2018. Principais temas de pesquisa: públicos; religião; moralidade; sociologia da crítica. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Sociais Aplicadas", "nomePrimeiraArea": "Comunicação", "instituicao": "Universidade Federal da Bahia", "enderecoProfissional": "Universidade Federal da Bahia. Rua Barão de Jeremoabo - PAF V Ondina 40170115 - Salvador, BA - Brasil Telefone: (71) 32836788 URL da Homepage: www./ihac.ufba.br", "artigosPeriodicos": 29, "artigosEventos": 15, "capitulosDeLivros": 16, "livros": 3, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": 0.6829695280852369, "y": -0.08223471823739731, "size": 2, "id": 9}, {"label": "Leonardo Fernandes Nascimento", "url": "http://lattes.cnpq.br/7141811368487014", "publicacoesEmCoautoria": 2, "atualizacaoCV": "11/01/2026", "resumo": "Eu tenho formação técnica em química pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA (1997), graduação em psicologia pela Universidade Federal da Bahia - UFBA (2002), mestrado em sociologia pela Universidade de São Paulo - USP (2007) e doutorado em sociologia pelo Instituto de Estudos Sociais e Políticos - IESP/UERJ (2013). Entre 2010 e 2011, realizei estágio doutoral de um ano na École des Hautes Études en Sciences Sociales (EHESS) em Paris, França. Em seguida, entre 2022 e 2023, fui Pesquisador Visitante na University of Alberta (Edmonton/Canadá) sob a orientação do professor Geoffrey Rockwell. Sou membro permanente do Programa de Pós-graduação em Ciências Sociais (PPGCS/UFBA) e coordenador do Laboratório de Humanidades Digitais da UFBA, onde desenvolvo pesquisas sobre desinformação, discurso de ódio e extremismos políticos nos ecossistemas digitais multiplataforma com o apoio do InternetLab e do CNPq. De 2023 a 2024, ocupei o cargo de Gerente Geral de Projetos Especiais do Governo de Pernambuco, onde coordenei uma equipe de análise de dados governamentais. Desenvolvo pesquisas que envolvem Sociologia Digital, Humanidades Digitais e Ciência Social computacional. Atualmente sou Bolsista de Produtividade em Pesquisa do CNPq, atuo no Departamento de Estudos Econômicos (DEE) do Conselho Administrativo de Defesa Econômica (CADE) e sou bolsista do Instituto de Pesquisa Econômica Aplicada (IPEA) no projeto \"Política em tempos polarizados: reflexões sobre as relações entre cosmovisão, moral e política no Brasil\". Links e Competências body { font-family: Arial, sans-serif; text-align: center; line-height: 1.6; } ul { list-style-type: none; padding: 0; } li { margin: 8px 0; }", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia", "enderecoProfissional": "Universidade Federal da Bahia. Quadra SEPN 515 Bloco B Asa Norte 70770502 - Brasília, DF - Brasil Telefone: (61) 32218409 URL da Homepage: https://www.gov.br/cade/pt-br", "artigosPeriodicos": 20, "artigosEventos": 5, "capitulosDeLivros": 7, "livros": 3, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": 0.054983652772467036, "y": -0.053019669817686715, "size": 2, "id": 10}, {"label": "Lucas Amaral de Oliveira", "url": "http://lattes.cnpq.br/0974813858531390", "publicacoesEmCoautoria": 10, "atualizacaoCV": "28/04/2026", "resumo": "Professor do Departamento de Sociologia e coordenador do Programa de Pós-Graduação em Ciências Sociais (PPGCS) da Universidade Federal da Bahia (UFBA), onde lidera o PERIFÉRICAS - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades. Foi Visiting Fellow da British Academy na Queens University Belfast (2023) e pesquisador visitante na Universidade de Copenhague, no âmbito do CAPES-PrInt (2024). Doutor e mestre em Sociologia pela Universidade de São Paulo (USP) e bacharel em Ciências Sociais pela Universidade Estadual de Londrina (UEL). É autor de ''Experiências Estéticas em Movimento'' (ApeKu, 2020) e coorganizador de ''Teoria Social e Desafios Pós-Coloniais'' (Edufba, 2024). Desenvolve pesquisas em história intelectual e das ideias, sociologia da cultura e sociologia urbana, com ênfase nos debates sobre formação nacional, questão racial e processos de produção e disputa do espaço urbano. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "História", "instituicao": "Universidade Federal da Bahia, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: https://sociologia.ufba.br/prof-lucas-amaral-de-oliveira", "artigosPeriodicos": 38, "artigosEventos": 14, "capitulosDeLivros": 7, "livros": 2, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 3, "x": -0.4978859739913443, "y": 0.033743686036746184, "size": 4, "id": 11}, {"label": "Luiz Claudio Lourenço", "url": "http://lattes.cnpq.br/9249653080596163", "publicacoesEmCoautoria": 1, "atualizacaoCV": "15/05/2026", "resumo": "Possui bacharelado (1997) e mestrado (2000) em Ciências Sociais pela Universidade Federal de São Carlos e doutorado em Ciência Política (Ciência Política e Sociologia) pelo Instituto Universitário de Pesquisas do Rio de Janeiro (2007). É professor associado na Universidade Federal da Bahia - UFBA atuando no Departamento de Sociologia. Também faz parte do quadro de docentes permanentes do Programa de Pós-Graduação em Ciências Sociais - UFBA. Na pesquisa é um dos coordenadores do 'Laboratório de Estudos sobre Crime e Sociedade - LASSOS' (UFBA). Faz parte do comitê gestor do Instituto Nacional de Ciência e Tecnologia Violência, Poder e Segurança Pública (INViPS) e do comitê gestor do Instituto Nacional de Ciência e Tecnologia Autoritarismoe Democracia. Desenvolveu atividades de extensão coordenando a área de Sociologia do Programa Institucional de Iniciação à Docência - PIBID-UFBA (CAPES) de 2010 a 2014. Foi Secretário Geral (2011-2013) e Diretor Tesoureiro (2013-2015) da Sociedade Brasileira de Sociologia - SBS. Tem interesse nos seguintes temas: sociologia da punição, sociologia do desvio, sistema socioeducativo, políticas de defesa social, metodologias quantitativa e qualitativa. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada de São Lazaro n. 197 Federação 40210730 - Salvador, BA - Brasil URL da Homepage: http://www.ppgs.ufba.br/main.asp?view=Perfil.docente&id=77", "artigosPeriodicos": 29, "artigosEventos": 13, "capitulosDeLivros": 19, "livros": 5, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": 0.2714425819288371, "y": 0.5824166074002332, "size": 2, "id": 12}, {"label": "Maria Gabriela Hita", "url": "http://lattes.cnpq.br/2408407341179334", "publicacoesEmCoautoria": 3, "atualizacaoCV": "28/03/2026", "resumo": "Maria Gabriela Hita possui graduação em Sociologia pela Universidade Federal da Bahia (1985), mestrado em Ciências Sociais pela Facultad Latinoamericana de Ciências Sociales (FLACSO)-Sed Académica-México (1988), doutorado em Ciências Sociais pela Universidade Estadual de Campinas (IFCH-UNICAMP - 2004), 3 estágios pós-doutorais na Universidade de Manchester - Grã Bretanha (2008, 2013, 2018) e um na Universidad de Buenos Aires (UBA), em Argentina (2023). É Professora Titular do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e Pesquisadora do Conselho Nacional de Desenvolvimento Científico e Tecnologico (CNPQ) no ECSAS-PPGCS-UFBA. Atua nos Programas de Pós-graduação em Ciências Sociais (PPGCS-UFBA) e no de Estudos Interdisciplinares sobre Mulher, Gênero e Feminismo (PPGNEIM-UFBA) dessa mesma instituição. Foi também pesquisadora do Programa Interdisciplinar de Estudios de la Mujer (PIEM) de El Colégio de México (COLMEX - 1989 a 1992), na cidade do México (CDMX). É um dos membros fundadores e atual Vice lider do Núcleo de Estudos sobre Corpos, Sensibilidades e Ambientes (ECSAS), atrelado ao PPGCS-UFBA, cadastrado no CNPq desde 1994. Coordenou o Laboratório Interdisciplinar de Desigualdades Sociais (LIDES) ligado ao PPGCS-UFBA entre 2010 a 2012 e o Programa de Pós-Graduação em Ciências Sociais (PPGCS) da UFBA entre 2019 e 2021. Tem experiência em Teoria Social, Teoria do Conhecimento (epistemologia e metodologias das Ciências Sociais) e teorias feministas, com inspiração fenomenológica. Tem publicado, pesquisado e orientado ampla variedade de temas com enfoque em questões urbanas e de desigualdades sociais, sócio-culturais, etnico-raciais e políticas e pobreza urbana, e no seu original campo de especialização sobre estudos de gênero, sexualidade, identidades, parentesco, família, e saúde (mental e reprodutiva) da mulher. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Antropologia", "instituicao": "", "enderecoProfissional": "", "artigosPeriodicos": 27, "artigosEventos": 20, "capitulosDeLivros": 31, "livros": 7, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 2, "x": 0.06605327055499613, "y": -0.023800253543894593, "size": 3, "id": 13}, {"label": "Maria Rosário Gonçalves de Carvalho", "url": "http://lattes.cnpq.br/1298757533709756", "publicacoesEmCoautoria": 0, "atualizacaoCV": "27/03/2026", "resumo": "Doutora em Antropologia Social pela Universidade de São Paulo. Professora Titular e Emérita da Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e Etnologia. Bolsista de Produtividade de Pesquisa 1 do CNPq .Coordena o Programa de Pesquisas Sobre Povos Indígenas do Nordeste Brasileiro (PINEB) e o Fundo de Documentação Histórica Manuscrita sobre Índios da Bahia (FUNDOCIN). Tem se dedicado especialmente aos temas da Identidade, Etnicidade, Relações Raciais e Teoria Antropológica.. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Antropologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e Etnologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e Etnologia. Estrada de São Lázaro, 197 Federação 40210-030 - Salvador, BA - Brasil Telefone: (71) 2354635 Ramal: 23 Fax: (71) 2354635 URL da Homepage: www.ufba.br", "artigosPeriodicos": 35, "artigosEventos": 6, "capitulosDeLivros": 47, "livros": 15, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.1955841913889804, "y": -0.6842355670862005, "size": 2, "id": 14}, {"label": "Mariana Aparecida dos Santos Panta", "url": "http://lattes.cnpq.br/1563910977768814", "publicacoesEmCoautoria": 0, "atualizacaoCV": "10/04/2026", "resumo": "Professora do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e Docente Permanente do Programa de Pós-Graduação em Ciências Sociais (PPGCS-UFBA). Doutora em Ciências Sociais pela Universidade Estadual Paulista (Unesp-Marília), com estágio de doutoramento no Centro de Estudos Sociais da Universidade de Coimbra, Portugal (2018). Realizou estágio pós-doutoral no Programa de Pós-Graduação em Sociologia da Universidade Estadual de Londrina (UEL), no âmbito do PNPD/CAPES (2019-2021), e atualmente desenvolve segundo pós-doutorado na UEL, pelo Programa de Desenvolvimento da Pós-Graduação (PDPG) - Políticas Afirmativas e Diversidade (CAPES). Integra o Programa A Cor da Bahia - Programa de Pesquisa e Formação sobre Relações Raciais, Cultura e Identidade Negra na Bahia (UFBA), o Laboratório de Estudos Afro-Brasileiros (Leafro-UEL) e o Centro de Estudos sobre Sociedade, Universidade e Ciência da Universidade Federal de São Paulo (SoU_Ciência-Unifesp). Tem experiência na área de Sociologia das Relações Étnico-Raciais e Sociologia Urbana, com interesse, principalmente, nos seguintes temas: racismo e antirracismo; segregação urbana e racial; desigualdades e interseccionalidade; educação antirracista; políticas de ações afirmativas na educação superior; aspectos sociais em saúde; trajetórias de personalidades negras e pensamento decolonial. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas - Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas - Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431", "artigosPeriodicos": 11, "artigosEventos": 11, "capitulosDeLivros": 11, "livros": 9, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": 0.5087728795039039, "y": -0.5010338135270314, "size": 2, "id": 15}, {"label": "Mariana Thorstensen Possas", "url": "http://lattes.cnpq.br/7470966694138044", "publicacoesEmCoautoria": 0, "atualizacaoCV": "03/11/2025", "resumo": "É professora do Departamento de Sociologia da Universidade Federal da Bahia (UFBA), do Programa de Pós-Graduação em Ciências Sociais (PPGCS/UFBA) e do Mestrado Profissional em Segurança Pública, Justiça e Cidadania (MPSPJC). É também uma das coordenadoras do Laboratório de Estudos sobre Crime e Sociedade (LASSOS/UFBA). Possui graduação em direito pela Pontifícia Universidade Católica de São Paulo (1999), graduação em ciências sociais pela Universidade de São Paulo (2003), mestrado em direito penal pela Universidade de São Paulo (2003), doutorado em criminologia pela Universidade de Ottawa, Canadá (2009), com bolsa CAPES e pós-doutorado pelo Núcleo de Estudos da Violência, da USP (NEV/USP), com bolsa FAPESP (2012). Foi pesquisadora visitante na Universidade de Toronto, Canadá (2019) e na Universidade de Florença, Itália (2024), com bolsa CAPES-PRINT. Suas áreas de interesse são sociologia do direito, sociologia da violência e sociologia dos direitos humanos. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431", "artigosPeriodicos": 17, "artigosEventos": 7, "capitulosDeLivros": 10, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.0472637563140575, "y": 0.6475102096474036, "size": 2, "id": 16}, {"label": "Miriam Cristina Marcilio Rabelo", "url": "http://lattes.cnpq.br/7239267596119717", "publicacoesEmCoautoria": 34, "atualizacaoCV": "26/03/2026", "resumo": "Fiz graduação em Ciências Sociais pela Universidade Federal da Bahia (1982-1985), doutorado na Universidade de Liverpool, Inglaterra (1986-1990) e pós-doutorado nos departamentos de antropologia das universidades de Toronto (2002-2003), Aberdeen (2011) e Columbia (2019-2020) . Atualmente sou professora titular do Departamento de Sociologia e do Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia, onde leciono desde 1992. Tenho atuado nos campos da antropologia da religião e da saúde e escrito vários trabalhos sobre a construção do corpo e da experiência no contexto do candomblé, espiritismo e pentecostalismo. Mais recentemente venho me dedicando a pesquisas sobre religiões de matriz africana com foco na sensibilidade, modos de aprendizado e formas de conduta ética cultivados nessas religiões. Tenho interesse especial nos desdobramentos do pragmatismo clássico e da fenomenologia nas ciências sociais e nas abordagens contemporâneas à prática desenvolvidas sob inspiração dessas correntes teóricas. Sou pesquisadora do Núcleo de Estudos em Ciências Sociais e Saúde (ECSAS) da Universidade Federal da Bahia. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Antropologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de São Lázaro, 197 Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836446", "artigosPeriodicos": 30, "artigosEventos": 8, "capitulosDeLivros": 37, "livros": 4, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 3, "x": 0.07695623868234035, "y": -0.037619933446241795, "size": 4, "id": 17}, {"label": "Paula Cristina da Silva", "url": "http://lattes.cnpq.br/3865670491591815", "publicacoesEmCoautoria": 0, "atualizacaoCV": "30/03/2026", "resumo": "Professora Titular do Departamento de Sociologia da Universidade Federal da Bahia (UFBA), onde atua desde 1994. É docente do Programa de Pós-Graduação em Ciências Sociais (PPGCS) e do Programa de Pós-Graduação em Estudos Interdisciplinares sobre Mulheres, Gênero e Feminismo (PPGNEIM). Integra o Comitê Executivo da Brazilian Studies Association (BRASA). Foi parte da diretoria da Sociedade Brasileira de Sociologia (SBS). Realizou pós-doutorado no Programa de Pós-Graduação em Sociologia e Antropologia (IFCS-UFRJ), Rio de Janeiro (2023-2024), no Programa de Pós-Graduação em Sociologia da Universidade de Brasília (2017-2018), e no Center for Latin American and Iberian Studies (CLAIS) da Vanderbilt University, Estados Unidos (2007-2008). Possui doutorado em Sociologia pela Universidade de São Paulo (2003). Tem experiência na área de Sociologia das Relações Raciais (Racismo e Antirracismo), Sociologia da Desigualdade, Teoria Social Contemporânea, atuando principalmente nos seguintes temas: racismo, antirracismo, interseccionalidade, gênero, culturas negras diaspóricas, e processos de identificação. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Rua Aristides Novis, 197 Federação 40210630 - Salvador, BA - Brasil Telefone: (071) 32836460 URL da Homepage: http://www.acordabahia.ufba.br", "artigosPeriodicos": 11, "artigosEventos": 5, "capitulosDeLivros": 13, "livros": 13, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.10274279062203018, "y": -0.6863712715255534, "size": 2, "id": 18}, {"label": "Paulo César Borges Alves", "url": "http://lattes.cnpq.br/4053383742253379", "publicacoesEmCoautoria": 36, "atualizacaoCV": "10/02/2026", "resumo": "Possui graduação em Filosofia pela Universidade Católica do Salvador (1973), mestrado em Ciências Sociais pela Universidade Federal da Bahia (1980), doutorado em Social And Environmental Studies Sociology - The University of Liverpool (1990) e pós-doutorado nas Universidades de Columbia (2021), St. Andrews (2011) e Toronto (2003). Possui bolsa de produtividade no CNPq; professor titular em sociologia da Universidade Federal da Bahia (1999). Foi professor visitante nas Universidades de St. Andrews (Escócia), Buenos Aires, La Republica (Uruguais) e de algumas universidades brasileiras. Tem experiência na área da sociologia e antropologia da saúde e literatura, atuando principalmente nos seguintes temas: narrativa de doença; itinerário terapêuticos; teoria social em saúde. Além de artigos publicados em revistas nacionais e estrangeiras, é autor dos seguintes livros (entre outros): ''Novas fronteiras metodológicas nas ciências sociais'' (2018), ''Trajetórias, sensibilidades, materialidades. Experiências com a fenomenologia'' (2012), ''Cultura. Múltiplas leituras'' (2010), ''Saúde e doença. Um olhar antropológico'' (4a ed. - 2004), ''Experiência de doença e narrativa'' (1999), ''Antropologia da Saúde. Traçando identidade e explorando fronteiras'' (1998), (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de São Lázaro, 197 Federação 99999-999 - Salvador, BA - Brasil Telefone: (71) 2354635 Fax: (71) 2354635 URL da Homepage: http://", "artigosPeriodicos": 33, "artigosEventos": 8, "capitulosDeLivros": 34, "livros": 12, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 4, "x": 0.07201133645932402, "y": -0.04133007071488034, "size": 5, "id": 19}, {"label": "Rafael de Aguiar Arantes", "url": "http://lattes.cnpq.br/9187555671886787", "publicacoesEmCoautoria": 3, "atualizacaoCV": "21/05/2026", "resumo": "Graduado em Ciências Sociais, com bacharelado em Sociologia, pela Universidade Federal da Bahia. Mestre e Doutor em Ciências Sociais pela mesma Universidade, com estágio de doutoramento no Instituto de Estudios Urbanos y Territoriales da Pontifícia Universidad Católica de Chile. Atualmente é professor adjunto III do Departamento de Sociologia, professor permanente do Programa de Pós-graduação em Ciências Sociais da UFBA e coordenador do Centro de Estudos e Pesquisas em Humanidades (CRH/UFBA). É pesquisador associado ao grupo de pesquisa Territórios, Poder e Desigualdades Sociais e ao Núcleo Salvador do INCT/Observatório das Metrópoles. Tem experiência de pesquisa, com ênfase em Sociologia Urbana, atuando principalmente nos seguintes temas: metrópoles latino-americanas, segregação e desigualdades socioespaciais, espaço público, sociabilidade urbana, governança e neoliberalização urbana. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Centro de Recursos Humanos", "enderecoProfissional": "Universidade Federal da Bahia, Centro de Recursos Humanos. Rua Aristides Novis , 197 , Pavilhão de Aulas Thales de Azevedo Federação 40210909 - Salvador, BA - Brasil Telefone: (71) 32835850 URL da Homepage: http://www.crh.ufba.br", "artigosPeriodicos": 19, "artigosEventos": 16, "capitulosDeLivros": 15, "livros": 0, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": -0.4936752887743775, "y": 0.01914804601740856, "size": 2, "id": 20}, {"label": "Ricardo Pagliuso Regatieri", "url": "http://lattes.cnpq.br/3077741187299322", "publicacoesEmCoautoria": 2, "atualizacaoCV": "16/04/2026", "resumo": "É professor adjunto do Departamento de Sociologia e docente permanente do Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia. É um dos coordenadores do PERIFÉRICAS - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades, vinculado à Faculdade de Filosofia e Ciências Humanas da UFBA e inscrito no CNPq. Possui graduação em Ciências Sociais, mestrado em Sociologia e doutorado em Sociologia pela Universidade de São Paulo. Realizou período de doutorado sanduíche na Johann Wolfgang Goethe-Universität em Frankfurt. Foi Research Professor na Korea University e docente na Hankuk University of Foreign Studies, ambas em Seul. Também foi professor visitante na Universidade de Cabo Verde em Praia e na Universität Graz. Foi pesquisador visitante no Graduate Institute of International and Development Studies em Genebra, no Institut für die Wissenschaften vom Menschen em Viena e na Université Libre de Bruxelles. Seus interesses de pesquisa se concentram nos seguintes temas: teoria sociológica, teorias críticas, circulação do conhecimento, colonialidade, modernidade, dominação e autoritarismo. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "Ciências Humanas", "nomePrimeiraArea": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Rua Professor Aristides Novis, 197 Federação 40210909 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: sociologia.ufba.br", "artigosPeriodicos": 21, "artigosEventos": 8, "capitulosDeLivros": 7, "livros": 3, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 1, "x": -0.5165111243346341, "y": 0.03672960078738533, "size": 2, "id": 21}, {"label": "Sue Angélica Serra Iamamoto", "url": "http://lattes.cnpq.br/4927287864728189", "publicacoesEmCoautoria": 0, "atualizacaoCV": "20/01/2026", "resumo": "É professora adjunta no Departamento de Ciência Política da Universidade Federal da Bahia (UFBA). Possui graduação em Comunicação Social, habilitação Jornalismo (2002-2008) e mestrado em Ciência Política, ambos na Universidade de São Paulo (2009-2011), e doutorado em Ciência Política pela Queen Mary University of London (2011-2016). Fez estágios pós-doutorais no Instituto Iberoamericano em Berlim (2022) e na London School of Economics and Poltical Science (LSE) (2023/24) e na Universidade de São Paulo (2024). É autora dos livros El nacionalismo boliviano en tiempos de plurinacionalidad (OEP, 2013) e Memories and Social Struggles in Contemporary Bolivia: Platforms in Convulsive Times (Bloomsbury, 2025). Foi coordenadora do grupo de pesquisa do CNPq, vinculado à UFBA, Democracia, Participação e Representação Política (Depare). Atua como docente permanente do PPGCP e do PPGCS da UFBA. Seus principais interesses de pesquisa são: memórias sociais, movimentos sociais, América Latina, ditaduras militares, cidadania, ecologia política, estudos críticos do desenvolvimento, nacionalismo e plurinacionalidade, autoritarismo e democracia. (Texto informado pelo autor)", "rotulo": "* Sem rótulo", "periodo": "", "nomePrimeiraGrandeArea": "[sem-grandeArea]", "nomePrimeiraArea": "[sem-area]", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas", "enderecoProfissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 33312755 URL da Homepage: http://www.ffch.ufba.br/", "artigosPeriodicos": 15, "artigosEventos": 7, "capitulosDeLivros": 6, "livros": 3, "color": "#33a02c", "fontColor": "#ffffff", "viz": {"color": {"r": 51, "g": 160, "b": 44, "a": 1.0}}, "degree": 0, "x": -0.26537944694726173, "y": 0.5697055721843435, "size": 2, "id": 22}], "links": [{"weight": 5.0, "source": 0, "target": 11}, {"weight": 1.0, "source": 1, "target": 9}, {"weight": 1.0, "source": 2, "target": 4}, {"weight": 1.0, "source": 3, "target": 12}, {"weight": 1.0, "source": 6, "target": 7}, {"weight": 13.0, "source": 6, "target": 17}, {"weight": 12.0, "source": 6, "target": 19}, {"weight": 2.0, "source": 10, "target": 19}, {"weight": 3.0, "source": 11, "target": 20}, {"weight": 2.0, "source": 11, "target": 21}, {"weight": 1.0, "source": 13, "target": 17}, {"weight": 2.0, "source": 13, "target": 19}, {"weight": 26.0, "source": 17, "target": 19}]};
+      var nodes = graphData.nodes.map(function(n,i){
+        return {
+          id: (n.id != null ? n.id : String(i)),
+          label: (n.label != null ? n.label : (n.id != null ? n.id : String(i))),
+          size: (n.size != null ? n.size : (4 + (n.degree || 0) * 0.6)),
+          color: (n.color != null ? n.color : "#1f77b4"),
+          instituicao: n.instituicao,
+          url: n.url,
+          atualizacaoCV: n.atualizacaoCV,
+          periodo: n.periodo,
+          rotulo: n.rotulo,
+          nomePrimeiraGrandeArea: n.nomePrimeiraGrandeArea,
+          nomePrimeiraArea: n.nomePrimeiraArea,
+          publicacoesEmCoautoria: n.publicacoesEmCoautoria,
+          degree: n.degree,
+          artigosPeriodicos: n.artigosPeriodicos,
+          artigosEventos: n.artigosEventos,
+          capitulosDeLivros: n.capitulosDeLivros,
+          livros: n.livros,
+          enderecoProfissional: n.enderecoProfissional
+        };
+      });
+      var links = graphData.links.map(function(e){
+        return { source:e.source, target:e.target, weight:(e.weight||1), color:(e.color||"#aaa") };
+      });
+    
+      // ======= dados para a TABELA (vértices) =======
+      window.__VERTEX_TABLE_DATA__ = nodes.map(function(n){
+        var m = (n.atualizacaoCV||"").toString().match(/(\d{2})\/(\d{2})\/(\d{4})/);
+        var ymd = m ? (parseInt(m[3])*10000 + parseInt(m[2]) * 100 + parseInt(m[1])) : 0;
+        return {
+          id: n.id,
+          nome: n.label,
+          instituicao: n.instituicao || "",
+          url: n.url || "",
+          atualizacao: n.atualizacaoCV || "",
+          atualizacao_num: ymd,
+          periodo: n.periodo || "",
+          rotulo: n.rotulo || "",
+          grande_area: n.nomePrimeiraGrandeArea || "",
+          area: n.nomePrimeiraArea || "",
+          publicacoesEmCoautoria: +n.publicacoesEmCoautoria || 0,
+          degree: +n.degree || 0,
+          artigosPeriodicos: +n.artigosPeriodicos || 0,
+          artigosEventos: +n.artigosEventos || 0,
+          capitulosDeLivros: +n.capitulosDeLivros || 0,
+          livros: +n.livros || 0,
+          enderecoProfissional: n.enderecoProfissional || ""
+        };
+      });
+    
+      // ======= TABELA (arestas) – pares de membros (únicos, peso >= 1) =======
+      (function buildEdgeTableData(){
+        var byId = new Map(nodes.map(function(n){ return [String(n.id), n]; }));
+        function normId(x){ return (typeof x === "object" && x !== null) ? String(x.id) : String(x); }
+    
+        // vizinhanças
+        var neigh = new Map();
+        nodes.forEach(function(n){ neigh.set(String(n.id), new Set()); });
+        links.forEach(function(e){
+          var s = normId(e.source), t = normId(e.target);
+          if (!neigh.has(s)) neigh.set(s, new Set());
+          if (!neigh.has(t)) neigh.set(t, new Set());
+          neigh.get(s).add(t); neigh.get(t).add(s);
+        });
+    
+        var seen = new Set();
+        var rows = [];
+        links.forEach(function(e){
+          var s = normId(e.source), t = normId(e.target);
+          var w = +e.weight || 0;
+          if (w < 1) return;
+          var a = s < t ? s : t, b = s < t ? t : s; // par único
+          var key = a + "||" + b;
+          if (seen.has(key)) return;
+          seen.add(key);
+    
+          var nA = byId.get(a), nB = byId.get(b);
+          if (!nA || !nB) return;
+    
+          // colaboradores em comum (interseção, excluindo o próprio par)
+          var neighA = new Set(neigh.get(a) || []);
+          var neighB = new Set(neigh.get(b) || []);
+          var comuns = 0;
+          neighA.forEach(function(x){
+            if (x === a || x === b) return;
+            if (neighB.has(x)) comuns += 1;
+          });
+    
+          rows.push({
+            aresta: [nA.label, nB.label].sort(function(x,y){ return String(x).localeCompare(String(y)); }).join(", "),
+            colabs:  w,
+            comuns:  comuns
+          });
+        });
+    
+        // ordena: colabs desc, comuns desc, aresta asc
+        rows.sort(function(r1, r2){
+          if (r2.colabs !== r1.colabs) return r2.colabs - r1.colabs;
+          if (r2.comuns !== r1.comuns) return r2.comuns - r1.comuns;
+          return r1.aresta.localeCompare(r2.aresta);
+        });
+    
+        window.__EDGE_TABLE_DATA__ = rows;
+      })();
+    
+      // ======= D3: simulação/zoom/legenda =======
+      var svg = d3.select("#viz"),
+          g = svg.append("g"),
+          zoom = d3.zoom().scaleExtent([0.2, 5]).on("zoom", function(ev){ g.attr("transform", ev.transform); });
+      svg.call(zoom);
+    
+      function getBox() { return document.getElementById("viz-container").getBoundingClientRect(); }
+      var box = getBox();
+      var width = box.width, height = box.height;
+    
+      var weights = links.map(function(d){ return +d.weight || 0; });
+      var minW = d3.min(weights), maxW = d3.max(weights);
+      var edgeWidth = d3.scaleLinear().domain([minW, maxW]).range([1.2, 10]).clamp(true);
+      var edgeOpacity = d3.scaleLinear().domain([minW, maxW]).range([0.56,0.79]).clamp(true);
+    
+      var degrees = nodes.map(function(d){ return +d.degree || 0; });
+      var minD = d3.min(degrees) || 0;
+      var maxD = d3.max(degrees) || 1;
+      var nodeRadius = d3.scaleSqrt().domain([minD, maxD]).range([6, 11]).clamp(true);
+      function R(d){ return nodeRadius(+d.degree || 0); }
+    
+      var edgeLayer = g.append("g").attr("class","edges");
+      var nodeLayer = g.append("g").attr("class","nodes");
+      var labelLayer = g.append("g").attr("class","labels");
+      var edgeLabelLayer = g.append("g").attr("class","edge-labels");
+    
+      var edge = edgeLayer.selectAll("path")
+        .data(links).join("path")
+        .attr("class","edge")
+        .attr("id", function(_,i){ return "e"+i; })
+        .attr("stroke", function(d){ return d.color; })
+        .attr("stroke-width", function(d){ return edgeWidth(+d.weight || 0); })
+        .attr("fill","none")
+        .attr("stroke-opacity", function(d){ return edgeOpacity(+d.weight || 0); });
+    
+      var edgeLabels = edgeLabelLayer.selectAll("text")
+        .data(links).join("text")
+        .attr("class","edge-label")
+        .append("textPath")
+        .attr("href", function(_,i){ return "#e"+i; })
+        .attr("startOffset","50%")
+        .attr("text-anchor","middle")
+        .text(function(d){ return d.weight ? String(d.weight) : ""; });
+    
+      var node = nodeLayer.selectAll("g.node")
+        .data(nodes, function(d){ return d.id; })
+        .join(function(enter){
+          var g = enter.append("g").attr("class","node");
+          g.append("circle")
+            .attr("r", function(d){ return R(d); })
+            .attr("fill", function(d){ return d.color; })
+            .attr("stroke", "#333")
+            .attr("stroke-width", 0.17);
+          return g;
+        });
+    
+      var labels = labelLayer.selectAll("text")
+        .data(nodes, function(d){ return d.id; })
+        .join("text")
+        .attr("class","label")
+        .attr("text-anchor","middle")
+        .attr("dy","-0.05em")
+        .text(function(d){ return d.label; });
+    
+      var centerForce = d3.forceCenter(width/2, height/2);
+      var sim = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(function(d){return d.id;}).distance(40).strength(0.6))
+        .force("charge", d3.forceManyBody().strength(-60))
+        .force("collide", d3.forceCollide().radius(function(d){ return R(d)+6; }).iterations(2))
+        .force("center", centerForce)
+        .on("tick", ticked)
+        .on("end", maybeFit);
+    
+      var fitted = false, fitTimeout = setTimeout(function(){ maybeFit(); }, 1000);
+    
+      function ticked(){
+        edge.attr("d", function(d){ return "M"+d.source.x+","+d.source.y+" L"+d.target.x+","+d.target.y; });
+        node.attr("transform", function(d){ return "translate("+d.x+", "+d.y+")"; });
+        labels.attr("x", function(d){ return d.x; }).attr("y", function(d){ return d.y; });
+      }
+    
+      function maybeFit(){
+        if (fitted) return;
+        fitted = true; clearTimeout(fitTimeout);
+        var xs = nodes.map(function(d){ return d.x; }), ys = nodes.map(function(d){ return d.y; });
+        var minX = Math.min.apply(null, xs), maxX = Math.max.apply(null, xs);
+        var minY = Math.min.apply(null, ys), maxY = Math.max.apply(null, ys);
+        var w = Math.max(1, maxX - minX), h = Math.max(1, maxY - minY);
+        var margin = 40;
+        var kx = (width  - margin*2) / w;
+        var ky = (height - margin*2) / h;
+        var scale = Math.max(0.2, Math.min(3, Math.min(kx, ky)));
+        var tx = (width  - scale*(minX + maxX)) / 2;
+        var ty = (height - scale*(minY + maxY)) / 2;
+        svg.transition().duration(600)
+          .call(zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
+      }
+    
+      node.call(d3.drag()
+        .on("start", function(ev, d){ if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+        .on("drag",  function(ev, d){ d.fx = ev.x; d.fy = ev.y; })
+        .on("end",   function(ev, d){ if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
+      );
+    
+      var selectedId = null;
+      function neighborSet(id){
+        var nei = new Set([id]);
+        links.forEach(function(e){
+          var s = (typeof e.source === 'object') ? e.source.id : e.source;
+          var t = (typeof e.target === 'object') ? e.target.id : e.target;
+          if (s === id) nei.add(t);
+          if (t === id) nei.add(s);
+        });
+        return nei;
+      }
+    
+      function renderSelection(){
+        if (!selectedId){
+          node.classed("selected", false);
+          node.classed("dimmed", false);
+          labels.classed("dimmed", false);
+          edge.classed("highlight", false).classed("dimmed", false);
+          edgeLabels.classed("dimmed", false);
+          return;
+        }
+        var keep = neighborSet(selectedId);
+        node.classed("selected", function(d){ return d.id === selectedId; })
+            .classed("dimmed", function(d){ return !keep.has(d.id); });
+        labels.classed("dimmed", function(d){ return !keep.has(d.id); });
+        edge.classed("highlight", function(d){
+              var s = (typeof d.source === 'object') ? d.source.id : d.source;
+              var t = (typeof d.target === 'object') ? d.target.id : d.target;
+              return s === selectedId || t === selectedId;
+            })
+            .classed("dimmed", function(d){
+              var s = (typeof d.source === 'object') ? d.source.id : d.source;
+              var t = (typeof d.target === 'object') ? d.target.id : d.target;
+              return !(s === selectedId || t === selectedId);
+            });
+        edgeLabels.classed("dimmed", function(d){
+          var s = (typeof d.source === 'object') ? d.source.id : d.source;
+          var t = (typeof d.target === 'object') ? d.target.id : d.target;
+          return !(s === selectedId || t === selectedId);
+        });
+      }
+    
+      function fillInfo(d){
+        var pane = document.getElementById("info-pane");
+        var campos = {
+          "Nome": d.label,
+          "Instituição": d.instituicao,
+          "CV": d.url,
+          "Atualização do CV": d.atualizacaoCV,
+          "Período": d.periodo,
+          "Rótulo": d.rotulo,
+          "Primeira Grande Área": d.nomePrimeiraGrandeArea,
+          "Primeira Área": d.nomePrimeiraArea,
+          "Publicações em coautoria": d.publicacoesEmCoautoria,
+          "Número de colaboradores": d.degree,
+          "Artigos em periódicos": d.artigosPeriodicos,
+          "Artigos em eventos": d.artigosEventos,
+          "Capítulos de livro": d.capitulosDeLivros,
+          "Livros": d.livros,
+          "Endereço": d.enderecoProfissional
+        };
+        var html = "<h4>"+(d.label || d.id)+"</h4><ul>";
+        Object.keys(campos).forEach(function(k){
+          var v = campos[k];
+          if (v === undefined || v === null || v === "") return;
+          if (k === "CV"){
+            html += "<li><strong>"+k+":</strong> <a href=\""+v+"\" target=\"_blank\" rel=\"noopener\">"+v+"</a></li>";
+          } else {
+            html += "<li><strong>"+k+":</strong> "+v+"</li>";
+          }
+        });
+        html += "</ul>";
+        pane.innerHTML = html;
+      }
+    
+      function selectNodeById(id){
+        var d = nodes.find(function(n){ return n.id === id; });
+        if (!d) return;
+        selectedId = d.id; fillInfo(d); renderSelection();
+        var t = d3.zoomTransform(svg.node());
+        var scale = Math.max(1.2, t.k);
+        var x = width/2 - d.x * scale;
+        var y = height/2 - d.y * scale;
+        svg.transition().duration(600).call(zoom.transform, d3.zoomIdentity.translate(x, y).scale(scale));
+      }
+      node.on("click", function(_, d){ selectNodeById(d.id); });
+    
+      function norm(s){ return (s||"").toString().normalize("NFD").replace(/\p{Diacritic}/gu,"").toLowerCase().trim(); }
+      function searchAndSelect(q){
+        var nq = norm(q); if (!nq) return;
+        var hit = nodes.find(function(n){ return norm(n.label) === nq || norm(n.id) === nq; });
+        if (!hit) hit = nodes.find(function(n){ return norm(n.label).indexOf(nq) >= 0; });
+        if (hit) selectNodeById(hit.id);
+      }
+      document.getElementById("btnSearch").addEventListener("click", function(){
+        searchAndSelect(document.getElementById("searchBox").value);
+      });
+      document.getElementById("searchBox").addEventListener("keydown", function(ev){
+        if (ev.key === "Enter") searchAndSelect(ev.target.value);
+      });
+      document.getElementById("btnClear").addEventListener("click", function(){
+        selectedId = null; renderSelection();
+        document.getElementById("info-pane").innerHTML =
+          "<h4>Informação do Pesquisador</h4><p>Clique em um nó (ou use a busca) para ver detalhes aqui.</p>";
+      });
+    
+      var labelsVisible = true;
+      var btnToggle = document.getElementById("btnToggleLabels");
+      function applyLabelsVisibility(){
+        labelLayer.classed("hidden", !labelsVisible);
+        d3.select(".edge-labels").classed("hidden", !labelsVisible);
+      }
+      btnToggle.addEventListener("click", function(){
+        labelsVisible = !labelsVisible;
+        btnToggle.textContent = labelsVisible ? "Ocultar rótulos" : "Mostrar rótulos";
+        applyLabelsVisibility();
+      });
+      applyLabelsVisibility();
+    
+      // legenda (cores por rótulo)
+      var byRotulo = d3.rollup(nodes, function(v){ return v[0].color; }, function(d){ return d.rotulo || "Sem rótulo"; });
+      var legendData = Array.from(byRotulo, function(entry){ return {rotulo: entry[0], color: entry[1]}; });
+      var legend = d3.select("#legend");
+      legend.selectAll("span.item")
+        .data(legendData)
+        .join("span")
+        .attr("class","item")
+        .html(function(d){ return '<span class="swatch" style="background:'+d.color+'"></span>'+d.rotulo; });
+    
+      // refit ao redimensionar
+      var ro = new ResizeObserver(function(){
+        var b = getBox();
+        width = b.width; height = b.height;
+        centerForce = d3.forceCenter(width/2, height/2);
+        sim.force("center", centerForce).alpha(0.05).restart();
+        fitted = false; maybeFit();
+      });
+      ro.observe(document.getElementById("viz-container"));
+    </script>
+    
+    <hr style="margin:1.25rem 0">
+    
+    <h3>Vértices</h3>
+    <p>Esta tabela lista todos os atributos usados para compor os vértices do grafo acima.</p>
+    <div class="sl-controls">
+      <button id="vert-csv">⬇️ CSV</button>
+      <button id="vert-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-vertices" class="sl-tabela"></div>
+    
+    <h3 style="margin-top:1.5rem;">Arestas (pares de membros)</h3>
+    <p>Veja quais pares de membros mais colaboram e quantos colaboradores em comum possuem.</p>
+    <div class="sl-controls">
+      <button id="edge-csv">⬇️ CSV</button>
+      <button id="edge-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-arestas" class="sl-tabela"></div>
+    
+    <!-- Tabulator -->
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <script>
+      // Dados vindos dos blocos anteriores
+      var DATA_VERT  = (window.__VERTEX_TABLE_DATA__ || []);
+      var DATA_EDGES = (window.__EDGE_TABLE_DATA__  || []);
+    
+      // Heurística de altura (evita rolagem infinita)
+      function heightFor(n){
+        if (n <= 12) return "auto";
+        if (n <= 60) return "40vh";
+        return "60vh";
+      }
+      var HEIGHT_VERT = heightFor(DATA_VERT.length);
+      var HEIGHT_EDG  = heightFor(DATA_EDGES.length);
+    
+      const LANG_PT = {
+        "pt-br": {
+          "pagination": {
+            "first":"«","first_title":"Primeira",
+            "last":"»","last_title":"Última",
+            "prev":"‹","prev_title":"Anterior",
+            "next":"›","next_title":"Próxima"
+          },
+          "headerFilters": { "default":"⎯ Filtrar ⎯" }
+        }
+      };
+    
+      // Ordenação por data BR via campo auxiliar yyyymmdd
+      function sortDateBR(a, b, aRow, bRow) {
+        var av = (aRow && aRow.getData && aRow.getData().atualizacao_num) || 0;
+        var bv = (bRow && bRow.getData && bRow.getData().atualizacao_num) || 0;
+        return av - bv;
+      }
+    
+      // Formatter de link com title (tooltip no <a>) — usado na coluna "Nome" dos vértices
+      function linkWithTitle(cell) {
+        const data = cell.getData();
+        const url = String(data.url || "#");
+        const label = String(cell.getValue() ?? "");
+        const a = document.createElement("a");
+        a.href = url; a.textContent = label; a.target = "_blank"; a.rel = "noopener"; a.title = label;
+        return a;
+      }
+    
+      // Helper para criar Tabulator com tooltips + ellipsis
+      function createTable(el, data, columns, initialSort, height){
+        const base = {
+          data,
+          layout: "fitColumns",
+          responsiveLayout: "collapse",
+          pagination: "local",
+          paginationSize: 50,
+          paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+          movableColumns: true,
+          initialSort,
+          headerFilterLiveFilter: true,
+          columns,
+          locale: true, langs: LANG_PT, locale: "pt-br",
+          tooltips: true
+        };
+        if (height !== "auto") base.height = height;
+        return new Tabulator(el, base);
+      }
+    
+      // === VÉRTICES ===
+      (function(){
+        const columns = [
+          { title:"ID", field:"id", headerFilter:"input", tooltip:true },
+          { title:"Nome", field:"nome", formatter: linkWithTitle,
+            headerFilter:"input", widthGrow:2, tooltip:true },
+          { title:"Instituição", field:"instituicao", headerFilter:"input", tooltip:true },
+          { title:"Atualização CV", field:"atualizacao", headerFilter:"input", sorter: sortDateBR, tooltip:true },
+          { title:"Período", field:"periodo", headerFilter:"input", tooltip:true },
+          { title:"Rótulo", field:"rotulo", headerFilter:"input", tooltip:true },
+          { title:"Grande área", field:"grande_area", headerFilter:"input", tooltip:true },
+          { title:"Área", field:"area", headerFilter:"input", tooltip:true },
+          { title:"Publicações em coautoria", field:"publicacoesEmCoautoria", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Nº colaboradores (grau)", field:"degree", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Artigos em periódicos", field:"artigosPeriodicos", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Artigos em eventos", field:"artigosEventos", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Capítulos de livro", field:"capitulosDeLivros", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Livros", field:"livros", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Endereço", field:"enderecoProfissional", headerFilter:"input", widthGrow:2, tooltip:true }
+        ];
+        const sort = [{ column:"degree", dir:"desc" }];
+        const t = createTable("#tabela-vertices", DATA_VERT, columns, sort, HEIGHT_VERT);
+        document.getElementById("vert-csv").onclick  = () => t.download("csv",  "vertices_campos.csv", { bom:true });
+        document.getElementById("vert-xlsx").onclick = () => t.download("xlsx", "vertices_campos.xlsx", { sheetName:"Vértices" });
+      })();
+    
+      // === ARESTAS (coluna única "Aresta") ===
+      (function(){
+        const columns = [
+          { title:"Aresta", field:"aresta", headerFilter:"input", widthGrow:3, tooltip:true },
+          { title:"Número de colaborações", field:"colabs", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true },
+          { title:"Nº de colaboradores em comum", field:"comuns", hozAlign:"right", sorter:"number", headerFilter:"input", tooltip:true }
+        ];
+        const sort = [{ column:"colabs", dir:"desc" }, { column:"comuns", dir:"desc" }];
+        const t = createTable("#tabela-arestas", DATA_EDGES, columns, sort, HEIGHT_EDG);
+        document.getElementById("edge-csv").onclick  = () => t.download("csv",  "arestas_colaboracoes.csv", { bom:true });
+        document.getElementById("edge-xlsx").onclick = () => t.download("xlsx", "arestas_colaboracoes.xlsx", { sheetName:"Arestas" });
+      })();
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 1900 até 2026
+<br>Data de processamento: 22/05/2026 13:15:04<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:leofn3@gmail.com">leofn3@gmail.com</a>         </div> </body></html>

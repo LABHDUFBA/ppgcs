@@ -1,0 +1,4446 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "3865670491591815",
+    "nome_completo": "Paula Cristina da Silva",
+    "nome_citacoes": "BARRETO, P. C. S.;BARRETO, PAULA;SILVA, P.C.;Da Silva, Paula Cristina",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Rua Aristides Novis, 197 Federação 40210630 - Salvador, BA - Brasil Telefone: (071) 32836460 URL da Homepage: http://www.acordabahia.ufba.br",
+    "atualizacao_cv": "30/03/2026",
+    "url": "http://lattes.cnpq.br/3865670491591815",
+    "texto_resumo": "Professora Titular do Departamento de Sociologia da Universidade Federal da Bahia (UFBA), onde atua desde 1994. É docente do Programa de Pós-Graduação em Ciências Sociais (PPGCS) e do Programa de Pós-Graduação em Estudos Interdisciplinares sobre Mulheres, Gênero e Feminismo (PPGNEIM). Integra o Comitê Executivo da Brazilian Studies Association (BRASA). Foi parte da diretoria da Sociedade Brasileira de Sociologia (SBS). Realizou pós-doutorado no Programa de Pós-Graduação em Sociologia e Antropologia (IFCS-UFRJ), Rio de Janeiro (2023-2024), no Programa de Pós-Graduação em Sociologia da Universidade de Brasília (2017-2018), e no Center for Latin American and Iberian Studies (CLAIS) da Vanderbilt University, Estados Unidos (2007-2008). Possui doutorado em Sociologia pela Universidade de São Paulo (2003). Tem experiência na área de Sociologia das Relações Raciais (Racismo e Antirracismo), Sociologia da Desigualdade, Teoria Social Contemporânea, atuando principalmente nos seguintes temas: racismo, antirracismo, interseccionalidade, gênero, culturas negras diaspóricas, e processos de identificação. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Sociologia",
+      "nome_instituicao": "Universidade de São Paulo, USP, Brasil",
+      "ano_inicio": "1998",
+      "ano_conclusao": "2003",
+      "descricao": "Título: Racismo e anti-racismo na perspectiva de estudantes universitários de São Paulo, Ano de obtenção: 2003. Orientador: Antonio Sergio Alfredo Guimaraes. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Racismo; Anti-racismo; Educação; Atitudes; Poder. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas. Grande Área: Ciências Humanas / Área: Sociologia. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das relações raciais. Setores de atividade: Educação."
+    },
+    {
+      "tipo": "Mestrado em Sociologia",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1990",
+      "ano_conclusao": "1993",
+      "descricao": "Título: Negros à Luz dos Fornos - representações do trabalho e da cor entre metalúrgicos baianos, Ano de Obtenção: 1994. Orientador: Michel Roger Agier. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Trabalho; Cor; Negro; Racismo. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das relações raciais. Setores de atividade: Educação."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1994 - Atual",
+      "ano_inicio": "1994",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Associado II",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Faculdade de Filosofia e Ciencias Humanas."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - Atual",
+      "ano_inicio": "2007",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1994 - Atual",
+      "ano_inicio": "1994",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2019",
+      "ano_inicio": "2005",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2008 - 12/2013",
+      "ano_inicio": "2008",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "10/2008 - 05/2011",
+      "ano_inicio": "2008",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Centro de Estudos Afro-Orientais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Programa de Pesquisa e Formação Sobre Relações Raciais Cultura e Identidade, Faculdade de Filosofia e Ciências Humanas."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Departamento de Sociologia, Faculdade de Filosofia e Ciências Humanas."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sociedade Brasileira de Sociologia, SBS, Brasil.",
+      "instituicao_nome": "Sociedade Brasileira de Sociologia",
+      "instituicao_sigla": "SBS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021-2023",
+      "ano_inicio": "2021",
+      "ano_fim": "2023",
+      "vinculo": "Diretora (Gestão 2021-2023)",
+      "enquadramento": "Diretora",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "As políticas de ação afirmativa e a produção de conhecimento na pós-graduação: a temática racial, de gênero e interseccional em teses de doutorado dos programas de Pós-graduação em sociologia da UFRJ, UERJ, UNB e UFRGS (2013-2023)",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O início dos anos 2000 foi marcado pelo começo da implementação de políticas de ação afirmativa no ensino superior, de maneira descentralizada e, em 2012, foi promulgada a Lei 12.711, a chamada Lei de Cotas, que tornou obrigatória a reserva de vagas para egressos do ensino médio público e suas sub cotas, nas instituições públicas federais de ensino superior. Desde então, as alterações no perfil discente, as comparações de desempenhos acadêmicos, a evasão e a permanência têm sido amplamente estudadas. Mas, como os/as novos/as estudantes estão impactando na produção de conhecimento nos Programas de Pós-Graduação? É possível identificar a emergência de novos temas de pesquisa? Será que instituições com ações afirmativas mais longevas que, portanto, já formaram pelos menos duas gerações de discentes, produziram mais diversificação temática, do que instituições com a adoção mais recente? A pesquisa proposta parte dessas questões e se insere na linha de estudos comparativos sobre as políticas de ação afirmativa, que utilizam abordagem interseccional. Um dos objetivos da pesquisa é realizar o levantamento, sistematização e análise da produção em teses de doutorado defendidas em cursos de pós-graduação em sociologia, de 2013 a 2023, na UFRJ, UERJ, UNB e UFRGS.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) . Integrantes: Paula Cristina da Silva - Coordenador / Amanda Alves da Silva - Integrante / Gustavo Bruno de Paula - Integrante / Mariana Aparecida dos Santos Panta - Integrante. Número de orientações: 1",
+        "Descrição: O início dos anos 2000 foi marcado pelo começo da implementação de políticas de ação afirmativa no ensino superior, de maneira descentralizada e, em 2012, foi promulgada a Lei 12.711, a chamada Lei de Cotas, que tornou obrigatória a reserva de vagas para egressos do ensino médio público e suas sub cotas, nas instituições públicas federais de ensino superior. Desde então, as alterações no perfil discente, as comparações de desempenhos acadêmicos, a evasão e a permanência têm sido amplamente estudadas. Mas, como os/as novos/as estudantes estão impactando na produção de conhecimento nos Programas de Pós-Graduação? É possível identificar a emergência de novos temas de pesquisa? Será que instituições com ações afirmativas mais longevas que, portanto, já formaram pelos menos duas gerações de discentes, produziram mais diversificação temática do que instituições com a adoção mais recente? A pesquisa proposta parte dessas questões e se insere na linha de estudos comparativos sobre as políticas de ação afirmativa que utilizam abordagem interseccional. Um dos objetivos da pesquisa é realizar o levantamento, sistematização e análise da produção em teses de doutorado defendidas em cursos de pós-graduação em sociologia, de 2013 a 2023, na UFRJ, UERJ, UNB e UFRGS. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Mariana Aparecida dos Santos Panta - Integrante / Paula Cristina da Silva Barreto - Coordenador / Amanda Alves da Silva - Integrante / Gustavo Bruno de Paula - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Paula Cristina da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Amanda Alves da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gustavo Bruno de Paula",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariana Aparecida dos Santos Panta",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paula Cristina da Silva Barreto",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Caleidoscópio das Ações Afirmativas: avaliações, experiências e alcances das políticas de cotas nas Universidade Públicas",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Nessa pesquisa pretende-se realizar uma série de estudos de casos sobre as transformações sociais provocadas, direta ou indiretamente, pela introdução de ações afirmativas no país. Visa-se, portanto, investigar e avaliar as consequências dessas políticas públicas, sobretudo o modo como elas afetaram a compreensão da questão racial em nossa sociedade. A ideia inicial é de proceder a uma reflexão sobre os efeitos e impasses das ações afirmativas, tanto no interior das universidades como fora delas. Serão abordados temas, tais como: 1) a expansão das ações afirmativas para outros grupos que não os negros de escolas públicas (quilombolas, indígenas, pessoas com deficiência, etc.); 2) avaliação do desempenho de cotistas e não-cotistas; 3) especificidades das ações afirmativas em universidades estaduais; 4) as ações afirmativas na pós-graduação e seus impactos nas pesquisas;5) as demandas por mudanças nos currículos (virada decolonial); 6) os impactos na composição do alunado; 7) os coletivos e o feminismo negro que se fortalecem; 8) situação dos egressos cotistas no mundo do trabalho; 9) bancas de heteroidentificação e o jogo das classificações raciais;- os efeitos no ensino médio; 10) a história da África como espaço para contextualizar o racismo no Brasil; 11) o modo como o debate público se tornou mais aberto aos temas ligados às desigualdades raciais, etc. Essa lista não exaustiva dialoga com alguns dos temas que são desenvolvidos pelos membros da equipe em pesquisas anteriores e que serão aqui reatualizadas em uma perspectiva dialógica e comparativa. Esse esforço conjunto se torna possível pelas parcerias já existentes entre os membros do grupo e serão reforçadas pelas possibilidades de organização de encontros, simpósios e de divulgação conjunta dos resultados obtidos (livros, dossiês em revistas, podcasts, homepages, etc.). Além disso, espera-se que essa pesquisa impacte a compreensão atual sobre o tema das ações afirmativas nas ciências humanas.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Paula Cristina da Silva - Integrante / Suely Aldir Messeder - Integrante / Paulo Sérgio da Costa Neves - Coordenador / Emerson Ferreira Rocha - Integrante / Acácio Sidinei Almeida Santos - Integrante / Andrea Loppes da Costa - Integrante / Dulcilei da Conceição Lima - Integrante / Edinéia Tavares Lopes - Integrante / Gilson Barbosa Dourado - Integrante / Givânia Maria da Silva - Integrante / Henrique da Rosa Müller - Integrante / Isabel Teresa Cristina Taukane - Integrante / Janaina Damaceno Gomes - Integrante / Joaze Bernardino Costa - Integrante / Laila Thaise Batista de Oliveira - Integrante / Laura Moutinho - Integrante / Lidia Carla Araujo dos Anjos - Integrante / Luciana Garcia de Mello - Integrante / Maria Nilza da Silva - Integrante / Pedro Lopes - Integrante / Raimunda Maria Rodrigues Santos - Integrante / Ramon de Oliveira Santana - Integrante / Sergio Henrique da Conceição - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Paula Cristina da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Suely Aldir Messeder",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo Sérgio da Costa Neves",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Emerson Ferreira Rocha",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Acácio Sidinei Almeida Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Andrea Loppes da Costa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Dulcilei da Conceição Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Edinéia Tavares Lopes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gilson Barbosa Dourado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Givânia Maria da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Henrique da Rosa Müller",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Isabel Teresa Cristina Taukane",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Janaina Damaceno Gomes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Joaze Bernardino Costa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laila Thaise Batista de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laura Moutinho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lidia Carla Araujo dos Anjos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luciana Garcia de Mello",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Nilza da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Pedro Lopes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Raimunda Maria Rodrigues Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ramon de Oliveira Santana",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sergio Henrique da Conceição",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Consórcio de Acompanhamento da Ação Afirmativa (CAA)",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O Consórcio reuniu uma equipe multidisciplinar situada em Instituições de Ensino Superior (IES), de estados e de regiões diferentes do país, com o objetivo de analisar, principalmente, dados censitários e administrativos sobre os estudantes, mas também as suas narrativas e trajetórias . A equipe do Consórcio na UFBA foi formada por Paula Barreto e Edilza Sotero, docentes/coordenadoras, e Cláudia Monteiro e Yuri Brito, pesquisador/a. Os resultados das pesquisas estão sendo divulgados através de materiais informativos e de textos redigidos pela equipe do Consórcio, que estão disponíveis em formato digital no Nexo Políticas Públicas, no index Cotas2022. https://pp.nexojornal.com.br/index/2021/Cotas-2022. Situação: Concluído; Natureza: Pesquisa. Integrantes: Paula Cristina da Silva - Coordenador / Felícia Picanço - Integrante / Edilza Sotero - Integrante / Joaze Bernardino-Costa - Integrante / Claudia Monteiro Fernandes - Integrante / Yuri Brito - Integrante / Carlos Machado - Integrante / Ana Karruz - Integrante / Marcelo Tratenberg - Integrante / Ana Almeida - Integrante / Luiz Augusto Campos - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Paula Cristina da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Felícia Picanço",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Edilza Sotero",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Joaze Bernardino-Costa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Claudia Monteiro Fernandes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Yuri Brito",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carlos Machado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Karruz",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcelo Tratenberg",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luiz Augusto Campos",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "O campo de estudos sobre relações raciais: balanços e perspectivas (1990-2020)",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A pesquisa sistematiza e analisa a produção no campo da sociologia sobre as relações raciais, a partir dos anos noventa até a primeira década deste século, destacando que, nos últimos quarenta anos, houve crescimento da quantidade de estudos sobre a situação racial brasileira, produzidos nas mais diversas áreas do conhecimento, deixando de se constituir em um campo pequeno e isolado, e se tornando mais trans/inter/multidisciplinar. A pesquisa tem se concentrado em três subáreas temáticas: preconceito, discriminação, racismo e antirracismo; desigualdade racial e estratificação social; e políticas sociais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (2) . Integrantes: Paula Cristina da Silva - Coordenador / Marcia Lima - Integrante / Andréa Lopes da Costa Vieira - Integrante / Edilza Sotero - Integrante / Pedro Jaime - Integrante / Flavia Rios - Integrante / Paulo Sérgio da Costa Neves - Integrante. Número de produções C, T & A: 6"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Paula Cristina da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcia Lima",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Andréa Lopes da Costa Vieira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Edilza Sotero",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Pedro Jaime",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Flavia Rios",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo Sérgio da Costa Neves",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Mecanismos de desigualdade adscritiva, cultura e ensino superior no Brasil: os casos da Universidade Federal da Bahia e Universidade Salvador",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: O projeto visa desenvolver ferramentas analíticas que permitam ampliar o conhecimento teórico e metodológico sobre o fenômeno da desigualdade e produzir evidências empíricas sobre os mecanismos da desigualdade adscritiva e sobre a relação entre fronteiras sociais e simbólicas a partir de dois estudos de inspiração etnográfica em instituições de ensino superior - UFBA e UNIFACS - que criaram políticas de ação afirmativa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) / Doutorado: (2) . Integrantes: Paula Cristina da Silva - Coordenador / Alex Sandro Macedo Almeida - Integrante / Licia Maria de Lima Barbosa - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Paula Cristina da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Alex Sandro Macedo Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Licia Maria de Lima Barbosa",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "RACISMO, ANTI-RACISMO E CIDADANIA NO BRASIL",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2011",
+      "descricao": [
+        "Descrição: O projeto atualiza o debate teórico sobre o conceito de racismo e, em especial, de racismo institucional, assim como sobre o conceito de anti-racismo, discutindo o uso de outros conceitos como racialização, diáspora e identidade. O projeto se insere na linha de investigação que trata da interface entre os estudos sobre (anti)racismo e discurso, e prioriza a abordagem qualitativa.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) . Integrantes: Paula Cristina da Silva - Coordenador. Financiador(es): Centro de Estudos da Metrópole (INCT/CNPq) - Auxílio financeiro / Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa / Laboratorio de Investigação sobre Desigualdades Sociais (Fapesb) - Auxílio financeiro. Número de produções C, T & A: 5"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Paula Cristina da Silva",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Centro de Estudos da Metrópole (INCT/CNPq)",
+          "tipo_apoio": "Auxílio financeiro"
+        },
+        {
+          "nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Laboratorio de Investigação sobre Desigualdades Sociais (Fapesb)",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Curso de Formação Pré-Acadêmica Visando à Seleção na Pós-Graduação",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: O projeto visa auxiliar a preparação para a seleção de mestrado, em quaisquer áreas do conhecimento, através de um curso cujo programa inclui a elaboração de projetos de pesquisa, português e inglês. A vigência do projeto é de 2012 a 2014 e nesse período o curso terá três ofertas para três turmas de 50 participantes cada. O projeto é registrado como projeto de extensão no SIATEX-UFBA e conta com recursos da Fundação Ford através da Fundação Carlos Chagas. Eu sou vice-coordenadora do Projeto.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Mestrado acadêmico: (50) . Integrantes: Paula Cristina da Silva - Integrante / Cloves Luis Pereira Oliveira - Coordenador."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Paula Cristina da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cloves Luis Pereira Oliveira",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Outras Sociologias Específicas",
+      "especialidade": "Sociologia da Desigualdade",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: Sociologia da Desigualdade."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Outras Sociologias Específicas",
+      "especialidade": "Relações Raciais no Brasil",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: Relações Raciais no Brasil."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Outras Sociologias Específicas",
+      "especialidade": "Sociologia Politica",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Outras Sociologias Específicas/Especialidade: Sociologia Politica."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Cidadã da Cidade do Salvador, Câmara Municipal da Cidade do Salvador.",
+      "ano": 2012
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Pesquisa Narrativas sobre o racismo e anti-racismo entre estudantes da UFBa",
+      "objetivo": ""
+    },
+    {
+      "nome": "Mecanismos da desigualdade adscritiva, interação e cultura",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Políticas públicas de meio ambiente da Bahia e seus efeitos para os povos e comunidades tradicionais.",
+        "ano": 2025,
+        "autores": "NERY GIGLIO, JOANA ; Da Silva, Paula Cristina",
+        "revista": "CADERNOS DE CAMPO (UNESP)",
+        "volume": "25",
+        "numero": "",
+        "paginas": "e025017-34",
+        "issn": "2359-2419",
+        "doi": "http://dx.doi.org/10.47284/cdc.v25iesp2.20024",
+        "qualis": ""
+      },
+      {
+        "titulo": "Novas configurações e debates sobre as ações afirmativas em um contexto de mudanças: uma introdução",
+        "ano": 2022,
+        "autores": "NEVES, P. S. C. ; BARRETO, P. C. S.",
+        "revista": "Revista Brasileira de Sociologia",
+        "volume": "10",
+        "numero": "",
+        "paginas": "5-16",
+        "issn": "2318-0544",
+        "doi": "http://dx.doi.org/10.20336/rbs.918",
+        "qualis": ""
+      },
+      {
+        "titulo": "A produção das ciências sociais sobre as relações raciais no Brasil entre 2012 e 2019",
+        "ano": 2021,
+        "autores": "BARRETO, P. C. S.; RIOS, F. ; NEVES, P. S. C. ; SANTOS, D. B. R.",
+        "revista": "REVISTA BRASILEIRA DE INFORMAÇÃO BIBLIOGRÁFICA EM CIÊNCIAS SOCIAIS - BIB",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1-35",
+        "issn": "2317-6644",
+        "doi": "http://dx.doi.org/10.17666/bib9405/2021",
+        "qualis": ""
+      },
+      {
+        "titulo": "Lest we forget! Presentation of the Special Issue -Racial dimensions in the corporate world-",
+        "ano": 2018,
+        "autores": "JAIME, PEDRO ; BARRETO, PAULA ; OLIVEIRA, CLOVES",
+        "revista": "ORGANIZAÇÕES & SOCIEDADE (IMPRESSO)",
+        "volume": "25",
+        "numero": "",
+        "paginas": "542-550",
+        "issn": "1413-585X",
+        "doi": "http://dx.doi.org/10.1590/1984-9250870",
+        "qualis": ""
+      },
+      {
+        "titulo": "Entre o isolamento e a dispersão. A temática racial nos estudos sociológicos no Brasil",
+        "ano": 2017,
+        "autores": "BARRETO, P. C. S.; LIMA, M. ; VIEIRA, A. L. C. ; SOTERO, E.",
+        "revista": "REVISTA BRASILEIRA DE SOCIOLOGIA",
+        "volume": "5",
+        "numero": "",
+        "paginas": "113-141",
+        "issn": "2317-8507",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Gênero, raça, desigualdades e ação afirmativa no ensino superior",
+        "ano": 2015,
+        "autores": "BARRETO, P. C. S",
+        "revista": "Revista Brasileira de Ciência Política",
+        "volume": "16",
+        "numero": "",
+        "paginas": "39-64",
+        "issn": "2178-4884",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "As Politicas Anti-Racistas em Debate",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "revista": "O Público e o Privado (UECE)",
+        "volume": "03",
+        "numero": "",
+        "paginas": "127-143",
+        "issn": "1519-5481",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Percepção do Racismo no Rio de Janeiro",
+        "ano": 2003,
+        "autores": "BARRETO, P. C. S",
+        "revista": "ESTUDOS AFRO-ASIÁTICOS (UCAM. IMPRESSO)",
+        "volume": "02",
+        "numero": "25",
+        "paginas": "183-213",
+        "issn": "0101-546X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Educação pluricultural e anti-racismo",
+        "ano": 1997,
+        "autores": "BARRETO, P. C. S",
+        "revista": "Série Novos Toques",
+        "volume": "1",
+        "numero": "",
+        "paginas": "133-152",
+        "issn": "",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Raça e Trabalho: categorias de cor entre metalúrgicos baianos.",
+        "ano": 1995,
+        "autores": "BARRETO, P. C. S",
+        "revista": "",
+        "volume": "2",
+        "numero": "",
+        "paginas": "51-65",
+        "issn": "",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Trabalho e cor entre metalúrgicos baianos: um estudo de caso",
+        "ano": 1994,
+        "autores": "BARRETO, P. C. S",
+        "revista": "Bahia Análise & Dados",
+        "volume": "3",
+        "numero": "4",
+        "paginas": "18-22",
+        "issn": "0103-8117",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Representações, Linguagens e Políticas Públicas. Afro-Brasileiros e povos indígenas no Brasil",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA; OLIVEIRA, C. L. P. (Org.) ; FREIRE, R. S. (Org.)",
+        "editora": "Salvador: EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "190"
+      },
+      {
+        "titulo": "Educação e Relações Étnico-raciais",
+        "ano": 2013,
+        "autores": "SANTOS, M. A. ; BARRETO, P. C. S. ; Barros, Zelinda ; SOARES, M. C.",
+        "editora": "Salvador: Empresa Gráfica da Bahia",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "108"
+      },
+      {
+        "titulo": "Curso de Formação para o Ensino de História e Cultura Afro-brasileira",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; Barros, Zelinda (Org.)",
+        "editora": "Salvador: Empresa Gráfica da Bahia",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "443"
+      },
+      {
+        "titulo": "Curso de Formação para o Ensino de História e Cultura Afro-Brasileira",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S",
+        "editora": "Salvador: ",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "443"
+      },
+      {
+        "titulo": "Educação e Relações Étnico-raciais",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S",
+        "editora": "",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "108"
+      },
+      {
+        "titulo": "Mapeamento dos Espaços de Religiões de Matrizes Africanas do Recôncavo",
+        "ano": 2012,
+        "autores": "SANTOS, J. T. (Org.) ; BARRETO, P. C. S. (Org.)",
+        "editora": "Salvador: Empresa Gráfica da Bahia",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "181"
+      },
+      {
+        "titulo": "Mapeamento dos Espaços de Religiões de Matrizes Africanas do Baixo Sul",
+        "ano": 2012,
+        "autores": "SANTOS, J. T. (Org.) ; BARRETO, P. C. S. (Org.)",
+        "editora": "Salvador: Empresa Gráfica da Bahia",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "94"
+      },
+      {
+        "titulo": "História da África",
+        "ano": 2011,
+        "autores": "FIGUEIREDO, F. B. (Org.) ; BARRETO, P. C. S. (Org.)",
+        "editora": "Salvador: CEAO-UFBa",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "143"
+      },
+      {
+        "titulo": "História do Negro no Brasil",
+        "ano": 2011,
+        "autores": "AMARAL, S. P. (Org.) ; Barros, Zelinda (Org.) ; BARRETO, P. C. S. (Org.)",
+        "editora": "Salvador: CEAO-UFBa",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "114"
+      },
+      {
+        "titulo": "Literatura Afro-Brasileira",
+        "ano": 2011,
+        "autores": "PEREIRA, L. M. S. (Org.) ; PEIXOTO, F. L. (Org.) ; BARRETO, P. C. S. (Org.) ; Barros, Zelinda (Org.)",
+        "editora": "Salvador: CEAO_UFBa",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "106"
+      },
+      {
+        "titulo": "Educação e Relações Étnico-Raciais",
+        "ano": 2011,
+        "autores": "SANTOS, M. A. (Org.) ; ALVES, M. (Org.) ; BARRETO, P. C. S. (Org.) ; Barros, Zelinda (Org.)",
+        "editora": "Salvador: CEAO-UFBa",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "107"
+      },
+      {
+        "titulo": "Multiplas Vozes. Racismo e anti-racismo na perspectiva de universitários de São Paulo",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "editora": "Salvador: Edufba",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "194"
+      },
+      {
+        "titulo": "Negros à Luz dos Fornos: Representações do trabalho e da cor entre metalúrgicos baianos.. São Paulo: Dynamis",
+        "ano": 1997,
+        "autores": "BARRETO, P. C. S",
+        "editora": "Negros à Luz dos Fornos: Representações do trabalho e da cor entre metalúrgicos baianos.. São Paulo: Dynamis",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "151"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Paula Cristina da Silva Barreto",
+        "ano": 2025,
+        "autores": "SILVA, P.C",
+        "titulo_livro": "",
+        "editora": "HUCITEC",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "347-356"
+      },
+      {
+        "titulo": "Racial politics: central themes in academic scholarship in the Social Sciences in Brazil (2012 ? 2019)",
+        "ano": 2024,
+        "autores": "BARRETO, P. C. S.; SANTOS, D. B. R. ; FERNANDES, C. M. ; BRITO, Y. S.",
+        "titulo_livro": "",
+        "editora": "Palgrave Macmillan",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "45-71"
+      },
+      {
+        "titulo": "Ações Afirmativas",
+        "ano": 2023,
+        "autores": "VENTURINI, A. ; BARRETO, PAULA",
+        "titulo_livro": "",
+        "editora": "Perspectiva",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "13-19"
+      },
+      {
+        "titulo": "Mestra Paulinha",
+        "ano": 2023,
+        "autores": "SILVA, P.C.; PENHA, N. E. ; DANDRADE, C. V. A. ; BISPO, A. S. ; SILVA, A. A. S. ; BONFIM, M. F. E. ; ARAUJO, R. J. C. ; JESUS, V. S. ; SILVA, L. L. ; MIRANDA, C. S. ; SILVA, L. M. L. ; FERNANDES, P. M. ; SANTOS, S. M. ; SILVA, C. D. ; LEITE, R. C. ; BORGES, S. M. S. ; SILVA, T. ; SANTOS, T. C. ; COELHO, T. O. ; FIGUEIREDO, F. S. ; et.al",
+        "titulo_livro": "",
+        "editora": "Maré Cheia Produções Criativas e Sustentáveis",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "59-61"
+      },
+      {
+        "titulo": "Antônio Sérgio Alfredo Guimarães",
+        "ano": 2023,
+        "autores": "SILVA, P.C",
+        "titulo_livro": "",
+        "editora": "Tribo da Ilha",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "331-334"
+      },
+      {
+        "titulo": "(Org.). Representações, linguagens e políticas públicas. Afro-brasileiros e povos indígenas. 1ed.Salvador",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA. Apresentação. As questões culturais e os estudos sobre as relações raciais e étnicas. In: Barreto, Paula; Oliveira, Cloves; Freire, Rebeca S",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "11-20"
+      },
+      {
+        "titulo": "A ética e a moral da Capoeira Angola, segundo Mestre Pastinha",
+        "ano": 2015,
+        "autores": "BARRETO, P. C. S",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "37-41"
+      },
+      {
+        "titulo": "Ações Afirmativas na Educação - Digital",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S",
+        "titulo_livro": "",
+        "editora": "CEAO-UFBa",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "43-56"
+      },
+      {
+        "titulo": "Ações Afirmativas na Educação - Impresso",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "titulo_livro": "",
+        "editora": "Centro de Estudos Afro-Orientais (FFCH-UFBa)",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "43-56"
+      },
+      {
+        "titulo": "O Racismo Brasileiro em Questão:temas relevantes no debate recente",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "titulo_livro": "",
+        "editora": "CLACSO",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "35-52"
+      },
+      {
+        "titulo": "Apoio à permanência de estudantes de escolas públicas e negros em universidades públicas brasileiras",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "titulo_livro": "",
+        "editora": "DP&A",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "145-154"
+      },
+      {
+        "titulo": "Percepciones del racismo y preferencias en terminos de politicas antirracistas. Investigacion entre estudiantes universitarios de São Paulo",
+        "ano": 2003,
+        "autores": "BARRETO, P. C. S",
+        "titulo_livro": "",
+        "editora": "Universidad Nacional de Colombia",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "105-122"
+      },
+      {
+        "titulo": "Percepciones del racismo y preferencias em términos de políticas antirracistas. Una investigación entre estudiantes universitarios de Sao Paulo",
+        "ano": 2002,
+        "autores": "BARRETO, P. C. S",
+        "titulo_livro": "",
+        "editora": "Universidad Nacional de Colombia",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "99-114"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Gênero e Capoeira: Voz, Corpo e Tradição",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; ZABELE, R. L. ; GONCALVES, M.",
+        "evento": "VI Festival Latinidades: Arte e cultura negra",
+        "cidade": "",
+        "paginas": "130-149",
+        "isbn": ""
+      },
+      {
+        "titulo": "Interculturalidade: Construção de Histórias Cruzadas",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S.; IYE, A. M. ; Castro, Ubiratan",
+        "evento": "Brasil-África. Herança Cultural e Interculturalidade. Seminário de Lançamento da Edição em Portugues da Coleção da UNESCO História Geral da África",
+        "cidade": "",
+        "paginas": "9-10",
+        "isbn": ""
+      },
+      {
+        "titulo": "Mulheres Negras na Educação",
+        "ano": 2010,
+        "autores": "Verônica, Vera ; BARRETO, P. C. S.",
+        "evento": "Festival da Mulher Afro Latino Americana e Caribenha",
+        "cidade": "",
+        "paginas": "92-109",
+        "isbn": ""
+      },
+      {
+        "titulo": "O racismo brasileiro em questão: temas relevantes no debate recente",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": "Los estudios africanos en America Latina. Herencia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "How a FIPSE/CAPES mobility project has led to critical spin-offs",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S.; Azzoni, Carlos ; PATTERSON, W. ; Taylor, Orlando ; Landers, Jane",
+        "evento": "Fifth Annual US-Brazil Higher Education Consortia Meeting",
+        "cidade": "",
+        "paginas": "10-18",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "The Struggles to Recognize Capoeira as a Black Cultural Expression in Brazil: Race, Class, and Gender Dimensions",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; ROSA, C.",
+        "evento": "Black Bodies in Motion: Choreographing Resistance Across Americas, 2016, Medford. Black Bodies in Motion: Choreographing Resistance Across Americas",
+        "cidade": ""
+      },
+      {
+        "titulo": "Art and Cultural Resistance in Black Brazil and the Diaspora",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": "Consciência Negra: A Legacy of Black Consciousness in Brazil., 2016, Swartmore. Consciência Negra: A Legacy of Black Consciousness in Brazil",
+        "cidade": ""
+      },
+      {
+        "titulo": "Race, Identity, and Black Consciousness in Brazil and the Diaspora",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": "Consciência Negra: A Legacy of Black Consciousness in Brazil, 2016, Swartmore. Consciência Negra: A Legacy of Black Consciousness in Brazil",
+        "cidade": ""
+      },
+      {
+        "titulo": "Our daily ginga: Women capoeiristas and their struggles in the context of modern feminism",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "evento": "13º AWID Internacional Forum.Feminist Futures: Building Collective Power for Rights and Justice, 2016, Costa de Sauípe. . 13º AWID Internacional Forum.Feminist Futures: Building Collective Power for Rights and Justice, 8-11/09/2016",
+        "cidade": ""
+      },
+      {
+        "titulo": "Educação Superior Brasileira: a experiência de projetos do Consórcio em Educação Superior Brasil-Estados Unidos (CAPES-FIPSE)",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "evento": "VIII Congresso Brasileiro de Pesquisadores(as) Negros(as). Ações Afirmativas: Cidadania e Relações Étnico-Raciais, 2014, Belém. Anais do VIII Congresso Brasileiro de Pesquisadores(as) Negros(as). São Paulo: Editora Livraria da Física",
+        "cidade": ""
+      },
+      {
+        "titulo": "As Dimensões Racial e de Gênero das Desigualdades no Ensino Superior Brasileiro: Análise preliminar de evidências sobre a situação da categoria docente na Universidade Federal da Bhia",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S",
+        "evento": "XVI Congresso Brasileiro de Sociologia, 2013, Salvador. XVI Congresso Brasileiro de Sociologia",
+        "cidade": ""
+      },
+      {
+        "titulo": "Mecanismos, Interação e a Compreensão do Fenômeno da Desigualdade de Gênero e Raça na Sociedade Brasileira",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S",
+        "evento": "III Encontro de São Lázaro, 2012, Salvador. III Encontro de São Lázaro. Salvador: Quarteto Editora",
+        "cidade": ""
+      },
+      {
+        "titulo": "Desafios recentes ao fortalecimento Institucional dos Espaços Voltados para os Estudos Africanos e Afro-Brasileiros nas IES",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S",
+        "evento": "II Encontro de São Lázaro, 2011, Salvador. II Encontro de São Lázaro. Salvador: Quarteto Editora",
+        "cidade": ""
+      },
+      {
+        "titulo": "O anti-racismo cotidiano no Brasil",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": "Encontro de São Lázaro. I Encontro de Programas de Pós-Graduação, 2010, Salvador. Encontro de São Lázaro. Salvador: Quarteto",
+        "cidade": ""
+      },
+      {
+        "titulo": "Interpretações sobre o racismo brasileiro",
+        "ano": 2000,
+        "autores": "BARRETO, P. C. S",
+        "evento": "50 Congreso Internacional de Americanistas, 2000, Varsovia. 50 Congreso Internacional de Americanistas",
+        "cidade": ""
+      },
+      {
+        "titulo": "Possibilidades e Limites de uma Educação Multicultural e Anti-racista",
+        "ano": 1998,
+        "autores": "BARRETO, P. C. S",
+        "evento": "Latin American Studies Association's XXI International Congress, 1998, Chicago. Latin American Studies Association's XXI International Congress",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [
+      {
+        "titulo": "Ei, você é um cotista! Materialização da raça e construção da diferença entre estudantes beneficiários das ações afirmativas na UFRGS",
+        "ano": 2025,
+        "autores": "MELLO, L. ; SILVA, P.C.",
+        "revista": "REVISTA DE ANTROPOLOGIA",
+        "issn": ""
+      }
+    ],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Atualizando a Sociologia das Relações Raciais: Os últimos 30 anos de um campo em transformação",
+        "ano": 2025,
+        "autores": "VIEIRA, A. L. C. ; MELLO, L. ; SILVA, P.C. ; TOMAS, M. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Discutir as políticas públicas de meio ambiente para combater o racismo ambiental",
+        "ano": 2025,
+        "autores": "SILVA, P.C.; GIGLIO, J. N.",
+        "evento": ""
+      },
+      {
+        "titulo": "Gênero, Raça e Interseccionalidade",
+        "ano": 2025,
+        "autores": "SILVA, P.C",
+        "evento": ""
+      },
+      {
+        "titulo": "Classificações raciais, o pardo e as comissões de heteroidentificação",
+        "ano": 2025,
+        "autores": "CAMPOS, L. A. ; Guimaraes, Antonio Sergio Alfredo ; FELIX, M. ; SILVA, P.C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Ações afirmativas além e aquém das universidades",
+        "ano": 2025,
+        "autores": "VIEIRA, A. L. C. ; PICANCO, F. ; MOUTINHO, L. ; SILVA, P.C. ; NEVES, P. S. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Desafios metodológicos nas pesquisas sobre desigualdades na educação superior",
+        "ano": 2024,
+        "autores": "HERINGER, R. ; PICANCO, F. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Gestão educacional e desafios étnicos raciais - Mesa II",
+        "ano": 2024,
+        "autores": "SILVA, P.C.; COSTA, A. L. ; RIOS, F. ; MELLO, L.",
+        "evento": ""
+      },
+      {
+        "titulo": "Desigualdade étnico-racial, exclusão e racismo no Brasil - GTII",
+        "ano": 2024,
+        "autores": "SILVA, P.C.; MONTEZUMA, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Decolonialidade e resistências neocoloniais nas universidades",
+        "ano": 2024,
+        "autores": "BORGES, A. ; MELLO, L. ; SILVA, P.C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Desigualdades, representação política e democracia",
+        "ano": 2024,
+        "autores": "SANTANA, M. A. ; FERREIRA, L. ; SILVA, P.C. ; CASTRO, E.",
+        "evento": ""
+      },
+      {
+        "titulo": "As interfaces entre os estudos de gênero e os estudos étnico-raciais: questões epistemológicas, teóricas e metodológicas",
+        "ano": 2024,
+        "autores": "SILVA, P.C.; FIGUEIREDO, A. ; GONCALVES, V. ; MELLO, L. G.",
+        "evento": ""
+      },
+      {
+        "titulo": "As políticas de ação afirmativa no ensino superior brasileiro e as interfaces de classe, raça e gênero",
+        "ano": 2023,
+        "autores": "COSTA, A. L. ; PICANCO, F. ; MELLO, L. G. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Abordagem interseccional nos estudos sobre raça e gênero: teses e dissertações produzidas na região Nordeste",
+        "ano": 2023,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Ações Afirmativas e Políticas de Permanência Estudantil",
+        "ano": 2023,
+        "autores": "SANTOS, A. S. A. ; SILVA, M. N. ; VIEIRA, A. L. C. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "As novas interpretações sobre o racismo no Brasil e seus desafios teóricos e metodológicos",
+        "ano": 2023,
+        "autores": "PICANCO, F. ; VIEIRA, A. L. C. ; MELLO, L. G. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Ensino superior e desigualdades",
+        "ano": 2023,
+        "autores": "IZABEL, D. S. ; PAULA, G. ; ASSIS, M. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Precariedades: o fim do mundo - as ameaças, degradação ambiental, racismo, desigualdades e autoritarismo",
+        "ano": 2022,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Festival Vários 22: agenda brasileira. Terceira Sessão: Democracia",
+        "ano": 2022,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Brasil: racismo estrutural e formas de resistência",
+        "ano": 2022,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Diversificação racial em algumas universidades: o caso da UFBA",
+        "ano": 2022,
+        "autores": "LIMA, M. ; CAMPOS, L. A. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Fórum Dez anos da Lei Federal de Cotas: história, dilemas e resultados",
+        "ano": 2022,
+        "autores": "CAMPOS, L. A. ; LIMA, M. ; BARRETO, P. C. S. ; HERINGER, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Defesa Pública de Memorial",
+        "ano": 2021,
+        "autores": "BARRETO, P. C. S.; Guimaraes, Antonio Sergio Alfredo ; SOUZA, F. ; NEVES, P. S. C. ; JOHNSON, O. ; SILVERIO, V.",
+        "evento": ""
+      },
+      {
+        "titulo": "Educação e Antirracismo: uma análise das políticas de ações afirmativas no Brasil e nos Estados Unidos",
+        "ano": 2020,
+        "autores": "Figueiredo, Angela ; BARRETO, PAULA ; MACIEL, C. V. B. ; SOTERO, E. ; SANTOS, D. B. R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Raça, Racismo e Classe Média Negra no Brasil e nos Estados Unidos",
+        "ano": 2020,
+        "autores": "Guimaraes, Antonio Sergio Alfredo ; Figueiredo, Angela ; BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Roda de conversa sobre racismo",
+        "ano": 2020,
+        "autores": "SANTANNA, M. ; SILVA, A. C. ; SAMPAIO, G. ; BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Mulheres Negras, Antirracismo e Feminismo: Memória, Resistência e Estratégias do Bem-Viver",
+        "ano": 2020,
+        "autores": "BARRETO, PAULA; ARAUJO, R. C. ; DONDZINA, M.",
+        "evento": ""
+      },
+      {
+        "titulo": "Gênero e Cultura: Terreiros e Rodas na Pandemia",
+        "ano": 2020,
+        "autores": "BARRETO, PAULA; ZABELE, R. L. ; NAVARRO, V.",
+        "evento": ""
+      },
+      {
+        "titulo": "Epistemologias afrocentradas",
+        "ano": 2020,
+        "autores": "BRAGA, S. ; FLOR, W. ; SANTANA JUNIOR, H. ; BALDUINO, P. ; BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Ação Afirmativa no Brasil: como avançar em ambiente de retrocesso?",
+        "ano": 2020,
+        "autores": "VIEIRA, A. L. C. ; CAMPOS, L. A. ; LIMA, M. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "An intersectional perspective on racial inequality & discrimination: recent challenges in Brazil",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Visual Cultures of Privilege: Ways of looking and (in)visibility of black bodies in Brazilian contemporary Society",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Women?s Participation and Organization in Contemporary Capoeira Angola",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Brazilian Black Cultural Expressions and Anti-Racist and Feminist Activism: The Case of Capoeira Angola",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Studies on Racial Inequality and Racial Discrimination from an Intersectional Perspective: Recent Challenges in Brazil",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Contemporary Racial Politics in Brazil",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA; HUMBERTO, S. ; OLIVEIRA, C. L. P. ; JOHNSON, O.",
+        "evento": ""
+      },
+      {
+        "titulo": "Diversificação do corpo docente nas IFES e ações afirmativas em concursos públicos",
+        "ano": 2019,
+        "autores": "NEVES, P. S. C. ; CAMPOS, L. A. ; MELLO, L. ; MACIEL, R. ; PEREIRA, L. N. ; BARRETO, PAULA",
+        "evento": ""
+      },
+      {
+        "titulo": "Avaliação de Ações Afirmativas e docência nas Instituições de Ensino Superior",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA; SANTOS, D. B. R. ; FERNANDES, C. M. ; SILVA, E. S. S. ; BRITO, Y.",
+        "evento": ""
+      },
+      {
+        "titulo": "S. C. ; CHAGURI, M. . Gênero e raça",
+        "ano": 2019,
+        "autores": "BARRETO, PAULA; NEVES, P",
+        "evento": ""
+      },
+      {
+        "titulo": "Pesquisa Comparativa sobre Ações Afirmativas na Educação no Brasil e nos EUA",
+        "ano": 2018,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S. ; SMITH, L.",
+        "evento": ""
+      },
+      {
+        "titulo": "Modos de Olhar e (In)Visibilidade dos corpos de homens e mulheres negrxs no Brasil",
+        "ano": 2018,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Expresiones Culturales Negras y El Artivismo",
+        "ano": 2018,
+        "autores": "BARRETO, P. C. S.; BALANTA, M. ; BONILLA, A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Diálogo entre a Capoeira Angola e o Butoh",
+        "ano": 2018,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; TENKO, I.",
+        "evento": ""
+      },
+      {
+        "titulo": "Reflexões sobre a formação racial no Brasil contemporâneo",
+        "ano": 2018,
+        "autores": "Guimaraes, Antonio Sergio Alfredo ; BARRETO, PAULA ; ALBUQUERQUE, W.",
+        "evento": ""
+      },
+      {
+        "titulo": "Racialização e racismo na vida cotidiana: cultura visual de privilégios, modos de olhar e (in)visibilidade no Brasil",
+        "ano": 2018,
+        "autores": "BARRETO, PAULA; BERNARDINO-COSTA, J.",
+        "evento": ""
+      },
+      {
+        "titulo": "Para um antirracismo institucional",
+        "ano": 2018,
+        "autores": "Guimaraes, Antonio Sergio Alfredo ; SOTERO, E. ; BARRETO, PAULA ; OLIVEIRA, C. L. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "Perspectivas nos estudos sobre relações raciais e gênero no Brasil e nos EUA",
+        "ano": 2018,
+        "autores": "BARRETO, PAULA; ARAUJO, R. C. ; JOHNSON, O. ; MITCHELL-WALTHOUR, G.",
+        "evento": ""
+      },
+      {
+        "titulo": "Os desafios enfrentados pela mulher gestora",
+        "ano": 2017,
+        "autores": "BARRETO, P. C. S.; MATOS, I. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Relações raciais e étnicas: desigualdades e políticas públicas",
+        "ano": 2017,
+        "autores": "OLIVEIRA, C. L. P. ; SOTERO, E. ; BARRETO, P. C. S. ; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "O campo de estudos sobre relações raciais: balanços e perspectivas",
+        "ano": 2017,
+        "autores": "CAMPOS, L. A. ; Guimaraes, Antonio Sergio Alfredo ; BARRETO, P. C. S. ; RIBEIRO, C. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Mulheres Negras na UFBa",
+        "ano": 2017,
+        "autores": "MACIEL, C. V. B. ; BARRETO, P. C. S. ; QUEIROZ, D.",
+        "evento": ""
+      },
+      {
+        "titulo": "Desafios da luta feminista",
+        "ano": 2017,
+        "autores": "CABRAL, C. G. ; BARRETO, P. C. S. ; SOUZA, G. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Relações raciais e Étnicas",
+        "ano": 2017,
+        "autores": "BARRETO, P. C. S.; SILVA, E. S. S. ; COURANT, A. ; NASCIMENTO, O. ; JESUS, C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Racismo e diversidade no mundo empresarial: comentários",
+        "ano": 2017,
+        "autores": "JAIME, P. ; BARRETO, P. C. S. ; ARAUJO, R. C. ; OLIVEIRA, C. L. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "Cultural Performance and Theory",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "The Struggles to Recognize Capoeira as a Black Cultural Expression in Brazil: Race, Class, and Gender Dimensions",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; ROSA, C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Art and Cultural Resistance in Black Brazil and the Diaspora",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Race, Identity, and Black Consciousness in Brazil and the Diaspora",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Quota System and Affirmative Action Programs: Brazilian Experience",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Affirmative Action Programs in Brazil",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Racial Inequalities in Brazilian System of Education",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Overview: Race and Ethnicity in Brazil",
+        "ano": 2016,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "A nossa ginga de cada dia: mulheres capoeiristas e suas lutas nos contextos dos feminismos contemporâneos",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Ações Afirmativas e Universidade",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; RIBEIRO, M. ; VANIN, I.",
+        "evento": ""
+      },
+      {
+        "titulo": "Race, racism and affirmative Action in Brazil",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Affirmative Action Programs: the Brazilian Experience",
+        "ano": 2016,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira Angola: Cultura Viva de Transformação",
+        "ano": 2015,
+        "autores": "Oliveira, Eduardo ; BARRETO, P. C. S. ; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Report: The Situation of the Afrodescendent Population - Brazil",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Autonomia como Resistência",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Educação Superior Brasileira: a experiência de projetos do Consórcio em Educação Superior Brasil-Estados Unidos (CAPES-FIPSE)",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira Angola History and the Women's Participation",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; MISAGO, C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Afro-Brazilian Cultural Expressions",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; UNO, K. ; SACKO, O. ; WAJIMA, Y.",
+        "evento": ""
+      },
+      {
+        "titulo": "Gênero e Raça na Universidade",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiências do Curso de Formação para o Ensino de História e Cultura Afro-Brasileiras",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Gênero e docência no ensino superior brasileiro. Evidências das áreas de ciências exatas, humanas e biológicas na Universidade Federal da Bahia",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Articulando Currículos - diálogos entre a universidade e educação básica",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "As Dimensões Racial e de Gênero das Desigualdade no Ensino Superior Brasileio: Análise Preliminar de Evidências Sobre a Situação da Categoria Docente na Universiidade Federal da Bahia",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira, Historiografia, e Relações Étnico-Raciais. Conflitos e Negociações",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; PIRES, J. ; SOARES, C. E.",
+        "evento": ""
+      },
+      {
+        "titulo": "Educação e Relações Étnico-Raciais",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; SILVA, P. ; PINTO, M.",
+        "evento": ""
+      },
+      {
+        "titulo": "Gênero e capoeira: voz, corpo e tradição",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Painel das atividades de extensão universitária na Universidade Federal da Bahia e seus impactos nos programas de graduação e pós-graduação",
+        "ano": 2013,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Unidas pelo fim da violência contra as mulheres",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; MATOS, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "Racism and Anti-Racism in Brazil",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Brazil: an Overview",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S.; OLIVEIRA, C. L. P.",
+        "evento": ""
+      },
+      {
+        "titulo": "30 Anos: o processo de fortalecimento da presença das mulheres nas lutas e brincadeiras de capoeira",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Mecanismos, Interação e a Compreensão do Fenômeno da Desigualdade de Gênero e Raça na Sociedade Brasileira",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Desigualdade com Base em Raça e Gênero na Sociedade Brasileira",
+        "ano": 2012,
+        "autores": "OLIVEIRA, C. L. P. ; Chateaubriand, Luis ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Reflexões sobre 30 anos de capoeira angola",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; BARRETO, P. R. G.",
+        "evento": ""
+      },
+      {
+        "titulo": "As Políticas de Ações Afirmativas: Desafios e Perspectivas",
+        "ano": 2012,
+        "autores": "PIRES, J. ; BARRETO, P. C. S. ; HUMBERTO, S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Desafios recentes ao fortalecimento Institucional dos Espaços Voltados para os Estudos Africanos e Afro-Brasileiros nas IES",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Interculturalidade: Constução de Histórias Cruzadas",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S.; IYE, A. M. ; Castro, Ubiratan",
+        "evento": ""
+      },
+      {
+        "titulo": "Negritudes: Reflexões no Ano Internacional dos Afrodescendentes",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Retention Policy Targetting Afro-Brazilian Students",
+        "ano": 2011,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "Um Balanço das Políticas de Ação Afirmativa",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Curso de Formação para o Acesso à Pós-Graduação - UFBa",
+        "ano": 2011,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Structures of South-South Cooperation, Decentralization, Centralization, Partnerships",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Projeto Acesso e Igualdade no Ensino Superior no Brasil e nos Estados Unidos",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Relações raciais e educação",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Ethnic and racial inequalities in Brazilian educational system",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Gênero, raça e educação nos países da diáspora africana depois de Durban",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "As ações afirmativas no ensino superior",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "O Centro de Estudos Afro-Orientais e a Memória Afro-Brasileira",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira Angola: Mediações na continente e na diáspora africana",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G.",
+        "evento": ""
+      },
+      {
+        "titulo": "A Nação Angolão Paquetã",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S.; ALVES, A. ; RAMOS, C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Balanço das Políticas de Ação Afirmativa no Brasil",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Cotas Raciais e racismo no Brasil",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "A construção da 'raça' e as relações raciais no Brasil",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Abertura do Coloquio CEAO 50 Anos",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Abertura do II Congresso Bahiano de Pesquisadores Negros",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Ações Afirmativas: representações e discursos em ambientes de ensino-aprendizagem",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Cooperação Brasil-Africa",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "O desempenho escolar de beneficiários e não-beneficiários",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Atividades do Projeto Acesso e Igualdade no Ensino Superior no Brasil e nos Estados Unidos",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Reunião de Coordenadores dos Cursos de Formação para as Relações Étnico-Raciais",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Sociedade Civil e a CPLP",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Apresentação do Projeto do Curso de Formação para o Ensino de História e Cultura Afro-Brasileiras",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Atuação do Centro de Estudos Afro-Orientais em Cooperação Brasil-Estados Unidos",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Memory, Motivation and Women's Leadership in Capoeira Angola",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Projeto Acesso e Igualdade na Educação Superior no Brasil e nos Estados Unidos",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Political Mobilization and Black Resistance - XIX Century",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Political Mobilization and Black Resistance - XX Century",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Race, Development and Social Inequality Project: Final Remarks",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S.; TAYLOR, O.",
+        "evento": ""
+      },
+      {
+        "titulo": "Student Panel (Chair)",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Temas da Sociologia na Contemporaneidade - Relações Raciais",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Um balanço das experiências de Apoio à Permanência (na UFBa)",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Universidade, pesquisa e políticas de inclusão: experiências e práticas",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira and the black atlantic",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Political Mobilization and Black Resistance in Brazil",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "A Lei 10.639: Contexto e Implementação no Brasil",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "A Pesquisa de Mapeamento dos Terreiros de Candomblé em Salvador",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "As Experiências do Projeto Raça, Desenvolvimento e Desigualdade na UFBa",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Os estudos sobre 'relações raciais' e o racismo no Brasil: o legado do Século XIX e os desafios do Século XXI",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Panel Cultura Negra",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Porque gênero e raça importam?",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S.; PICANCO, F. ; PINHO, O. ; DUARTE, R.",
+        "evento": ""
+      },
+      {
+        "titulo": "The participation of UFBa in the 'Race, development and inequality Project': individual and institutional challenges",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Youth and Black Identities in Contemporary Brazilian Society",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Avaliação do Curso de Capacitação de Professores em Temáticas Afro-Brasileiras",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "As politicas anti-racistas no ensino superior e a construção de identidades 'étnicas' e/ou 'raciais'",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira Angola Workshop",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira Angola Workshop",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Cultura Negra no Brasil: o caso da Capoeira Angola",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Race, Development and Inequality Project",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Redemocratization Process and Higher Education: the recent developments in Brazil and South Africa",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Ação Afirmativa na UFBa: as experiências do Projeto Tutoria",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Capoeira Angola na Luta Anti-Racismo - Audiência Pública da Comissão de Direitos Humanos",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Challenges for Democracy and Citizenship in Latin America",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Discourses on racism and anti-racism among university students in Brazil",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Discriminação: um balanço político e acadêmico",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Narrativas sobre a desigualdade no Brasil",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Narrativas sobre o racismo e a identidade racial entre jovens de São Paulo",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Narrativas sobre o racismo e o anti-racismo entre estudantes universitários de São Paulo",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Políticas de apoio à permanência no ensino superior: as experiências do Projeto Tutoria",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "A luta anti-racista e a Lei n.10.639",
+        "ano": 2003,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Raça, Desenvolvimento e Desigualdade",
+        "ano": 2003,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Relatos das Experiências do Projeto Tutoria",
+        "ano": 2003,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Ação Afirmativa na Sociedade Brasileira: um olhar crítico sobre a Lei de Cotas",
+        "ano": 2002,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiências de educação anti-racista: desafios recentes",
+        "ano": 2002,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiências institucionais na área educacional: o programa A Cor da Bahia",
+        "ano": 2002,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Lecture/Workshop Capoeira Angola",
+        "ano": 2002,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Preconceito racial no Rio de Janeiro",
+        "ano": 2002,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Gênero e Performance - Capoeira Angola",
+        "ano": 2001,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "A Participação da Mulher na Capoeira Angola",
+        "ano": 1999,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Workshop de Capoeira Angola",
+        "ano": 1998,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "A (re)descoberta do racismo brasileiro",
+        "ano": 1997,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Educação Pluricultural e anti-racista em Salvador - análise de algumas experiências",
+        "ano": 1997,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Educação e Anti-racismo em Salvador (anos 80-90)",
+        "ano": 1996,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Educação Pluricultural e Anti-racismo em Salvador",
+        "ano": 1996,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      },
+      {
+        "titulo": "Identidades Afro-Brasileiras, Racismos e Espaços Urbanos (o caso de Salvador)",
+        "ano": 1995,
+        "autores": "BARRETO, P. C. S",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Fuerza Desobediente",
+        "ano": 2018,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "20 abr. 2018"
+      },
+      {
+        "titulo": "Brazilian Women Kick Back Against Temer Presidency with Capoeira",
+        "ano": 2016,
+        "autores": "STEWART, K. ; BARRETO, P. C. S.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 nov. 2016"
+      },
+      {
+        "titulo": "Tensions Around the Definition of Capoeira as Black Cultural Expression: Rebuilding the Bridges Between Brazil and Africa",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "08 mar. 2016"
+      },
+      {
+        "titulo": "As cotas são só o início de um longo processo",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; MENDONCA, T.",
+        "jornal": "",
+        "cidade": "",
+        "data": "21 fev. 2016"
+      },
+      {
+        "titulo": "Tons de Angola",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; PEREIRA, L. N. ; BRANDAO, M.",
+        "jornal": "",
+        "cidade": "",
+        "data": "17 dez. 2014"
+      },
+      {
+        "titulo": "Fazenda Black",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "20 nov. 2014"
+      },
+      {
+        "titulo": "Dez anos de cotas na UFBa",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; BASTOS, A. V. ; MACIEL, C. V. B.",
+        "jornal": "",
+        "cidade": "",
+        "data": "20 nov. 2014"
+      },
+      {
+        "titulo": "Cinquenta Anos do CEAO",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "08 jun. 2009"
+      },
+      {
+        "titulo": "The persistence of race",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "10 dez. 2005"
+      },
+      {
+        "titulo": "Capoeira e cultura negra: entre o apelo do global e o apego ao local",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "20 nov. 2005"
+      },
+      {
+        "titulo": "Evitando a 'esportização' e a 'folclorização' a capoeira se afirma como cultura negra. Revista Palmares",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "14 ago. 2005"
+      },
+      {
+        "titulo": "Youth and Citizenship in Brazil",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "12 dez. 2004"
+      },
+      {
+        "titulo": "A Capoeira Angola e a Luta Anti-Racismo",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 nov. 2004"
+      },
+      {
+        "titulo": "Mia Couto e a Literatura Africana de Língua Portuguesa",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "13 maio 2004"
+      },
+      {
+        "titulo": "Maioria dos alunos da USP percebe preconceito, mas ignora racismo institucional",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "24 mar. 2004"
+      },
+      {
+        "titulo": "A produção da invisibilidade dos negros no ensino superior",
+        "ano": 2003,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "14 nov. 2003"
+      },
+      {
+        "titulo": "Dia da Consciência Negra Retrata Disputa pela Memória Histórica",
+        "ano": 2003,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "07 nov. 2003"
+      },
+      {
+        "titulo": "Rebellisches Erbe",
+        "ano": 1995,
+        "autores": "BARRETO, P. C. S",
+        "jornal": "",
+        "cidade": "",
+        "data": "08 ago. 1995"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "Raça, racismo e genética em debates científicos e controvérsias sociais. Salvador, 2017. (Prefácio",
+        "ano": 2017,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Report on the Situation of the Afro-Descendant Population - Brazil. Cape Town: Centre for the Advanced Studies of African Society",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Jogo de discursos: a disputa por hegemonia na tradição da capoeira angola baiana. Salvador, 2012. (Prefácio",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S.; MAGALHAES, P.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Apoio à permanência de estudantes de escolas públicas e negros em universidades públicas brasileiras: as experiências dos Projeto Tutoria e Brasil Afroatitude na UFBa",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Resenha do livro Trabalho e desigualdades raciais. Negros e brancos no mercado de trabalho em Salvador. São Paulo: Annablume",
+        "ano": 1999,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Resenha dos livros Negregada Instituição: os capoeiras no Rio de Janeiro; Ring of Liberation: deceptive discourse in brazilian capoeira.. Salvador",
+        "ano": 1996,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Revista Cadernos de Pesquisa",
+        "ano": 2025,
+        "autores": "SILVA, P.C",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Revista de estudos Feministas",
+        "ano": 2025,
+        "autores": "SILVA, P.C",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Revista Dados",
+        "ano": 2025,
+        "autores": "SILVA, P.C.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Civitas: Revista de Ciências Sociais",
+        "ano": 2025,
+        "autores": "SILVA, P.C",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Antônio Sérgio Alfredo Guimarães",
+        "ano": 2023,
+        "autores": "BARRETO, PAULA",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Memorial de Atividades Acadêmicas, Científicas, Culturais e Profissionais",
+        "ano": 2021,
+        "autores": "SILVA, P.C.; Guimaraes, Antonio Sergio Alfredo ; SOUZA, F. ; JOHNSON, O. ; NEVES, P. S. C. ; SILVERIO, V.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Revista Novos Estudos",
+        "ano": 2020,
+        "autores": "SILVA, P.C.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Exame de Qualificação PROFMAT",
+        "ano": 2015,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Revista Epidemiologia e Serços de Saúde",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Relatório Situação dos Afrodescendentes no Brasil",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Avaliação dos Projetos Selecionados nas Universidades Brasileiras",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Projeto Acesso e Igualdade na Educação Superior no Brasil e nos Estados Unidos (2008-2012)",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S.; Landers, Jane",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Access and Equality in Higher Education in Brazil and the United States (2008-2012)",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S.; Landers, Jane",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Curso Fábrica de Idéias",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S.; Sansone, Livio",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "C. S.. Revista Plural",
+        "ano": 2007,
+        "autores": "BARRETO, P",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "As Cotas na Educação Superior",
+        "ano": 2022,
+        "autores": "BARRETO, P. C. S.; SOTERO, E. C. ; FERNANDES, C. M. ; BRITO, Y. S. ; BARBOSA, A.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Estratégias de Enfrentamento do Racismo Institucional T1",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Estratégias de Enfrentamento do Racismo Institucional T2",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Racismo e Etnocentrismo Institucional",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Mandinga na Sala de Aula",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Brazilian Society, Culture and Politics",
+        "ano": 2013,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Educação e Relações Étnico-Raciais",
+        "ano": 2013,
+        "autores": "SOARES, M. C. ; SANTOS, M. A. ; BARRETO, P. C. S. ; Barros, Zelinda",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório de Atividades Mapeamento dos Espaços Religiosos de Matriz Africana (Parcial)",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Princeton Brazil Global Seminar",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S.; Guimaraes, Antonio Sergio Alfredo",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Ações Afirmativas no Brasil",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Reaffirming the Brazilian Afrodescendent Women",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Summer Program Race, Development and Inequality in Contemporary Brazilian Society",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S.; Bacelar, Jeferson ; SANTOS, J. T. ; SOUZA, F. ; PARRES, L. N.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Ações Afirmativas na UFBa",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S.; Barros, Zelinda",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório Final do Programa Brasil Afroatitude - UFBa",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Curso Interdisciplinar de Teoria e Pesquisa em Estudos Afro-Brasileiros",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório de Progresso - Brasil Afroatitude - UFBa. Programa Integrado de Ações Afirmativas para Estudantes Negros",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Apoio à permanência de estudantes de escolas públicas e negros em universidades públicas brasileiras: as experiências dos Projetos Tutoria e Afroatitude na UFBa",
+        "ano": 2006,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Construction of 'racial' identity",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Identidade e Cultura Negra na Bahia",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Percepções sobre o racismo no Brasil",
+        "ano": 2005,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Brazil and the black atlantic: afro-brazilian culture and identity",
+        "ano": 2004,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Projeto Tutoria",
+        "ano": 2002,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Preconceito racial no Rio de Janeiro",
+        "ano": 2001,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Análise de dados sobre a composição da população de inscritos e matriculados, segundo a cor, no vestibular da FUVEST - Anos 2000",
+        "ano": 2000,
+        "autores": "BARRETO, P. C. S",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titulo": "Ações afirmativas na pós-graduação",
+        "ano": 2023,
+        "autores": "MELLO, L. ; SILVA, P.C. ; AZEVEDO, B. P. ; CARMO, M. M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Polêmicas Contemporâneas",
+        "ano": 2021,
+        "autores": "PRETTO, N. ; SOTERO, E. ; VIDA, S. ; PINHO, D. ; BARRETO, P. C. S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "SBS Convida",
+        "ano": 2020,
+        "autores": "BARRETO, P. C. S.; NEVES, P. S. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Direitos humanos e racismo",
+        "ano": 2020,
+        "autores": "BARRETO, P. C. S.; Possas, Mariana ; RAMOS, C. ; PEREIRA, L. M. S. ; NOELLE, M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Articulação de Lideranças Femininas na ALC",
+        "ano": 2018,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "IBGE aponta a Bahiacomo o Estado com maior diferença entre ricos e pobres",
+        "ano": 2018,
+        "autores": "BARRETO, PAULA",
+        "veiculo": ""
+      },
+      {
+        "titulo": "As cotas são só o início de um longo processo",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; MENDONCA, T.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Programa Todas as Vozes",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Programa Multicultura",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Capoeira Angola, an Afro-Brazilian Culture: The world connected through bodies that dialogue",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C. ; ARAKAWA, K.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Preconceito e Sistema de Cotas",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S.; EVELLE, M.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Iemanjá Prote Quem Protege o Mar",
+        "ano": 2015,
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Chamada de Mulher IV (audiovisual)",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Parts Unkown: Anthony Bourdain (Bahia)",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Brasil DNA África",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; JR",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Aproximações Culturais entre Brasil e Angola",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Atividades culturais brasileiras no Japão",
+        "ano": 2014,
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Especial Nelson Mandela",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; OLIVEIRA, S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Especial 20 de novembro",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; OLIVEIRA, S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Chamada de Mlher III (audiovisual)",
+        "ano": 2013,
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Uneb e UFBa Fazem Boa Avaliação do Sistema de Cotas",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Curso na UFBa prepara educadores na área de história e cultura afro-brasileiras",
+        "ano": 2012,
+        "autores": "BARRETO, P. C. S.; Barros, Zelinda ; FARIA, F.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Em Salvador, branca 'de alma negra' pede cabelo afro",
+        "ano": 2011,
+        "autores": "MAGENTA, M. ; BARRETO, P. C. S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "As várias formas de preconceito",
+        "ano": 2010,
+        "autores": "BARRETO, P. C. S.; Marcos, Marlon",
+        "veiculo": ""
+      },
+      {
+        "titulo": "TVE Debate",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S.; Castro, Ubiratan",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Programa Força do Povo",
+        "ano": 2009,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Especial sobre Consciência Negra",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "O Racismo e as Políticasde Promoção deIgualdade Racial",
+        "ano": 2008,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Dia da Capoeira e 13 de maio",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "O sistema de cotas da UFBa",
+        "ano": 2007,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Modo de narrar a sociologia brasileira: Paula Barreto ? UFBA. 2024; Tema: Memorial para Professor",
+        "ano": 2024,
+        "autores": "SILVA, P.C.; BOTELHO, A.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Comitê de Pesquisa Sociologia das relações étnico-raciais. 2023; Tema: Publicações e eventos em sociologia das relações",
+        "ano": 2023,
+        "autores": "SILVA, P.C.; COSTA, A. L.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Site pessoal. 2017; Tema: Atividades de ensino, pesquisa e",
+        "ano": 2017,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Atividades de ensino, pesquisa e extensão. 2016; Tema: Síntese das minhas atividades de ensino, pesquisa, extensão e",
+        "ano": 2016,
+        "autores": "BARRETO, P. C. S",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Curso de Extensão em Formação para o Ensino de História e Cultura Afro-Brasileiras. 2015; Tema: Educação e Relações",
+        "ano": 2015,
+        "autores": "BARRETO, P. C. S.; FREIRE, R. S. ; PEREIRA, L. M. S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Programa A Cor da Bahia. 2015; Tema: Notícias sobre eventos e documentos sobre racismo, antirracismo e temas correlatos abordados de maneira",
+        "ano": 2015,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "veiculo": ""
+      },
+      {
+        "titulo": "Programa A Cor da Bahia. 2013; Tema: Relações raciais, cultura e identidade negra na",
+        "ano": 2013,
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "veiculo": ""
+      }
+    ]
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [
+    {
+      "titulo": "Malungos: 25 anos de Capoeira Angola",
+      "ano": 2007,
+      "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; BARRETO, P. R. G",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    },
+    {
+      "titulo": "Soterópolis",
+      "ano": 2006,
+      "autores": "BARRETO, P. C. S.; ARAUJO, R. C. ; BARRETO, P. R. G",
+      "tipo": "Produção artística/cultural",
+      "evento": ""
+    }
+  ],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "Políticas ambientais e racismo ambiental",
+          "ano_inicio": 2021,
+          "orientando": "Joana Nery Giglio",
+          "tipo_trabalho": "",
+          "instituicao": "Tese (Doutorado em Estudos Interdisciplinares Sobre Mulheres",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "POLÍTICAS EDUCACIONAIS EM ANGOLA NO PERÍODO PÓS-INDEPENDÊNCIA (2015/2020): RECONSTRUÇÃO, AVANÇOS E DESAFIOS SOB A PERSPECTIVA DA INTERSECCIONALIDADE",
+          "ano_inicio": 2025,
+          "orientando": "Pedro Kesongo",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "PENSANDO A TEORIA SOCIAL BRASILEIRA ATRAVÉS DO PENSAMENTO DE LÉLIA GONZALEZ E BEATRIZ NASCIMENTO: O LIXO VAI FALAR, E NUMA BOA",
+          "ano_inicio": 2024,
+          "orientando": "Izabele Caroline do Nascimento Canario",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Comunicação decolonial e estética das campanhas eleitorais de mulheres negras nas mídias digitais",
+          "ano_inicio": 2024,
+          "orientando": "Josilda Carmo Santos",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ESCREVIVÊNCIAS DE ESCRITORAS NEGRAS CIBERATIVISTAS",
+          "ano_inicio": 2022,
+          "orientando": "ANDRIELLE ANTONIA DOS SANTOS DE JESUS",
+          "tipo_trabalho": "",
+          "instituicao": "Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Cassiane de Freitas Paixão",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "Juventude, educação e desigualdades: políticas inclusivas e ações afirmativas - oportunidades de mobilidade social",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Cláudia Monteiro Fernandes",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Comunidades Quilombolas: Reivindicação de Direitos e Afirmação da Cidadania",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Genny Magna de Jesus Mota Ayres",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens negras no Hip-Hop",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Licia Maria de Lima Barbosa",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "ADEQUAÇÃO SOCIOTÉCNICA EM ASSENTAMENTOS NO ESTADO DA BAHIA",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Marilia Novais Rios Santana",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "ESTUDANTES GUINEENSES EM SÃO FRANCISCO DO CONDE",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Laís Rebouças de Santana",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Experiências de mulheres negras vitimadas pela violência doméstica",
+          "ano_inicio": 2025,
+          "ano_conclusao": 2025,
+          "orientando": "Flávia Alves do Rosário",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "RAÇA, GÊNERO E DOCÊNCIA NO ENSINO SUPERIOR: O CASO DA UNIVERSIDADE FEDERAL DA BAHIA",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "EDILENE SANTANA DOS SANTOS SILVA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "SOLTA A VOZ: O QUE DIZEM OS ESTUDANTES AFRICANOS SOBRE AS RELAÇÕES RACIAIS EM UM MUNICÍPIO BAIANO",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "MICHELE SANTANA PACHECO DE ALMEIDA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "PARTICIPAÇÃO POLÍTICA NO ANTI-RACISMO PARA PESSOAS NÃO-NEGRAS:",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Ansel Courant",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Capoeira e identidade negra no Brasil:",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Joana de Pointis Marçal",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O processo de construção da identidade cultural na comunidade quilombola de Tijuaçu",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Paula Odilon",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Trajetórias de vida, vivências e processos de criminalização de mulheres sentenciadas por tráfico de drogas, a partir do Conjunto Penal Feminino de Salvador",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "JAMILE DOS SANTOS CARVALHO",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "La posicion de la mujer en estas religiones.",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Zaylin Leydi Powell Castro. La Santeria cubana y el candomble brasileno",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Tradição, Invenção e (Re)Construção de Identidades Afro-Baianas (1951-1994)",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Paulo Andrade Magalhães Filho",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Os impactos das relações raciais nas subjetividades das crianças em uma escola particular da cidade de Salvador",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Marilia Carvalho Soares",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "As cotas na UFBa: Percepções sobre o racismo, anti-racismo, identidades e fronteiras",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Nadja Ferreira Pinheiro",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Ações Afirmativas no Ensino Superior Privado: As percepções dos coordenadores do Prouni",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Maiara Alves Oliveira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A Pastoral Afro da Igreja Católica no Brasil",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Gabriel dos Santos Filho",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo de caso em Gabú: Será que o casamento precoce explica a graidez das jovens islâmicas?",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Ecyla Borges",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Identidade Étnica e Movimento Negro: uma etnografia da Universidade Livre",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Michelle Cirne",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Percepções sobre Racismo, Ações Afirmativas e Lei de Cotas: O Caso da Faculdade de Direito da UFBA ? 2014-2015",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "YURI SANTOS DE BRITO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Tratos e (Des)tratos: Um estudo da obra O Serviço Social e a Questão Étnico-racial: um estudo de sua relação com os usuários negros",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Mariana Puridade Marques da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Tratos e (Des)tratos: Um estudo da obra O Serviço Social e a Questão Étnico-racial: um estudo de sua relação com os usuários negros",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Fabricia da Hora Pereira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Vivências e Percepções da Desigualdade de Gênero no Sistema Bancário",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Cremilde Alves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Ser negro e ser católico em Salvador: o itinerário da Pastoral Afro",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Gilmara Federreira dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens e pobreza na Bahia",
+          "ano_inicio": 2005,
+          "ano_conclusao": 2005,
+          "orientando": "Ecyla Borges",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A precarização do trabalho na construção civil em Salvador",
+          "ano_inicio": 2003,
+          "ano_conclusao": 2003,
+          "orientando": "Valdir Campos Estrela",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A cara do desemprego: um estudo sobre os trabalhadores de praia de Salvador",
+          "ano_inicio": 2002,
+          "ano_conclusao": 2002,
+          "orientando": "Elcio Araujo dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "22º Congresso Brasileiro de Sociologia",
+        "apresentacao": null,
+        "ano": 2025,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "22º Congresso Brasileiro de Sociologia",
+        "apresentacao": "CP - 14 Sociologia das relações étnico-raciais",
+        "ano": 2025,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "46° Encontro Anual da ANPOCS",
+        "apresentacao": "FR01 Fórum Dez Anos da Lei Federal de Cotas: histórias, dilemas e resultados - Sessão 1. O Consórcio, suas estratégias e resultados gerais",
+        "ano": 2022,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "46° Encontro Anual da ANPOCS",
+        "apresentacao": null,
+        "ano": 2022,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "46° Encontro Anual da ANPOCS",
+        "apresentacao": "Sessão 2 Precariedades: o fim do mundo - as ameaças, degradação ambiental, racismo, desigualdades e autoritarismo",
+        "ano": 2022,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Higher Education and Societal Transformation",
+        "apresentacao": "Decolonization and racial equality",
+        "ano": 2019,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "National Conference of Black Political Scientists (NCOBS)",
+        "apresentacao": null,
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Conferencia Africanidades",
+        "apresentacao": "Educação para as Relações Étnico-Raciais",
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "O Negro no Mercado de Trabalho da Região Metropolitana de Salvador",
+        "apresentacao": "O Negro no Mercado de Trabalho da Região Metropolitana de Salvador",
+        "ano": 2010,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Forum das Organizações da Sociedade Civil e CPLP",
+        "apresentacao": "Sociedade Civil e a CPLP",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Seminario do Centro de Estudos da Metrópole - Instituto Nacional de Ciência e Tecnologia",
+        "apresentacao": "Apresentação de Projetos das Linhas de Pesquisa",
+        "ano": 2009,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Cerimônia de Lançamento do Plano de Ação Conjunta Brasil-Estados de Combate à Discriminação Racial e Promoção da Igualdade Racial",
+        "apresentacao": "Atuação do Centro de Estudos Afro-Orientais em Cooperação Brasil-Estados Unidos",
+        "ano": 2008,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Oficina de Filosofia e Sociologia para Professores do Ensino Médio",
+        "apresentacao": "Temas da Sociologia na Contemporaneidade - Relações Raciais",
+        "ano": 2007,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Jornada de Informação Profissional",
+        "apresentacao": "O Programa de Ações Afirmativas da UFBa",
+        "ano": 2007,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "VIEIRA, A. L. C. ; SILVA, P.C.",
+        "evento": "CP 14 - Sociologia das relações étnico-raciais",
+        "ano": 2025,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "TREVISAN, A. R. ; FREHSE, F. ; SANTOS, H. ; CARVALHO, N. S. ; SILVA, P.C.",
+        "evento": "Comissão da Mostra de Vídeos e Ensaios Fotográficos",
+        "ano": 2025,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "VIEIRA, A. L. C. ; BARRETO, P. C. S.",
+        "evento": "CP14 - Sociologia das relações étnico raciais 21o Brasileiro de Sociologia",
+        "ano": 2023,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "VIEIRA, A. L. C. ; BARRETO, P. C. S.",
+        "evento": "CP14 - Sociologia das relações étnico raciais 20o Brasileiro de Sociologia",
+        "ano": 2021,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "VIEIRA, A. L. C. ; BARRETO, PAULA",
+        "evento": "Papo Reto sobre o Racismo no Brasil",
+        "ano": 2020,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "Figueiredo, Angela ; BARRETO, PAULA",
+        "evento": "Ciclo de Formação sobre Racismo e Antirracismo no Brasil e Estados Unidos",
+        "ano": 2020,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, PAULA; VIEIRA, A. L. C.",
+        "evento": "GT 32 ? Relações Raciais e Étnicas: Desigualdades e Políticas Públicas",
+        "ano": 2019,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; LIMA, M. ; VIEIRA, A. L. C.",
+        "evento": "GT 34: Relações Raciais e Étnicas",
+        "ano": 2017,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "evento": "Iemanjá Protege Quem Protege o Mar - 10 Anos",
+        "ano": 2016,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; LIMA, M. ; VIEIRA, A. L. C.",
+        "evento": "GT 34: Relações Raciais e Étnicas - 18o Congresso da SBS",
+        "ano": 2016,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "evento": "VI Chamada de Mulher",
+        "ano": 2016,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "evento": "Iemanjá Protege Quem Protege o Mar ? 20 Anos do Grupo Nzinga de Capoeira Angola",
+        "ano": 2015,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; LIMA, M.",
+        "evento": "GT 11: Relações raciais e étnicas: desigualdades e políticas públicas",
+        "ano": 2015,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; ARAUJO, R. C.",
+        "evento": "Chamada de Mulher IV",
+        "ano": 2014,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; PEREIRA, L. M. S. ; FREIRE, R. S.",
+        "evento": "Encontro do Curso de Formação para o Ensino de História e Cultura Afro-Brasileiras",
+        "ano": 2014,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.. XVI Congresso Brasileiro de Sociologia. 2013. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.. UNCF/Mellon Faculty Seminar. 2013. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.. IV Congresso Baiano de Pesquisadores Negros. 2013. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "evento": "Mandinga na Sala de Aula",
+        "ano": 2013,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "OLIVEIRA, C. L. P. ; BARRETO, P. C. S.",
+        "evento": "Bahia Summer Program - Brazilian Society, Culture And Politics",
+        "ano": 2013,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "evento": "Dia Internacional da Mulher: Capoeiristas pelo fim da violência contra as mulheres",
+        "ano": 2013,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ARAUJO, R. C. ; BARRETO, P. C. S.",
+        "evento": "30 Anos de Capoeira Angola - Mestres Janja, Poloca e Paulinha",
+        "ano": 2012,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; BARRETO, P. R. G. ; ARAUJO, R. C.",
+        "evento": "Iemanjá Protege Quem Protege o Mar",
+        "ano": 2012,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.. Colóquio CEAO: 50 Anos. 2009. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.. Sessão Especial na Câmara Municipal de Salvador - Homenagem aos 50 Anos do CEAO. 2009. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.; Poggi, Maria ; ARAUJO, R. C.",
+        "evento": "Capoeira Angola Women's Conference",
+        "ano": 2008,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.. Summer History Program. 2007. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "BARRETO, P. C. S.. Curso Educação, Racismo e Diferenças no Brasil. 2000. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "SILVA, P.C.; ZIMMERMANN, C.; AYRES, G.. Participação em banca de Marília Novais Rios Santana. Desafios e perspectivas das políticas públicas para assentamentos rurais: estudo de caso projeto de Assentamento Batalha - Bom Jesus da Lapa. 2025. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Marília Novais Rios Santana",
+        "membros_banca": [
+          "SILVA, P.C.",
+          "ZIMMERMANN, C.",
+          "AYRES, G."
+        ],
+        "titulo_trabalho": "Desafios e perspectivas das políticas públicas para assentamentos rurais: estudo de caso projeto de Assentamento Batalha - Bom Jesus da Lapa",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, P.C.; PANTA, M. A. S.; SALOM, J. S.. Participação em banca de Laís Rebouças de Santana. ?Quem irá escolher meu esposo será eu, não o meu pai?: Gênero, raça e migração nas vivências de mulheres guineenses na UNILAB, em São Francisco Do Conde-Bahia\". 2025. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Laís Rebouças de Santana. ?Quem irá escolher meu esposo será eu, não o meu pai?: Gênero, raça e migração nas vivências de mulheres guineenses na UNILAB, em São Francisco Do Conde-Bahia\"",
+        "membros_banca": [
+          "SILVA, P.C.",
+          "PANTA, M. A. S.",
+          "SALOM, J. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, P.C.; PANTA, M. A. S.; ANDRADE, D. S. V.. Participação em banca de FLÁVIA ALVES DO ROSÁRIO. ?EU SOU MULHER DO FIM DO MUNDO?: EXPERIÊNCIAS DE MULHERES NEGRAS VITIMADAS PELA VIOLÊNCIA DOMÉSTICA EM VITÓRIA DA CONQUISTA ? BAHIA. 2025. Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "FLÁVIA ALVES DO ROSÁRIO. ?EU SOU MULHER DO FIM DO MUNDO?: EXPERIÊNCIAS DE MULHERES NEGRAS VITIMADAS PELA VIOLÊNCIA DOMÉSTICA EM VITÓRIA DA CONQUISTA ? BAHIA",
+        "membros_banca": [
+          "SILVA, P.C.",
+          "PANTA, M. A. S.",
+          "ANDRADE, D. S. V."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.. Participação em banca de Sara Cristina de Souza Santos. ?EU SOU MULHER DO FIM DO MUNDO?: EXPERIÊNCIAS DE MULHERES NEGRAS VITIMADAS PELA VIOLÊNCIA DOMÉSTICA EM VITÓRIA DA CONQUISTA ? BAHIA.. 2025. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Sara Cristina de Souza Santos. ?EU SOU MULHER DO FIM DO MUNDO?: EXPERIÊNCIAS DE MULHERES NEGRAS VITIMADAS PELA VIOLÊNCIA DOMÉSTICA EM VITÓRIA DA CONQUISTA ? BAHIA",
+        "membros_banca": [
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "COSTA, J. B.; MELLO, L. G.; BARRETO, P. C. S.; ANJOS, J. C. G.. Participação em banca de Elen Cristina Ramos dos Santos. Lélia Gonzalez, intelectual amefricana. A (in)visibilidade de uma intérprete negra no Pensamento Social Brasileiro. 2023. Dissertação (Mestrado em Sociologia) - Universidade Federal do Rio Grande do Sul.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "Elen Cristina Ramos dos Santos",
+        "membros_banca": [
+          "COSTA, J. B.",
+          "MELLO, L. G.",
+          "BARRETO, P. C. S.",
+          "ANJOS, J. C. G."
+        ],
+        "titulo_trabalho": "Lélia Gonzalez, intelectual amefricana. A (in)visibilidade de uma intérprete negra no Pensamento Social Brasileiro",
+        "curso": "Dissertação (Mestrado em Sociologia)",
+        "universidade": "Universidade Federal do Rio Grande do Sul"
+      },
+      {
+        "descricao": "BERNARDINO-COSTA, J.; BARRETO, PAULA; ROCHA, E. F.. Participação em banca de Yuri Santos de Brito. 'Professora, que bom que você tá aqui': trajetórias e identidades de docentes de Direito da UFBA, UnB e USP no contexto pós-cotas. 2019. Dissertação (Mestrado em Sociologia) - Universidade de Brasília.",
+        "ano": 2019,
+        "tipo": "Mestrado",
+        "aluno": "Yuri Santos de Brito. 'Professora, que bom que você tá aqui': trajetórias e identidades de docentes de Direito da UFBA, UnB e USP no contexto pós-cotas",
+        "membros_banca": [
+          "BERNARDINO-COSTA, J.",
+          "BARRETO, PAULA",
+          "ROCHA, E. F."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Sociologia)",
+        "universidade": "Universidade de Brasília"
+      },
+      {
+        "descricao": "BARRETO, PAULA; SANTOS, D. B. R.; SOUZA, C. S.. Participação em banca de Michele Santana Pacheco de Almeida. As experiências na terra do outro: as concepções dos(as) estudantes guineenses sobre estar fora de seu lugar. 2019. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Mestrado",
+        "aluno": "Michele Santana Pacheco de Almeida",
+        "membros_banca": [
+          "BARRETO, PAULA",
+          "SANTOS, D. B. R.",
+          "SOUZA, C. S."
+        ],
+        "titulo_trabalho": "As experiências na terra do outro: as concepções dos(as) estudantes guineenses sobre estar fora de seu lugar",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, PAULA; SOTERO, E.; SANTOS, D. B. R.. Participação em banca de Edilene Santana dos Santos Silva. Raça e docência em Universidades públicas: o caso da UFBA. 2019. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Mestrado",
+        "aluno": "Edilene Santana dos Santos Silva",
+        "membros_banca": [
+          "BARRETO, PAULA",
+          "SOTERO, E.",
+          "SANTOS, D. B. R."
+        ],
+        "titulo_trabalho": "Raça e docência em Universidades públicas: o caso da UFBA",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "VANIN, I.; BARRETO, P. C. S.; SOUZA, A. M. F. L. E.; PINHO, S. T. R.. Participação em banca de Patrícia Fernandes Lazzaron Novais Almeida Freitas. A presença feminina nos espaços de poder da reitoria do IFBA. 2017. Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "Patrícia Fernandes Lazzaron Novais Almeida Freitas",
+        "membros_banca": [
+          "VANIN, I.",
+          "BARRETO, P. C. S.",
+          "SOUZA, A. M. F. L. E.",
+          "PINHO, S. T. R."
+        ],
+        "titulo_trabalho": "A presença feminina nos espaços de poder da reitoria do IFBA",
+        "curso": "Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Cardel, Lidia M. P.S.; BARRETO, P. C. S.; ZIMMERMANN, C.. Participação em banca de Rendel Porto Moraes. O(s) Engenhos(s) da Cruz: um estudo de caso sobre a implementação da política quilombola na comunidade rural do Engenho da Cruz, Bahia, Brasil. 2017. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "Rendel Porto Moraes",
+        "membros_banca": [
+          "Cardel, Lidia M. P.S.",
+          "BARRETO, P. C. S.",
+          "ZIMMERMANN, C."
+        ],
+        "titulo_trabalho": "O(s) Engenhos(s) da Cruz: um estudo de caso sobre a implementação da política quilombola na comunidade rural do Engenho da Cruz, Bahia, Brasil",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; OLIVEIRA, C. L. P.; SOTERO, E.. Participação em banca de Jamile dos Santos Carvalho. Nós trafica, mas nós nunca tem nada: trajetórias de vida de mulheres criminalizadas pelo tráfico de drogas. 2017. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "Jamile dos Santos Carvalho",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "OLIVEIRA, C. L. P.",
+          "SOTERO, E."
+        ],
+        "titulo_trabalho": "Nós trafica, mas nós nunca tem nada: trajetórias de vida de mulheres criminalizadas pelo tráfico de drogas",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "PINHO, O. A.; BARRETO, P. C. S.; PENTEADO, W. R.. Participação em banca de Zelivaldo Falcão Leite. 'Se ela não se impor, ela vai passar como relaxada. Porquê o homem é descarado, nós é homem e sabe': Uma análise sobre gênero e raça entre trabalhador@s da construção civil. 2017. Dissertação (Mestrado em Ciências Sociais: Cultura, Desigualdades e Desenvolvimento) - Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2017,
+        "tipo": "Mestrado",
+        "aluno": "Zelivaldo Falcão Leite. 'Se ela não se impor, ela vai passar como relaxada",
+        "membros_banca": [
+          "PINHO, O. A.",
+          "BARRETO, P. C. S.",
+          "PENTEADO, W. R."
+        ],
+        "titulo_trabalho": "Porquê o homem é descarado, nós é homem e sabe': Uma análise sobre gênero e raça entre trabalhador@s da construção civil",
+        "curso": "Dissertação (Mestrado em Ciências Sociais: Cultura, Desigualdades e Desenvolvimento)",
+        "universidade": "Universidade Federal do Recôncavo da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; FERREIRA, S. L.; ROSENDO, E.. Participação em banca de Anni de Novais Carneiro. Padrões de Beleza e Elementos Identitários de Mulheres Negras da Periferia de Salvador. 2015. Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism) - Universidade Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Mestrado",
+        "aluno": "Anni de Novais Carneiro",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "FERREIRA, S. L.",
+          "ROSENDO, E."
+        ],
+        "titulo_trabalho": "Padrões de Beleza e Elementos Identitários de Mulheres Negras da Periferia de Salvador",
+        "curso": "Dissertação (Mestrado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; SANTANA, C. P. B.; MESSEDER, S. A.. Participação em banca de Ivanildes Teixeira de Sena. No ventre da capoeira, marcas de gente, jeito de corpo: um estudo das relações de gênero na cosmovisão africana da capoeira angola. 2015. Dissertação (Mestrado em Crítica Cultural) - Universidade do Estado da Bahia.",
+        "ano": 2015,
+        "tipo": "Mestrado",
+        "aluno": "Ivanildes Teixeira de Sena",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "SANTANA, C. P. B.",
+          "MESSEDER, S. A."
+        ],
+        "titulo_trabalho": "No ventre da capoeira, marcas de gente, jeito de corpo: um estudo das relações de gênero na cosmovisão africana da capoeira angola",
+        "curso": "Dissertação (Mestrado em Crítica Cultural)",
+        "universidade": "Universidade do Estado da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; LIMA, F.; SANABRIA, A. M.. Participação em banca de Zaylin Leydi Powell Castro. La iyalocha dentro de los espacios religiosos en la Regla de Ocha o Santería Cubana. 2012. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2012,
+        "tipo": "Mestrado",
+        "aluno": "Zaylin Leydi Powell Castro",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "LIMA, F.",
+          "SANABRIA, A. M."
+        ],
+        "titulo_trabalho": "La iyalocha dentro de los espacios religiosos en la Regla de Ocha o Santería Cubana",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SANTOS, J. T.; BARRETO, P. C. S.; ABIB, P. R. J.. Participação em banca de Paulo Andrade Mgalhães Filho. Jogo de Discursos: A Disputa por Hegemonia na Tradição da Capoeira Angola. 2011. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2011,
+        "tipo": "Mestrado",
+        "aluno": "Paulo Andrade Mgalhães Filho",
+        "membros_banca": [
+          "SANTOS, J. T.",
+          "BARRETO, P. C. S.",
+          "ABIB, P. R. J."
+        ],
+        "titulo_trabalho": "Jogo de Discursos: A Disputa por Hegemonia na Tradição da Capoeira Angola",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SANTOS, J. T.; SANTOS, H.; BARRETO, P. C. S.. Participação em banca de Ana Paula Conceição Oliveira. Diplomatas Negros(as).Ação Afirmativa no IRB e trajetórias de Diplomatas (ex)Bolsistas. 2011. Dissertação (Mestrado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2011,
+        "tipo": "Mestrado",
+        "aluno": "Ana Paula Conceição Oliveira",
+        "membros_banca": [
+          "SANTOS, J. T.",
+          "SANTOS, H.",
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "Diplomatas Negros(as).Ação Afirmativa no IRB e trajetórias de Diplomatas (ex)Bolsistas",
+        "curso": "Dissertação (Mestrado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Figueiredo, Angela; CASTRO, M.; BARRETO, P. C. S.. Participação em banca de Marília Carvalho Soares. Relações Raciais e Subjetividades de Crianças em uma Escola Particular na Cidade de Salvador. 2011. Dissertação (Mestrado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2011,
+        "tipo": "Mestrado",
+        "aluno": "Marília Carvalho Soares",
+        "membros_banca": [
+          "Figueiredo, Angela",
+          "CASTRO, M.",
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "Relações Raciais e Subjetividades de Crianças em uma Escola Particular na Cidade de Salvador",
+        "curso": "Dissertação (Mestrado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; SANTOS, J. T.; QUEIROZ, D.. Participação em banca de Juan Pablo Estupinan Bejarano. Qual é a sua raça. Censos, classificações raciais e multiculturalismo na Colômbia e no Brasil. 2010. Dissertação (Mestrado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Juan Pablo Estupinan Bejarano",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "SANTOS, J. T.",
+          "QUEIROZ, D."
+        ],
+        "titulo_trabalho": "Qual é a sua raça. Censos, classificações raciais e multiculturalismo na Colômbia e no Brasil",
+        "curso": "Dissertação (Mestrado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; SANTOS, J. T.; RABELO, M.. Participação em banca de Gabriel dos Santos Filho. A Pastoral Afro-Brasileira da Igreja Católica. 2010. Dissertação (Mestrado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Gabriel dos Santos Filho",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "SANTOS, J. T.",
+          "RABELO, M."
+        ],
+        "titulo_trabalho": "A Pastoral Afro-Brasileira da Igreja Católica",
+        "curso": "Dissertação (Mestrado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Figueiredo, Angela; BARRETO, P. C. S.; PINHO, O. A.. Participação em banca de Núbia dos Reis Pito. Ascensão Social Negra: do branqueamento à solidariedade?. 2010. Dissertação (Mestrado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Núbia dos Reis Pito",
+        "membros_banca": [
+          "Figueiredo, Angela",
+          "BARRETO, P. C. S.",
+          "PINHO, O. A."
+        ],
+        "titulo_trabalho": "Ascensão Social Negra: do branqueamento à solidariedade?",
+        "curso": "Dissertação (Mestrado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, C. L. P.; SANTOS, J. T.; BARRETO, P. C. S.. Participação em banca de Maiara Alves Oliveira. Ações Afirmativas no Ensino Superior Privado. 2010. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Maiara Alves Oliveira",
+        "membros_banca": [
+          "OLIVEIRA, C. L. P.",
+          "SANTOS, J. T.",
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "Ações Afirmativas no Ensino Superior Privado",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Figueiredo, Angela; Pereira, Claudio. Participação em banca de Nubia dos Reis Pinto. O impacto representacional dos negros de classe média nos projetos de jovens pobres negros em cinco organizações educativas da cidade de Salvador. 2009. Dissertação (Mestrado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Mestrado",
+        "aluno": "Nubia dos Reis Pinto",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "Figueiredo, Angela",
+          "Pereira, Claudio"
+        ],
+        "titulo_trabalho": "O impacto representacional dos negros de classe média nos projetos de jovens pobres negros em cinco organizações educativas da cidade de Salvador",
+        "curso": "Dissertação (Mestrado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Cardel, Lidia M. P.S.; Estrela, Ely S.; BARRETO, P. C. S.. Participação em banca de Lidianny Vidal Fonteles. Da invisibilidade ao Reconhecimento: Regularização Fundiária e a Questão Quilombola no Ceará. 2009. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Mestrado",
+        "aluno": "Lidianny Vidal Fonteles",
+        "membros_banca": [
+          "Cardel, Lidia M. P.S.",
+          "Estrela, Ely S.",
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "Da invisibilidade ao Reconhecimento: Regularização Fundiária e a Questão Quilombola no Ceará",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; SANTOS, J. T.; QUEIROZ, D.. Participação em banca de Nadja Ferreira Pinheiro. Cotas na UFBa: Percepções sobre racismo, antirracismo, identidades e fronteiras. 2009. Dissertação (Mestrado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Mestrado",
+        "aluno": "Nadja Ferreira Pinheiro",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "SANTOS, J. T.",
+          "QUEIROZ, D."
+        ],
+        "titulo_trabalho": "Cotas na UFBa: Percepções sobre racismo, antirracismo, identidades e fronteiras",
+        "curso": "Dissertação (Mestrado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Sansone, Livio; Pereira, Claudio; Mattos, Wilson. Participação em banca de Michelle Cirne. Identidade Étnica e Movimento Negro: uma etnografia da Universidade Livre. 2008. Dissertação (Mestrado em Pós-Graduação em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Mestrado",
+        "aluno": "Michelle Cirne",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "Sansone, Livio",
+          "Pereira, Claudio",
+          "Mattos, Wilson"
+        ],
+        "titulo_trabalho": "Identidade Étnica e Movimento Negro: uma etnografia da Universidade Livre",
+        "curso": "Dissertação (Mestrado em Pós-Graduação em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.. Participação em banca de Adriana Albert Dias. A Malandragem da mandinga - o cotidiano dos capoeiras em Salvador na República Velha. 2004. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2004,
+        "tipo": "Mestrado",
+        "aluno": "Adriana Albert Dias",
+        "membros_banca": [
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "A Malandragem da mandinga - o cotidiano dos capoeiras em Salvador na República Velha",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "RABELO, M.; ADEODATO, G.; BARRETO, P. C. S.; BENEVIDES, M. V.. Seleção de Mestrado do Programa de Pós Graduação em Ciências Sociais. 2008. Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; LUHNIN, A.; SOUZA, F.; SANTOS, J. T.; PARRES, L. N.. Seleção do Curso de Mestrado em Estudos Étnicos e Africanos. 2005. Universidade Federal da Bahia.",
+        "ano": 2005,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; RABELO, M.; ALMEIDA, J.. Seleção de Mestrado em Ciencias Sociais. 2005. Universidade Federal da Bahia.",
+        "ano": 2005,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "SOUZA, I. M. A.; SILVA, P.C.; REIS, A. P.; FIGUEIREDO, A.. Participação em banca de Deise Queiroz da Silva. O amor é ação: um estudo sobre as trajetórias reprodutivas das mulheres no Guerém ? Maragogipe. 2025. Tese (Doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Deise Queiroz da Silva",
+        "membros_banca": [
+          "SOUZA, I. M. A.",
+          "SILVA, P.C.",
+          "REIS, A. P.",
+          "FIGUEIREDO, A."
+        ],
+        "titulo_trabalho": "O amor é ação: um estudo sobre as trajetórias reprodutivas das mulheres no Guerém ? Maragogipe",
+        "curso": "Tese (Doutorado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BERNARDINO-COSTA, J.; LIMA, M.; BARRETO, PAULA. Participação em banca de Yuri Santos de Brito. A armadilha da alma branca: prática docente nas Faculdades de Direito da UnB, UFBA e USP diante das Políticas de Ação Afirmativa. 2024. Tese (Doutorado em Sociologia) - Universidade de Brasília.",
+        "ano": 2024,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Yuri Santos de Brito",
+        "membros_banca": [
+          "BERNARDINO-COSTA, J.",
+          "LIMA, M.",
+          "BARRETO, PAULA"
+        ],
+        "titulo_trabalho": "A armadilha da alma branca: prática docente nas Faculdades de Direito da UnB, UFBA e USP diante das Políticas de Ação Afirmativa",
+        "curso": "Tese (Doutorado em Sociologia)",
+        "universidade": "Universidade de Brasília"
+      },
+      {
+        "descricao": "CARVALHO, M. R. G.; CESAR, A. L. S.; FURTADO, C. A.; SANTOS, C. B. S.; BARRETO, P. C. S.. Participação em banca de PAULA ODILON DOS SANTOS. ?Estuciando? o barulho do Quilombo no Sertão: Cariacá e Lajedo, entrelaçares identitários, insurgências, lutas e resistências.. 2021. Tese (Doutorado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "PAULA ODILON DOS SANTOS. ?Estuciando? o barulho do Quilombo no Sertão: Cariacá e Lajedo, entrelaçares identitários, insurgências, lutas e resistências",
+        "membros_banca": [
+          "CARVALHO, M. R. G.",
+          "CESAR, A. L. S.",
+          "FURTADO, C. A.",
+          "SANTOS, C. B. S.",
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Figueiredo, Angela; ZIMMERMANN, C.; Guimaraes, Antonio Sergio Alfredo; COSTA, J. B.. Participação em banca de Claudia Monteiro Fernandes. Desigualdades Raciais e de Gênero na Educação Superior no Brasil. 2021. Tese (Doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Claudia Monteiro Fernandes",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "Figueiredo, Angela",
+          "ZIMMERMANN, C.",
+          "Guimaraes, Antonio Sergio Alfredo",
+          "COSTA, J. B."
+        ],
+        "titulo_trabalho": "Desigualdades Raciais e de Gênero na Educação Superior no Brasil",
+        "curso": "Tese (Doutorado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "TAVARES, M. S.; BARRETO, P. C. S.; SOUZA, A. M. F. L. E.; BARBOSA, L. M. L.; ROSA, L. A. C.. Participação em banca de Rebeca Sobral Freire. \"Orgulhosamente Feministas, Necessariamente Incovenientes\". 2017. Tese (Doutorado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Rebeca Sobral Freire. \"Orgulhosamente Feministas, Necessariamente Incovenientes\"",
+        "membros_banca": [
+          "TAVARES, M. S.",
+          "BARRETO, P. C. S.",
+          "SOUZA, A. M. F. L. E.",
+          "BARBOSA, L. M. L.",
+          "ROSA, L. A. C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Tese (Doutorado em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; ARAUJO, R. C.; GHANEM, E.; XIMENES, S.; ALMEIDA, W.. Participação em banca de Mauro Cordeiro. Política Educacional e conquista de direitos: escolas públicas em comunidades quilombolas. 2017. Tese (Doutorado em Educação) - Universidade de São Paulo.",
+        "ano": 2017,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Mauro Cordeiro",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "ARAUJO, R. C.",
+          "GHANEM, E.",
+          "XIMENES, S.",
+          "ALMEIDA, W."
+        ],
+        "titulo_trabalho": "Política Educacional e conquista de direitos: escolas públicas em comunidades quilombolas",
+        "curso": "Tese (Doutorado em Educação)",
+        "universidade": "Universidade de São Paulo"
+      },
+      {
+        "descricao": "SOUZA, F.; BARRETO, P. C. S.; CARRASCOSA, D.; RIBEIRO, M. F.. Participação em banca de Letícia Pereira. Ressignificando Memórias: Identidades e Culturas Afrodiaspóricas em filmes do cinema negro brasileiro. 2017. Tese (Doutorado em LITERATURA E CULTURA) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Letícia Pereira",
+        "membros_banca": [
+          "SOUZA, F.",
+          "BARRETO, P. C. S.",
+          "CARRASCOSA, D.",
+          "RIBEIRO, M. F."
+        ],
+        "titulo_trabalho": "Ressignificando Memórias: Identidades e Culturas Afrodiaspóricas em filmes do cinema negro brasileiro",
+        "curso": "Tese (Doutorado em LITERATURA E CULTURA)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Cardel, Lidia M. P.S.; OLIVEIRA, C. L. P.; SILVA, V.. Participação em banca de Genny Magna de Jesus Mota Ayres. Comunidades Quilombolas: Reivindicação de Direitos e Afirmação da Cidadania. 2016. Tese (Doutorado em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2016,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Genny Magna de Jesus Mota Ayres",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "Cardel, Lidia M. P.S.",
+          "OLIVEIRA, C. L. P.",
+          "SILVA, V."
+        ],
+        "titulo_trabalho": "Comunidades Quilombolas: Reivindicação de Direitos e Afirmação da Cidadania",
+        "curso": "Tese (Doutorado em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; ARAUJO, R. C.; ZABELE, R. L.; OLIVEIRA, E. D.; OLIVEIRA, M. R. N.. Participação em banca de Sara Abreu da Mata Machado. Baobá na Encruzilhada: Ancestralidade, Capoeira Angola e Permacultura. 2016. Tese (Doutorado em Difusão do Conhecimento) - Universidade Federal da Bahia.",
+        "ano": 2016,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Sara Abreu da Mata Machado",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "ARAUJO, R. C.",
+          "ZABELE, R. L.",
+          "OLIVEIRA, E. D.",
+          "OLIVEIRA, M. R. N."
+        ],
+        "titulo_trabalho": "Baobá na Encruzilhada: Ancestralidade, Capoeira Angola e Permacultura",
+        "curso": "Tese (Doutorado em Difusão do Conhecimento)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Bacelar, Jeferson; Sansone, Livio; Pereira, Claudio. Seleção do Curso de Doutorado do Progrma Multidisciplinar de Pós Graduação em Estudos Étnicos e Africanos. 2008. Universidade Federal da Bahia.",
+        "ano": 2008,
+        "tipo": "Tese de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "qualificacao_doutorado": [
+      {
+        "descricao": "BARRETO, P. C. S.; Sansone, Livio; Bacelar, Jeferson. Experiências negras de ascensão social em instituições do serviço público em Salvador: tensões, trabalho e sociabilidades (qualificação Doutorado). 2007. Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Qualificação de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "Figueiredo, Angela; ZAGATTO, B. P.; SILVA, P.C.. Participação em banca de Joana Nery Giglio. A POLÍTICA AMBIENTAL BAIANA NAS VOZES DAS MULHERES QUILOMBOLAS: DO RACISMO AMBIENTAL AO BEM VIVER.. 2025. Exame de qualificação (Doutorando em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Joana Nery Giglio",
+        "membros_banca": [
+          "Figueiredo, Angela",
+          "ZAGATTO, B. P.",
+          "SILVA, P.C."
+        ],
+        "titulo_trabalho": "A POLÍTICA AMBIENTAL BAIANA NAS VOZES DAS MULHERES QUILOMBOLAS: DO RACISMO AMBIENTAL AO BEM VIVER",
+        "curso": "Exame de qualificação (Doutorando em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "GUIMARAES, N. A.; LIMA, M.; BARRETO, PAULA. Participação em banca de Shélida Maria Silverio Pedreira. Vamos falar de diversidade e inclusão no mercado de trabalho?. 2024. Exame de qualificação (Doutorando em Sociologia) - Universidade de São Paulo.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Shélida Maria Silverio Pedreira",
+        "membros_banca": [
+          "GUIMARAES, N. A.",
+          "LIMA, M.",
+          "BARRETO, PAULA"
+        ],
+        "titulo_trabalho": "Vamos falar de diversidade e inclusão no mercado de trabalho?",
+        "curso": "Exame de qualificação (Doutorando em Sociologia)",
+        "universidade": "Universidade de São Paulo"
+      },
+      {
+        "descricao": "GUIMARAES, I. B.; SANTOS, L. M. S.; SILVA, P.C.. Participação em banca de Amanda Santos Silva. Minar a vida: uma categoria analítica em um estudo sobre a juventude negra. 2024. Exame de qualificação (Doutorando em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Amanda Santos Silva",
+        "membros_banca": [
+          "GUIMARAES, I. B.",
+          "SANTOS, L. M. S.",
+          "SILVA, P.C."
+        ],
+        "titulo_trabalho": "Minar a vida: uma categoria analítica em um estudo sobre a juventude negra",
+        "curso": "Exame de qualificação (Doutorando em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "COSTA, J. B.; BARRETO, P. C. S.; ROCHA, E. F.; PIZA, E.. Participação em banca de Yuri Santos de Brito. A armadilha da alma branca: prática docente nas Faculdades de Direito da UnB, UFBA e USP diante das Políticas de Ação Afirmativa. 2021. Exame de qualificação (Doutorando em Sociologia) - Universidade de Brasília.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Yuri Santos de Brito",
+        "membros_banca": [
+          "COSTA, J. B.",
+          "BARRETO, P. C. S.",
+          "ROCHA, E. F.",
+          "PIZA, E."
+        ],
+        "titulo_trabalho": "A armadilha da alma branca: prática docente nas Faculdades de Direito da UnB, UFBA e USP diante das Políticas de Ação Afirmativa",
+        "curso": "Exame de qualificação (Doutorando em Sociologia)",
+        "universidade": "Universidade de Brasília"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Figueiredo, Angela; ZIMMERMANN, C.. Participação em banca de Claudia Monteiro Fernandes. Desigualdades Raciais e de Gênero na Educação Superior no Brasil. 2019. Exame de qualificação (Doutorando em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Claudia Monteiro Fernandes",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "Figueiredo, Angela",
+          "ZIMMERMANN, C."
+        ],
+        "titulo_trabalho": "Desigualdades Raciais e de Gênero na Educação Superior no Brasil",
+        "curso": "Exame de qualificação (Doutorando em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; ZIMMERMANN, C.; Cardel, Lidia M. P.S.. Participação em banca de Genny Magna de Jesus Mota Ayres. Comunidades quilombolas e o acesso às políticas públicas. 2014. Exame de qualificação (Doutorando em Estudos Étnicos e Africanos) - Universidade Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Genny Magna de Jesus Mota Ayres",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "ZIMMERMANN, C.",
+          "Cardel, Lidia M. P.S."
+        ],
+        "titulo_trabalho": "Comunidades quilombolas e o acesso às políticas públicas",
+        "curso": "Exame de qualificação (Doutorando em Estudos Étnicos e Africanos)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, P.C.; PANTA, M. A. S.; SALOM, J. S.. Participação em banca de Laís Rebouças de Santana. ?Quem irá escolher meu esposo será eu, não o meu pai?: Gênero, raça e migração nas vivências de mulheres guineenses na UNILAB, em São Francisco Do Conde-Bahia\". 2025. Exame de qualificação (Mestrando em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Laís Rebouças de Santana. ?Quem irá escolher meu esposo será eu, não o meu pai?: Gênero, raça e migração nas vivências de mulheres guineenses na UNILAB, em São Francisco Do Conde-Bahia\"",
+        "membros_banca": [
+          "SILVA, P.C.",
+          "PANTA, M. A. S.",
+          "SALOM, J. S."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA, P.C.; ZIMMERMANN, C.; AYRES, G.. Participação em banca de Marília Novais Rios Santana. Políticas Públicas em Assentamentos Rurais da Bahia: Estudo de Caso Projeto de Assentamento Batalha. 2024. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Marília Novais Rios Santana",
+        "membros_banca": [
+          "SILVA, P.C.",
+          "ZIMMERMANN, C.",
+          "AYRES, G."
+        ],
+        "titulo_trabalho": "Políticas Públicas em Assentamentos Rurais da Bahia: Estudo de Caso Projeto de Assentamento Batalha",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, PAULA; SOTERO, E.; SANTOS, D. B. R.. Participação em banca de Edilene Santana dos Santos Silva. Raça e docência em universidades públicas: o caso da UFBA. 2018. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2018,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Edilene Santana dos Santos Silva",
+        "membros_banca": [
+          "BARRETO, PAULA",
+          "SOTERO, E.",
+          "SANTOS, D. B. R."
+        ],
+        "titulo_trabalho": "Raça e docência em universidades públicas: o caso da UFBA",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; OLIVEIRA, C. L. P.; MACEDO, M.. Participação em banca de Jamile dos Santos Carvalho. Nós trafica, mas nós nunca tem nada: trajetórias de vida de mulheres criminalizadas pelo tráfico de drogas. 2016. Exame de qualificação (Mestrando em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2016,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Jamile dos Santos Carvalho",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "OLIVEIRA, C. L. P.",
+          "MACEDO, M."
+        ],
+        "titulo_trabalho": "Nós trafica, mas nós nunca tem nada: trajetórias de vida de mulheres criminalizadas pelo tráfico de drogas",
+        "curso": "Exame de qualificação (Mestrando em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; ARAUJO, R. C.; FERREIRA, S. L.. Participação em banca de Anni de Novais Carneiro. Padrões de beleza e elementos identitários de mulheres negras da periferia de Salvador. 2014. Exame de qualificação (Mestrando em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism) - Universidade Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Anni de Novais Carneiro",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "ARAUJO, R. C.",
+          "FERREIRA, S. L."
+        ],
+        "titulo_trabalho": "Padrões de beleza e elementos identitários de mulheres negras da periferia de Salvador",
+        "curso": "Exame de qualificação (Mestrando em Estudos Interdisciplinares Sobre Mulheres, Gênero e Feminism)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "GARRIDO, E. N.; MIRANDA FILHO, R. C.; BARRETO, P. C. S.. Participação em banca de Maria Janaína Batista Clemente. Política de Cotas na Percepção dos Estudantes do Curso de Direito e de Letras da UFBa. 2013. Exame de qualificação (Mestrando em Estudos Interdisciplinares sobre a Universidade) - Universidade Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Maria Janaína Batista Clemente",
+        "membros_banca": [
+          "GARRIDO, E. N.",
+          "MIRANDA FILHO, R. C.",
+          "BARRETO, P. C. S."
+        ],
+        "titulo_trabalho": "Política de Cotas na Percepção dos Estudantes do Curso de Direito e de Letras da UFBa",
+        "curso": "Exame de qualificação (Mestrando em Estudos Interdisciplinares sobre a Universidade)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Cardel, Lidia M. P.S.; CAMARA, A. S.. Participação em banca de Lidianny Vidal Fonteles. Da invisibilidade ao reconhecimento: regularização fundiária e a questão quilombola no Ceará. 2009. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Lidianny Vidal Fonteles",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "Cardel, Lidia M. P.S.",
+          "CAMARA, A. S."
+        ],
+        "titulo_trabalho": "Da invisibilidade ao reconhecimento: regularização fundiária e a questão quilombola no Ceará",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; SANTOS, J. T.; Pereira, Claudio. Identidade étnica e movimento negro (qualificação Mestrado). 2007. Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "Sansone, Livio; BARRETO, P. C. S.; Figueiredo, Angela. Os oficiais de cor da PMBA: poder e dom nos quarteis baianos (qualificação mestrado). 2007. Universidade Federal da Bahia.",
+        "ano": 2007,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "ARAUJO, R. C.; BARRETO, P. C. S.; OLIVEIRA, E. D.; SOUZA, L. S.; OLIVEIRA, M. R. N.. Participação em banca de Sara Abreu de Mata Machado. Baobá na Encruzilhada: Ancestralidade, Capoeira Angola e Permacultura. 2014. Exame de qualificação (Doutorando em Pós-Graduação em Difusão do Conhecimento) - Universidade Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Sara Abreu de Mata Machado",
+        "membros_banca": [
+          "ARAUJO, R. C.",
+          "BARRETO, P. C. S.",
+          "OLIVEIRA, E. D.",
+          "SOUZA, L. S.",
+          "OLIVEIRA, M. R. N."
+        ],
+        "titulo_trabalho": "Baobá na Encruzilhada: Ancestralidade, Capoeira Angola e Permacultura",
+        "curso": "Exame de qualificação (Doutorando em Pós-Graduação em Difusão do Conhecimento)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; CANABILLAS, N.. Participação em banca de Laís Rebouças de Santana.As identidades negras em afrodiáspora das estudantes guineenses em São Francisco do Conde- BA. 2022. Trabalho de Conclusão de Curso (Graduação em Sociologia) - Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Laís Rebouças de Santana",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "CANABILLAS, N."
+        ],
+        "titulo_trabalho": "As identidades negras em afrodiáspora das estudantes guineenses em São Francisco do Conde- BA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Sociologia)",
+        "universidade": ""
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; SOTERO, E.; LANIADO, R.. Participação em banca de Yuri Santos de Brito.'Há uma tensão que não se resolve': docentes de Direito da UFBa num contexto de inclusão e ações afirmativas. 2017. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Yuri Santos de Brito.'Há uma tensão que não se resolve': docentes de Direito da UFBa num contexto de inclusão e ações afirmativas",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "SOTERO, E.",
+          "LANIADO, R."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; ARAUJO, R. C.; HITA, M. G.. Participação em banca de Cremilde Alves.Vivências e Percepções da Desigualdade de Gênero no Sistema Bancário. 2010. Trabalho de Conclusão de Curso (Graduação em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2010,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Cremilde Alves",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "ARAUJO, R. C.",
+          "HITA, M. G."
+        ],
+        "titulo_trabalho": "Vivências e Percepções da Desigualdade de Gênero no Sistema Bancário",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; ARAUJO, R. C.; Oliveira, Eduardo. Participação em banca de Laila Melo do Nascimento.Mulheres, Profissionais Responsáveis pela Educação Infantil: Coincidência ou Ideologia?. 2009. Trabalho de Conclusão de Curso (Graduação em Pedagogia) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Laila Melo do Nascimento",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "ARAUJO, R. C.",
+          "Oliveira, Eduardo"
+        ],
+        "titulo_trabalho": "Mulheres, Profissionais Responsáveis pela Educação Infantil: Coincidência ou Ideologia?",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Pedagogia)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Chateaubriand, Luis. Participação em banca de Estevão Matta e Machado.As desigualdades raciais na configuração do mercado de trabalho da Região Metropolitana de Salvador. 2009. Trabalho de Conclusão de Curso (Graduação em Economia) - Universidade Federal da Bahia.",
+        "ano": 2009,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Estevão Matta e Machado",
+        "membros_banca": [
+          "BARRETO, P. C. S.",
+          "Chateaubriand, Luis"
+        ],
+        "titulo_trabalho": "As desigualdades raciais na configuração do mercado de trabalho da Região Metropolitana de Salvador",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Economia)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "SILVA, P.C.; PANTA, M. A. S.; ANDRADE, D. S. V.. Participação em banca de FLÁVIA ALVES DO ROSÁRIO. \"Eu sou mulher do fim do mundo?: experiências de mulheres negras vitimadas pela violência doméstica em Vitória da Conquista - Bahia?. 2024.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "FLÁVIA ALVES DO ROSÁRIO. \"Eu sou mulher do fim do mundo?: experiências de mulheres negras vitimadas pela violência doméstica em Vitória da Conquista - Bahia?",
+        "membros_banca": [
+          "SILVA, P.C.",
+          "PANTA, M. A. S.",
+          "ANDRADE, D. S. V."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "Cardel, Lidia M. P.S.; BARRETO, P. C. S.; ZIMMERMANN, C.. Participação em banca de Rendel Porto Moraes. O(s) Engenhos(s) da Cruz: um estudo de caso sobre a implementação da política quilombola na comunidade rural do Engenho da Cruz, Bahia, Brasil. 2017.",
+        "ano": 2017,
+        "tipo": "Participação em banca",
+        "aluno": "Rendel Porto Moraes",
+        "membros_banca": [
+          "Cardel, Lidia M. P.S.",
+          "BARRETO, P. C. S.",
+          "ZIMMERMANN, C."
+        ],
+        "titulo_trabalho": "O(s) Engenhos(s) da Cruz: um estudo de caso sobre a implementação da política quilombola na comunidade rural do Engenho da Cruz, Bahia, Brasil",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "FIGUEIREDO, A.; LIBERAC, A.; Guimaraes, Antonio Sergio Alfredo; MUNANGA, K.; SILVA, P.C.. Pelas ruas que andei. 2025. Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Recôncavo da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "COSTA, A. L.; SILVA, P.C.; Guimaraes, Antonio Sergio Alfredo; NEVES, P. S. C.; PINHEIRO, D.; ALVES, A. M.; REIS, B. P. W.. Memórias de encruzilhadas. 2025. Universidade Federal do Estado do Rio de Janeiro.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Estado do Rio de Janeiro.",
+        "universidade": ""
+      },
+      {
+        "descricao": "FIGUEIREDO, A.; SANTOS, D. B. R.; GUIMARAES, N. A.; DIAS, R.; VIGOYA, M. V.; LUZ, N.; SILVA, P.C.. Eu vou falar de nós ganhando. 2025. Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Recôncavo da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "PINHO, O. S. A.; RATTS, A.; LIBERAC, A.; SILVA, C. B. R.; SILVA, P.C.. Consciência e Liberdade. 2024. Universidade Federal do Recôncavo da Bahia.",
+        "ano": 2024,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Recôncavo da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; SOUZA, F.; Guimaraes, Antonio Sergio Alfredo; NEVES, P. S. C.; JOHNSON, O.; SILVERIO, V.. Defesa de Memorial para Professor Titular. 2021. Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "FARIAS, E.; Figueiredo, Angela; BARRETO, P. C. S.; COSTA, A. L.; ROCHA, E. F.. Docente Departamento de Sociologia UNB. 2021. Universidade de Brasília.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade de Brasília.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SANTOS, D. B. R.; CARIOCA, C.; BARRETO, P. C. S.. Concurso Sociologia (Edital 123/2013). 2014. Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2013,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "Figueiredo, Angela; BARRETO, P. C. S.; GIACOMINI, S.. Concurso Docente para Teorias Feministas com Concentração em Estudos Étnico-Raciais. 2013. Universidade Federal da Bahia.",
+        "ano": 2013,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "ZIMMERMANN, C.; SILVA, J.; SILVA, P.C.. Professor Visitante. 2026. Universidade Federal da Bahia.",
+        "ano": 2026,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; REGATTIERI, R.; MOCELLIM, A.. Seleção Docente Substituto/a. 2017. Universidade Federal da Bahia.",
+        "ano": 2017,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "BARRETO, P. C. S.; Possas, Mariana; Peters, Gabriel. Seleção Professor Substituto. 2015. Universidade Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 11,
+    "total_livros": 13,
+    "total_capitulos": 13,
+    "total_trabalhos_congressos": 5,
+    "total_projetos_pesquisa": 6,
+    "total_projetos_extensao": 1,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 21,
+    "total_orientacoes_andamento": 5
+  }
+}

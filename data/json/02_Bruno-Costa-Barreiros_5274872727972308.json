@@ -1,0 +1,1756 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "5274872727972308",
+    "nome_completo": "Bruno Costa Barreiros",
+    "nome_citacoes": "BARREIROS, B. C.;BARREIRO, BRUNO COSTA;BARREIROS, BRUNO COSTA",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "03/02/2026",
+    "url": "http://lattes.cnpq.br/5274872727972308",
+    "texto_resumo": "Professor Adjunto no Departamento de Sociologia da Universidade Federal da Bahia. Professor permanente da Pós-Graduação em Ciências Sociais da UFBA (PPGCS-UFBA). Graduado em psicologia pela UFBA, realizou mestrado e doutorado em Sociologia Política pela UFSC, incluindo estágio doutoral na École Normale Supérieure de Paris. Suas pesquisas se inserem na interface entre a sociologia econômica e a sociologia das elites. Atualmente, desenvolve pesquisa sobre as estratégias políticas do empresariado na promoção do desenvolvimento sustentável. É integrante apoiador do Comitê de Pesquisa de Sociologia Econômica (CPSE) da Sociedade Brasileira de Sociologia (SBS). É um dos líderes do LAPOCS - Laboratório de Pesquisas em Poder, Cultura, Política, Práticas Sociais e Hierarquias Simbólicas. Também é pesquisador associado ao NESPOM-UNESP (Núcleo de Estudos e Pesquisa sobre Sociedade, Emoções, Poder, Organização e Mercado). Coordenador do GT ANPOCS \"Sociedade e Vida Econômica\" desde 2023. Principais áreas de interesse: Sociologia Econômica, Sociologia Política, Sociologia das Elites, Análise do Discurso, Metodologia de pesquisa em ciências sociais e Desenvolvimento Sustentável. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Sociologia Política",
+      "nome_instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2019",
+      "descricao": "com período sanduíche em Ecole Normale Supérieure Paris (Orientador: Michel Offerlé). Título: A institucionalização da sustentabilidade no espaço empresarial brasileiro: a emergência de uma elite de top managers e a conformação dos neófitos O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2019. Orientador: Ernesto Seidl. Coorientador: Marcia da Silva Mazon. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Sustentabilidade Empresarial; Elite empresarial; Institucionalização; Sociologia econômica; Sociologia das elites. Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Econômica. Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das Elites."
+    },
+    {
+      "tipo": "Mestrado em Sociologia Política",
+      "nome_instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "descricao": "Título: MERCADO DE ORGÂNICOS OU DE DISTINÇÕES? UMA INVESTIGAÇÃO SOCIOLÓGICA DA FORMAÇÃO DOS GOSTOS EM UM MERCADO ESPECIALIZADO. O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2015. Orientador: Marcia da Silva Mazon. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Mercado de orgânicos; Sociologia dos gostos; Sociologia econômica."
+    },
+    {
+      "tipo": "Especialização em Sustentabilidade e RSC",
+      "nome_instituicao": "(Carga Horária: 428h)",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "descricao": "Sustentare - Escola de Negócios, SUSTENTARE, Brasil. Título: DISCUTINDO A PROBLEMÁTICA SUSTENTABILIDADE-CONSUMO: UMA PROPOSTA DE ARTICULAÇÃO ENTRE OS ENFOQUES DA GESTÃO E DA SOCIOLOGIA. Orientador: Simone Faustini."
+    },
+    {
+      "tipo": "Graduação em Psicologia",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2009",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor adjunto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2026 - Atual",
+      "ano_inicio": "2026",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, PPGCS."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, PPGCS."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Departamento de Sociologia."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2025 - 07/2025",
+      "ano_inicio": "2025",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2022 - 06/2024",
+      "ano_inicio": "2022",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Departamento de Sociologia."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2023 - 11/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2022 - 07/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2020 - 06/2022",
+      "ano_inicio": "2020",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Departamento de Sociologia."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2021 - 12/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2020 - 04/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2020 - 04/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil.",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2017",
+      "ano_inicio": "2014",
+      "ano_fim": "2017",
+      "vinculo": "Bolsista",
+      "enquadramento": "Tutor à distância do curso de Administração",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal de Santa Catarina, UFSC, Brasil",
+      "instituicao_nome": "Universidade Federal de Santa Catarina",
+      "instituicao_sigla": "UFSC",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2019",
+      "ano_inicio": "2015",
+      "ano_fim": "2019",
+      "vinculo": "Bolsista",
+      "enquadramento": "Doutorando",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - 2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista de doutorado sanduíche",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2015",
+      "ano_inicio": "2013",
+      "ano_fim": "2015",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista de mestrado",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2008",
+      "ano_inicio": "2007",
+      "ano_fim": "2008",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista de IC",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil",
+      "instituicao_nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+      "instituicao_sigla": "CNPq",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Market Analysis Brasil, MAB, Brasil.",
+      "instituicao_nome": "Market Analysis Brasil",
+      "instituicao_sigla": "MAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2013",
+      "ano_inicio": "2009",
+      "ano_fim": "2013",
+      "vinculo": "Formal labor contract",
+      "enquadramento": "Analista de Pesquisas Quantitativas",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Market Analysis Brasil, MAB, Brasil",
+      "instituicao_nome": "Market Analysis Brasil",
+      "instituicao_sigla": "MAB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "A Diplomacia Corporativa e a Construção de Mercados do Desenvolvimento Sustentável: uma análise sociológica das Associações Empresariais pró-sustentabilidade.",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto analisa os processos de produção, apropriação e os desdobramentos socioeconômicos da ideia de \"desenvolvimento sustentável\" por agentes empresariais e políticos. Investiga-se como a ressignificação da sustentabilidade pelo mundo empresarial integra disputas simbólicas sobre a reconfiguração do Estado, refletindo-se em tomadas de posição frente a legislações e novos mercados. O movimento dos agentes \"engajados\" busca um protagonismo empresarial na resolução de problemas globais, frequentemente em tensão com governos nacionais e organizações supranacionais. A pesquisa orienta-se por três eixos: 1) as bases sociais e históricas da atuação política do empresariado brasileiro no campo da sustentabilidade; 2) as estratégias de imposição do desenvolvimento sustentável como política de Estado; 3) os arranjos homólogos em espaços nacionais centrais (França/Alemanha) e supranacionais (União Europeia), mapeando semelhanças, diferenças e conexões transnacionais através de redes como o WBCSD. A pesquisa se ancora em uma estratégia plurimetodológica, combinando técnicas qualitativas com técnicas quantitativas, além de recorrer a fontes de dados primárias e secundárias. As categorias analíticas principais derivam principalmente da sociologia bourdieusiana, mas também provêm de outros pesquisadores dedicados à sociologia econômica de vertente político-cultural, além de perspectivas mais aderentes à sociologia política das instituições, à sociologia das elites e à sociologia dos movimentos sociais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0) / Mestrado acadêmico: (0) / Doutorado: (0) . Integrantes: Bruno Costa Barreiros - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Bruno Costa Barreiros",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "ESTRATÉGIAS EDUCATIVAS E A (RE)PRODUÇÃO INTERNACIONAL DO 'HERÓI SUSTENTÁVEL' NOS ESPAÇOS EMPRESARIAIS",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2023",
+      "descricao": [
+        "Descrição: Este projeto pretende minimizar a lacuna de pesquisas sobre as transformações recentes do campo econômico decorrentes da difusão internacional do modelo do 'desenvolvimento sustentável'. Trata-se de um desdobramento de uma pesquisa doutoral, desenvolvida entre 2015 e 2018 e dedicada à compreensão da institucionalização da 'sustentabilidade empresarial'. O contexto de análise é o avanço, observado desde o início dos anos 2000, de alianças institucionais entre a ONU, as grandes empresas privadas e as business schools, ao redor da rede do PRME, que almejam promover os modelos do 'desenvolvimento sustentável' e da 'sustentabilidade empresarial'. Este arranjo de forças tem marcado a construção social de um mercado internacional de educação executiva em prol da sustentabilidade. Para compreender e explicar esse fenômeno, parte-se dos aportes teóricos da praxeologia de Bourdieu, do institucionalismo sociológico de Berger e Luckmann e dos conhecimentos acumulados por pesquisadores da sociologia econômica e da sociologia das elites. O objetivo geral é compreender e explicar a construção social de um mercado internacional de educação executiva em prol da 'sustentabilidade'. Em termos operacionais, quatro frentes de pesquisa são propostas: 1) a história do fenômeno, recorrendo a uma pesquisa documental e à literatura especializada; 2) a cartografia social do espaço internacional das escolas de negócios, concentrando-se nas signatárias do PRME; 3) a sociogênese dos cursos das escolas de negócios de maior reputação desse espaço; 4) a análise das propriedades sociais dos egressos, a partir de um survey internacional; 5) de 2022 a 2023 - a análise do processo de apropriação do ideário do desenvolvimento sustentável na EAUFBA .. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (7) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . Integrantes: Bruno Costa Barreiros - Coordenador / Lucca Giovannini - Integrante / Fernanda Barretto de São Pedro - Integrante / Nair Casagrande - Integrante / Lucas Valoz Castellucci - Integrante / Marcela Gomes da Silva Soares - Integrante / Rebeca Santana Trindade dos Santos - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Bruno Costa Barreiros",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lucca Giovannini",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fernanda Barretto de São Pedro",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Nair Casagrande",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucas Valoz Castellucci",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcela Gomes da Silva Soares",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rebeca Santana Trindade dos Santos",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "A institucionalização da sustentabilidade no espaço empresarial brasileiro",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: A pesquisa de doutorado tem como foco a institucionalização da Sustentabilidade Empresarial (SE) no Brasil. Ancorado tanto no disposicionalismo de Bourdieu como no institucionalismo de Berger e Luckmann, o trabalho se desenvolve em uma dupla direção, concentrando-se no momento histórico mais recente daquela instituição. Por um lado, investiga a emergência de uma Elite de top managers adeptos da SE (ESE), através de uma prosopografia daquele grupo dirigente. Por outro lado, analisa as estratégias e táticas de socialização voltadas à ?sustentabilidade? e desenvolvidas na FGV-EAESP, a partir de entrevistas com discentes e docentes, observação participante, além de documentos textuais e audiovisuais da escola de negócios. De forma complementar, a investigação também aborda um curso de mestrado voltado à SE da HEC-Paris, com método homólogo ao empregado junto à FGV-EAESP. O argumento central que construímos nessa tese é o de que a institucionalização da SE avança no sentido da construção coletiva e internacional de um agente-típico, que chamamos de herói sustentável. A história do fenômeno, em especial as últimas iniciativas da aliança entre ONU e empresas em torno do Pacto Global, aponta nessa direção, assim como as tomadas de posição e as práticas discursivas dos membros da ESE. As técnicas pedagógicas de cursos especializados nas escolas de negócios reforçam a construção do herói sustentável, contribuindo para seu ganho de escala e para a estratégia de reprodução social dos adeptos da SE. Paradoxalmente, o movimento dos adeptos da SE representa um afrontamento à doxa do campo econômico ao mesmo tempo em que confere uma nova musculatura às empresas em suas batalhas por legitimidade. De um lado, alguns dos alicerces principais da doxa do campo econômico são estremecidos pelos heterodoxos ?sustentáveis?. De outro, os novos modos de pensar e de agir dos adeptos da SE fornecem, principalmente às grandes empresas, os caminhos para se esquivarem de ataques dos críticos mais fervorosos do capitalismo contemporâneo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (1) . Integrantes: Bruno Costa Barreiros - Coordenador. Número de produções C, T & A: 13"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Bruno Costa Barreiros",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Sociologia dos Mercados - aportes teóricos",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: Este projeto objetiva elencar as ferramentas metodológicas da Sociologia Econômica para pensar os mercados e analisar a contribuição de Max Weber nesta área. A ênfase está nos trabalhos que explorem as instituições econômicas especificamente nos seguintes temas: mercados e consumo, mercados e tecnologias alimentares, mercado agroalimentar, arranjos institucionais como cooperativas, incubadoras e suas acomodações a partir das inovações tecnológicas. Igualmente é de interesse do grupo o espaço de cruzamento entre a temática da Sociologia do Mercado de Trabalho e Sociologia Econômica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (0) / Especialização: (0) / Mestrado acadêmico: (2) / Mestrado profissional: (0) / Doutorado: (3) . Integrantes: Bruno Costa Barreiros - Integrante / Marcia da Silva Mazon - Coordenador / Caroline Graça Jacques - Integrante / Leandro dos Santos - Integrante / Lucio Américo Gomes Dall Fôrno - Integrante / Leonardo Silva - Integrante / Jean Lago - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Bruno Costa Barreiros",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcia da Silva Mazon",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Caroline Graça Jacques",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro dos Santos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lucio Américo Gomes Dall Fôrno",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leonardo Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jean Lago",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "GRUPO DE ESTUDOS EM SOCIOLOGIA DISPOSICIONALISTA (GESD)",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O Grupo de Estudos em Sociologia Disposicionalista (GESD), vinculado ao Departamento de Sociologia da Universidade Federal da Bahia (UFBA), envolve atividades de pesquisa e extensão, voltadas à leitura, análise e discussão de autores/as, obras e pesquisas que contribuíram para a construção das bases teóricas, epistemológicas e metodológicas da análise sociológica das disposições sociais. Nesse sentido, o principal objetivo do Grupo é sistematizar a compreensão sociológica das disposições sociais, tal como encontrada desde as formulações clássicas da disciplina até a constituição, mais recentemente, de uma abordagem que toma a noção de disposição social como categoria central para a análise e compreensão das práticas e relações sociais, na elucidação de questões fundamentais da teoria social contemporânea, bem como na construção de teorias e explicações sociológicas, e que pode ser definida como Sociologia Disposicionalista.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (8) / Mestrado acadêmico: (3) / Doutorado: (1) . Integrantes: Bruno Costa Barreiros - Coordenador / Ana Rodrigues Cavalcanti Alves - Integrante.",
+        "Descrição: Este projeto de extensão é parte integrante das atividades do Grupo de Estudos em Sociologia Disposicionalista (GESD), vinculado ao Departamento de Sociologia da Universidade Federal da Bahia (UFBA). O GESD envolve atividades de pesquisa e extensão, voltadas à leitura, análise e discussão de autores/as, obras e pesquisas que contribuíram para a construção das bases teóricas, epistemológicas e metodológicas da análise sociológica das disposições sociais. Nesse sentido, o principal objetivo do Grupo é sistematizar a compreensão sociológica das disposições sociais, tal como encontrada desde as formulações clássicas da disciplina até a constituição, mais recentemente, de uma abordagem que toma a noção de disposição social como categoria central para a análise e compreensão das práticas e relações sociais, na elucidação de questões fundamentais da teoria social contemporânea, bem como na construção de teorias e explicações sociológicas, e que pode ser definida como Sociologia Disposicionalista.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (8) / Mestrado acadêmico: (3) / Doutorado: (1) . Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador / Bruno Barreiros - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Bruno Costa Barreiros",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno Barreiros",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Desafios do fazer sociológico: novos rumos para problemas antigos",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: O curso de extensão 'Desafios do fazer sociológico: novos rumos para problemas antigos' pretende oferecer a toda a comunidade acadêmica e extra-acadêmica um conjunto de reflexões fundamentais sobre o processo de construção do conhecimento científico na área das ciências sociais e humanas. O objetivo é auxiliar os/as participantes a enfrentarem dificuldades no desenvolvimento de pesquisa, desde os desafios iniciais, de construção de um objeto de estudo, até a produção escrita de um texto, isto é, de compartilhamento e publicização dos resultados obtidos. Os temas que figuram em cada uma das sessões foram cuidadosamente elaborados para ensejar debates e exercícios sobre momentos cruciais do fazer sociológico. O primeiro encontro trata dos desafios relativos à construção do objeto nas ciências sociais, com ênfase em uma sociologia disposicionalista que afirma a necessária relação entre teoria e pesquisa. O segundo se dedica, mais detidamente, à etapa do trabalho de campo, debruçando-se sobre as vicissitudes de inserção no campo e das negociações com os interlocutores/as da pesquisa. Já o terceiro encontro se volta para algumas técnicas de análise de dados orais e escritos, destacando as distinções metodológicas e os limites entre elas. A quarta sessão, por sua vez, aborda dois caminhos que conduzem à análise de espaços sociais a partir de trajetórias - a biografia e a prosopografia. Por fim, a última sessão trata mais propriamente do processo de produção do saber sociológico, com foco especial na elaboração de textos, acadêmicos ou não, e na publicização do conhecimento gerado ao longo das pesquisas para o público geral.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (20) / Mestrado acadêmico: (15) / Doutorado: (15) . Integrantes: Bruno Costa Barreiros - Coordenador / Lucas Amaral de Oliveira - Integrante / Felipe Vargas - Integrante / Luciana Duccini - Integrante / Ana Rodrigues Cavalcanti Alves - Integrante.",
+        "Descrição: O curso de extensão \"Desafios do fazer sociológico: novos rumos para problemas antigos\" visou oferecer a toda a comunidade acadêmica e extra-acadêmica um conjunto de reflexões fundamentais sobre o processo de construção do conhecimento científico na área das ciências sociais e humanas. O objetivo é auxiliar os/as participantes a enfrentarem dificuldades no desenvolvimento de pesquisa, desde os desafios iniciais, de construção de um objeto de estudo, até a produção escrita de um texto, isto é, de compartilhamento e publicização dos resultados obtidos. Os temas que figuram em cada uma das sessões foram cuidadosamente elaborados para ensejar debates e exercícios sobre momentos cruciais do fazer sociológico. O primeiro encontro trata dos desafios relativos à construção do objeto nas ciências sociais, com ênfase em uma sociologia disposicionalista que afirma a necessária relação entre teoria e pesquisa. O segundo se dedica, mais detidamente, à etapa do trabalho de campo, debruçando-se sobre as vicissitudes de inserção no campo e das negociações com os interlocutores/as da pesquisa. Já o terceiro encontro se volta para algumas técnicas de análise de dados orais e escritos, destacando as distinções metodológicas e os limites entre elas. A quarta sessão, por sua vez, aborda dois caminhos que conduzem à análise de espaços sociais a partir de trajetórias - a biografia e a prosopografia. Por fim, a última sessão trata mais propriamente do processo de produção do saber sociológico, com foco especial na elaboração de textos, acadêmicos ou não, e na publicização do conhecimento gerado ao longo das pesquisas para o público geral.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (20) / Mestrado acadêmico: (15) / Doutorado: (15) . Integrantes: Ana Rodrigues Cavalcanti Alves - Coordenador / Felipe Vargas - Integrante / Luciana Duccini - Integrante / Bruno Barreiros - Integrante / Lucas Amaral de Oliveira - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Bruno Costa Barreiros",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lucas Amaral de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Felipe Vargas",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luciana Duccini",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Rodrigues Cavalcanti Alves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno Barreiros",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia Econômica",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Econômica."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia das Elites",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia das Elites."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia Política",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Política."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Italiano",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    },
+    {
+      "nome": "Alemão",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Sociologia Econômica",
+      "objetivo": ""
+    },
+    {
+      "nome": "Sociologia Política",
+      "objetivo": ""
+    },
+    {
+      "nome": "Trabalho e Desigualdades Sociais",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Folha de S. Paulo, Lei Rouanet e o Mercado de Patrocínios Culturais Incentivados: uma análise a partir da Sociologia Econômica",
+        "ano": 2025,
+        "autores": "LOPES, R. A. ; BARREIROS, BRUNO COSTA",
+        "revista": "ESTUDOS DE SOCIOLOGIA",
+        "volume": "30",
+        "numero": "",
+        "paginas": "1-20",
+        "issn": "1982-4718",
+        "doi": "http://dx.doi.org/10.52780/res.v30i3.20239",
+        "qualis": ""
+      },
+      {
+        "titulo": "Sobre elites e instituições: caminhos de pesquisa",
+        "ano": 2024,
+        "autores": "SEIDL, ERNESTO ; BARREIROS, BRUNO COSTA",
+        "revista": "ESTUDOS HISTÓRICOS",
+        "volume": "37",
+        "numero": "",
+        "paginas": "e20240108",
+        "issn": "2178-1494",
+        "doi": "http://dx.doi.org/10.1590/s2178-149420240108",
+        "qualis": ""
+      },
+      {
+        "titulo": "Dossiê metodologias nas ciências sociais:  debates e práticas para além dos cismas metodológicos.",
+        "ano": 2024,
+        "autores": "BARREIROS, BRUNO COSTA; LENINE, E.",
+        "revista": "PRELÚDIOS: REVISTA DO PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCIAS SOCIAIS DA UFBA",
+        "volume": "12",
+        "numero": "",
+        "paginas": "1-6",
+        "issn": "2318-7808",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "UMA PRAGMÁTICA SOCIOLÓGICA? SOBRE AS POSSIBILIDADES DA ANÁLISE DAS PRÁTICAS DISCURSIVAS A PARTIR DE BOURDIEU",
+        "ano": 2023,
+        "autores": "BARREIROS, B. C",
+        "revista": "REVISTA SOCIOLOGIA E ANTROPOLOGIA",
+        "volume": "13",
+        "numero": "",
+        "paginas": "e200120-e200120",
+        "issn": "2238-3875",
+        "doi": "http://dx.doi.org/10.1590/2238-38752022v13110",
+        "qualis": ""
+      },
+      {
+        "titulo": "A -SUSTENTABILIDADE- E OS JOVENS GERENTES EMPRESARIAIS: UMA ANÁLISE DOS PROCESSOS DE CONFORMAÇÃO EM BUSINESS SCHOOLS DO BRASIL E DA FRANÇA.",
+        "ano": 2022,
+        "autores": "BARREIROS, B. C",
+        "revista": "REVISTA PÓS-CIENCIAS SOCIAIS",
+        "volume": "19",
+        "numero": "",
+        "paginas": "89",
+        "issn": "2236-9473",
+        "doi": "http://dx.doi.org/10.18764/10.18764/2236-9473v19n1.2022.5",
+        "qualis": ""
+      },
+      {
+        "titulo": "Sobre a construção do objeto em sociologia: categorias bourdieusianas para compreender os ¿adeptos da sustentabilidade¿",
+        "ano": 2022,
+        "autores": "BARREIROS, B. C",
+        "revista": "EDUCAÇÃO E PESQUISA",
+        "volume": "48",
+        "numero": "",
+        "paginas": "1-18",
+        "issn": "1678-4634",
+        "doi": "http://dx.doi.org/10.1590/s1678-4634202248254863por",
+        "qualis": ""
+      },
+      {
+        "titulo": "A apropriação da sustentabilidade no espaço empresarial brasileiro: disputas, heterodoxias e sentidos",
+        "ano": 2021,
+        "autores": "BARREIROS, B. C",
+        "revista": "NORUS - NOVOS RUMOS SOCIOLÓGICOS",
+        "volume": "9",
+        "numero": "",
+        "paginas": "146-177",
+        "issn": "2318-1966",
+        "doi": "http://dx.doi.org/10.15210/norus.v9i16.21935",
+        "qualis": ""
+      },
+      {
+        "titulo": "LA QUESTION NÉOLIBÉRALE: AS PERSPECTIVAS DE FOUCAULT E BOURDIEU",
+        "ano": 2020,
+        "autores": "BARREIROS, B. C",
+        "revista": "Caderno CRH (Online)",
+        "volume": "32",
+        "numero": "",
+        "paginas": "685-688",
+        "issn": "1983-8239",
+        "doi": "http://dx.doi.org/10.9771/ccrh.v32i87.28743",
+        "qualis": ""
+      },
+      {
+        "titulo": "O sonho como uma produção social",
+        "ano": 2019,
+        "autores": "BARREIROS, B. C.; PREVIATTI, D.",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "",
+        "numero": "",
+        "paginas": "366-381",
+        "issn": "1807-0337",
+        "doi": "http://dx.doi.org/10.1590/15174522-0215131",
+        "qualis": ""
+      },
+      {
+        "titulo": "A CONFORMAÇÃO DE ADEPTOS DA -GESTÃO SUSTENTÁVEL-:investigando a -turma da sustentabilidade- da FGV-EAESP",
+        "ano": 2018,
+        "autores": "BARREIROS, B. C",
+        "revista": "POLÍTICA & TRABALHO (UFPB. IMPRESSO)",
+        "volume": "1",
+        "numero": "",
+        "paginas": "38-56",
+        "issn": "1517-5901",
+        "doi": "http://dx.doi.org/10.22478/ufpb.1517-5901.2018v1n48.37761",
+        "qualis": ""
+      },
+      {
+        "titulo": "Philippe Steiner e a Sociologia Econômica: trajetória, redes internacionais, afinidades teóricas e objetos de pesquisa",
+        "ano": 2018,
+        "autores": "BARREIROS, B. C",
+        "revista": "Revista Política e Sociedade",
+        "volume": "17",
+        "numero": "",
+        "paginas": "465-486",
+        "issn": "2175-7984",
+        "doi": "http://dx.doi.org/10.5007/2175-7984.2017v17n39p465",
+        "qualis": ""
+      },
+      {
+        "titulo": "SOCIOLOGIA E PSICOLOGIA: DISPOSIÇÃO SOCIAL COMO VIA DE CONVERGÊNCIA",
+        "ano": 2017,
+        "autores": "BARREIROS, B. C",
+        "revista": "PSICOLOGIA E SOCIEDADE (IMPRESSO)",
+        "volume": "29",
+        "numero": "",
+        "paginas": "8-28",
+        "issn": "0102-7182",
+        "doi": "http://dx.doi.org/10.1590/1807-0310/2017v29161516",
+        "qualis": ""
+      },
+      {
+        "titulo": "Compreendendo a sustentabilidade empresarial a partir dos seus líderes: origens, trajetórias e práticas discursivas",
+        "ano": 2017,
+        "autores": "BARREIROS, B. C",
+        "revista": "AGENDA POLÍTICA",
+        "volume": "5",
+        "numero": "",
+        "paginas": "123-151",
+        "issn": "2318-8499",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Inspiração e Crítica: analisando o impacto de Rousseau na teoria de Durkheim",
+        "ano": 2017,
+        "autores": "BARREIROS, B. C",
+        "revista": "REVISTA CAFÉ COM SOCIOLOGIA",
+        "volume": "6",
+        "numero": "",
+        "paginas": "147-160",
+        "issn": "2317-0352",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Trente ans après La distinction: um guia sobre a posteridade da obra de Bourdieu",
+        "ano": 2017,
+        "autores": "BARREIRO, BRUNO COSTA",
+        "revista": "Sociedade e Estado",
+        "volume": "32",
+        "numero": "",
+        "paginas": "247-252",
+        "issn": "0102-6992",
+        "doi": "http://dx.doi.org/10.1590/s0102-69922017.3201011",
+        "qualis": ""
+      },
+      {
+        "titulo": "ORGANICS CONSUMPTION FROM A SOCIOLOGICAL PERSPECTIVE: ANALYZING A SPECIALTY MARKET IN FLORIANÓPOLIS-SC.",
+        "ano": 2017,
+        "autores": "BARREIROS, B. C.; SILVA-MAZON, M.",
+        "revista": "AMBIENTE E SOCIEDADE (CAMPINAS)",
+        "volume": "20",
+        "numero": "",
+        "paginas": "147-164",
+        "issn": "1414-753X",
+        "doi": "http://dx.doi.org/10.1590/1809-4422asoc20150077r2v2012017",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Atuação política do empresariado brasileiro em prol do Desenvolvimento Sustentável: o CEBDS e suas práticas de advocacy",
+        "ano": 2025,
+        "autores": "BARREIROS, B. C",
+        "evento": "22º Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A emergência de um mercado internacional de educação gerencial para a sustentabilidade e suas implicações para o campo econômico",
+        "ano": 2021,
+        "autores": "BARREIROS, B. C",
+        "evento": "20º Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A CONFORMAÇÃO INTERNACIONAL DOS HERÓIS DA SUSTENTABILIDADE: um estudo comparativo das principais business schools no Brasil e na França",
+        "ano": 2020,
+        "autores": "BARREIROS, B. C",
+        "evento": "44º Encontro Anual da ANPOCS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "POR UMA SOCIOLOGIA DOS DISCURSOS A PARTIR DE PIERRE BOURDIEU",
+        "ano": 2018,
+        "autores": "BARREIROS, B. C",
+        "evento": "I Seminário de Sociologia e Política da UFSC",
+        "cidade": "",
+        "paginas": "516-533",
+        "isbn": ""
+      },
+      {
+        "titulo": "Conformando adeptos da sustentabilidade empresarial: uma análise sociológica do caso da Formação Integrada para a Sustentabilidade (FIS) da FGV-EAESP",
+        "ano": 2017,
+        "autores": "BARREIROS, B. C",
+        "evento": "18º Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Líderes sustentáveis: de onde partem e o que prescrevem? Uma análise sociológica da elite de praticantes da sustentabilidade empresarial",
+        "ano": 2016,
+        "autores": "BARREIROS, B. C",
+        "evento": "40º ENCONTRO ANUAL DA ANPOCS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Convencionalização ou distinção social no mercado de alimentos orgânicos? Uma discussão a partir de um caso proeminente da capital catarinense",
+        "ano": 2014,
+        "autores": "BARREIROS, B. C",
+        "evento": "V SEMINARIO NACIONAL DE SOCIOLOGIA E POLÍTICA",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "O consumo de alimentos orgânicos como questão de gosto: uma discussão teórica das bases sociais do fenômeno do consumo sustentável",
+        "ano": 2013,
+        "autores": "BARREIROS, B. C",
+        "evento": "37º encontro anual da ANPOCS",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "O efeito da Comunicação Sustentável no Consumo Consciente",
+        "ano": 2010,
+        "autores": "ECHEGARAY, F. A. ; Afonso, M.H.F. ; BARREIROS, B. C. ; PARIZOTTO, T.S.",
+        "evento": "V Encontro Nacional da Anppas",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "PÓS-NEOLIBERALISMO E CIDADANIA CORPORATIVA: UMA ANÁLISE DA AMÉRICA LATINA",
+        "ano": 2010,
+        "autores": "BARREIROS, B. C.; ECHEGARAY, F. A.",
+        "evento": "V Encontro Nacional da Anppas",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Entrincheiramento Organizacional: uma proposta de escala e a sua validação fatorial entre trabalhadores brasileiros",
+        "ano": 2008,
+        "autores": "Bastos, A. V. B. ; RODRIGUES, Ana Carolina de Aguiar ; SILVA, E. E. C. E ; Lisboa, C. P ; BARREIROS, B. C.",
+        "evento": "XIII Conferência Internacional Avaliação Psicológica: formas e contextos",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "Transformações sociais do mercado de orgânicos? Uma análise exploratória de um caso proeminente de Florianópolis",
+        "ano": 2014,
+        "autores": "BARREIROS, B. C",
+        "evento": "VII ENEC, 2014, Rio de Janeiro. Anais do VII Encontro Nacional de Estudos do Consumo. Rio de Janeiro",
+        "cidade": "",
+        "paginas": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "Business Schools, UN and the Institutionalization of Corporate Sustainability",
+        "ano": 2021,
+        "autores": "BARREIROS, B. C",
+        "evento": "IV ISA Forum of Sociology, 2021, Porto Alegre. Anais do IV ISA Forum of Sociology",
+        "cidade": ""
+      },
+      {
+        "titulo": "Construção e Validação de Escala para Mensuração da Instrumentalidade",
+        "ano": 2008,
+        "autores": "Bastos, A. V. B. ; BARREIROS, B. C.",
+        "evento": "XXVII Seminario Estudantil de Pesquisa / IX Seminário de Pesquisa e Pós-Graduação, 2008. XXVII Seminario Estudantil de Pesquisa / IX Seminário de Pesquisa e Pós-Graduação",
+        "cidade": ""
+      },
+      {
+        "titulo": "Comprometimento Instrumental, Percepção de Empregabilidade e Intenções Comportamentais: enlaces empíricos a partir de um estudo com trabalhadores a fruticultura irrigada",
+        "ano": 2008,
+        "autores": "Bastos, A. V. B. ; RODRIGUES, Ana Carolina de Aguiar ; BARREIROS, B. C.",
+        "evento": "III Congresso Brasileiro de Psicologia Organizacional e do Trabalho, 2008, Florianopolis. III Congresso Brasileiro de Psicologia Organizacional e do Trabalho",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Como é possível entender temas tão variados como os Algoritmos, a Sustentabilidade e a Economia Doméstica a partir da Sociologia Econômica?",
+        "ano": 2022,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Mesa redonda - Debates en torno a la economía y el trabajo desde una perspectiva socio-antropológica (PPGCS- UFBA)",
+        "ano": 2022,
+        "autores": "BARREIROS, B. C.; ALVES, A. R. C. ; PERELMAN, M.",
+        "evento": ""
+      },
+      {
+        "titulo": "Business Schools, UN and the Institutionalization of Corporate Sustainability",
+        "ano": 2021,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "A emergência de um mercado internacional de educação gerencial para a sustentabilidade e suas implicações para o campo econômico",
+        "ano": 2021,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "A conformação de adeptos da gestão sustentável",
+        "ano": 2021,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "A CONFORMAÇÃO INTERNACIONAL DOS HERÓIS DA SUSTENTABILIDADE: um estudo comparativo das principais business schools no Brasil e na França",
+        "ano": 2020,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "UN NOUVEAU TYPE DE MANAGER POUR LE CAPITALISME ? LA PRODUCTION ET LA REPRODUCTION DES ADHÉRENTS DE LA « DURABILITÉ ENTREPRENEURIALE » AU BRÉSIL",
+        "ano": 2018,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "POR UMA SOCIOLOGIA DOS DISCURSOS A PARTIR DE PIERRE BOURDIEU",
+        "ano": 2018,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Conformando adeptos da sustentabilidade empresarial: uma análise sociológica do caso da Formação Integrada para a Sustentabilidade (FIS) da FGV-EAESP",
+        "ano": 2017,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Líderes sustentáveis: de onde partem e o que prescrevem? Uma análise sociológica da elite de praticantes da sustentabilidade empresarial",
+        "ano": 2016,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Convencionalização ou distinção social no mercado de alimentos orgânicos? Uma discussão a partir de um caso proeminente da capital catarinense",
+        "ano": 2014,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Transformações sociais do mercado de orgânicos? Uma análise exploratória de um caso proeminente de Florianópolis",
+        "ano": 2014,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "O consumo de alimentos orgânicos como questão de gosto: uma discussão teórica das bases sociais do fenômeno do consumo sustentável",
+        "ano": 2013,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Por que estudar as embalagens? Uma investigação da participação das embalagens de produtos orgânicos e convencionais na formação dos gostos dos consumidores",
+        "ano": 2013,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "Consumer Insights into Green Consumer Behavior",
+        "ano": 2012,
+        "autores": "BARREIROS, B. C",
+        "evento": ""
+      },
+      {
+        "titulo": "PÓS-NEOLIBERALISMO E CIDADANIA CORPORATIVA: UMA ANÁLISE DA AMÉRICA LATINA",
+        "ano": 2010,
+        "autores": "BARREIROS, B. C.; ECHEGARAY, F. A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Entrincheiramento Organizacional: uma proposta de escala e a sua validação fatorial entre trabalhadores brasileiros",
+        "ano": 2008,
+        "autores": "Bastos, A. V. B. ; RODRIGUES, Ana Carolina de Aguiar ; SILVA, E. E. C. E ; BARREIROS, B. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Comprometimento Instrumental, Percepção de Empregabilidade e Intenções Comportamentais: enlaces empíricos a partir de um estudo com trabalhadores a fruticultura irrigada",
+        "ano": 2008,
+        "autores": "Bastos, A. V. B. ; RODRIGUES, Ana Carolina de Aguiar ; BARREIROS, B. C.",
+        "evento": ""
+      },
+      {
+        "titulo": "Construção e Validação de Escala para Mensuração da Instrumentalidade",
+        "ano": 2008,
+        "autores": "Bastos, A. V. B. ; BARREIROS, B. C.",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "A sustentabilidade e os segmentos empresariais na avaliação dos consumidores",
+        "ano": 2011,
+        "autores": "BARREIROS, B. C",
+        "jornal": "",
+        "cidade": "",
+        "data": "01 dez. 2011"
+      },
+      {
+        "titulo": "O consumidor e a sustentabilidade empresarial",
+        "ano": 2011,
+        "autores": "BARREIROS, B. C",
+        "jornal": "",
+        "cidade": "",
+        "data": "14 set. 2011"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "Sociologia das ortodoxias e heterodoxias na economia brasileira. Pelotas: NORUS",
+        "ano": 2021,
+        "autores": "CANTU, R. ; BARREIROS, B. C.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [
+        {
+          "titulo": "FORMAÇÃO PROFISSIONAL: O IMPACTO DAS POLÍTICAS DE AÇÕES AFIRMATIVAS SOBRE O PERFIL DE PROFISSIONAIS EM OCUPAÇÕES DE ALTO PRESTÍGIO",
+          "ano_inicio": 2023,
+          "orientando": "Vinícius de Lacerda Miranda",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "De assalariado a MEI: Transição de Assalariados para Microempreendedores Individuais de Salvador-Ba e as Transformações em suas Práticas Sociais",
+          "ano_inicio": 2025,
+          "orientando": "Fernanda Barretto de São Pedro",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "'A reforma é para quem?': A agência do turismo na convergência de mercados no Centro Histórico de Salvador",
+          "ano_inicio": 2024,
+          "orientando": "Ícaro Gil Oliveira de Jesus",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O CAMPO DA GOVERNANÇA AMBIENTAL EM ALAGOAS",
+          "ano_inicio": 2024,
+          "orientando": "Lucas Valoz Castellucci",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "(SOBRE)VIVENDO POR CONTA PRÓPRIA: Trajetória e disposições sociais em empreendedores populares de Salvador",
+          "ano_inicio": 2023,
+          "orientando": "Fernanda Barretto de São Pedro",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Sustentabilidade no mercado de patrocínios culturais incentivados: novas diretrizes, novos discursos",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Rafaela Araújo",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Responsabilidade social ou clientelismo? Uma análise sociológica das estratégias de legitimação da indústria química em Maceió ? AL.",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Lucas Valoz Castellucci",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "O empresariado brasileiro e a atuação política em prol do desenvolvimento sustentável: sociogênese e estratégias recentes",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Clarissa Bispo Brito Correia de Brito",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "UFBA",
+          "curso": ""
+        },
+        {
+          "titulo": "A apropriação da ?sustentabilidade? pela EAUFBA: uma análise sociogenética",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Rebeca Santana Trindade dos Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A perspectiva sustentável na EAUFBA e seus agentes promotores: um survey junto a discentes e egressos",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Lucas Valoz Castellucci",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "UFBA",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens gerentes e a incorporação da disposição para a sustentabilidade: um survey internacional junto a egressos de cursos especializados em sustentabilidade empresarial",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Lucas Valoz Castellucci",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A apropriação da sustentabilidade pelas business schools: sociogênese dos cursos das escolas dominantes do PRME",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Lucca Giovannini Gonçalves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Jovens gerentes e a incorporação da disposição para a sustentabilidade: um survey internacional junto a egressos de cursos especializados em sustentabilidade empresarial",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Jéssica Teixeira Martins",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Congresso Brasileiro da SBS",
+        "apresentacao": "Atuação política do empresariado brasileiro em prol do Desenvolvimento Sustentável: o CEBDS e suas práticas de advocacy",
+        "ano": 2025,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "47º Encontro Anual da ANPOCS",
+        "apresentacao": "Coordenador do GT 54 - Sociedade e Vida Econômica",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Congresso Internacional de Pesquisa NESPOM: Pierre Bourdieu e a sociologia como esporte de combate",
+        "apresentacao": "Coordenador do GT5: Teoria, Epistemologia e Método em Bourdieu",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV Seminário Nacional de Sociologia do PPGS/UFS 2022",
+        "apresentacao": "Como é possível entender temas tão variados como os Algoritmos, a Sustentabilidade e a Economia Doméstica a partir da Sociologia Econômica?",
+        "ano": 2022,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Mesa redonda - Debates en torno a la economía y el trabajo desde una perspectiva socio-antropológica (PPGCS- UFBA)",
+        "apresentacao": "O olhar da Sociologia econômica",
+        "ano": 2022,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Ciclo de Palestras do PRODEMA - Educação Ambiental e Sustentabilidade",
+        "apresentacao": "A conformação de adeptos da gestão sustentável",
+        "ano": 2021,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "IV ISA Forum of Sociology",
+        "apresentacao": "Business Schools, UN and the Institutionalization of Corporate Sustainability",
+        "ano": 2021,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "44º Encontro Anual da ANPOCS",
+        "apresentacao": "A CONFORMAÇÃO INTERNACIONAL DOS ?HERÓIS DA SUSTENTABILIDADE?: um estudo comparativo das principais business schools no Brasil e na França",
+        "ano": 2020,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Colóquio Internacional - Um projeto para as ciências sociais: o ofício de sociólogo e o trabalho sociológico de Pierre Bourdieu",
+        "apresentacao": null,
+        "ano": 2018,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário de Sociologia e Política da UFSC",
+        "apresentacao": "Por uma Sociologia dos discursos a partir de Bourdieu",
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVIII CYCLE DE CONFERENCES : Horizons de la sociologie bourdieusienne : le champ gastronomique et le champ économique",
+        "apresentacao": ".UN NOUVEAU TYPE DE MANAGER POUR LE CAPITALISME ? LA PRODUCTION ET LA REPRODUCTION DES ADHÉRENTS DE LA « DURABILITÉ ENTREPRENEURIALE » AU BRÉSIL",
+        "ano": 2018,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "18º Congresso Brasileiro de Sociologia",
+        "apresentacao": "Conformando adeptos da sustentabilidade empresarial: uma análise sociológica do caso da Formação Integrada para a Sustentabilidade (FIS) da FGV-EAESP",
+        "ano": 2017,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "40º ENCONTRO ANUAL DA ANPOCS",
+        "apresentacao": "Líderes sustentáveis: de onde partem e o que prescrevem? Uma análise sociológica da elite de praticantes da sustentabilidade empresarial",
+        "ano": 2016,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVII CONGRESSO BRASILEIRO DE SOCIOLOGIA",
+        "apresentacao": null,
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "VII Encontro Nacional de Estudos do Consumo",
+        "apresentacao": "Transformações sociais do mercado de orgânicos? Uma análise exploratória de um caso proeminente de Florianópolis",
+        "ano": 2014,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V SEMINARIO NACIONAL DE SOCIOLOGIA E POLÍTICA",
+        "apresentacao": "Convencionalização ou distinção social no mercado de alimentos orgânicos? Uma discussão a partir de um caso proeminente da capital catarinense.",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "37º Encontro Anual da ANPOCS",
+        "apresentacao": "O consumo de alimentos orgânicos como questão de gosto: uma discussão teórica das bases sociais do fenômeno do consumo sustentável",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XVI CONGRESSO BRASILEIRO DE SOCIOLOGIA",
+        "apresentacao": "Por que estudar as embalagens? Uma investigação da participação das embalagens de produtos orgânicos e convencionais na formação dos gostos dos consumidores.",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Sustainable Cosmetics Summit (palestrante)",
+        "apresentacao": "Consumer Insights into Green Consumer Behavior",
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "V Encontro Nacional da Anppas",
+        "apresentacao": "PÓS-NEOLIBERALISMO E CIDADANIA CORPORATIVA: UMA ANÁLISE DA AMÉRICA LATINA.",
+        "ano": 2010,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "III Congresso Brasileiro de Psicologia Organizacional e do Trabalho",
+        "apresentacao": ". Comprometimento Instrumental, Percepção de Empregabilidade e Intenções Comportamentais: enlaces empíricos a partir de um estudo com trabalhadores a fruticultura irrigada.",
+        "ano": 2008,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "BARREIROS, B. C.; NIEDERLE, P.",
+        "evento": "Coordenação do GT 54 - Sociedade e Vida econômica da ANPOCS 2023",
+        "ano": 2023,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "BARREIROS, B. C.; BELEM, M. P.; PITOMBO., M.; MOCELLIM, A.. Participação em banca de Rafaela Araujo Lopes. A Sustentabilidade no Mercado de Patrocínios Culturais Incentivados: Novas Diretrizes, Novos Discursos. 2024. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Rafaela Araujo Lopes",
+        "membros_banca": [
+          "BARREIROS, B. C.",
+          "BELEM, M. P.",
+          "PITOMBO., M.",
+          "MOCELLIM, A."
+        ],
+        "titulo_trabalho": "A Sustentabilidade no Mercado de Patrocínios Culturais Incentivados: Novas Diretrizes, Novos Discursos",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "BARREIROS, B. C.; PREVIATTI, D.; ESTANQUE, E.. Banca de seleção para o mestrado em Ciências Sociais da UFBA. 2023. Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      },
+      {
+        "descricao": "REGATIERI, R. P.; BARREIROS, B. C.; IAMAMOTO, S. A. S.. Banca de seleção para o mestrado em Ciências Sociais da UFBA. 2022. Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "MIGUEL, D. O. P. P.; CARNEIRO, W. A.; AZEVEDO, B. M. V.; LUZ, V. C.; BARREIROS, B. C.. Participação em banca de GILSON ALVES DE SANTANA JÚNIOR. DEMOCRACIA E REDES SOCIAIS DIGITAIS: REFLEXÕES SOBRE A RELAÇÃO ENTRE OS CAMPOS POLÍTICO E JURÍDICO BRASILEIROS A PARTIR DE PIERRE BOURDIEU. 2025. Tese (Doutorado em Direito) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "GILSON ALVES DE SANTANA JÚNIOR",
+        "membros_banca": [
+          "MIGUEL, D. O. P. P.",
+          "CARNEIRO, W. A.",
+          "AZEVEDO, B. M. V.",
+          "LUZ, V. C.",
+          "BARREIROS, B. C."
+        ],
+        "titulo_trabalho": "DEMOCRACIA E REDES SOCIAIS DIGITAIS: REFLEXÕES SOBRE A RELAÇÃO ENTRE OS CAMPOS POLÍTICO E JURÍDICO BRASILEIROS A PARTIR DE PIERRE BOURDIEU",
+        "curso": "Tese (Doutorado em Direito)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CHAVES, S. C. L.; ESPERIDIAO, M. A.; LIMA, A. M. F. S.; OLIVEIRA, V. M. B.; BARREIROS, B. C.. Participação em banca de LILIA PAULA DE SOUZA SANTOS. ANÁLISE DA IMPLANTAÇÃO DO PLANO DE EXPANSÃO DOS LABORATÓRIOS REGIONAIS DE PRÓTESE DENTÁRIA DA BAHIA DE 2011 A 2022. 2025. Tese (Doutorado em Saúde Coletiva) - Universidade Federal da Bahia.",
+        "ano": 2011,
+        "tipo": "Tese de Doutorado",
+        "aluno": "LILIA PAULA DE SOUZA SANTOS",
+        "membros_banca": [
+          "CHAVES, S. C. L.",
+          "ESPERIDIAO, M. A.",
+          "LIMA, A. M. F. S.",
+          "OLIVEIRA, V. M. B.",
+          "BARREIROS, B. C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; IAMAMOTO, S. A. S.; BARREIROS, B. C.. Banca de seleção para o doutorado do Programa de Pós Graduação em Ciências Sociais. 2025. Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Tese de Doutorado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "BARREIROS, B. C.; MOCELLIM, A.; PITOMBO., M.. Participação em banca de Rafaela Araujo Lopes. A SUSTENTABILIDADE NO MERCADO DE PATROCÍNIOS CULTURAIS INCENTIVADOS: NOVAS DIRETRIZES, NOVOS DISCURSOS. 2023. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Rafaela Araujo Lopes",
+        "membros_banca": [
+          "BARREIROS, B. C.",
+          "MOCELLIM, A.",
+          "PITOMBO., M."
+        ],
+        "titulo_trabalho": "A SUSTENTABILIDADE NO MERCADO DE PATROCÍNIOS CULTURAIS INCENTIVADOS: NOVAS DIRETRIZES, NOVOS DISCURSOS",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SEIDL, E.; BARREIROS, B. C.; SANTOS, C. A.. Participação em banca de Alexandre Fernandes. ?Nós por nós?: O caso da militância ?Antifascista?, ?Autonomista? e ?Anarquista? em Londrina-PR. 2021. Exame de qualificação (Mestrando em Sociologia Política) - Universidade Federal de Santa Catarina.",
+        "ano": 2021,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Alexandre Fernandes. ?Nós por nós?: O caso da militância ?Antifascista?, ?Autonomista? e ?Anarquista? em Londrina-PR",
+        "membros_banca": [
+          "SEIDL, E.",
+          "BARREIROS, B. C.",
+          "SANTOS, C. A."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Exame de qualificação (Mestrando em Sociologia Política)",
+        "universidade": "Universidade Federal de Santa Catarina"
+      },
+      {
+        "descricao": "SEIDL, E.; BORDIGNON, R. R.; BARREIROS, B. C.. Banca de Qualificação de Monografia em Ciências Sociais de Ana Luzia Garcia - 2017. 2017. Universidade Federal de Santa Catarina.",
+        "ano": 2017,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "2017. Universidade Federal de Santa Catarina.",
+        "universidade": ""
+      },
+      {
+        "descricao": "MICK, J.; SEIDL, E.; BARREIROS, B. C.. Banca de Qualificação de Monografia em Ciências Sociais de Bárbara Harris. 2015. Universidade Federal de Santa Catarina.. 2015. Universidade Federal de Santa Catarina.",
+        "ano": 2015,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal de Santa Catarina.. 2015. Universidade Federal de Santa Catarina.",
+        "universidade": ""
+      }
+    ],
+    "graduacao": [
+      {
+        "descricao": "BARREIROS, B. C.; CARDEL, L.; SARTORE, M. S.. Participação em banca de Lucas Valoz Castellucci.Responsabilidade social ou clientelismo? Uma análise sociológica das estratégias de legitimação da indústria química em Maceió ? AL. 2023. Trabalho de Conclusão de Curso (Graduação em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2023,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Lucas Valoz Castellucci",
+        "membros_banca": [
+          "BARREIROS, B. C.",
+          "CARDEL, L.",
+          "SARTORE, M. S."
+        ],
+        "titulo_trabalho": "Responsabilidade social ou clientelismo? Uma análise sociológica das estratégias de legitimação da indústria química em Maceió ? AL",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "SILVA-MAZON, M.; ORCHARD, M. S. E.; BARREIROS, B. C.. Participação em banca de Sara Durante Baschirotto.Responsabilidade Social Empresarial: uma análise a partir da Tractebel Energia em perspectiva sociológica. 2015. Trabalho de Conclusão de Curso (Graduação em Abi - Ciências Sociais) - Universidade Federal de Santa Catarina.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Sara Durante Baschirotto",
+        "membros_banca": [
+          "SILVA-MAZON, M.",
+          "ORCHARD, M. S. E.",
+          "BARREIROS, B. C."
+        ],
+        "titulo_trabalho": "Responsabilidade Social Empresarial: uma análise a partir da Tractebel Energia em perspectiva sociológica",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Abi",
+        "universidade": "Universidade Federal de Santa Catarina"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "OLIVEIRA, L. A.; BARREIROS, B. C.; PREVIATTI, D.. Processo Seletivo para a Contratação de Docentes por Tempo Determinado do Departamento de Sociologia (edital 01/2022). 2023. Universidade Federal da Bahia.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "OLIVEIRA, L. A.; ALVES, A. R. C.; BARREIROS, B. C.. Processo Seletivo para a Contratação de Docentes por Tempo Determinado do Departamento de Sociologia (edital 01/2021). 2021. Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal da Bahia.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 16,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 11,
+    "total_projetos_pesquisa": 4,
+    "total_projetos_extensao": 2,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 7,
+    "total_orientacoes_andamento": 4
+  }
+}

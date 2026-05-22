@@ -1,0 +1,105 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>PPGCS-UFBA-permanentes</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>PPGCS-UFBA-permanentes</h2></div>
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <style>
+    /* Ellipsis nas células: mostra "..." e deixa o tooltip trabalhar */
+    #tabela-membros .tabulator-cell {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    </style>
+    
+    <h3>Lista de membros</h3>
+    <div class="sl-controls">
+      <button id="membros-csv">⬇️ CSV</button>
+      <button id="membros-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-membros" class="sl-tabela" id="tabela-membros"></div>
+    
+    <script>
+    const DATA_MEMBROS = [{"nome": "Ana Rodrigues Cavalcanti Alves", "url": "membro-6506286038414113.html", "id_lattes": "6506286038414113", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "26/03/2026", "atualizacao_num": 20260326, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Departamento de Sociologia"}, {"nome": "Antonio da Silva Camara", "url": "membro-4868229187967997.html", "id_lattes": "4868229187967997", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "26/01/2026", "atualizacao_num": 20260126, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia"}, {"nome": "Bruno Costa Barreiros", "url": "membro-5274872727972308.html", "id_lattes": "5274872727972308", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "03/02/2026", "atualizacao_num": 20260203, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": ""}, {"nome": "Clóvis Roberto Zimmermann", "url": "membro-7132903863839824.html", "id_lattes": "7132903863839824", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "03/05/2026", "atualizacao_num": 20260503, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, FFCH"}, {"nome": "Débora Previatti", "url": "membro-0212366491733548.html", "id_lattes": "0212366491733548", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "07/05/2026", "atualizacao_num": 20260507, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Escola de Nutrição"}, {"nome": "Felipe Vargas", "url": "membro-6150854485177629.html", "id_lattes": "6150854485177629", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "02/03/2026", "atualizacao_num": 20260302, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas"}, {"nome": "Iara Maria de Almeida Souza", "url": "membro-1266626414413147.html", "id_lattes": "1266626414413147", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "23/03/2026", "atualizacao_num": 20260323, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia"}, {"nome": "Jair Batista da Silva", "url": "membro-7967150503062793.html", "id_lattes": "7967150503062793", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "03/03/2026", "atualizacao_num": 20260303, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Departamento de Sociologia"}, {"nome": "Julio Souto Salom", "url": "membro-8500045280840862.html", "id_lattes": "8500045280840862", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "27/03/2026", "atualizacao_num": 20260327, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": ""}, {"nome": "Leandro de Paula Santos", "url": "membro-3833811692758640.html", "id_lattes": "3833811692758640", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "06/04/2026", "atualizacao_num": 20260406, "grande_area": "Ciências Sociais Aplicadas", "area": "Comunicação", "instituicao": "Universidade Federal da Bahia"}, {"nome": "Leonardo Fernandes Nascimento", "url": "membro-7141811368487014.html", "id_lattes": "7141811368487014", "rotulo_grupo": "* Sem rótulo", "bolsa": "Nível 2 (***", "periodo": "", "atualizacao": "11/01/2026", "atualizacao_num": 20260111, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia"}, {"nome": "Lucas Amaral de Oliveira", "url": "membro-0974813858531390.html", "id_lattes": "0974813858531390", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "28/04/2026", "atualizacao_num": 20260428, "grande_area": "Ciências Humanas", "area": "História", "instituicao": "Universidade Federal da Bahia, Departamento de Sociologia"}, {"nome": "Luiz Claudio Lourenço", "url": "membro-9249653080596163.html", "id_lattes": "9249653080596163", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "15/05/2026", "atualizacao_num": 20260515, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas"}, {"nome": "Maria Gabriela Hita", "url": "membro-2408407341179334.html", "id_lattes": "2408407341179334", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "28/03/2026", "atualizacao_num": 20260328, "grande_area": "Ciências Humanas", "area": "Antropologia", "instituicao": ""}, {"nome": "Maria Rosário Gonçalves de Carvalho", "url": "membro-1298757533709756.html", "id_lattes": "1298757533709756", "rotulo_grupo": "* Sem rótulo", "bolsa": "Nível 1D - CA CS - Antrop., Arqueol., C. Política, Direito, Rel. Internacionais e Sociologia", "periodo": "", "atualizacao": "27/03/2026", "atualizacao_num": 20260327, "grande_area": "Ciências Humanas", "area": "Antropologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e Etnologia"}, {"nome": "Mariana Aparecida dos Santos Panta", "url": "membro-1563910977768814.html", "id_lattes": "1563910977768814", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "10/04/2026", "atualizacao_num": 20260410, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas - Departamento de Sociologia"}, {"nome": "Mariana Thorstensen Possas", "url": "membro-7470966694138044.html", "id_lattes": "7470966694138044", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "03/11/2025", "atualizacao_num": 20251103, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas"}, {"nome": "Miriam Cristina Marcilio Rabelo", "url": "membro-7239267596119717.html", "id_lattes": "7239267596119717", "rotulo_grupo": "* Sem rótulo", "bolsa": "Nível 1C", "periodo": "", "atualizacao": "26/03/2026", "atualizacao_num": 20260326, "grande_area": "Ciências Humanas", "area": "Antropologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia"}, {"nome": "Paula Cristina da Silva", "url": "membro-3865670491591815.html", "id_lattes": "3865670491591815", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "30/03/2026", "atualizacao_num": 20260330, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia"}, {"nome": "Paulo César Borges Alves", "url": "membro-4053383742253379.html", "id_lattes": "4053383742253379", "rotulo_grupo": "* Sem rótulo", "bolsa": "Nível C", "periodo": "", "atualizacao": "10/02/2026", "atualizacao_num": 20260210, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia"}, {"nome": "Rafael de Aguiar Arantes", "url": "membro-9187555671886787.html", "id_lattes": "9187555671886787", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "21/05/2026", "atualizacao_num": 20260521, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Centro de Recursos Humanos"}, {"nome": "Ricardo Pagliuso Regatieri", "url": "membro-3077741187299322.html", "id_lattes": "3077741187299322", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "16/04/2026", "atualizacao_num": 20260416, "grande_area": "Ciências Humanas", "area": "Sociologia", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia"}, {"nome": "Sue Angélica Serra Iamamoto", "url": "membro-4927287864728189.html", "id_lattes": "4927287864728189", "rotulo_grupo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "20/01/2026", "atualizacao_num": 20260120, "grande_area": "[sem-grandeArea]", "area": "[sem-area]", "instituicao": "Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas"}];
+    const TABLE_HEIGHT = "70vh"; // "auto" | "70vh" | "90vh"
+    
+    const LANG_PT = {
+      "pt-br": {
+        "pagination": {
+          "first":"«","first_title":"Primeira",
+          "last":"»","last_title":"Última",
+          "prev":"‹","prev_title":"Anterior",
+          "next":"›","next_title":"Próxima"
+        },
+        "headerFilters": { "default":"⎯ Filtrar ⎯" }
+      }
+    };
+    
+    // Ordenador para data BR usando campo auxiliar yyyymmdd (numérico)
+    function sortDateBR(a, b, aRow, bRow, column, dir, sorterParams) {
+      const av = aRow?.getData()?.atualizacao_num ?? 0;
+      const bv = bRow?.getData()?.atualizacao_num ?? 0;
+      return av - bv;
+    }
+    
+    // Formatter de link com title (tooltip no próprio <a>)
+    function linkWithTitle(cell, formatterParams, onRendered) {
+      const data = cell.getData();
+      const url = data && data.url ? String(data.url) : "#";
+      const label = String(cell.getValue() ?? "");
+      const a = document.createElement("a");
+      a.href = url;
+      a.textContent = label;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.title = label; // <-- tooltip no link
+      return a;
+    }
+    
+    function createTable(el, data, columns, initialSort) {
+      const base = {
+        data,
+        layout: "fitColumns",
+        responsiveLayout: "collapse",
+        pagination: "local",
+        paginationSize: 50,
+        paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+        movableColumns: true,
+        initialSort,
+        headerFilterLiveFilter: true,
+        columns,
+        locale: true, langs: LANG_PT, locale: "pt-br",
+        tooltips: true    // <-- tooltip global (para colunas sem link)
+      };
+      if (TABLE_HEIGHT !== "auto") {
+        base.height = TABLE_HEIGHT;
+      }
+      return new Tabulator(el, base);
+    }
+    
+    document.addEventListener("DOMContentLoaded", function(){
+      const columns = [
+        // Nome com link + title no próprio <a>
+        { title:"Nome", field:"nome", formatter: linkWithTitle,
+           headerFilter:"input", widthGrow:3, tooltip:true },
+    
+        // Demais colunas (tooltip global já cobre)
+        { title:"ID Lattes", field:"id_lattes", headerFilter:"input", tooltip:true },
+        { title:"Rótulo/Grupo", field:"rotulo_grupo", headerFilter:"input", tooltip:true },
+        { title:"Bolsa CNPq", field:"bolsa", headerFilter:"input", tooltip:true },
+        { title:"Período de análise individual", field:"periodo", headerFilter:"input", tooltip:true },
+        { title:"Data de atualização do CV", field:"atualizacao", headerFilter:"input", sorter: sortDateBR, tooltip:true },
+        { title:"Grande área", field:"grande_area", headerFilter:"input", tooltip:true },
+        { title:"Área", field:"area", headerFilter:"input", tooltip:true },
+        { title:"Instituição", field:"instituicao", headerFilter:"input", tooltip:true },
+      ];
+    
+      const t = createTable("#tabela-membros", DATA_MEMBROS, columns, [{ column: "nome", dir: "asc" }]);
+    
+      document.getElementById("membros-csv").onclick  = () => t.download("csv",  "lista_membros.csv", { bom:true });
+      document.getElementById("membros-xlsx").onclick = () => t.download("xlsx", "lista_membros.xlsx", { sheetName:"Membros" });
+    });
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 1900 até 2026
+<br>Data de processamento: 22/05/2026 13:15:04<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:leofn3@gmail.com">leofn3@gmail.com</a>         </div> </body></html>

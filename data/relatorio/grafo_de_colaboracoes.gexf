@@ -1,0 +1,622 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-22">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="url" type="string" />
+      <attribute id="1" title="publicacoesEmCoautoria" type="long" />
+      <attribute id="2" title="atualizacaoCV" type="string" />
+      <attribute id="3" title="resumo" type="string" />
+      <attribute id="4" title="rotulo" type="string" />
+      <attribute id="5" title="periodo" type="string" />
+      <attribute id="6" title="nomePrimeiraGrandeArea" type="string" />
+      <attribute id="7" title="nomePrimeiraArea" type="string" />
+      <attribute id="8" title="instituicao" type="string" />
+      <attribute id="9" title="enderecoProfissional" type="string" />
+      <attribute id="10" title="artigosPeriodicos" type="long" />
+      <attribute id="11" title="artigosEventos" type="long" />
+      <attribute id="12" title="capitulosDeLivros" type="long" />
+      <attribute id="13" title="livros" type="long" />
+      <attribute id="14" title="color" type="string" />
+      <attribute id="15" title="fontColor" type="string" />
+      <attribute id="16" title="degree" type="long" />
+      <attribute id="17" title="x" type="double" />
+      <attribute id="18" title="y" type="double" />
+      <attribute id="19" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0" label="Ana Rodrigues Cavalcanti Alves">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/6506286038414113" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="26/03/2026" />
+          <attvalue for="3" value="Professora Adjunta do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e do Programa de Pós-graduação em Ciências Sociais - PPGCS/UFBA. Possui graduação sanduíche em Ciências Sociais pela Universidade Federal de Pernambuco (2008) e Universidade de Hamburgo/ Alemanha (2006-2007), mestrado em Sociologia (2011) e doutorado em Sociologia (2018) pelo PPGS-UFPE. Realizou pós-doutorado em Sociologia pela Universidade Federal de Pernambuco (2018-2019). Tem experiência na área de Sociologia, com ênfase em teoria social, sociologia brasileira e sociologia do consumo. Integra o Projeto de Pesquisa ''Uma sociologia do artesanato intelectual: a Biblioteca de Florestan Fernandes e a América Latina (1959-1985)'', financiado pelo CNPq, bem como os seguintes Grupos de Pesquisa: Periféricas - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades (UFBA); Vice-líder do Laboratório de Pesquisa e Estudos em Pensamento Social no Brasil (LAPES-Br). (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431" />
+          <attvalue for="10" value="14" />
+          <attvalue for="11" value="5" />
+          <attvalue for="12" value="5" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="-0.49010634570688766" />
+          <attvalue for="18" value="0.04340280770713745" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="1" label="Antonio da Silva Camara">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4868229187967997" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="26/01/2026" />
+          <attvalue for="3" value="ANTONIO DA SILVA CÂMARA concluiu o doutorado em Sociologia - Université de Paris VII em 1994. Realizou Pós-doutoramento no CNRS/Universidade Toulouse le Mirail (França) em 2000. Atualmente é PROFESSOR Titular da Universidade Federal da Bahia. Publicou 36 artigos em periódicos especializados. Organizador de cinco livros, publicou 24 capítulos de livros. Orientou 39 dissertações de mestrado e coorientou 4, orientou 25 teses de doutorado, além de ter orientado 70 trabalhos de iniciação científica e 39 trabalhos de conclusão de curso na área de Sociologia. Entre 1999 e 2019 coordenou 15 projetos de pesquisa. Atualmente coordena 01 projeto de pesquisa. Atua na área de Sociologia, com ênfase em Sociologia da Arte, Representações sociais no cinema e cinema e ideologia. Em suas atividades profissionais interagiu com colaboradores em coautorias de trabalhos científicos. Em seu currículo Lattes os termos mais frequentes na contextualização da produção científica, tecnológica e artístico-cultural são: arte, sociologia da arte, cinema, ideologia, movimentos sociais, representações sociais. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de são Lázaro 197 FEDERAÇAO 40210730 - Salvador, BA - Brasil Telefone: (71) 32836454 Fax: (71) 2354635" />
+          <attvalue for="10" value="38" />
+          <attvalue for="11" value="26" />
+          <attvalue for="12" value="24" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.7000000000000001" />
+          <attvalue for="18" value="-0.07827554117937754" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="2" label="Bruno Costa Barreiros">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/5274872727972308" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="03/02/2026" />
+          <attvalue for="3" value="Professor Adjunto no Departamento de Sociologia da Universidade Federal da Bahia. Professor permanente da Pós-Graduação em Ciências Sociais da UFBA (PPGCS-UFBA). Graduado em psicologia pela UFBA, realizou mestrado e doutorado em Sociologia Política pela UFSC, incluindo estágio doutoral na École Normale Supérieure de Paris. Suas pesquisas se inserem na interface entre a sociologia econômica e a sociologia das elites. Atualmente, desenvolve pesquisa sobre as estratégias políticas do empresariado na promoção do desenvolvimento sustentável. É integrante apoiador do Comitê de Pesquisa de Sociologia Econômica (CPSE) da Sociedade Brasileira de Sociologia (SBS). É um dos líderes do LAPOCS - Laboratório de Pesquisas em Poder, Cultura, Política, Práticas Sociais e Hierarquias Simbólicas. Também é pesquisador associado ao NESPOM-UNESP (Núcleo de Estudos e Pesquisa sobre Sociedade, Emoções, Poder, Organização e Mercado). Coordenador do GT ANPOCS &quot;Sociedade e Vida Econômica&quot; desde 2023. Principais áreas de interesse: Sociologia Econômica, Sociologia Política, Sociologia das Elites, Análise do Discurso, Metodologia de pesquisa em ciências sociais e Desenvolvimento Sustentável. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="16" />
+          <attvalue for="11" value="11" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="-0.38604557916099996" />
+          <attvalue for="18" value="-0.512986261263405" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="3" label="Clóvis Roberto Zimmermann">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7132903863839824" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="03/05/2026" />
+          <attvalue for="3" value="Possui graduação em Sociologia e Teologia pela Universidade de Heidelberg na Alemanha e doutorado em Sociologia - Universitat Heidelberg (Ruprecht-Karls) (2004). Atualmente é professor adjunto de Sociologia da Universidade Federal da Bahia e membro do Programa de pós-graduação em Ciências Sociais da mesma universidade. Orientador de pós-graduação na área de Sociologia, com ênfase em Políticas Sociais, atuando principalmente nos seguintes temas: teoria das políticas sociais, participação nas políticas sociais e direitos sociais. Orientador de doutorado do trabalho de Rafael Xucuru-Kariri (Carlos Rafael da Silva), que venceu a edição de 2024 do Prêmio CAPES de Tese na área de Sociologia e também vendedor do Grande Prêmio CAPES de Tese Lélia Gonzalez (Colégio de Humanidades - Ciências Humanas, Linguística, Letras, Artes e Ciências Sociais Aplicadas). (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, FFCH" />
+          <attvalue for="9" value="Universidade Federal da Bahia, FFCH. Faculdade de Filosofia e Ciências Humanas SãoLázaro 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: http://www.ffch.ufba.br" />
+          <attvalue for="10" value="48" />
+          <attvalue for="11" value="12" />
+          <attvalue for="12" value="27" />
+          <attvalue for="13" value="8" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.2626511759260616" />
+          <attvalue for="18" value="0.5656958735540296" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="4" label="Débora Previatti">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/0212366491733548" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="07/05/2026" />
+          <attvalue for="3" value="Graduada em Ciências Sociais pela Universidade Federal de Santa Catarina (UFSC), com mestrado e doutorado em Sociologia Política pela mesma instituição, e doutorado sanduíche na École des Hautes Études en Sciences Sociales (EHESS), no Centre Européen de Sociologie et de Science Politique (CESSP). É Professora Adjunta da Universidade Federal da Bahia (UFBA), atuando nos bacharelados em Nutrição e Gastronomia, e docente permanente do Programa de Pós-Graduação em Ciências Sociais. É uma das líderes do LAPOCS Laboratório de Pesquisas em Poder, Cultura, Política, Práticas Sociais e Hierarquias Simbólicas. Em 2025, coordenou o Grupo de Trabalho Sociologia da Alimentação da Sociedade Brasileira de Sociologia. Possui experiência na área de Sociologia, com ênfase em Sociologia da Cultura, Sociologia da Alimentação, Sociologia das Elites e Sociologia da Saúde. Seus temas atuais de interesse incluem a circulação de bens culturais e a construção de legitimidades; gostos, estilos de vida e hierarquias sociais; livros de culinária e gastronomia; lógicas sociais da edição; intermediários culturais e trajetórias; práticas alimentares e desigualdades. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Escola de Nutrição" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Escola de Nutrição. Rua Araújo Pinho, 32 Canela 40301110 - Salvador, BA - Brasil Telefone: (71) 32837700" />
+          <attvalue for="10" value="10" />
+          <attvalue for="11" value="8" />
+          <attvalue for="12" value="5" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="-0.3738957564666214" />
+          <attvalue for="18" value="-0.4978066832008158" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="5" label="Felipe Vargas">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/6150854485177629" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="02/03/2026" />
+          <attvalue for="3" value="Pós-Doutor em Desenvolvimento Rural pelo Programa de Pós-Graduação em Desenvolvimento Rural (PGDR/UFRGS). Doutor em Sociologia (PPGS/UFRGS). Mestre em Sociologia (PPGS/UFRGS). Graduado em Ciências Jurídicas e Sociais (UFRGS). Professor Ajunto na Universidade Federal da Bahia (UFBA), Faculdade de Filosofia e Ciências Humanas (FFCH) no Departamento de Sociologia. Professor permanente do Programa de Pós-graduação em Ciências Sociais (PPGCS) vinculado a FFCH/UFBA. Professor colaborador do Programa Multidisciplinar de Pós-graduação em Cultura e Sociedade, vinculado ao Instituto de Humanidades, Artes e Ciência Professor Milton Santos (IHAC) na UFBA. Integrante do Grupo de Pesquisa Periféricas, vinculado à Faculdade de Filosofia e Ciências Humanas da Universidade Federal da Bahia (UFBA). Coordenador do grupo de pesquisa NUCLEAR (Núcleo de Estudos Ambientais Urbanos e Rurais), vinculado à Faculdade de Filosofia e Ciências Humanas da UFBA. Membro do Grupo Ecologia Política da CLACSO. Colaborador do Groupe d'Études Constructivistes (GECo) da Université Libre de Bruxelles (ULB). Áreas de interesse de pesquisa: (i) questão ambiental; (ii) questão colonial; (iii) relação sociedade-natureza; (iv) estudos científicos (Science Studies); (v) antropologia indígena. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada de São Lázaro Federação 40226365 - Salvador, BA - Brasil Telefone: (071) 32836431" />
+          <attvalue for="10" value="11" />
+          <attvalue for="11" value="1" />
+          <attvalue for="12" value="7" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.4669132031545418" />
+          <attvalue for="18" value="0.4407049754775299" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="6" label="Iara Maria de Almeida Souza">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/1266626414413147" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="23/03/2026" />
+          <attvalue for="3" value="Fiz a graduação (1985), mestrado (1995) e doutorado (2004) em Ciências Sociais na Universidade Federal da Bahia, onde sou docente do Departamento de Sociologia. Integro o Programa de Pós-Graduação em Ciências Sociais, tendo exercido a coordenação entre 2009 e 2011. Pós-doutorado no Museu Nacional (UFRJ) e na UFMG. Faço pesquisa em sobre ciência e relação humano animal. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de São Lázaro, 197 Federação 40210-730 - Salvador, BA - Brasil Telefone: (71) 32354635 Fax: (71) 32354635" />
+          <attvalue for="10" value="20" />
+          <attvalue for="11" value="15" />
+          <attvalue for="12" value="14" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="0.08177092010999175" />
+          <attvalue for="18" value="-0.04399085773985789" />
+          <attvalue for="19" value="4" />
+        </attvalues>
+      </node>
+      <node id="7" label="Jair Batista da Silva">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7967150503062793" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="03/03/2026" />
+          <attvalue for="3" value="Sou professor associado IV do Departamento de Sociologia, do Programa de Pós-graduação em Ciências Sociais e do Porgrama de Pós-Graduação em Serviço Social. Coordenador do Grupo de Pesquisa ''Trabalho, Desigualdades e Teoria Social'', além de pesquisador do Centro de Estudos e Pesquisas em Humanidades (CRH), atuo ainda como edtior de resenhas na Revista Caderno CRH e como membro do Conselho Editorial da revista. Fui bolsista produtividade do CNPq (2019-2021), atue ainda comoi chefe do Departamento de Sociologia/UFBA (2020-2022). Coordenei o CRH-Centro de Estudos e Pesquisas em Humanidades da Universidade Federal da Bahia(gestão 2011-2013). Fui professor do departamento de Ciências Sociais e do Programa de Pós-Graduação em Sociologia da Universidade Federal da Paraíba(UFPB). Desenvolvi pesquisa de pós-doutorado no Programa de Pós-Graduação em Ciências Sociais/UFBA através de bolsa concedida pela CAPES/CNPq, entre julho/2008 a novembro de 2009. Realizei estágio pós doutoral no Programa de Pós-Graduação em Ciências Sociais da Universidade Federal de São Paulo (Unifesp) entre outubro de 2017 a setembro de 2018. Possuo ainda doutorado em Ciências Sociais pela Universidade Estadual de Campinas (2008) e mestrado em Sociologia pela mesma Universidade (2002). Além disso, graduei-me em Licenciatura em Ciências Sociais (1999) e Bacharelado em Ciências Sociais, com ênfase em Sociologia, pela Universidade Federal da Bahia (2000). Tenho experiência na área de Sociologia, especialmente em Sociologia do trabalho e teoria social, atuando e publicando trabalhos nos seguintes temas: racismo, sindicalismo, classes sociais, teoria social, teoria crítica, reestruturação produtiva e trabalho bancário. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Departamento de Sociologia. Estrada de São Lázaro Federação 40210730 - Salvador, BA - Brasil - Caixa-postal: 40150000 Telefone: (71) 32835852 URL da Homepage: www.ffch.ufba.br" />
+          <attvalue for="10" value="7" />
+          <attvalue for="11" value="9" />
+          <attvalue for="12" value="23" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.10615836185694866" />
+          <attvalue for="18" value="-0.05488331682559352" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="8" label="Julio Souto Salom">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/8500045280840862" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="27/03/2026" />
+          <attvalue for="3" value="Professor no Departamento de Sociologia da Universidade Federal da Bahia (UFBA). Professor Permanente do Programa de Pós-Graduação em Ciências Sociais da UFBA. Doutor em Sociologia (UFRGS, 2019), Mestre em Sociologia (UFRGS, 2014) e Licenciado em Sociología - Universitat de València (2011). Tem experiência na área de Sociologia da Cultura e das Relações Étnico Raciais, atuando principalmente nos seguintes temas: políticas públicas da cultura, poéticas orais, filosofia afro-brasileira. Integrante do grupo de pesquisa 'A Cor da Bahia' (UFBA) e do 'Laboratório Urgente de Teorias Armadas' (LUTA), grupo de trabalho associado ao NEABI-UFRGS. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="19" />
+          <attvalue for="11" value="9" />
+          <attvalue for="12" value="6" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.5610651282036682" />
+          <attvalue for="18" value="0.35853057929571863" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="9" label="Leandro de Paula Santos">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/3833811692758640" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="06/04/2026" />
+          <attvalue for="3" value="Professor Adjunto III da Universidade Federal da Bahia (UFBA), vinculado ao Instituto de Humanidades, Artes e Ciências (IHAC) e aos Programas de Pós-Graduação em Ciências Sociais (PPGCS) e Multidisciplinar em Cultura e Sociedade (Pós-Cultura). Doutor em Comunicação pela UFRJ (2016), com estágio de pesquisa de doze meses no departamento de Ciências da Religião (Religious Studies) da Universidade da Califórnia, em Santa Barbara (UCSB, EUA, 2014-2015). Estágios de pós-doutorado em Antropologia na Universidade de Edimburgo (Escócia, 2023) e em Ciências Sociais na Scuola Normale Superiore (Itália, 2023), com bolsa Capes, e no Programa de Pós-Graduação em Cultura e Territorialidades da UFF (2024). Mestrado em Comunicação pela PUC-Rio (2009) e Graduação em Produção Cultural pela UFF (2006). Com Hannah Bellini, organizou a coletânea ''Religião e Cenas Morais: modos religiosos de ler e habitar o mundo'' (Edufba, 2025). Líder do LOGIN - Grupo de Pesquisa 'Cultura, Política, Lógicas Identitárias e Produtivas', certificado pelo CNPq desde 2018. Principais temas de pesquisa: públicos; religião; moralidade; sociologia da crítica. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Sociais Aplicadas" />
+          <attvalue for="7" value="Comunicação" />
+          <attvalue for="8" value="Universidade Federal da Bahia" />
+          <attvalue for="9" value="Universidade Federal da Bahia. Rua Barão de Jeremoabo - PAF V Ondina 40170115 - Salvador, BA - Brasil Telefone: (71) 32836788 URL da Homepage: www./ihac.ufba.br" />
+          <attvalue for="10" value="29" />
+          <attvalue for="11" value="15" />
+          <attvalue for="12" value="16" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.6829695280852369" />
+          <attvalue for="18" value="-0.08223471823739731" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="10" label="Leonardo Fernandes Nascimento">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7141811368487014" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="11/01/2026" />
+          <attvalue for="3" value="Eu tenho formação técnica em química pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA (1997), graduação em psicologia pela Universidade Federal da Bahia - UFBA (2002), mestrado em sociologia pela Universidade de São Paulo - USP (2007) e doutorado em sociologia pelo Instituto de Estudos Sociais e Políticos - IESP/UERJ (2013). Entre 2010 e 2011, realizei estágio doutoral de um ano na École des Hautes Études en Sciences Sociales (EHESS) em Paris, França. Em seguida, entre 2022 e 2023, fui Pesquisador Visitante na University of Alberta (Edmonton/Canadá) sob a orientação do professor Geoffrey Rockwell. Sou membro permanente do Programa de Pós-graduação em Ciências Sociais (PPGCS/UFBA) e coordenador do Laboratório de Humanidades Digitais da UFBA, onde desenvolvo pesquisas sobre desinformação, discurso de ódio e extremismos políticos nos ecossistemas digitais multiplataforma com o apoio do InternetLab e do CNPq. De 2023 a 2024, ocupei o cargo de Gerente Geral de Projetos Especiais do Governo de Pernambuco, onde coordenei uma equipe de análise de dados governamentais. Desenvolvo pesquisas que envolvem Sociologia Digital, Humanidades Digitais e Ciência Social computacional. Atualmente sou Bolsista de Produtividade em Pesquisa do CNPq, atuo no Departamento de Estudos Econômicos (DEE) do Conselho Administrativo de Defesa Econômica (CADE) e sou bolsista do Instituto de Pesquisa Econômica Aplicada (IPEA) no projeto &quot;Política em tempos polarizados: reflexões sobre as relações entre cosmovisão, moral e política no Brasil&quot;. Links e Competências body { font-family: Arial, sans-serif; text-align: center; line-height: 1.6; } ul { list-style-type: none; padding: 0; } li { margin: 8px 0; }" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia" />
+          <attvalue for="9" value="Universidade Federal da Bahia. Quadra SEPN 515 Bloco B Asa Norte 70770502 - Brasília, DF - Brasil Telefone: (61) 32218409 URL da Homepage: https://www.gov.br/cade/pt-br" />
+          <attvalue for="10" value="20" />
+          <attvalue for="11" value="5" />
+          <attvalue for="12" value="7" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.054983652772467036" />
+          <attvalue for="18" value="-0.053019669817686715" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="11" label="Lucas Amaral de Oliveira">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/0974813858531390" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="28/04/2026" />
+          <attvalue for="3" value="Professor do Departamento de Sociologia e coordenador do Programa de Pós-Graduação em Ciências Sociais (PPGCS) da Universidade Federal da Bahia (UFBA), onde lidera o PERIFÉRICAS - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades. Foi Visiting Fellow da British Academy na Queens University Belfast (2023) e pesquisador visitante na Universidade de Copenhague, no âmbito do CAPES-PrInt (2024). Doutor e mestre em Sociologia pela Universidade de São Paulo (USP) e bacharel em Ciências Sociais pela Universidade Estadual de Londrina (UEL). É autor de ''Experiências Estéticas em Movimento'' (ApeKu, 2020) e coorganizador de ''Teoria Social e Desafios Pós-Coloniais'' (Edufba, 2024). Desenvolve pesquisas em história intelectual e das ideias, sociologia da cultura e sociologia urbana, com ênfase nos debates sobre formação nacional, questão racial e processos de produção e disputa do espaço urbano. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="História" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: https://sociologia.ufba.br/prof-lucas-amaral-de-oliveira" />
+          <attvalue for="10" value="38" />
+          <attvalue for="11" value="14" />
+          <attvalue for="12" value="7" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="-0.4978859739913443" />
+          <attvalue for="18" value="0.033743686036746184" />
+          <attvalue for="19" value="4" />
+        </attvalues>
+      </node>
+      <node id="12" label="Luiz Claudio Lourenço">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/9249653080596163" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="15/05/2026" />
+          <attvalue for="3" value="Possui bacharelado (1997) e mestrado (2000) em Ciências Sociais pela Universidade Federal de São Carlos e doutorado em Ciência Política (Ciência Política e Sociologia) pelo Instituto Universitário de Pesquisas do Rio de Janeiro (2007). É professor associado na Universidade Federal da Bahia - UFBA atuando no Departamento de Sociologia. Também faz parte do quadro de docentes permanentes do Programa de Pós-Graduação em Ciências Sociais - UFBA. Na pesquisa é um dos coordenadores do 'Laboratório de Estudos sobre Crime e Sociedade - LASSOS' (UFBA). Faz parte do comitê gestor do Instituto Nacional de Ciência e Tecnologia Violência, Poder e Segurança Pública (INViPS) e do comitê gestor do Instituto Nacional de Ciência e Tecnologia Autoritarismoe Democracia. Desenvolveu atividades de extensão coordenando a área de Sociologia do Programa Institucional de Iniciação à Docência - PIBID-UFBA (CAPES) de 2010 a 2014. Foi Secretário Geral (2011-2013) e Diretor Tesoureiro (2013-2015) da Sociedade Brasileira de Sociologia - SBS. Tem interesse nos seguintes temas: sociologia da punição, sociologia do desvio, sistema socioeducativo, políticas de defesa social, metodologias quantitativa e qualitativa. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada de São Lazaro n. 197 Federação 40210730 - Salvador, BA - Brasil URL da Homepage: http://www.ppgs.ufba.br/main.asp?view=Perfil.docente&amp;id=77" />
+          <attvalue for="10" value="29" />
+          <attvalue for="11" value="13" />
+          <attvalue for="12" value="19" />
+          <attvalue for="13" value="5" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="0.2714425819288371" />
+          <attvalue for="18" value="0.5824166074002332" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="13" label="Maria Gabriela Hita">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/2408407341179334" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="28/03/2026" />
+          <attvalue for="3" value="Maria Gabriela Hita possui graduação em Sociologia pela Universidade Federal da Bahia (1985), mestrado em Ciências Sociais pela Facultad Latinoamericana de Ciências Sociales (FLACSO)-Sed Académica-México (1988), doutorado em Ciências Sociais pela Universidade Estadual de Campinas (IFCH-UNICAMP - 2004), 3 estágios pós-doutorais na Universidade de Manchester - Grã Bretanha (2008, 2013, 2018) e um na Universidad de Buenos Aires (UBA), em Argentina (2023). É Professora Titular do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e Pesquisadora do Conselho Nacional de Desenvolvimento Científico e Tecnologico (CNPQ) no ECSAS-PPGCS-UFBA. Atua nos Programas de Pós-graduação em Ciências Sociais (PPGCS-UFBA) e no de Estudos Interdisciplinares sobre Mulher, Gênero e Feminismo (PPGNEIM-UFBA) dessa mesma instituição. Foi também pesquisadora do Programa Interdisciplinar de Estudios de la Mujer (PIEM) de El Colégio de México (COLMEX - 1989 a 1992), na cidade do México (CDMX). É um dos membros fundadores e atual Vice lider do Núcleo de Estudos sobre Corpos, Sensibilidades e Ambientes (ECSAS), atrelado ao PPGCS-UFBA, cadastrado no CNPq desde 1994. Coordenou o Laboratório Interdisciplinar de Desigualdades Sociais (LIDES) ligado ao PPGCS-UFBA entre 2010 a 2012 e o Programa de Pós-Graduação em Ciências Sociais (PPGCS) da UFBA entre 2019 e 2021. Tem experiência em Teoria Social, Teoria do Conhecimento (epistemologia e metodologias das Ciências Sociais) e teorias feministas, com inspiração fenomenológica. Tem publicado, pesquisado e orientado ampla variedade de temas com enfoque em questões urbanas e de desigualdades sociais, sócio-culturais, etnico-raciais e políticas e pobreza urbana, e no seu original campo de especialização sobre estudos de gênero, sexualidade, identidades, parentesco, família, e saúde (mental e reprodutiva) da mulher. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Antropologia" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="27" />
+          <attvalue for="11" value="20" />
+          <attvalue for="12" value="31" />
+          <attvalue for="13" value="7" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="0.06605327055499613" />
+          <attvalue for="18" value="-0.023800253543894593" />
+          <attvalue for="19" value="3" />
+        </attvalues>
+      </node>
+      <node id="14" label="Maria Rosário Gonçalves de Carvalho">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/1298757533709756" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="27/03/2026" />
+          <attvalue for="3" value="Doutora em Antropologia Social pela Universidade de São Paulo. Professora Titular e Emérita da Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e Etnologia. Bolsista de Produtividade de Pesquisa 1 do CNPq .Coordena o Programa de Pesquisas Sobre Povos Indígenas do Nordeste Brasileiro (PINEB) e o Fundo de Documentação Histórica Manuscrita sobre Índios da Bahia (FUNDOCIN). Tem se dedicado especialmente aos temas da Identidade, Etnicidade, Relações Raciais e Teoria Antropológica.. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Antropologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e Etnologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e Etnologia. Estrada de São Lázaro, 197 Federação 40210-030 - Salvador, BA - Brasil Telefone: (71) 2354635 Ramal: 23 Fax: (71) 2354635 URL da Homepage: www.ufba.br" />
+          <attvalue for="10" value="35" />
+          <attvalue for="11" value="6" />
+          <attvalue for="12" value="47" />
+          <attvalue for="13" value="15" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.1955841913889804" />
+          <attvalue for="18" value="-0.6842355670862005" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="15" label="Mariana Aparecida dos Santos Panta">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/1563910977768814" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10/04/2026" />
+          <attvalue for="3" value="Professora do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e Docente Permanente do Programa de Pós-Graduação em Ciências Sociais (PPGCS-UFBA). Doutora em Ciências Sociais pela Universidade Estadual Paulista (Unesp-Marília), com estágio de doutoramento no Centro de Estudos Sociais da Universidade de Coimbra, Portugal (2018). Realizou estágio pós-doutoral no Programa de Pós-Graduação em Sociologia da Universidade Estadual de Londrina (UEL), no âmbito do PNPD/CAPES (2019-2021), e atualmente desenvolve segundo pós-doutorado na UEL, pelo Programa de Desenvolvimento da Pós-Graduação (PDPG) - Políticas Afirmativas e Diversidade (CAPES). Integra o Programa A Cor da Bahia - Programa de Pesquisa e Formação sobre Relações Raciais, Cultura e Identidade Negra na Bahia (UFBA), o Laboratório de Estudos Afro-Brasileiros (Leafro-UEL) e o Centro de Estudos sobre Sociedade, Universidade e Ciência da Universidade Federal de São Paulo (SoU_Ciência-Unifesp). Tem experiência na área de Sociologia das Relações Étnico-Raciais e Sociologia Urbana, com interesse, principalmente, nos seguintes temas: racismo e antirracismo; segregação urbana e racial; desigualdades e interseccionalidade; educação antirracista; políticas de ações afirmativas na educação superior; aspectos sociais em saúde; trajetórias de personalidades negras e pensamento decolonial. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas - Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas - Departamento de Sociologia. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431" />
+          <attvalue for="10" value="11" />
+          <attvalue for="11" value="11" />
+          <attvalue for="12" value="11" />
+          <attvalue for="13" value="9" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.5087728795039039" />
+          <attvalue for="18" value="-0.5010338135270314" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="16" label="Mariana Thorstensen Possas">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7470966694138044" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="03/11/2025" />
+          <attvalue for="3" value="É professora do Departamento de Sociologia da Universidade Federal da Bahia (UFBA), do Programa de Pós-Graduação em Ciências Sociais (PPGCS/UFBA) e do Mestrado Profissional em Segurança Pública, Justiça e Cidadania (MPSPJC). É também uma das coordenadoras do Laboratório de Estudos sobre Crime e Sociedade (LASSOS/UFBA). Possui graduação em direito pela Pontifícia Universidade Católica de São Paulo (1999), graduação em ciências sociais pela Universidade de São Paulo (2003), mestrado em direito penal pela Universidade de São Paulo (2003), doutorado em criminologia pela Universidade de Ottawa, Canadá (2009), com bolsa CAPES e pós-doutorado pelo Núcleo de Estudos da Violência, da USP (NEV/USP), com bolsa FAPESP (2012). Foi pesquisadora visitante na Universidade de Toronto, Canadá (2019) e na Universidade de Florença, Itália (2024), com bolsa CAPES-PRINT. Suas áreas de interesse são sociologia do direito, sociologia da violência e sociologia dos direitos humanos. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836431" />
+          <attvalue for="10" value="17" />
+          <attvalue for="11" value="7" />
+          <attvalue for="12" value="10" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.0472637563140575" />
+          <attvalue for="18" value="0.6475102096474036" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="17" label="Miriam Cristina Marcilio Rabelo">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7239267596119717" />
+          <attvalue for="1" value="34" />
+          <attvalue for="2" value="26/03/2026" />
+          <attvalue for="3" value="Fiz graduação em Ciências Sociais pela Universidade Federal da Bahia (1982-1985), doutorado na Universidade de Liverpool, Inglaterra (1986-1990) e pós-doutorado nos departamentos de antropologia das universidades de Toronto (2002-2003), Aberdeen (2011) e Columbia (2019-2020) . Atualmente sou professora titular do Departamento de Sociologia e do Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia, onde leciono desde 1992. Tenho atuado nos campos da antropologia da religião e da saúde e escrito vários trabalhos sobre a construção do corpo e da experiência no contexto do candomblé, espiritismo e pentecostalismo. Mais recentemente venho me dedicando a pesquisas sobre religiões de matriz africana com foco na sensibilidade, modos de aprendizado e formas de conduta ética cultivados nessas religiões. Tenho interesse especial nos desdobramentos do pragmatismo clássico e da fenomenologia nas ciências sociais e nas abordagens contemporâneas à prática desenvolvidas sob inspiração dessas correntes teóricas. Sou pesquisadora do Núcleo de Estudos em Ciências Sociais e Saúde (ECSAS) da Universidade Federal da Bahia. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Antropologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de São Lázaro, 197 Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 32836446" />
+          <attvalue for="10" value="30" />
+          <attvalue for="11" value="8" />
+          <attvalue for="12" value="37" />
+          <attvalue for="13" value="4" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="0.07695623868234035" />
+          <attvalue for="18" value="-0.037619933446241795" />
+          <attvalue for="19" value="4" />
+        </attvalues>
+      </node>
+      <node id="18" label="Paula Cristina da Silva">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/3865670491591815" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="30/03/2026" />
+          <attvalue for="3" value="Professora Titular do Departamento de Sociologia da Universidade Federal da Bahia (UFBA), onde atua desde 1994. É docente do Programa de Pós-Graduação em Ciências Sociais (PPGCS) e do Programa de Pós-Graduação em Estudos Interdisciplinares sobre Mulheres, Gênero e Feminismo (PPGNEIM). Integra o Comitê Executivo da Brazilian Studies Association (BRASA). Foi parte da diretoria da Sociedade Brasileira de Sociologia (SBS). Realizou pós-doutorado no Programa de Pós-Graduação em Sociologia e Antropologia (IFCS-UFRJ), Rio de Janeiro (2023-2024), no Programa de Pós-Graduação em Sociologia da Universidade de Brasília (2017-2018), e no Center for Latin American and Iberian Studies (CLAIS) da Vanderbilt University, Estados Unidos (2007-2008). Possui doutorado em Sociologia pela Universidade de São Paulo (2003). Tem experiência na área de Sociologia das Relações Raciais (Racismo e Antirracismo), Sociologia da Desigualdade, Teoria Social Contemporânea, atuando principalmente nos seguintes temas: racismo, antirracismo, interseccionalidade, gênero, culturas negras diaspóricas, e processos de identificação. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Rua Aristides Novis, 197 Federação 40210630 - Salvador, BA - Brasil Telefone: (071) 32836460 URL da Homepage: http://www.acordabahia.ufba.br" />
+          <attvalue for="10" value="11" />
+          <attvalue for="11" value="5" />
+          <attvalue for="12" value="13" />
+          <attvalue for="13" value="13" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.10274279062203018" />
+          <attvalue for="18" value="-0.6863712715255534" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="19" label="Paulo César Borges Alves">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4053383742253379" />
+          <attvalue for="1" value="36" />
+          <attvalue for="2" value="10/02/2026" />
+          <attvalue for="3" value="Possui graduação em Filosofia pela Universidade Católica do Salvador (1973), mestrado em Ciências Sociais pela Universidade Federal da Bahia (1980), doutorado em Social And Environmental Studies Sociology - The University of Liverpool (1990) e pós-doutorado nas Universidades de Columbia (2021), St. Andrews (2011) e Toronto (2003). Possui bolsa de produtividade no CNPq; professor titular em sociologia da Universidade Federal da Bahia (1999). Foi professor visitante nas Universidades de St. Andrews (Escócia), Buenos Aires, La Republica (Uruguais) e de algumas universidades brasileiras. Tem experiência na área da sociologia e antropologia da saúde e literatura, atuando principalmente nos seguintes temas: narrativa de doença; itinerário terapêuticos; teoria social em saúde. Além de artigos publicados em revistas nacionais e estrangeiras, é autor dos seguintes livros (entre outros): ''Novas fronteiras metodológicas nas ciências sociais'' (2018), ''Trajetórias, sensibilidades, materialidades. Experiências com a fenomenologia'' (2012), ''Cultura. Múltiplas leituras'' (2010), ''Saúde e doença. Um olhar antropológico'' (4a ed. - 2004), ''Experiência de doença e narrativa'' (1999), ''Antropologia da Saúde. Traçando identidade e explorando fronteiras'' (1998), (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Estrada de São Lázaro, 197 Federação 99999-999 - Salvador, BA - Brasil Telefone: (71) 2354635 Fax: (71) 2354635 URL da Homepage: http://" />
+          <attvalue for="10" value="33" />
+          <attvalue for="11" value="8" />
+          <attvalue for="12" value="34" />
+          <attvalue for="13" value="12" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="0.07201133645932402" />
+          <attvalue for="18" value="-0.04133007071488034" />
+          <attvalue for="19" value="5" />
+        </attvalues>
+      </node>
+      <node id="20" label="Rafael de Aguiar Arantes">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/9187555671886787" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="21/05/2026" />
+          <attvalue for="3" value="Graduado em Ciências Sociais, com bacharelado em Sociologia, pela Universidade Federal da Bahia. Mestre e Doutor em Ciências Sociais pela mesma Universidade, com estágio de doutoramento no Instituto de Estudios Urbanos y Territoriales da Pontifícia Universidad Católica de Chile. Atualmente é professor adjunto III do Departamento de Sociologia, professor permanente do Programa de Pós-graduação em Ciências Sociais da UFBA e coordenador do Centro de Estudos e Pesquisas em Humanidades (CRH/UFBA). É pesquisador associado ao grupo de pesquisa Territórios, Poder e Desigualdades Sociais e ao Núcleo Salvador do INCT/Observatório das Metrópoles. Tem experiência de pesquisa, com ênfase em Sociologia Urbana, atuando principalmente nos seguintes temas: metrópoles latino-americanas, segregação e desigualdades socioespaciais, espaço público, sociabilidade urbana, governança e neoliberalização urbana. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Centro de Recursos Humanos" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Centro de Recursos Humanos. Rua Aristides Novis , 197 , Pavilhão de Aulas Thales de Azevedo Federação 40210909 - Salvador, BA - Brasil Telefone: (71) 32835850 URL da Homepage: http://www.crh.ufba.br" />
+          <attvalue for="10" value="19" />
+          <attvalue for="11" value="16" />
+          <attvalue for="12" value="15" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="-0.4936752887743775" />
+          <attvalue for="18" value="0.01914804601740856" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="21" label="Ricardo Pagliuso Regatieri">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/3077741187299322" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="16/04/2026" />
+          <attvalue for="3" value="É professor adjunto do Departamento de Sociologia e docente permanente do Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia. É um dos coordenadores do PERIFÉRICAS - Núcleo de Estudos em Teorias Sociais, Modernidades e Colonialidades, vinculado à Faculdade de Filosofia e Ciências Humanas da UFBA e inscrito no CNPq. Possui graduação em Ciências Sociais, mestrado em Sociologia e doutorado em Sociologia pela Universidade de São Paulo. Realizou período de doutorado sanduíche na Johann Wolfgang Goethe-Universität em Frankfurt. Foi Research Professor na Korea University e docente na Hankuk University of Foreign Studies, ambas em Seul. Também foi professor visitante na Universidade de Cabo Verde em Praia e na Universität Graz. Foi pesquisador visitante no Graduate Institute of International and Development Studies em Genebra, no Institut für die Wissenschaften vom Menschen em Viena e na Université Libre de Bruxelles. Seus interesses de pesquisa se concentram nos seguintes temas: teoria sociológica, teorias críticas, circulação do conhecimento, colonialidade, modernidade, dominação e autoritarismo. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Humanas" />
+          <attvalue for="7" value="Sociologia" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Sociologia. Rua Professor Aristides Novis, 197 Federação 40210909 - Salvador, BA - Brasil Telefone: (71) 32836431 URL da Homepage: sociologia.ufba.br" />
+          <attvalue for="10" value="21" />
+          <attvalue for="11" value="8" />
+          <attvalue for="12" value="7" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="-0.5165111243346341" />
+          <attvalue for="18" value="0.03672960078738533" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="22" label="Sue Angélica Serra Iamamoto">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/4927287864728189" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="20/01/2026" />
+          <attvalue for="3" value="É professora adjunta no Departamento de Ciência Política da Universidade Federal da Bahia (UFBA). Possui graduação em Comunicação Social, habilitação Jornalismo (2002-2008) e mestrado em Ciência Política, ambos na Universidade de São Paulo (2009-2011), e doutorado em Ciência Política pela Queen Mary University of London (2011-2016). Fez estágios pós-doutorais no Instituto Iberoamericano em Berlim (2022) e na London School of Economics and Poltical Science (LSE) (2023/24) e na Universidade de São Paulo (2024). É autora dos livros El nacionalismo boliviano en tiempos de plurinacionalidad (OEP, 2013) e Memories and Social Struggles in Contemporary Bolivia: Platforms in Convulsive Times (Bloomsbury, 2025). Foi coordenadora do grupo de pesquisa do CNPq, vinculado à UFBA, Democracia, Participação e Representação Política (Depare). Atua como docente permanente do PPGCP e do PPGCS da UFBA. Seus principais interesses de pesquisa são: memórias sociais, movimentos sociais, América Latina, ditaduras militares, cidadania, ecologia política, estudos críticos do desenvolvimento, nacionalismo e plurinacionalidade, autoritarismo e democracia. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="[sem-grandeArea]" />
+          <attvalue for="7" value="[sem-area]" />
+          <attvalue for="8" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas" />
+          <attvalue for="9" value="Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas. Estrada São Lázaro Federação 40210730 - Salvador, BA - Brasil Telefone: (71) 33312755 URL da Homepage: http://www.ffch.ufba.br/" />
+          <attvalue for="10" value="15" />
+          <attvalue for="11" value="7" />
+          <attvalue for="12" value="6" />
+          <attvalue for="13" value="3" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.26537944694726173" />
+          <attvalue for="18" value="0.5697055721843435" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="11" id="0" weight="5.0" />
+      <edge source="1" target="9" id="1" weight="1.0" />
+      <edge source="2" target="4" id="2" weight="1.0" />
+      <edge source="3" target="12" id="3" weight="1.0" />
+      <edge source="6" target="7" id="4" weight="1.0" />
+      <edge source="6" target="17" id="5" weight="13.0" />
+      <edge source="6" target="19" id="6" weight="12.0" />
+      <edge source="10" target="19" id="7" weight="2.0" />
+      <edge source="11" target="20" id="8" weight="3.0" />
+      <edge source="11" target="21" id="9" weight="2.0" />
+      <edge source="13" target="17" id="10" weight="1.0" />
+      <edge source="13" target="19" id="11" weight="2.0" />
+      <edge source="17" target="19" id="12" weight="26.0" />
+    </edges>
+  </graph>
+</gexf>

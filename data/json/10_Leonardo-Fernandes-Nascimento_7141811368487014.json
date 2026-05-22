@@ -1,0 +1,3536 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7141811368487014",
+    "nome_completo": "Leonardo Fernandes Nascimento",
+    "nome_citacoes": "NASCIMENTO, L. F.;OFFEREINS, L.;NASCIMENTO, LEONARDO FERNANDES;NASCIMENTO, LEONARDO F.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "Nível 2 (***",
+    "endereco_profissional": "Universidade Federal da Bahia. Quadra SEPN 515 Bloco B Asa Norte 70770502 - Brasília, DF - Brasil Telefone: (61) 32218409 URL da Homepage: https://www.gov.br/cade/pt-br",
+    "atualizacao_cv": "11/01/2026",
+    "url": "http://lattes.cnpq.br/7141811368487014",
+    "texto_resumo": "Eu tenho formação técnica em química pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA (1997), graduação em psicologia pela Universidade Federal da Bahia - UFBA (2002), mestrado em sociologia pela Universidade de São Paulo - USP (2007) e doutorado em sociologia pelo Instituto de Estudos Sociais e Políticos - IESP/UERJ (2013). Entre 2010 e 2011, realizei estágio doutoral de um ano na École des Hautes Études en Sciences Sociales (EHESS) em Paris, França. Em seguida, entre 2022 e 2023, fui Pesquisador Visitante na University of Alberta (Edmonton/Canadá) sob a orientação do professor Geoffrey Rockwell. Sou membro permanente do Programa de Pós-graduação em Ciências Sociais (PPGCS/UFBA) e coordenador do Laboratório de Humanidades Digitais da UFBA, onde desenvolvo pesquisas sobre desinformação, discurso de ódio e extremismos políticos nos ecossistemas digitais multiplataforma com o apoio do InternetLab e do CNPq. De 2023 a 2024, ocupei o cargo de Gerente Geral de Projetos Especiais do Governo de Pernambuco, onde coordenei uma equipe de análise de dados governamentais. Desenvolvo pesquisas que envolvem Sociologia Digital, Humanidades Digitais e Ciência Social computacional. Atualmente sou Bolsista de Produtividade em Pesquisa do CNPq, atuo no Departamento de Estudos Econômicos (DEE) do Conselho Administrativo de Defesa Econômica (CADE) e sou bolsista do Instituto de Pesquisa Econômica Aplicada (IPEA) no projeto \"Política em tempos polarizados: reflexões sobre as relações entre cosmovisão, moral e política no Brasil\". Links e Competências body { font-family: Arial, sans-serif; text-align: center; line-height: 1.6; } ul { list-style-type: none; padding: 0; } li { margin: 8px 0; }"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Sociologia",
+      "nome_instituicao": "Universidade do Estado do Rio de Janeiro, UERJ, Brasil",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2013",
+      "descricao": "com período sanduíche em Ecole des Hautes Études en Sciences Sociales (Orientador: Afrânio da Silva Garcia). Título: Sociologia do Trauma: elementos sociogenéticos e psicogenéticos do Transtorno de Estresse Pós-traumático, Ano de obtenção: 2013. Orientador: João Feres Júnior. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Transtorno de Estresse Pós-Traumático; Sociologia do Diagnóstico; Trauma. Grande área: Ciências Humanas Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Saúde."
+    },
+    {
+      "tipo": "Mestrado em Sociologia",
+      "nome_instituicao": "Universidade de São Paulo, USP, Brasil",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2007",
+      "descricao": "Título: Da civilização da conduta à conduta civilizada: o processo de civilização e a psicanálise., Ano de Obtenção: 2007. Orientador: Leopoldo Waizbort. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil. Palavras-chave: Norbert Elias; Sociologia do Conhecimento; Psicanálise. Grande área: Ciências Humanas Grande Área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia do Conhecimento. Grande Área: Ciências Humanas / Área: Psicologia / Subárea: Psicologia Social."
+    },
+    {
+      "tipo": "Graduação em Psicologia",
+      "nome_instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "ano_inicio": "1998",
+      "ano_conclusao": "2002",
+      "descricao": "Orientador: Paulo César Borges Alves. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil."
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante em Técnico em Química",
+      "nome_instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "ano_inicio": "1994",
+      "ano_conclusao": "1997",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Conselho Administrativo de Defesa Econômica, CADE, Brasil.",
+      "instituicao_nome": "Conselho Administrativo de Defesa Econômica",
+      "instituicao_sigla": "CADE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Equipe do Departamento de Estudos Econômicos",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Pesquisa Econômica Aplicada - DF, IPEA, Brasil.",
+      "instituicao_nome": "Instituto de Pesquisa Econômica Aplicada - DF",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Bolsista",
+      "enquadramento": "Consultor",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Pesquisa Econômica Aplicada - DF, IPEA, Brasil",
+      "instituicao_nome": "Instituto de Pesquisa Econômica Aplicada - DF",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Pesquisa Econômica Aplicada - DF, IPEA, Brasil",
+      "instituicao_nome": "Instituto de Pesquisa Econômica Aplicada - DF",
+      "instituicao_sigla": "IPEA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto de Pesquisa Econômica e Aplicada."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor Adjunto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2014 - 2016",
+      "ano_inicio": "2014",
+      "ano_fim": "2016",
+      "vinculo": "Bolsista",
+      "enquadramento": "Pós-doutorando",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2001 - 2002",
+      "ano_inicio": "2001",
+      "ano_fim": "2002",
+      "vinculo": "Colaborador",
+      "enquadramento": "Bolsista de Pesquisa",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1880-1920",
+      "ano_inicio": "1880",
+      "ano_fim": "1920",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil.",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 2000",
+      "ano_inicio": "1999",
+      "ano_fim": "2000",
+      "vinculo": "Colaborador",
+      "enquadramento": "Bolsista de Pesquisa",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Pesquisa e Extensão.",
+        "Conselhos, Comissões e Consultoria, Conselho de Ensino, Pesquisa e Extensão."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2018 - Atual",
+      "ano_inicio": "2018",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Laboratório de Humanidades Digitais da UFBA."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2014 - Atual",
+      "ano_inicio": "2014",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Programa de Pós-graduação em Ciências Sociais."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2016 - 11/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2016 - 05/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2014 - 12/2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal da Bahia, UFBA, Brasil",
+      "instituicao_nome": "Universidade Federal da Bahia",
+      "instituicao_sigla": "UFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2014 - 06/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Governo do Estado de Pernambuco, GO",
+      "instituicao_nome": "Governo do Estado de Pernambuco",
+      "instituicao_sigla": "GO",
+      "instituicao_pais": null,
+      "periodo": "2023 - 2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": "Contratado",
+      "enquadramento": "Gerente Geral de Projetos Especiais",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Governo do Estado de Pernambuco, GOVERNO/PE, Brasil",
+      "instituicao_nome": "Governo do Estado de Pernambuco",
+      "instituicao_sigla": "GOVERNO/PE",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Governo do Estado de Pernambuco, GOVERNO/PE, Brasil",
+      "instituicao_nome": "Governo do Estado de Pernambuco",
+      "instituicao_sigla": "GOVERNO/PE",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - 04/2024",
+      "ano_inicio": "2023",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Secretaria de Planejamento do Estado de Pernambuco."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil.",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - 2018",
+      "ano_inicio": "2015",
+      "ano_fim": "2018",
+      "vinculo": "Colaborador",
+      "enquadramento": "Colaborador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Recôncavo da Bahia, UFRB, Brasil",
+      "instituicao_nome": "Universidade Federal do Recôncavo da Bahia",
+      "instituicao_sigla": "UFRB",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2015 - 02/2018",
+      "ano_inicio": "2015",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, CECULT, Motriz - Laboratório de Política, Gestão e Estudos da Cultura."
+      ]
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil.",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2016 - 2018",
+      "ano_inicio": "2016",
+      "ano_fim": "2018",
+      "vinculo": "Ex-professor",
+      "enquadramento": "Professor Adjunto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2018 - 05/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2016 - 05/2018",
+      "ano_inicio": "2016",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, UNILAB - Campus dos Malês."
+      ]
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2017 - 03/2018",
+      "ano_inicio": "2017",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2016 - 12/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira, UNILAB, Brasil",
+      "instituicao_nome": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+      "instituicao_sigla": "UNILAB",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2016 - 08/2016",
+      "ano_inicio": "2016",
+      "ano_fim": "2016",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Joaquim Nabuco, FUNDAJ, Brasil.",
+      "instituicao_nome": "Fundação Joaquim Nabuco",
+      "instituicao_sigla": "FUNDAJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2014",
+      "ano_inicio": "2013",
+      "ano_fim": "2014",
+      "vinculo": "Consultor",
+      "enquadramento": "Consultor FUNDAJ-UNESCO",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Oswaldo Cruz, FIOCRUZ, Brasil.",
+      "instituicao_nome": "Fundação Oswaldo Cruz",
+      "instituicao_sigla": "FIOCRUZ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Fundação Oswaldo Cruz, FIOCRUZ, Brasil",
+      "instituicao_nome": "Fundação Oswaldo Cruz",
+      "instituicao_sigla": "FIOCRUZ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003-2013",
+      "ano_inicio": "2003",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Medicina Social, IMS, Brasil.",
+      "instituicao_nome": "Instituto de Medicina Social",
+      "instituicao_sigla": "IMS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Medicina Social, IMS, Brasil.",
+      "instituicao_nome": "Instituto de Medicina Social",
+      "instituicao_sigla": "IMS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": "Colaborador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Medicina Social, IMS, Brasil",
+      "instituicao_nome": "Instituto de Medicina Social",
+      "instituicao_sigla": "IMS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil.",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2004",
+      "ano_inicio": "2003",
+      "ano_fim": "2004",
+      "vinculo": "Professor Substituto",
+      "enquadramento": "Professor Substituto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal da Bahia, IFBA, Brasil",
+      "instituicao_nome": "Instituto Federal da Bahia",
+      "instituicao_sigla": "IFBA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2003 - 09/2004",
+      "ano_inicio": "2003",
+      "ano_fim": "2004",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Estudos Sociais e Políticos, IESP, Brasil.",
+      "instituicao_nome": "Instituto de Estudos Sociais e Políticos",
+      "instituicao_sigla": "IESP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2014",
+      "ano_inicio": "2011",
+      "ano_fim": "2014",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Estudos Sociais e Políticos, IESP, Brasil",
+      "instituicao_nome": "Instituto de Estudos Sociais e Políticos",
+      "instituicao_sigla": "IESP",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Universitário de Pesquisas do Rio de Janeiro, IUPERJ, Brasil.",
+      "instituicao_nome": "Instituto Universitário de Pesquisas do Rio de Janeiro",
+      "instituicao_sigla": "IUPERJ",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2010",
+      "ano_inicio": "2010",
+      "ano_fim": "2010",
+      "vinculo": "Pesquisador",
+      "enquadramento": "Pesquisador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Universitário de Pesquisas do Rio de Janeiro, IUPERJ, Brasil",
+      "instituicao_nome": "Instituto Universitário de Pesquisas do Rio de Janeiro",
+      "instituicao_sigla": "IUPERJ",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Mundo Novo, PMMN, Brasil.",
+      "instituicao_nome": "Prefeitura Municipal de Mundo Novo",
+      "instituicao_sigla": "PMMN",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": "Contrato Temporário",
+      "enquadramento": "Psicólogo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Mundo Novo, PMMN, Brasil",
+      "instituicao_nome": "Prefeitura Municipal de Mundo Novo",
+      "instituicao_sigla": "PMMN",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Itiúba, PMI, Brasil.",
+      "instituicao_nome": "Prefeitura Municipal de Itiúba",
+      "instituicao_sigla": "PMI",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": "Contrato Temporário",
+      "enquadramento": "Psicólogo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Itiúba, PMI, Brasil",
+      "instituicao_nome": "Prefeitura Municipal de Itiúba",
+      "instituicao_sigla": "PMI",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Monte Santo, PMMS, Brasil.",
+      "instituicao_nome": "Prefeitura Municipal de Monte Santo",
+      "instituicao_sigla": "PMMS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2007",
+      "ano_inicio": "2007",
+      "ano_fim": "2007",
+      "vinculo": "Contrato Temporário",
+      "enquadramento": "Psicólogo",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Prefeitura Municipal de Monte Santo, PMMS, Brasil",
+      "instituicao_nome": "Prefeitura Municipal de Monte Santo",
+      "instituicao_sigla": "PMMS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Colégio Modelo Luís Eduardo Magalhães, CMLEM, Brasil.",
+      "instituicao_nome": "Colégio Modelo Luís Eduardo Magalhães",
+      "instituicao_sigla": "CMLEM",
+      "instituicao_pais": "Brasil",
+      "periodo": "1999 - 1999",
+      "ano_inicio": "1999",
+      "ano_fim": "1999",
+      "vinculo": "Professor Temporário (REDA)",
+      "enquadramento": "Professor Temporário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Colégio Modelo Luís Eduardo Magalhães, CMLEM, Brasil",
+      "instituicao_nome": "Colégio Modelo Luís Eduardo Magalhães",
+      "instituicao_sigla": "CMLEM",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Carioca de Produtos Químicos, EMCA, Brasil.",
+      "instituicao_nome": "Empresa Carioca de Produtos Químicos",
+      "instituicao_sigla": "EMCA",
+      "instituicao_pais": "Brasil",
+      "periodo": "1997 - 1997",
+      "ano_inicio": "1997",
+      "ano_fim": "1997",
+      "vinculo": "Estágio Curricular",
+      "enquadramento": "Técnico em Laboratório",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Empresa Carioca de Produtos Químicos, EMCA, Brasil",
+      "instituicao_nome": "Empresa Carioca de Produtos Químicos",
+      "instituicao_sigla": "EMCA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "University of Alberta, UALBERTA, Canadá.",
+      "instituicao_nome": "University of Alberta",
+      "instituicao_sigla": "UALBERTA",
+      "instituicao_pais": "Canadá",
+      "periodo": "2021 - 2024",
+      "ano_inicio": "2021",
+      "ano_fim": "2024",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "University of Alberta, UALBERTA, Canadá",
+      "instituicao_nome": "University of Alberta",
+      "instituicao_sigla": "UALBERTA",
+      "instituicao_pais": "Canadá",
+      "periodo": "04/2022 - 04/2023",
+      "ano_inicio": "2022",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Faculty of Arts - Media Tech Studies (MTS), Media Tech Studies (MTS)."
+      ]
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Democracia digital: análise dos ecossistemas de desinformação no Telegram durante o processo eleitoral brasileiro de 2022",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O projeto tem como objetivo estabelecer uma estrutura de mapeamento dos ecossistemas multiplataforma de grupos de extrema-direita brasileiros na plataforma Telegram durante o processo eleitoral brasileiro de 2022. A pesquisa assume uma perspectiva de métodos mistos, articulando análise computacional de dados com análises socioantropológicas. Em projeto anterior, nós analisamos a diferença de dinâmicas entre grupos e canais, o protagonismo de usuários que denominamos de talkatives, bem como a presença significativa de links para outras plataformas de mídia social mainstream. Nesta segunda fase, a ideia é ampliar os dados coletados incluindo áudio, vídeo e imagens compartilhados buscando compreender as narrativas, valores, gramáticas e lógicas de ação subjacentes aos usuários, grupos e canais. Busca-se argumentar que o Telegram propicia a articulação entre o que a literatura denomina de públicos refratados e público em rede, operando como uma espécie de dobradiça digital. Essa configuração complexa gera uma série de paradoxos e dilemas para os aparatos regulatórios atualmente em discussão, que abordagens mistas como a da presente pesquisa podem ajudar a elucidar.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (8) / Mestrado acadêmico: (3) / Doutorado: (6) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Rosana Silva Moore Wedderburn - Integrante / Juciane Pereira de Jesus - Integrante / Eric Brasil - Integrante / Tarssio Barreto - Integrante / Jefte Batista - Integrante / Paulo F. C. Fonseca - Integrante / Leticia Maria Costa da Nóbrega Cesarino - Integrante / Jorge Barbosa - Integrante / Pedro Moraes - Integrante / Daniel de Sena Bastos - Integrante / Alan Delazeri Mocellim - Integrante / Daniel Romero - Integrante. Financiador(es): InternetLab: pesquisa em direito e tecnologia - Auxílio financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rosana Silva Moore Wedderburn",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eric Brasil",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tarssio Barreto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jefte Batista",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo F",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "InternetLab: pesquisa em direito e tecnologia",
+          "tipo_apoio": "Auxílio financeiro"
+        },
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Telegram Observatory (cooperação com a AI For Society da Univ de Alberta)",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: The Telegram social media environment is used extensively by extreme groups to communicate. We propose to develop the infrastructure at the U of Alberta that can follow specific Telegram channels in order to study communities, especially Alt-Right communities in the province. Further we propose to add search and analysis tools with AI capabilities to study the social media archives added. This will add to the infrastructure available for researchers to study social media and allow us to use different AI tools to study social media.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (3) / Doutorado: (3) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Geoffrey Rockwell - Integrante. Financiador(es): AI for Society - Outra."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Geoffrey Rockwell",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "AI for Society",
+          "tipo_apoio": "Outra"
+        }
+      ]
+    },
+    {
+      "nome": "Ecossistema de desinformação e propaganda computacional no aplicativo Telegram",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Descrição: Este projeto propõe estabelecer uma estrutura de mapeamento e análise multi-método de redesde extrema -direita no Telegram, onde recentemente observou-se um aumento no fluxo de usuários e na criação de grupos e canais. Visando monitorar possíveis atividades de propaganda computacional eoperações coordenadas de influência ao longo dos próximos dois anos, o projeto combina análisescomputacionais baseadas na abordagem da linguística de corpus (LC) e técnicas de processamentode linguagem natural (NLP) com uma abordagem qualitativa mista de análise de discurso eetnografia online. Além de buscar a existência de instrumentos de automação para potencializar a distribuição de conteúdo no Telegram, o presente projeto inclui uma etapa complementar de análise qualitativa dos padrões semiótico-discursivos dos conteúdos circulados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (12) / Mestrado acadêmico: (3) / Doutorado: (4) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Jéfte Batista de Oliveira - Integrante / Rosana Silva Moore Wedderburn - Integrante / Juciane Pereira de Jesus - Integrante / Eric Brasil - Integrante / Tarssio Barreto - Integrante / Paulo F. C. Fonseca - Integrante / Leticia Maria Costa da Nóbrega Cesarino - Integrante / Vítor Mussa Tavares Gomes - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro. Número de produções C, T & A: 10"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Jéfte Batista de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rosana Silva Moore Wedderburn",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eric Brasil",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tarssio Barreto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo F",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Analisando a pandemia de Covid-19: mídias sociais, controvérsias científicas e desinformação",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: O objetivo da pesquisa estará é reunir, processar, analisar e compreender dados quantitativos equalitativos de redes sociais digitais e jornais sobre a pandemia de COVID-19. As análisesdeverão discutir temas em antropologia da saúde, sociologia digital e estudos sociais da ciência e estudos sobre ignorância (agnotologia). Os diferentes materiais serão analisados por uma combinação de abordagens metodológicas através das seguintes ferramentas digitais para análise: linguagem R de programação, ATLAS.ti, Gephi, Voyant Tools, Iramuteq, etc.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) / Doutorado: (8) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Rafaela Zorzanelli - Integrante / Francisco Ortega - Integrante / Mylena Sousa Alecrim - Integrante / Rosana Silva Moore Wedderburn - Integrante / Juciane Pereira de Jesus - Integrante / Eric Brasil - Integrante / Tarssio Barreto - Integrante / Jefte Batista - Integrante / Paulo F. C. Fonseca - Integrante / Leticia Maria Costa da Nóbrega Cesarino - Integrante / Rafaela Rigoni - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rafaela Zorzanelli",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francisco Ortega",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mylena Sousa Alecrim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rosana Silva Moore Wedderburn",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eric Brasil",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tarssio Barreto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jefte Batista",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo F",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Sociologia Digital: articulando CAQDAS, web scraping e big data.",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Através das mais modernas técnicas de coleta e análise de dados (Atlas.ti, Nvivo, MAXQDA) aliada à linguagem e o ambiente R de programação, a presente pesquisa busca explorar e aprimorar os usos de tais tecnologias para a pesquisa em ciências sociais. As análises que serão apresentadas estarão voltadas para uma diversidade de temas que tem em comum a existência de grandes bases de dados digitalizados: imagens históricas do Brasil, matérias jornalísticas sobre controvérsias públicas (e.g. ações afirmativas, maioridade penal) e a produção acadêmica das ciências sociais dentro do banco de dados dos currículos Lattes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (3) / Doutorado: (2) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Mylena Sousa Alecrim - Integrante / Jéfte Batista de Oliveira - Integrante / Patrícia da Silva Cerqueira - Integrante / Juciane Pereira de Jesus - Integrante / Marco Antonio Paranhos - Integrante / Jorge Barbosa - Integrante / Marcella Alencar - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Mylena Sousa Alecrim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jéfte Batista de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Patrícia da Silva Cerqueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marco Antonio Paranhos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jorge Barbosa",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcella Alencar",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Sociologia dos diagnósticos: o caso do TDAH",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: O objetivo da pesquisa é descrever e analisar o processo de expansão e legitimação do diagnóstico do Transtorno do Déficit de Atenção e Hiperatividade (TDAH) no Brasil através da difusão na mídia impressa e online. A proposta busca preencher a lacuna existente nos estudos que correlacionam a construção social dos diagnósticos com a difusão midiática de informações sobre saúde e doença mental. Através de ferramentas CAQDAS e de um banco de dados de matérias jornalísticas dos principais jornais impressos do Brasil e de vídeos do Youtube acerca do TDAH será possível entendermos tanto a difusão bem como a controvérsia entre pais e especialistas sobre o diagnóstico do TDAH.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Ive Cristine Pereira de Carvalho - Integrante / Jéfte Batista de Oliveira - Integrante / Juciane Pereira de Jesus - Integrante / Gabriel Andrade - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ive Cristine Pereira de Carvalho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jéfte Batista de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gabriel Andrade",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Trabalho digital no século XXI: o caso Uber no Brasil",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: Nos últimos anos, o cenário do serviço de táxi no Brasil se alterou radicalmente com a popularização dos smartphones e, juntamente com eles, o surgimentos de aplicativos que conectavam usuários e motoristas de táxi. O presente projeto investiga a controvérsia em torno da chegada do Uber no Brasil articulando os argumentos sociológicos, econômicos e legais bem como a cobertura midiática do mesmo.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (6) / Mestrado acadêmico: (2) / Doutorado: (2) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Ive Cristine Pereira de Carvalho - Integrante / Jéfte Batista de Oliveira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ive Cristine Pereira de Carvalho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jéfte Batista de Oliveira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "África in the News: 140 anos da construção social do continente africano na mídia impressa brasileira",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: A presente pesquisa tem por objetivo compreender o papel do jornalismo na difusão de significados sobre o continente africano e seus países para os leitores brasileiros. Mais especificamente, a partir da análise crítica do discurso das notícias sobre a África nos jornais Folha de S. Paulo e O Estado de S. Paulo, a pesquisa tenta demostrar como as diferentes notícias se combinaram para produzir significados particulares que dão origem a uma representação racista e colonialista da África e dos africanos. A investigação será realizada com o auxílio de métodos avançados de web scraping para a coleta das matérias e Computer Assisted Qualitative Data Analysis (CAQDAS) através do software ATLAS.ti para análise dos dados. Ao final teremos uma enorme base de dados disponível a diversos pesquisadores que podem, de acordo com o seu interesse, enfatizar aspectos específicos das matérias.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Ive Cristine Pereira de Carvalho - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ive Cristine Pereira de Carvalho",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "As visões multifacetadas da Mídia Impressa sobre a trajetória de 30 anos do Movimento dos Trabalhadores Sem Terra ?MST (1984-2014)",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: O presente projeto tem como objetivo analisar a cobertura da grande mídia brasileira acerca do Movimento dos Sem-Terra - MST. Para isso serão analisados os três maiores veículos de comunicação do Brasil: os jornais Folha de S. Paulo, O Globo e o Estado de S. Paulo. A ideia é analisarmos os discursos da mídia impressa brasileira publicados desde o aparecimento do MST em 17 de abril de 1984 até o ano de 2014, quando o movimento completou 30 anos de existência.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Leonardo Fernandes Nascimento - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Estudos da Cultura no Brasil: um mapa possível",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: A pesquisa pretender ealizar um mapeamento sobre o perfil dos estudos da cultura no Brasil a partir dos trabalhos apresentados nas nove edições do Encontro de Estudos Multidisciplinares em Cultura - ENECULT de modo a depreender uma possível agenda que orienta este campo de estudos no país.Como estratégia metodolófica, pretende-se analisar os papers apresentados no referido evento, que tem na cultura seu tema principal. A partir desse corpus, pretende-se mapear o perfil dos estudos da cultura orientando-se pelas seguintes questões: Quais os objetos e problemas de pesquisa que emergem a partir desse cenário? E suas filiações teórico-metodológicas? É possível afirmar a existência de uma especificidade nacional na abordagem dos fenômenos culturais? Em que medida as distintas abordagens e objetos refletem o modo de organização dos espaços acadêmicos das ciências humanas e sociais brasileiras?. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Doutorado: (4) . Integrantes: Leonardo Fernandes Nascimento - Integrante / Mariella Pitombo Vieira - Coordenador / Lindinalva Rubim - Integrante / Delmira de Souza - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariella Pitombo Vieira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lindinalva Rubim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Delmira de Souza",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Dengue: 140 anos da construção social de uma epidemia",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: O presente projeto tem como objetivo analisar 140 anos de cobertura jornalística relacionada à dengue nos três principais jornais impressos do país Folha de S. Paulo, O Globo e o Estado de S. Paulo. A ideia é descrever o entrelaçamento entre os discursos médicos e o das políticas públicas de enfrentamento da dengue.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Lara Rosa Meirelles Barros - Integrante / Ive Cristine Pereira de Carvalho - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lara Rosa Meirelles Barros",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ive Cristine Pereira de Carvalho",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "O Programa Bolsa-família na mídia impressa brasileira: dez anos (2003-2013) de uma controvérsia pública.",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: O presente projeto tem como objetivo analisar a cobertura da grande mídia brasileira acerca da política de transferência condicionada de renda adotada pelo governo brasileiro: o Programa Bolsa Família. Para isso serão analisados os três maiores veículos de comunicação do Brasil: os jornais Folha de S. Paulo, O Globo e o Estado de S. Paulo. A ideia é mapear dez anos (2003-2013) do debate público na mídia impressa brasileira sobre o Programa Bolsa Família, enfatizando: a valência (positiva, negativa, neutra e ambivalente), o enquadramento (frame), os argumentos, os recursos retóricos, as representações de nação e os atores que aparecem nos diversos tipos de matérias (artigos, reportagens, editoriais, cartas, entrevistas, etc).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Ive Cristine Pereira de Carvalho - Integrante / Jéfte Batista de Oliveira - Integrante / Juciane Pereira de Jesus - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa / Fundação de Amparo à Pesquisa do Estado da Bahia - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Ive Cristine Pereira de Carvalho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jéfte Batista de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        },
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "\"Tornando-se uma mulher moderna\": o absorvente feminino e os processos de civilização",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: O presente projeto trata de cem anos de matérias jornalísticas de O Globo, Folha de S. Paulo, O Estado de S. Paulo e do periódico Reader's Digest que descrevem a chegada do absorvente feminino no Brasil bem como as justificativas sanitárias e sociais para utilizá-lo até o seu uso massivo nos dias atuais. A ideia é entender como, a partir de anúncios comerciais e comentários de especialistas, é estabelecida de uma determinada \"economia dos afetos\" (Triebhaushalt) de como as mulheres deveriam lidar com a menstruação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Lara Rosa Meirelles Barros - Integrante / Ive Cristine Pereira de Carvalho - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lara Rosa Meirelles Barros",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ive Cristine Pereira de Carvalho",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "TDAH: a polêmica em torno de um diagnóstico.",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: O objetivo é descrever e analisar o processo de expansão e legitimação do diagnóstico do Transtorno do Déficit de Atenção e Hiperatividade (TDAH) no Brasil. Através de ferramentas CAQDAS e de um banco de dados de matérias jornalísticas (áudio, vídeo, texto e imagens) acerca do TDAH será possível entendermos tanto a difusão bem como a controvérsia entre pais e especialistas sobre o diagnóstico do TDAH.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Lara Rosa Meirelles Barros - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Lara Rosa Meirelles Barros",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Desenvolvimento de um Sistema Sustentável de Monitoramento e Avaliação das Diretrizes Nacionais de Atenção Integral à Saúde",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: Produzir evidências que subsidiem a atuação da Área de Atenção à Saúde do Adolescente e do Jovem do Departamento de Ações Programáticas Estratégicas da Secretaria de Atenção à Saúde (ASAJ/DAPES/SAS/MS), incidindo diretamente no que concerne à implementação das \"Diretrizes Nacionais de Atenção Integral à Saúde do Adolescente e do Jovem\".. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) . Integrantes: Leonardo Fernandes Nascimento - Integrante / João Feres Júnior - Integrante / Marcelo Rasga Moreira - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "João Feres Júnior",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcelo Rasga Moreira",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Pesquisa sobre a a construção da identidade nas representações sobre autismo na mídia impressa brasileira",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: Pesquisa que visa mapear o entendimento público do autismo no Brasil. A pesquisa teve como objetivo analisar as representações da mídia sobre o autismo utilizando como referencial teórico-metodológico a análise narrativa. Embora o autismo seja um transtorno de difícil identificação e bastante amplo e problemático em seu espectro, sua transformação em tema de interesse público se dá a partir da sua inclusão em narrativas, que se constituem em diversas esferas sociais e envolvem outros atores além do próprio autista. Além disso, propõe-se a utilização do paradigma narrativo para pensar a construção da identidade autista no Brasil, suas especificidades e implicações políticas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) / Doutorado: (1) . Integrantes: Leonardo Fernandes Nascimento - Integrante / Clarice Rios - Integrante / Rafaela Zorzanelli - Integrante / Francisco Ortega - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Clarice Rios",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rafaela Zorzanelli",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francisco Ortega",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Monteiro Lobato e o politicamente correto",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: A pesquisa analisa o corpus jornalístico (impresso e televisivo) em torno da denúncia endereçada à Secretaria de Políticas de Promoção da Igualdade Racial (SEPPIR) de que o clássico infantil Caçadas de Pedrinho do escritor paulista Monteiro Lobato, por apresentar expressões de racismo e estereotipias em relação aos negros, deveria ser objeto de (a) capacitação dos professores para lidar com o tema do racismo; (b) inserção de nota explicativa e esclarecimento ao leitor acerca do conteúdo racista da obra. A ideia central é perceber os processos de construção das controvérsias públicas no Brasil, enfatizando o papel da mídia em formatar e propor soluções para problemas que muitas vezes não são devidamente descritos e informados, mas que, ainda assim, pautam os agentes públicos envolvidos em tais questões.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Doutorado: (1) . Integrantes: Leonardo Fernandes Nascimento - Integrante / João Feres Júnior - Coordenador / Zena Winona Eisenberg - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "João Feres Júnior",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Zena Winona Eisenberg",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Humanidades, Tecnologia e Conhecimento: transformações societais no mundo pós COVID-19",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2020",
+      "descricao": [
+        "Descrição: A proposta tratará das implicações da pandemia de COVID-19 para a sociedade contemporânea. Serão um ciclo de seminários e debates online com convidados do campo das ciências de dados, humanas e sociais, filósofos, poetas, economistas etc. Serão discutidas dimensões a partir das quais a pandemia tem implicado em transformações sociais, bem como novos desafios e oportunidades emergentes. São elas: Privacidade e plataformas digitais; Desigualdade e capitalismo; Democracia e estabilidade política; Meio ambiente e sustentabilidade; Ciência e a erosão das instituições de conhecimento; Educação e cidadania; Saúde pública e governança; Comunicação e política.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (2) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (2) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Paulo F. C. Fonseca - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Paulo F",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Oficinas L4BHDUFB4",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O Laboratório de Humanidades Digitais da UFBA realiza semanalmente encontros sobre ferramentas/métodos digitais de pesquisa.Serão permitidas eventuais participações de outros convidados e participantes mediante a inscrição, disponibilidade de vagas e aceite da coordenação. Os vídeos dos encontros ficam hospedados em nosso canal do Youtube. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (3) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (3) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Eric Brasil - Integrante / Gabriel Andrade - Integrante / Paulo F. C. Fonseca - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Eric Brasil",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gabriel Andrade",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo F",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Cooperação Acadêmica, Técnico-Científica e Cultural com a Fundação Getúlio Vargas",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Processo: 23066.019775/2022-11. ÓRGÃO CONVENENTE: UNIVERSIDADE FEDERAL DA BAHIA. CNPJ: 15.180.714/0001-04. CONCEDENTE: FUNDACAO GETULIO VARGAS, CNPJ: 33.641.663/0001-44. Objeto: \"Cooperação Acadêmica, Técnico-Científica e Cultural entre os convenentes, com vistas à execução de workshops, projetos, publicações e trocas institucionais.\". Fund. Legal: Leis no 13.019/2014. Vigência: 17.05.2022 a 16.05.2027. Data de Assinatura: 17.05.2022;. Situação: Em andamento; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (3) / Doutorado: (8) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Bruno José Rodrigues Durães - Integrante / Juciane Pereira de Jesus - Integrante / Eric Brasil - Integrante / Leticia Maria Costa da Nóbrega Cesarino - Integrante / Danielle Sanches de Almeida Gonçalves - Integrante / Juliana Gonçalves Mayrinck - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Bruno José Rodrigues Durães",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eric Brasil",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leticia Maria Costa da Nóbrega Cesarino",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Danielle Sanches de Almeida Gonçalves",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juliana Gonçalves Mayrinck",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Cooperação Técnico-Científica e Cultural com a Universidade de Lisboa",
+      "ano_inicio": "2021",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: No Processo: 23066.012581/2021-04. ÓRGÃO CONVENENTE: UNIVERSIDADE FEDERAL DA BAHIA. CNPJ: 15.180.714/0001-04. CONCEDENTE: UNIVERSIDADE NOVA DE LISBOA. Número de Identificação Fiscal no 501 559 094. Objeto: Cooperação Técnico-Científica e Cultural entre os convenentes, com vistas ao desenvolvimento do projeto plataforma Programming Historian Pt: que incluirá oficinas, grupos de trabalho e publicações. Fund. Legal: Leis no Lei 14.133/21. Vigência: 01.06.2021 a 30.05.2024. Data de Assinatura: 11.06.2021;. Situação: Em andamento; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (3) / Doutorado: (8) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Rosana Silva Moore Wedderburn - Integrante / Bruno José Rodrigues Durães - Integrante / Eric Brasil - Integrante / Daniel Romero - Integrante / Daniel Alves - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rosana Silva Moore Wedderburn",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno José Rodrigues Durães",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eric Brasil",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Daniel Romero",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Daniel Alves",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Sociologia da Realidade Virtual e Aumentada",
+      "ano_inicio": "2020",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A realidade virtual (VR) e a realidade aumentada (RA) passaram por evoluções técnicas nas últimas décadas que permitem experiências sensoriais cada vez mais \"realísticas\". O projeto de pesquisa busca compreender as transformações sociais relacionadas a este nova fronteira das tecnologias digitais bem como a sua utilização como ferramenta de pesquisa para as ciências sociais.. Situação: Em andamento; Natureza: Desenvolvimento. Alunos envolvidos: Técnico de nível médio: (0) Graduação: (5) / Mestrado acadêmico: (3) / Doutorado: (4) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Rosana Silva Moore Wedderburn - Integrante / Bruno José Rodrigues Durães - Integrante / Tarssio Barreto - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rosana Silva Moore Wedderburn",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno José Rodrigues Durães",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Tarssio Barreto",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Webscraping e Humanidades Digitais: Sociologia, História e Ciência Política",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O objetivo do projeto é criar ferramentas de coleta e análise de dados de redes sociais digitais, websites e repositórios de dados públicos através da articulação de: a) Linguagens de programação: R, Python, Java e PHP para webscraping e/ou data mining; b) Ferramentas de CAQDAS (computer assisted qualitative data analysis software) tais como ATLAS.ti e; c) ? Ferramentas de visualização de dados: Gephi, NodeXL, Netvizz).. Situação: Em andamento; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) / Doutorado: (2) . Integrantes: Leonardo Fernandes Nascimento - Coordenador / Mylena Sousa Alecrim - Integrante / Jéfte Batista de Oliveira - Integrante / Juciane Pereira de Jesus - Integrante / Eric Brasil - Integrante / Gabriel Andrade - Integrante / Paulo F. C. Fonseca - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Leonardo Fernandes Nascimento",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Mylena Sousa Alecrim",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jéfte Batista de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juciane Pereira de Jesus",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Eric Brasil",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gabriel Andrade",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo F",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia Digital",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia Digital."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "CAQDAS",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: CAQDAS."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Sociologia da Saúde",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Sociologia da Saúde."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Análise de Mídia",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Análise de Mídia."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Sociologia",
+      "subarea": "Métodos Digitais de Pesquisa",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Sociologia / Subárea: Métodos Digitais de Pesquisa."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Pouco",
+      "le": "Bem",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Bem, Fala Pouco, Lê Bem, Escreve Pouco."
+    },
+    {
+      "nome": "Francês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Alemão",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Humanidades Digitais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Ciências Sociais Computacionais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Pandemia, saúde e desinformação",
+      "objetivo": ""
+    },
+    {
+      "nome": "Sociologia Digital",
+      "objetivo": ""
+    },
+    {
+      "nome": "Análise de Mídia",
+      "objetivo": ""
+    },
+    {
+      "nome": "CAQDAS",
+      "objetivo": ""
+    },
+    {
+      "nome": "CAQDAS",
+      "objetivo": ""
+    },
+    {
+      "nome": "Estudos Culturais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Sociologia Digital",
+      "objetivo": ""
+    },
+    {
+      "nome": "Humanidades Digitais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Uso de CAQDAS nas Ciências Sociais",
+      "objetivo": ""
+    },
+    {
+      "nome": "Humanidades Digitais",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Métodos mistos para a antropologia digital: um relato de experiência sobre a análise de grupos bolsonaristas na plataforma Telegram",
+        "ano": 2024,
+        "autores": "SCHEREN, MARIA LUIZA ; RODRIGUES, VIRGÍNIA SQUIZANI ; LÓPEZ ZAMORA, GABRIEL DARÍO ; CESARINO, LETÍCIA ; NASCIMENTO, LEONARDO FERNANDES ; FONSECA, PAULO ; BARRETO, TÁRSSIO",
+        "revista": "Horizontes Antropológicos (online)",
+        "volume": "30",
+        "numero": "",
+        "paginas": "68",
+        "issn": "1806-9983",
+        "doi": "http://dx.doi.org/10.1590/1806-9983e680407",
+        "qualis": ""
+      },
+      {
+        "titulo": "?Intankaveis contra o Bostil?: racismo, misoginia e anti-semitismo em chats do Telegram (2020-2023)",
+        "ano": 2024,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES; FONSECA, P. F. C. ; CESARINO, L. M. C. N. ; WEDDERBURN, R. S. M. ; BARRETO, T. ; JESUS, J. P.",
+        "revista": "COLETÂNEA â013 TIC, GOVERNANÇA DA INTERNET, GÊNERO, RAÇA E DIVERSIDADE",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1-25",
+        "issn": "2315-5545",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Tradições de pensamento anticomunista: as teorias da conspiração e o modus operandi do golpismo em grupos bolsonaristas do telegram",
+        "ano": 2024,
+        "autores": "JESUS, J. P. ; NASCIMENTO, LEONARDO F. ; CESARINO, L. M. C. N. ; FONSECA, P. F. C. ; BARRETO, T.",
+        "revista": "Revista da Academia Paulista de Direito",
+        "volume": "13",
+        "numero": "",
+        "paginas": "474-503",
+        "issn": "2236-5796",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Representações meméticas de 'nós e eles': humor e discurso de ódio em chats do Telegram",
+        "ano": 2024,
+        "autores": "WEDDERBURN, R. S. M. ; JESUS, J. P. ; NASCIMENTO, LEONARDO FERNANDES ; CESARINO, L. M. C. N. ; BARRETO, T. ; TEIXEIRA, G. S.",
+        "revista": "AURORA (PUCSP. ONLINE)",
+        "volume": "17",
+        "numero": "",
+        "paginas": "136-173",
+        "issn": "1982-6672",
+        "doi": "http://dx.doi.org/10.23925/1982-6672.2024v17i49p136-173",
+        "qualis": ""
+      },
+      {
+        "titulo": "Públicos refratados: a atuação de grupos de extrema-direita brasileiros na plataforma Telegram",
+        "ano": 2023,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES; CESARINO, L. M. C. N. ; FONSECA, P. F. C. ; BARRETO, T. ; GOMES, V. M. T.",
+        "revista": "Revista Internet & Sociedade",
+        "volume": "3",
+        "numero": "",
+        "paginas": "31",
+        "issn": "2763-5244",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology",
+        "ano": 2023,
+        "autores": "CESARINO, L. M. C. N. ; NASCIMENTO, L. F. ; FONSECA, P. F. C.",
+        "revista": "UNESCO Digital Library - LIIV Center",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1",
+        "issn": "9999-999X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "MONITOR ALEPE: SOLUCIONANDO PROBLEMAS DE CLASSIFICAÇÃO COM USO DE INTELIGÊNCIA ARTIFICIAL",
+        "ano": 2023,
+        "autores": "COUTINHO, I. B. S. ; NASCIMENTO, L. F.",
+        "revista": "Anais do 16º Congresso de Gestão Pública do Rio Grande do Norte - CONGESP/RN",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1",
+        "issn": "9999-999X",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Demarcating Patriotic Science on Digital Platforms: Covid-19, Chloroquine and the Institutionalisation of Ignorance in Brazil",
+        "ano": 2022,
+        "autores": "FONSECA, PAULO F. C. ; RIBEIRO, BARBARA E. ; NASCIMENTO, LEONARDO F.",
+        "revista": "SCIENCE AS CULTURE",
+        "volume": "1",
+        "numero": "",
+        "paginas": "1-25",
+        "issn": "0950-5431",
+        "doi": "http://dx.doi.org/10.1080/09505431.2022.2105691",
+        "qualis": ""
+      },
+      {
+        "titulo": "Weight stigma in the COVID-19 pandemic: a scoping review",
+        "ano": 2022,
+        "autores": "DE MACÊDO, PATRICIA FORTES CAVALCANTI ; NEPOMUCENO, CARINA MARCIA MAGALHÃES ; DOS SANTOS, NEDJA SILVA ; QUEIROZ, VALTERLINDA ALVES DE OLIVEIRA ; PEREIRA, EMILE MIRANDA ; LEAL, LUCINEIDE DA CONCEIÇÃO ; SANTOS, LÍGIA AMPARO DA SILVA ; NASCIMENTO, LEONARDO FERNANDES ; MARTINS, POLIANA CARDOSO ; DE SANTANA, MÔNICA LEILA PORTELA",
+        "revista": "JOURNAL OF EATING DISORDERS",
+        "volume": "10",
+        "numero": "",
+        "paginas": "44",
+        "issn": "2050-2974",
+        "doi": "http://dx.doi.org/10.1186/s40337-022-00563-4",
+        "qualis": ""
+      },
+      {
+        "titulo": "Poder oracular e ecossistemas digitais de comunicação: a produção de zonas de ignorância durante a pandemia de Covid-19 no Brasil",
+        "ano": 2021,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES; FONSECA, P. F. C. ; JESUS, J. P. ; BATISTA, J.",
+        "revista": "REVISTA FRONTEIRAS (ONLINE)",
+        "volume": "23",
+        "numero": "",
+        "paginas": "190-206",
+        "issn": "1984-8226",
+        "doi": "http://dx.doi.org/10.4013/fem.2021.232.13",
+        "qualis": ""
+      },
+      {
+        "titulo": "Panorama da imagem social da enfermeira divulgada na mídia impressa",
+        "ano": 2021,
+        "autores": "BRANDÃO, MILLER FONTES ; SILVA, GILBERTO TADEU REIS DA ; TEIXEIRA, GISELLE ALVES DA SILVA ; NASCIMENTO, LEONARDO FERNANDES ; QUEIRÓS, PAULO JOAQUIM PINA ; PERES, MARIA ANGÉLICA DE ALMEIDA ; LAITANO, ALINE DI CARLA ; SANTOS, VICTOR PORFÍRIO FERREIRA ALMEIDA",
+        "revista": "Acta Paulista de Enfermagem",
+        "volume": "34",
+        "numero": "",
+        "paginas": "1-8",
+        "issn": "0103-2100",
+        "doi": "http://dx.doi.org/10.37689/acta-ape/2021AO002935",
+        "qualis": ""
+      },
+      {
+        "titulo": "História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica",
+        "ano": 2020,
+        "autores": "BRASIL, E. ; NASCIMENTO, LEONARDO FERNANDES",
+        "revista": "ESTUDOS HISTÓRICOS",
+        "volume": "33",
+        "numero": "",
+        "paginas": "196-219",
+        "issn": "2178-1494",
+        "doi": "http://dx.doi.org/10.1590/S2178-14942020000100011",
+        "qualis": ""
+      },
+      {
+        "titulo": "PLURAL, Revista do Programa de Pós ‑Graduação em Sociologia da USP, São Paulo, v.25.1, 2018, p.135‑171?Não falo o que o povo quer, sou o que o povo quer?:  30 anos (1987-2017) de pautas políticas de  Jair Bolsonaro nos jornais brasileiros",
+        "ano": 2018,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES; ALECRIM, Mylena ; OLIVEIRA, J. B. ; OLIVEIRA, M. ; COSTA, S.",
+        "revista": "PLURAL (SÃO PAULO. ONLINE)",
+        "volume": "25",
+        "numero": "",
+        "paginas": "135-171",
+        "issn": "2176-8099",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "A Sociologia Digital: um desafio para o século XXI",
+        "ano": 2016,
+        "autores": "NASCIMENTO, L. F",
+        "revista": "Sociologias (UFRGS)",
+        "volume": "18",
+        "numero": "",
+        "paginas": "216-241",
+        "issn": "1807-0337",
+        "doi": "http://dx.doi.org/10.1590/15174522-018004111",
+        "qualis": ""
+      },
+      {
+        "titulo": "LUPTON, Deborah. Digital Sociology (resenha). Routledge, 2015.",
+        "ano": 2016,
+        "autores": "NASCIMENTO, L. F",
+        "revista": "Cadernos CRH (Online)",
+        "volume": "28",
+        "numero": "",
+        "paginas": "671-673",
+        "issn": "1983-8239",
+        "doi": "http://dx.doi.org/10.1590/S0103-49792015000300014",
+        "qualis": ""
+      },
+      {
+        "titulo": "O CASO UBER NO BRASIL: UM ENSAIO DE SOCIOLOGIA DIGITAL.",
+        "ano": 2016,
+        "autores": "NASCIMENTO, L. F",
+        "revista": "CROLAR - Crticial Reviews in Latin American Research",
+        "volume": "5",
+        "numero": "",
+        "paginas": "1",
+        "issn": "2195-3481",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Health and Traditional Fishing in All Saints Bay",
+        "ano": 2016,
+        "autores": "Alves, P. C. ; NASCIMENTO, L. F. ; MEIRELLES, G.",
+        "revista": "International Journal Advances in Social Science and Humanities",
+        "volume": "4",
+        "numero": "",
+        "paginas": "61-69",
+        "issn": "2347-7474",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Considerações sobre o politicamente correto: o caso das caçadas de Pedrinho",
+        "ano": 2016,
+        "autores": "FERES JÚNIOR, J. ; NASCIMENTO, L. F. ; EISENBERG, Z. W.",
+        "revista": "Cadernos Imbondeiro",
+        "volume": "4",
+        "numero": "",
+        "paginas": "94-116",
+        "issn": "2316-2937",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Da invisibilidade à epidemia: a construção narrativa do autismo na mídia impressa brasileira",
+        "ano": 2015,
+        "autores": "RIOS, CLARICE ; ORTEGA, FRANCISCO ; ZORZANELLI, RAFAELA ; NASCIMENTO, LEONARDO FERNANDES",
+        "revista": "Interface (Botucatu. Online)",
+        "volume": "00",
+        "numero": "",
+        "paginas": "00-00",
+        "issn": "1807-5762",
+        "doi": "http://dx.doi.org/10.1590/1807-57622014.0146",
+        "qualis": ""
+      },
+      {
+        "titulo": "Monteiro Lobato e o politicamente correto",
+        "ano": 2013,
+        "autores": "FERES JUNIOR, J. ; NASCIMENTO, L. F. ; EISENBERG, Z. W.",
+        "revista": "Dados (Rio de Janeiro. Impresso)",
+        "volume": "56",
+        "numero": "",
+        "paginas": "69-108",
+        "issn": "0011-5258",
+        "doi": "http://dx.doi.org/10.1590/S0011-52582013000100004",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Sociologia digital: uma breve introdução",
+        "ano": 2020,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "editora": "Salvador: EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "57"
+      },
+      {
+        "titulo": "Novas fronteiras metodológicas nas ciências sociais",
+        "ano": 2018,
+        "autores": "ALVES, P. C. B. (Org.) ; NASCIMENTO, LEONARDO FERNANDES (Org.)",
+        "editora": "Salvador: EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "271"
+      },
+      {
+        "titulo": "Historical Trauma. In: The Encyclopedia Of Race And Racism, 2nd Edition",
+        "ano": 2013,
+        "autores": "NASCIMENTO, L. F",
+        "editora": "Farmington Hills: Gale - Cengage Learning",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "2000"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Democracy ?inside out?: on far-right refracted publics in brazil",
+        "ano": 2026,
+        "autores": "CESARINO, LETÍCIA ; NASCIMENTO, LEONARDO FERNANDES ; FONSECA, PAULO F. C.",
+        "titulo_livro": "",
+        "editora": "Routledge",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-500"
+      },
+      {
+        "titulo": "?Cristão não vota em Comunista?: Extrema-direita, cristianismo e Telegram nas eleições de 2022 no Brasil",
+        "ano": 2025,
+        "autores": "FONSECA, PAULO ; VASCONCELOS, E. ; CESARINO, LETÍCIA ; NASCIMENTO, LEONARDO FERNANDES",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-309"
+      },
+      {
+        "titulo": "INTANKÁVEL O BOSTIL: RACISMO, MISOGINIA E ANTISSEMITISMO EM CHATS DO TELEGRAM (2020-2023)",
+        "ano": 2025,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES; FONSECA, P. F. C. ; CESARINO, LETÍCIA ; WEDDERBURN, R. S. M. ; BARRETO, T. ; JESUS, J. P.",
+        "titulo_livro": "",
+        "editora": "UFSB",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-402"
+      },
+      {
+        "titulo": "HUMANIDADES DIGITAIS E VIGILÂNCIA PELA DEMOCRACIA",
+        "ano": 2024,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "titulo_livro": "",
+        "editora": "Editora CRV",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1"
+      },
+      {
+        "titulo": "Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da História",
+        "ano": 2022,
+        "autores": "BRASIL, E. ; NASCIMENTO, L. F.",
+        "titulo_livro": "",
+        "editora": "Vozes",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1"
+      },
+      {
+        "titulo": "A Midiatização do refúgio no Brasil (2010-2018): proposta e processos metodológicos",
+        "ano": 2020,
+        "autores": "RUSSI, P. ; NASCIMENTO, L. F.",
+        "titulo_livro": "",
+        "editora": "Instituto de Pesquisa Econômica Aplicada - IPEA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-106"
+      },
+      {
+        "titulo": "O uso do ATLAS.ti na pesquisa em Ciências Sociais: aspectos metodológicos e epistemológicos",
+        "ano": 2018,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "titulo_livro": "",
+        "editora": "EDUFBA",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "1-271"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "MONITOR ALEPE: SOLUCIONANDO PROBLEMAS DE CLASSIFICAÇÃO COM USO DE INTELIGÊNCIA ARTIFICIAL",
+        "ano": 2024,
+        "autores": "COUTINHO, I. B. S. ; NASCIMENTO, LEONARDO FERNANDES",
+        "evento": "16º Congresso de Gestão Pública do Rio Grande do Norte - CONGESP/RN",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "?Barrigas cheias, cabeças vazias?: a controvérsia pública em torno do Programa Bolsa Família no jornal o Estado de S. Paulo (2003-2014)",
+        "ano": 2019,
+        "autores": "NASCIMENTO, L. F.; ALECRIM, Mylena ; CERQUEIRA, P. S. ; CARVALHO, I. C. P.",
+        "evento": "19º Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "O caso Uber no brasil: a cartografia de uma controvérsia",
+        "ano": 2019,
+        "autores": "NASCIMENTO, L. F.; JESUS, J. P. ; OLIVEIRA, J. B. ; DURAES, B. J. R.",
+        "evento": "19º Congresso Brasileiro de Sociologia",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "ENTRE DISCURSOS E PRÁTICAS: A CONFORMAÇÃO DE UMA ELITE INTELECTUAL SOBRE POLÍTICAS CULTURAIS NO BRASIL",
+        "ano": 2016,
+        "autores": "VIEIRA, M. P. ; NASCIMENTO, L. F.",
+        "evento": "XX SEMINÁRIO INTERNO DE PESQUISA DO GRUPO CULTURA",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "DA CIVILIZAÇÃO DA CONDUTA À CONDUTA CIVILIZADA: OS PROCESSOS DE CIVILIZAÇÃO E A PSICANÁLISE",
+        "ano": 2009,
+        "autores": "OFFEREINS, L",
+        "evento": "XII Simpósio Internacional Processo Civilizador",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "A abordagem midiática sobre a integração local de refugiados no Brasil",
+        "ano": 2018,
+        "autores": "GARCIA, A. L. J. C. R. ; NASCIMENTO, L. F. ; AVELHAN, L. L. ; FECHINE, V. M. R.",
+        "evento": "IX Seminário Nacional da Cátedra Sérgio Vieira de Mello ? ACNUR e III Conferência Latino-Americana sobre Refúgio, Migração e Apatridia, 2018, Paraná. REVISTA BRASILEIRA DE DIREITO INTERNACIONAL. Curitiba: UFPR",
+        "cidade": ""
+      },
+      {
+        "titulo": "EXPERIÊNCIA, HÁBITO E CORPOREIDADE EM INDIVÍDUOS ACOMETIDOS DE INFARTO",
+        "ano": 2002,
+        "autores": "NASCIMENTO, L. F",
+        "evento": "II Seminário de Pesquisa e Pós-Graduação e XX Seminário Estudantil de Pesquisa, 2002, Salvador. Livro de Resumos da Universidade Federal da Bahia. Salvador: EDUFBA",
+        "cidade": ""
+      },
+      {
+        "titulo": "A Noção de Carne na Literatura Naturalista",
+        "ano": 2002,
+        "autores": "NASCIMENTO, L. F",
+        "evento": "XXI Seminário Estudantil de Pesquisa da UFBA, 2002, Salvador. Anais do XXI Seminário Estudantil de Pesquisa da UFBA",
+        "cidade": ""
+      },
+      {
+        "titulo": "X ENCONTRO DE CIÊNCIAS SOCIAIS DO NORTE E NORDESTE",
+        "ano": 2001,
+        "autores": "NASCIMENTO, L. F.; Moura, J. H.",
+        "evento": "X ENCONTRO DE CIÊNCIAS SOCIAIS DO NORTE E NORDESTE, 2001, Salvador. Anais do X Encontro Norte Nordeste em Ciências Sociais. Salvador: EDUFBA",
+        "cidade": ""
+      },
+      {
+        "titulo": "MENDICÂNCIA: A EXCLUSÃO PRODUZINDO A INCLUSÃO SOCIAL",
+        "ano": 2000,
+        "autores": "NASCIMENTO, L. F",
+        "evento": "I Seminário de Pesquisa e Pós-Graduação e XIX Seminário Estudantil de Pesquisa, 2000, Salvador. Publicação da Universidade Federal da Bahia. Salvador: EDUFBA",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [
+      {
+        "titulo": "Conspirative Nudge: Visual Dynamics, Far-Right Engagement, and Alt-Tech Infrastructures on Telegram during Brazil?s 2022 Election Day",
+        "ano": 2026,
+        "autores": "BITENCOURT, E. ; FONSECA, PAULO ; MATOS, E. ; CESARINO, LETÍCIA ; NASCIMENTO, LEONARDO F.",
+        "revista": "New Media & Society",
+        "issn": ""
+      }
+    ],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "Mesa redonda: Cidadania digital: proteção de dados e desinformação",
+        "ano": 2025,
+        "autores": "TAVARES, C. ; BAHIA, S. ; PEDRAO, G. ; NASCIMENTO, LEONARDO FERNANDES",
+        "evento": ""
+      },
+      {
+        "titulo": "Ecossistemas multiplataforma e ataques à integridade da informação em saúde",
+        "ano": 2025,
+        "autores": "TEIXEIRA, M. G. ; NATIVIDADE, M. ; NASCIMENTO, LEONARDO FERNANDES",
+        "evento": ""
+      },
+      {
+        "titulo": "Lexzilla - Monitor Alepe",
+        "ano": 2025,
+        "autores": "ANDRADE, J. P. W. ; NASCIMENTO, LEONARDO FERNANDES ; COUTINHO, I. B. S. ; SILVA, C. A. F.",
+        "evento": ""
+      },
+      {
+        "titulo": "MONITOR ALEPE: SOLUCIONANDO PROBLEMAS DE CLASSIFICAÇÃO COM USO DE INTELIGÊNCIA ARTIFICIAL",
+        "ano": 2023,
+        "autores": "NASCIMENTO, L. F.; COUTINHO, I. B. S.",
+        "evento": ""
+      },
+      {
+        "titulo": "O Laboratório de Humanidades Digitais da UFBA",
+        "ano": 2022,
+        "autores": "NASCIMENTO, LEONARDO F",
+        "evento": ""
+      },
+      {
+        "titulo": "O Laboratório de Humanidades Digitais da UFBA",
+        "ano": 2022,
+        "autores": "NASCIMENTO, LEONARDO F",
+        "evento": ""
+      },
+      {
+        "titulo": "Ignorance as power? Chloroquine and the coproduction of truth in Brazil under Bolsonaro",
+        "ano": 2020,
+        "autores": "FONSECA, P. F. C. ; RIBEIRO, B. ; NASCIMENTO, L. F.",
+        "evento": ""
+      },
+      {
+        "titulo": "Caffé Científico: Digitalização, Dataficação e os desafios para pesquisa em Ciências Sociais",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "Métodos digitais nas Ciências Sociais: desafios e perspectivas",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "Um código na mão mas sem idéias na cabeça",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "Técnica, tecnologias digitais e finitude do ser em tempos de pandemia",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F.; RAMOS, D.",
+        "evento": ""
+      },
+      {
+        "titulo": "Bate-papo sobre métodos digitais de pesquisa nas humanidades",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "Interdisciplinaridade nas Humanidades Digitais",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F.; ALMEIDA, D. S. ; CARVALHO, L. ; NICODEMO, T. L. ; BRASIL JR, A.",
+        "evento": ""
+      },
+      {
+        "titulo": "Os métodos de pesquisa nas humanidades digitais",
+        "ano": 2019,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiências Interdisciplinares no Uso do Software ATLAS.ti para Análise de Dados Qualitativos",
+        "ano": 2019,
+        "autores": "VOSGERAU, D. S. R. ; NASCIMENTO, L. F. ; LOAIZA, A. ; CARPEJANI, P. ; CUBAS, J.",
+        "evento": ""
+      },
+      {
+        "titulo": "Pesquisa qualitativa de dados diante de métodos digitais",
+        "ano": 2019,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "Criatividade metodológica para desenhos de pesquisa originais e relevantes",
+        "ano": 2018,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "evento": ""
+      },
+      {
+        "titulo": "As tecnologias Digitais e uma nova imaginação",
+        "ano": 2018,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "Novas possibilidades para as Ciências Sociais: a Sociologia Digital",
+        "ano": 2017,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "Sociologia Digital: os desafios para a pesquisa do século XXI",
+        "ano": 2016,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "evento": ""
+      },
+      {
+        "titulo": "O PERFIL DOS ESTUDOS SOBRE POLITICAS CULURAIS A PARTIR DO ENECULT",
+        "ano": 2016,
+        "autores": "VIEIRA, M. P. ; NASCIMENTO, LEONARDO FERNANDES ; RUBIM, L. ; SOUZA, D.",
+        "evento": ""
+      },
+      {
+        "titulo": "Aspectos metodológicos e epistemológicos da Sociologia Digital",
+        "ano": 2016,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "evento": ""
+      },
+      {
+        "titulo": "O PERFIL DOS ESTUDOS SOBRE POLITICAS CULURAIS A PARTIR DO ENECULT",
+        "ano": 2016,
+        "autores": "VIEIRA, M. P. ; NASCIMENTO, LEONARDO FERNANDES ; RUBIM, L. ; SOUZA, D.",
+        "evento": ""
+      },
+      {
+        "titulo": "Entre o campo cientifico e o campo político: a conformação de uma elite intelectual de pesquisadores sobre política cultural no Brasil",
+        "ano": 2015,
+        "autores": "VIEIRA, M. P. ; RUBIM, L. ; NASCIMENTO, L. F. ; SOUZA, D.",
+        "evento": ""
+      },
+      {
+        "titulo": "Tecnologia aplicada à pesquisa em ciências sociais e humanas: uso de CAQDAS e análise de redes sociais",
+        "ano": 2015,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      },
+      {
+        "titulo": "DA CIVILIZAÇÃO DA CONDUTA À CONDUTA CIVILIZADA: OS PROCESSOS DE CIVILIZAÇÃO E A PSICANÁLISE",
+        "ano": 2009,
+        "autores": "OFFEREINS",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiência, Hábito e Corporeidade em indivíduos acometidos de infarto",
+        "ano": 2002,
+        "autores": "Alves, P. C. ; NASCIMENTO, L. F.",
+        "evento": ""
+      },
+      {
+        "titulo": "Experiência, Hábito e Corporeidade em indivíduos acometidos de infarto",
+        "ano": 2002,
+        "autores": "Alves, P. C. ; NASCIMENTO, L. F. ; Moura, J. H.",
+        "evento": ""
+      },
+      {
+        "titulo": "Mendicância: a exclusão produzindo a inclusão social perversa",
+        "ano": 2000,
+        "autores": "NASCIMENTO, L. F",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [
+      {
+        "titulo": "Telegram: uma grande sala com muitas portas",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "26 maio 2022"
+      },
+      {
+        "titulo": "Bolsonarismo usa o Telegram para desestabilizar as eleições, afirma especialista",
+        "ano": 2022,
+        "autores": "CESARINO, L. M. C. N. ; NASCIMENTO, L. F. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 maio 2022"
+      },
+      {
+        "titulo": "Com medo de suspensão, grupos bolsonaristas tentam maquiar ameaças no app... - Veja mais em https://www.uol.com.br/eleicoes/2022/05/15/telegram-bolsonaristas-lula-grupos-moderacao.htm",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "15 maio 2022"
+      },
+      {
+        "titulo": "Procuradoria cobra do Telegram balanço sobre medidas de combate à desinformação",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "13 maio 2022"
+      },
+      {
+        "titulo": "Procuradoria cobra do Telegram balanço sobre medidas de combate à desinformação. Folha de S",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "12 maio 2022"
+      },
+      {
+        "titulo": "Conspirações sobre 'anticristo' e fraude nas urnas lideram conteúdo em vídeo no Telegram da extrema direita",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "12 maio 2022"
+      },
+      {
+        "titulo": "O que explica a baixa adesão aos atos pró-Lula e a favor de Bolsonaro",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F",
+        "jornal": "",
+        "cidade": "",
+        "data": "02 maio 2022"
+      },
+      {
+        "titulo": "Lula ainda patina no Telegram, reduto digital de Bolsonaro... - Veja mais em https://www.uol.com.br/eleicoes/2022/04/23/em-inicio-de-pre-campanha-lula-ainda-patina-em-reduto-digital-de-bolsonaro.htm?cmpid=copiaecola",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F",
+        "jornal": "",
+        "cidade": "",
+        "data": "23 mar. 2022"
+      },
+      {
+        "titulo": "Mensagem de Bolsonaro derrubada após decisão do STF continua circulando no Telegram",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "22 mar. 2022"
+      },
+      {
+        "titulo": "Bloqueio do Telegram impulsiona perfil de Bolsonaro no aplicativo",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "22 mar. 2022"
+      },
+      {
+        "titulo": "Monitoramento da Ufba sobre Telegram mostra aumento de conteúdos neonazistas e antivacina",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "21 mar. 2022"
+      },
+      {
+        "titulo": "Monitoramento da Ufba sobre Telegram mostra aumento de conteúdos neonazistas e antivacina",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "21 mar. 2022"
+      },
+      {
+        "titulo": "Governo Bolsonaro impulsiona Telegram em órgãos oficiais e deixa riscos. Folha de S",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "19 mar. 2022"
+      },
+      {
+        "titulo": "Moraes ameaça punir drible a Telegram, e bolsonaristas recomendam tutorial. Folha de S",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "18 mar. 2022"
+      },
+      {
+        "titulo": "Fake news no Telegram: 'Se uma pessoa quer divulgar uma mentira, ela vai conseguir?",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "17 mar. 2022"
+      },
+      {
+        "titulo": "Conteúdo neonazista avança em canais do Telegram, aponta pesquisa. Folha de S",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 mar. 2022"
+      },
+      {
+        "titulo": "Grupos no Telegram difundem ódio e conteúdo neonazista, mostra estudo",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 mar. 2022"
+      },
+      {
+        "titulo": "Telegram mantém canais de fake news e neonazistas",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 mar. 2022"
+      },
+      {
+        "titulo": "Cresce a divulgação de mensagens neonazistas e mentirosas no Telegram",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 mar. 2022"
+      },
+      {
+        "titulo": "CANAIS ANTIVACINA NO TELEGRAM ESTÃO SE TORNANDO CELEIROS DE NEONAZISTAS",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "09 mar. 2022"
+      },
+      {
+        "titulo": "Telegram X eleições: desinformação e desafio no combate às fake news",
+        "ano": 2021,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "16 nov. 2021"
+      },
+      {
+        "titulo": "Igrejas evangélicas pentecostais tiveram boom de crescimento nos governos Lula e Dilma",
+        "ano": 2019,
+        "autores": "NASCIMENTO, L. F.; GOMIDE, H. ; BARBALHO, F. ; BARRETO, T. ; SANTANA, C.",
+        "jornal": "",
+        "cidade": "",
+        "data": "08 ago. 2019"
+      },
+      {
+        "titulo": "#VazaJato no Twitter: os influenciadores",
+        "ano": 2019,
+        "autores": "BARBALHO, F. ; SANTANA, C. ; BARRETO, T. ; NASCIMENTO, L. F. ; GOMIDE, H.",
+        "jornal": "",
+        "cidade": "",
+        "data": "14 jul. 2019"
+      },
+      {
+        "titulo": "Dadoscope: novo blog na Fórum traz jornalismo de dados",
+        "ano": 2019,
+        "autores": "BARBALHO, F. ; BARRETO, T. ; SANTANA, C. ; NASCIMENTO, L. F. ; GOMIDE, H.",
+        "jornal": "",
+        "cidade": "",
+        "data": "10 jul. 2019"
+      },
+      {
+        "titulo": "O solo fértil do ódio",
+        "ano": 2019,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "jornal": "",
+        "cidade": "",
+        "data": "22 jan. 2019"
+      },
+      {
+        "titulo": "Sem Sair de Casa: Sites ajudam a encontrar cara metade",
+        "ano": 2013,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "jornal": "",
+        "cidade": "",
+        "data": "21 jan. 2013"
+      },
+      {
+        "titulo": "O Fetiche Freud",
+        "ano": 2010,
+        "autores": "NASCIMENTO, L. F",
+        "jornal": "",
+        "cidade": "",
+        "data": "10 maio 2010"
+      },
+      {
+        "titulo": "Privação de alimentação ou anorexia?",
+        "ano": 2007,
+        "autores": "NASCIMENTO, L. F",
+        "jornal": "",
+        "cidade": "",
+        "data": "19 jun. 2007"
+      },
+      {
+        "titulo": "Da possibilidade à explosão",
+        "ano": 2007,
+        "autores": "NASCIMENTO, L. F",
+        "jornal": "",
+        "cidade": "",
+        "data": "24 abr. 2007"
+      }
+    ],
+    "outras_producoes": [
+      {
+        "titulo": "Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology. UNESCO/Liiv Center Call for Evidence",
+        "ano": 2023,
+        "autores": "CESARINO, L. M. C. N. ; NASCIMENTO, L. F. ; FONSECA, P. F. C.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Por que a universidade de plataforma é o fim da universidade. Roma: INFOLET",
+        "ano": 2020,
+        "autores": "FIORMONTE, D. ; NASCIMENTO, LEONARDO FERNANDES ; BRASIL, E.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      },
+      {
+        "titulo": "Sociologia do Conhecimento: novas perspectivas. Brasília: Departamento de Sociologia da Universidade de Brasília",
+        "ano": 2008,
+        "autores": "NASCIMENTO, L. F.; FERNANDES, D. C.",
+        "tipo": "Demais tipos de produção bibliográfica"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [
+      {
+        "titulo": "Bot para Twitter do Laboratório de Humanidades Digitais da UFBA",
+        "ano": 2020,
+        "autores": "ANDRADE, G. ; NASCIMENTO, L. F.",
+        "instituicao": "",
+        "finalidade": ""
+      }
+    ],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [
+      {
+        "titulo": "Colaboração com a Assessoria Especial de Enfrentamento à Desinformação do Tribunal Superior Eleitoral",
+        "ano": 2022,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES; CESARINO, LETÍCIA ; FONSECA, PAULO ; BARRETO, TÁRSSIO ; JESUS, J. P. ; WEDDERBURN, R. S. M.",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Site do LABHDUFBA. 2020; Tema: Humanidades Digitais",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Website pessoal - https://leofn.com/. 2020; Tema: Website pessoal",
+        "ano": 2020,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Website pessoal. 2017; Tema: Website pessoal",
+        "ano": 2017,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Trabalho técnico"
+      },
+      {
+        "titulo": "Site do Grupo de Estudos Multidisciplinar da Ação Afirmativa. 2013; Tema: Ações Afirmativas",
+        "ano": 2013,
+        "autores": "NASCIMENTO, L. F.; FERES JUNIOR, J.",
+        "tipo": "Trabalho técnico"
+      }
+    ],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Relatório do projeto 'Democracia digital: análise dos ecossistemas de desinformação no Telegram durante o processo eleitoral brasileiro de 2022' - vol. 3",
+        "ano": 2023,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório do projeto 'Democracia digital: análise dos ecossistemas de desinformação no Telegram durante o processo eleitoral brasileiro de 2022' - vol. 4 (emergencial)",
+        "ano": 2023,
+        "autores": "NASCIMENTO, LEONARDO F.; CESARINO, L. M. C. N. ; FONSECA, P. F. C.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório do projeto 'Democracia digital: análise dos ecossistemas de desinformação no Telegram durante o processo eleitoral brasileiro de 2022' - vol. 2",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, PAULO F. C.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Relatório do projeto 'Democracia digital: análise dos ecossistemas de desinformação no Telegram durante o processo eleitoral brasileiro de 2022' - vol. 1",
+        "ano": 2022,
+        "autores": "NASCIMENTO, L. F.; CESARINO, L. M. C. N. ; FONSECA, PAULO F. C.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Introdução à análise de dados qualitativos com o ATLAS.ti 8.0",
+        "ano": 2019,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Workshop Análise de Dados com ATLAS.ti 8",
+        "ano": 2018,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Análise Qualitativa de Dados através do ATLAS.ti",
+        "ano": 2018,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Análise Qualitativa de Dados através do ATLAS.ti (segunda parte)",
+        "ano": 2018,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Curso de Análise Qualitativa de Dados através do ATLAS.ti",
+        "ano": 2017,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Oficina Webscraping em R",
+        "ano": 2017,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Oficina de Sociologia Digital: utilizando o programa ATLAS.ti na pesquisa em Ciências Sociais",
+        "ano": 2016,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Curso de Sociologia Digital: utilizando o software ATLAS.ti na pesquisa qualitativa em Ciências Sociais",
+        "ano": 2016,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "MQ-2016: Análise de dados qualitativos",
+        "ano": 2016,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Gerenciamento de Referências Bibliográficas através do Zotero",
+        "ano": 2016,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "A sociologia e a sociedade digital",
+        "ano": 2016,
+        "autores": "NASCIMENTO, LEONARDO FERNANDES",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Perfil Ideológico e Atitudes Políticas dos Manifestantes de 16 de Agosto de 2015 em Salvador/Bahia",
+        "ano": 2015,
+        "autores": "TELLES, H. S. ; ROCHA, R. ; NASCIMENTO, L. F. ; SOUZA, C. A.",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2014,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Monteiro Lobato e o politicamente correto: workshop acerca da metodologia de pesquisa da mídia impressa",
+        "ano": 2014,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2014,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Sphinx para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2014,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Sphinx para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2014,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Sphinx para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2013,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2013,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2013,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2013,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      },
+      {
+        "titulo": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2012,
+        "autores": "NASCIMENTO, L. F",
+        "tipo": "Demais tipos de produção técnica"
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2025,
+          "orientando": "Raíssa Jeanine Nothaft",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "Negacionismo científico como Mercado da Desinformação: a produção e a circulação de desinformação sobre a vacina no Youtube durante a pandemia de Covid-19 no Brasil",
+          "ano_inicio": 2023,
+          "orientando": "Daniel Romero",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "TRILHANDO A ?SINERGIA MULTIDISCIPLINAR? DA SOCIOLOGIA COGNITIVA: CULTURA, COGNIÇÃO E CONSTRUÇÃO SOCIAL DA TECNOLOGIA PARA UMA REFLEXÃO SOBRE O ENSINO DE CIÊNCIAS SOCIAIS NO INSTITUTO FEDERAL DA BAHIA.",
+          "ano_inicio": 2023,
+          "orientando": "Jonatã França Bittencourt",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "MACHOSFERA: O CORPUS DIGITAL DO HOMEM RESSENTIDO",
+          "ano_inicio": 2025,
+          "orientando": "LEONARDO THIBAU TEIXEIRA DE MORAES",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Aplicações de NLP e redes semânticas sobre conspirações em desinformação em saúde nas plataformas YouTube, TikTok e Discord",
+          "ano_inicio": 2025,
+          "orientando": "Ruan Arthur Lima Santos",
+          "tipo_trabalho": "Iniciação científica",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Telegram-tracer: solução para coleta de dados do Telegram baseado no Pyrogram",
+          "ano_inicio": 2025,
+          "orientando": "Daniel de Sena Bastos",
+          "tipo_trabalho": "Iniciação científica",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Desinformação em saúde, sociologia digital e polarização política no Brasil",
+          "ano_inicio": 2025,
+          "orientando": "Lidia Mendes de Souza Belas Vieira",
+          "tipo_trabalho": "Iniciação científica",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [
+        {
+          "titulo": "",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Rosana Silva Moore Wedderburn",
+          "tipo_trabalho": "",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "doutorado": [
+        {
+          "titulo": "A PARTICIPAÇÃO SOCIAL NA POLÍTICA DE SEGURANÇA PÚBLICA DA BAHIA",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Tatiana Eleutério D´Almeida e Pinho",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A economia das trocas afetivas: as transformações no campo afetivo com o advento da era digital",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "MARCO ANTONIO VIEIRA DE OLIVEIRA PARANHOS",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Representações, sentidos e trajetórias de obesos/as e ex-obesos/as: entre a cirurgia bariátrica e a afirmação positiva dos corpos gordos",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Jorge Henrique Silvestre Barbosa",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "?Um pouquinho de Brasil?: construções sobre a nação e a identidade nacional sob o prisma do futebol em 1950 e 2014",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Priscilla Andreata Rosa de Sousa",
+          "tipo_trabalho": "Tese",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "mestrado": [
+        {
+          "titulo": "O YouTube como plataforma de promoção da extrema-direita no Brasil",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Juciane Pereira de Jesus",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "?O mundo é a sua casa?: a plataforma AIRBNB no centro histórico de Salvador",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Jéfte Batista de Oliveira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "MOVIMENTOS POLÍTICOS DIGITAIS: RENOVAÇÃO PELA VIA DA DEMOCRACIA DIGITAL OU REPOSICIONAMENTO DA VELHA POLÍTICA NA REPÚBLICA DA INTERNET?",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Lucas Mariano Baqueiro",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A política do placebo: conteúdo sobre a legitimação da cloroquina e hidroxicloroquina no YouTube Brasil em 2020.",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Beatriz de Moraes Braga Ferreira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade do Estado do Rio de Janeiro",
+          "curso": ""
+        },
+        {
+          "titulo": "Paulo (2003-2014)",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Patricia da Silva Cerqueira. Programa Bolsa Família no debate midiático: a perspectiva do jornal O Estado de S",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Ser gorda na clínica e na rede: do discurso médico aos movimentos de autoaceitação na internet",
+          "ano_inicio": 2020,
+          "ano_conclusao": 2020,
+          "orientando": "Marcella Tavares de Alencar",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Paulo e o princípio do pluralismo na mídia",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Mylena Souza Alecrim. Debate público e crise política: a construção do impeachment de Dilma no jornal Estado de S",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Paulo (2003-2014)",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Ive Cristine Pereira de Carvalho. Programa Bolsa Família no debate midiático: a perspectiva do jornal O Estado de S",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "SOLTA A VOZ: O QUE DIZEM OS ESTUDANTES AFRICANOS SOBRE O PRECONCEITO E A DISCRIMINAÇÃO RACIAL EM UM MUNICÍPIO BAIANO.",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "MICHELE SANTANA PACHECO DE ALMEIDA",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Entre as novas tecnologias e as novas formas de produzir: o caso do aplicativo Uber no Brasil",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Lincoln Saldanha Fernandez da Fonseca",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Ecossistema digital de desinformação no grupos do aplicativo Telegram: uma análise das mensagens sobre o tratamento precoce para a COVID-19",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Emily Caroline de Vasconcelos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uso da linguagem Python na raspagem e detecção de bots para desinformação no Telegram",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Talia Lino de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Webscraping em Python para coletar postagens sobre COVID-19 na redes social Tiktok e em websites de notícias",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Iolanda Victoria Morais Ramos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Uso da linguagem R para análise e visualização de dados sobre desinformação em grupos e canais do Telegram",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Ana Carolina Balbino Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O caso aplicativo UBER no Brasil: da controvérsia às novas facetas do capitalismo de plataforma",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Jéfte Batista de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "O caso aplicativo UBER no Brasil: da controvérsia às novas facetas do capitalismo de plataforma",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Juciane Pereira de Jesus",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Humanidades Digitais: criação de ferramentas digitais de pesquisa para as ciências humanas e sociais",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Gabriel Souza de Andrade",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A construção social dos diagnósticos nas sociedades digitais: o TDAH na world wide web",
+          "ano_inicio": 2018,
+          "ano_conclusao": 2018,
+          "orientando": "Juciane Pereira de Jesus",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A construção social dos diagnósticos nas sociedades digitais: o TDAH na world wide web",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Jefte Batista de Oliveira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "A construção social dos diagnósticos nas sociedades digitais: o TDAH na world wide web",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Saulo de Oliveira Costa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "Humanidades Digitais: criação de ferramentas digitais de pesquisa para as ciências humanas e sociais",
+          "ano_inicio": 2017,
+          "ano_conclusao": 2017,
+          "orientando": "Edely Santos Gomes da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "África in the News: 140 anos da construção social do continente africano na mídia impressa brasileira",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "ludmilla martins gomes da silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+          "curso": ""
+        },
+        {
+          "titulo": "TDAH: a polêmica em torno de um diagnóstico.",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Ive Cristine Pereira de Carvalho",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        },
+        {
+          "titulo": "TDAH: a polêmica em torno de um diagnóstico",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Lara Rosa Meirelles Barros",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal da Bahia",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Black in AI and Queer in AI's social event at ICML",
+        "apresentacao": "Black in AI and Queer in AI's social event at ICML",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "International Conference on Machine Learning (ICML)",
+        "apresentacao": "Black in AI",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Grupo de Pesquisa Leituras Contemporâneas",
+        "apresentacao": "As tecnologias digitais e uma nova imaginação",
+        "ano": 2018,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Semana de Ciências Sociais",
+        "apresentacao": "Novas Possibilidades para as Ciências Sociais: a Sociologia Digital",
+        "ano": 2017,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "1º Congresso da Associação Internacional de Ciências Sociais e Humanas em Língua Portuguesa",
+        "apresentacao": "Tecnologia aplicada à pesquisa em ciências sociais e humanas: uso de CAQDAS e análise de redes sociais",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XI Reunión de Antropología del MERCOSUR (XI RAM),",
+        "apresentacao": "Entre o campo cientifico e o campo político: a conformação de uma elite intelectual de pesquisadores sobre política cultural no Brasil",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Fórum Internacional 20 de Novembro - VII Fórum Pró-Igualdade Racial e Inclusão do Recôncavo",
+        "apresentacao": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais.. Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Encontro do Grupo Estratégico de Análise da Educação Superior no Brasil - FLACSO",
+        "apresentacao": null,
+        "ano": 2012,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "Fórum Internacional 20 de Novembro - VI Fórum Pró-Igualdade Racial e Inclusão do Recôncavo",
+        "apresentacao": "Utilizando o programa Atlas.ti para pesquisas qualitativas em Ciências Sociais",
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XII Simpósio Internacional Processo Civilizador",
+        "apresentacao": "DA CIVILIZAÇÃO DA CONDUTA À CONDUTA CIVILIZADA: OS PROCESSOS DE CIVILIZAÇÃO E A PSICANÁLISE",
+        "ano": 2009,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXII Congresso Brasileiro de Sociologia",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "XXIX Encontro Anual da Associação Nacional de Pós-Graduaçao e Pesquisa em Ciências Sociais - ANPOCS",
+        "apresentacao": null,
+        "ano": 2005,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Congresso Brasileiro de Psicologia: Ciência e Profissão",
+        "apresentacao": "Experiência, Hábito e Corporeidade em indivíduos acometidos de infarto",
+        "ano": 2002,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "II Seminário de Pesquisa e Pós-Graduação e XX Seminário Estudantil de Pesquisa",
+        "apresentacao": "Experiência, Hábito e Corporeidade em indivíduos acometidos de infarto",
+        "ano": 2002,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "X ENCONTRO DE CIÊNCIAS SOCIAIS DO NORTE E NORDESTE",
+        "apresentacao": "X ENCONTRO DE CIÊNCIAS SOCIAIS DO NORTE E NORDESTE",
+        "ano": 2001,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento"
+      },
+      {
+        "evento": "I Seminário de Pesquisa e Pós-Graduação e XIX Seminário Estudantil de Pesquisa",
+        "apresentacao": "Mendicância: a exclusão produzindo a inclusão social perversa",
+        "ano": 2000,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "OLIVEIRA, J. B.; NASCIMENTO, LEONARDO FERNANDES; ARANTES, R. A.; OLIVEIRA, L. A.; MENDES, L. F. G.. Participação em banca de Jéfte Batista de Oliveira. DE ?BAIRRO DE VOVÓ? A CENÁRIO DE NOVELA: A GENTRIFICAÇÃO TURÍSTICA DO SANTO ANTÔNIO ALÉM DO CARMO. 2025. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2025,
+        "tipo": "Mestrado",
+        "aluno": "Jéfte Batista de Oliveira",
+        "membros_banca": [
+          "OLIVEIRA, J. B.",
+          "NASCIMENTO, LEONARDO FERNANDES",
+          "ARANTES, R. A.",
+          "OLIVEIRA, L. A.",
+          "MENDES, L. F. G."
+        ],
+        "titulo_trabalho": "DE ?BAIRRO DE VOVÓ? A CENÁRIO DE NOVELA: A GENTRIFICAÇÃO TURÍSTICA DO SANTO ANTÔNIO ALÉM DO CARMO",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CAMPOS, M. B.; MENDONCA, R. F.; NASCIMENTO, L. F.; REZENDE, D. F. A.. Participação em banca de Antônio Olegário Ferreira Neto. ?MÁQUINA DE FAZER MOTORISTAS: A FORMAÇÃO DE CONDUTAS NO COTIDIANO DE TRABALHO DOS MOTORISTAS DE APLICATIVO.?. 2024. Dissertação (Mestrado em Sociologia) - Universidade Federal de Minas Gerais.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Antônio Olegário Ferreira Neto. ?MÁQUINA DE FAZER MOTORISTAS: A FORMAÇÃO DE CONDUTAS NO COTIDIANO DE TRABALHO DOS MOTORISTAS DE APLICATIVO.?",
+        "membros_banca": [
+          "CAMPOS, M. B.",
+          "MENDONCA, R. F.",
+          "NASCIMENTO, L. F.",
+          "REZENDE, D. F. A."
+        ],
+        "titulo_trabalho": "",
+        "curso": "Dissertação (Mestrado em Sociologia)",
+        "universidade": "Universidade Federal de Minas Gerais"
+      },
+      {
+        "descricao": "NASCIMENTO, LEONARDO FERNANDES; IAMAMOTO, S. A. S.; FERNANDES, D. C.. Participação em banca de Juciane Pereira de Jesus. RESGATAR BONS VALORES, IDEIAS E SENTIMENTOS NO CORAÇÃO DOS BRASILEIROS: O BRASIL PARALELO E SEU PROJETO DE CONTRARREVOLUÇÃO CULTURAL. 2024. Dissertação (Mestrado em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Juciane Pereira de Jesus",
+        "membros_banca": [
+          "NASCIMENTO, LEONARDO FERNANDES",
+          "IAMAMOTO, S. A. S.",
+          "FERNANDES, D. C."
+        ],
+        "titulo_trabalho": "RESGATAR BONS VALORES, IDEIAS E SENTIMENTOS NO CORAÇÃO DOS BRASILEIROS: O BRASIL PARALELO E SEU PROJETO DE CONTRARREVOLUÇÃO CULTURAL",
+        "curso": "Dissertação (Mestrado em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "RAMALHO, J. R.; SANTOS, R. S. P.; NASCIMENTO, LEONARDO FERNANDES. Participação em banca de Vítor Mussa Tavares Gomes. A construção da Indústria 4.0 pelo microtrabalho. 2024. Dissertação (Mestrado em Programa de pós-graduação em sociologia e antropologia) - Universidade Federal do Rio de Janeiro.",
+        "ano": 2024,
+        "tipo": "Mestrado",
+        "aluno": "Vítor Mussa Tavares Gomes",
+        "membros_banca": [
+          "RAMALHO, J. R.",
+          "SANTOS, R. S. P.",
+          "NASCIMENTO, LEONARDO FERNANDES"
+        ],
+        "titulo_trabalho": "A construção da Indústria 4.0 pelo microtrabalho",
+        "curso": "Dissertação (Mestrado em Programa de pós-graduação em sociologia e antropologia)",
+        "universidade": "Universidade Federal do Rio de Janeiro"
+      },
+      {
+        "descricao": "SILVA, G. T. R.; TEIXEIRA, G. A. S.; LUCHESI, L. B.; PORTO, F. R.; NASCIMENTO, L. F.. Participação em banca de MILLER FONTES BRANDÃO. IMAGEM DA ENFERMEIRA NO JORNAL O ESTADO DE SÃO PAULO. 2021. Dissertação (Mestrado em Enfermagem) - Universidade Federal da Bahia.",
+        "ano": 2021,
+        "tipo": "Mestrado",
+        "aluno": "MILLER FONTES BRANDÃO",
+        "membros_banca": [
+          "SILVA, G. T. R.",
+          "TEIXEIRA, G. A. S.",
+          "LUCHESI, L. B.",
+          "PORTO, F. R.",
+          "NASCIMENTO, L. F."
+        ],
+        "titulo_trabalho": "IMAGEM DA ENFERMEIRA NO JORNAL O ESTADO DE SÃO PAULO",
+        "curso": "Dissertação (Mestrado em Enfermagem)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CERQUEIRA, P. S.; NASCIMENTO, LEONARDO FERNANDES; WEDDERBURN, R. S. M.; REGATIERI, R. P.. Participação em banca de Patrícia da Silva Cerqueira. Programa Bolsa Família no debate midiático: a perspectiva do jornal O Estado de S. Paulo (2003-2014). 2020. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2003,
+        "tipo": "Mestrado",
+        "aluno": "Patrícia da Silva Cerqueira",
+        "membros_banca": [
+          "CERQUEIRA, P. S.",
+          "NASCIMENTO, LEONARDO FERNANDES",
+          "WEDDERBURN, R. S. M.",
+          "REGATIERI, R. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Alves, P. C.; MEIRELLES, G.; NASCIMENTO, L. F.. Participação em banca de Jaiana de Souza Meneses. Além do mar: experiência de doença em pescadores e marisqueiras da Baía de Todos os Santos. 2016. Dissertação (Mestrado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2016,
+        "tipo": "Mestrado",
+        "aluno": "Jaiana de Souza Meneses",
+        "membros_banca": [
+          "Alves, P. C.",
+          "MEIRELLES, G.",
+          "NASCIMENTO, L. F."
+        ],
+        "titulo_trabalho": "Além do mar: experiência de doença em pescadores e marisqueiras da Baía de Todos os Santos",
+        "curso": "Dissertação (Mestrado em Ciências Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ZIMMERMANN, C. R.; SILVA JUNIOR, D. A.; NASCIMENTO, L. F.. Participação em banca de Ricardo Costa e Silva. Incongruências na criminalização do usuário de drogas. 2014. Dissertação (Mestrado em Mestrado Profissional em Segurança Pública) - Universidade Federal da Bahia.",
+        "ano": 2014,
+        "tipo": "Mestrado",
+        "aluno": "Ricardo Costa e Silva",
+        "membros_banca": [
+          "ZIMMERMANN, C. R.",
+          "SILVA JUNIOR, D. A.",
+          "NASCIMENTO, L. F."
+        ],
+        "titulo_trabalho": "Incongruências na criminalização do usuário de drogas",
+        "curso": "Dissertação (Mestrado em Mestrado Profissional em Segurança Pública)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "SOUZA, N. R.; BEGA, M. T. S.; NASCIMENTO, L. F.; SAMPAIO, R. C.; JUNIOR , A. C.. Participação em banca de José Lázaro Ferreira Barros Júnior. DEMOCRACIA INCERTA: A INSTRUMENTALIZAÇÃO DA LEI DE ACESSO À INFORMAÇÃO NO BRASIL (2012-2016). 2020. Tese (Doutorado em Doutorado em Sociologia) - Universidade Federal do Paraná.",
+        "ano": 2012,
+        "tipo": "Tese de Doutorado",
+        "aluno": "José Lázaro Ferreira Barros Júnior",
+        "membros_banca": [
+          "SOUZA, N. R.",
+          "BEGA, M. T. S.",
+          "NASCIMENTO, L. F.",
+          "SAMPAIO, R. C.",
+          "JUNIOR , A. C."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal do Paraná"
+      },
+      {
+        "descricao": "HERTZOG, L.; COTANDA, F. C.; TEIXEIRA, A. N.; NIZ, P. A. R.; NASCIMENTO, LEONARDO FERNANDES. Participação em banca de Lucas Hertzog. DÁ UM LIKE, SE INSCREVE NO CANAL E COMPARTILHA O VÍDEO UM ESTUDO SOCIOLÓGICO SOBRE A INTERSECÇÃO ENTRE O TRABALHO E AS NOVAS TECNOLOGIAS DIGITAIS NO YOUTUBE BRASIL. 2019. Tese (Doutorado em Programa de Pós-Graduação em Sociologia) - Universidade Federal do Rio Grande do Sul.",
+        "ano": 2019,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Lucas Hertzog",
+        "membros_banca": [
+          "HERTZOG, L.",
+          "COTANDA, F. C.",
+          "TEIXEIRA, A. N.",
+          "NIZ, P. A. R.",
+          "NASCIMENTO, LEONARDO FERNANDES"
+        ],
+        "titulo_trabalho": "DÁ UM LIKE, SE INSCREVE NO CANAL E COMPARTILHA O VÍDEO UM ESTUDO SOCIOLÓGICO SOBRE A INTERSECÇÃO ENTRE O TRABALHO E AS NOVAS TECNOLOGIAS DIGITAIS NO YOUTUBE BRASIL",
+        "curso": "Tese (Doutorado em Programa de Pós-Graduação em Sociologia)",
+        "universidade": "Universidade Federal do Rio Grande do Sul"
+      },
+      {
+        "descricao": "LEMOS, A. L. M.; PEREIRA NETO, A. F.; DANDREA, C. F. B.; NASCIMENTO, L. F.; RIBEIRO, J. C. S.. Participação em banca de Elias Cunha Bitencourt. Smartbodies: Corpo, tecnologias vestíveis e performatividade algorítmica. Um estudo exploratório dos modos heurísticos de corporar na plataforma Fitbit. 2019. Tese (Doutorado em Programa de Pós-Graduação em Comunicação e Cultura Contemporâneas) - Universidade Federal da Bahia.",
+        "ano": 2019,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Elias Cunha Bitencourt",
+        "membros_banca": [
+          "LEMOS, A. L. M.",
+          "PEREIRA NETO, A. F.",
+          "DANDREA, C. F. B.",
+          "NASCIMENTO, L. F.",
+          "RIBEIRO, J. C. S."
+        ],
+        "titulo_trabalho": "Smartbodies: Corpo, tecnologias vestíveis e performatividade algorítmica. Um estudo exploratório dos modos heurísticos de corporar na plataforma Fitbit",
+        "curso": "Tese (Doutorado em Programa de Pós-Graduação em Comunicação e Cultura Contemporâneas)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_doutorado": [
+      {
+        "descricao": "NASCIMENTO, L. F.; FERNANDES, D. C.; BACELAR, J. A.. Participação em banca de Priscilla Andreata Rosa de Souza. ?E DIGA O VERDE-LOURO DESTA FLÂMULA?: NARRATIVAS SOBRE O BRASIL A PARTIR DO FUTEBOL DURANTE AS COPAS DO MUNDO DE 1950 E 2014. 2015. Exame de qualificação (Doutorando em Curso de doutorado em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 1950,
+        "tipo": "Qualificação de Doutorado",
+        "aluno": "Priscilla Andreata Rosa de Souza. ?E DIGA O VERDE-LOURO DESTA FLÂMULA?: NARRATIVAS SOBRE O BRASIL A PARTIR DO FUTEBOL DURANTE AS COPAS DO MUNDO DE 1950 E 2014",
+        "membros_banca": [
+          "NASCIMENTO, L. F.",
+          "FERNANDES, D. C.",
+          "BACELAR, J. A."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "FERNANDES, D. C.; FIGUEIRA, P. R.; NASCIMENTO, LEONARDO FERNANDES. Participação em banca de Igor de Souza Rodrigues. O crack que o brasil conhece: estudo sociológico das representações jornalísticas. 2017. Exame de qualificação (Doutorando em Ciências Sociais) - Universidade Federal de Juiz de Fora.",
+        "ano": 2017,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Igor de Souza Rodrigues",
+        "membros_banca": [
+          "FERNANDES, D. C.",
+          "FIGUEIRA, P. R.",
+          "NASCIMENTO, LEONARDO FERNANDES"
+        ],
+        "titulo_trabalho": "O crack que o brasil conhece: estudo sociológico das representações jornalísticas",
+        "curso": "Exame de qualificação (Doutorando em Ciências Sociais)",
+        "universidade": "Universidade Federal de Juiz de Fora"
+      },
+      {
+        "descricao": "DALMONTE, E. F.; NAKAGAWA, R. M. O.; SILVA, R. L. G. S. E.; NASCIMENTO, LEONARDO FERNANDES. Participação em banca de André Bomfim dos Santos. Muito além do like: proposta para o estudo empírico das dinâmicas do consumo midiático e conteúdos publicitários em mídia social. 2016. Exame de qualificação (Doutorando em Comunicação e Cultura Contemporânea) - Universidade Federal da Bahia.",
+        "ano": 2016,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "André Bomfim dos Santos",
+        "membros_banca": [
+          "DALMONTE, E. F.",
+          "NAKAGAWA, R. M. O.",
+          "SILVA, R. L. G. S. E.",
+          "NASCIMENTO, LEONARDO FERNANDES"
+        ],
+        "titulo_trabalho": "Muito além do like: proposta para o estudo empírico das dinâmicas do consumo midiático e conteúdos publicitários em mídia social",
+        "curso": "Exame de qualificação (Doutorando em Comunicação e Cultura Contemporânea)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "NASCIMENTO, LEONARDO FERNANDES; MENDES, L. F. G.; OLIVEIRA, L. A.; ARANTES, R. A.. Participação em banca de JÉFTE BATISTA DE OLIVEIRA. DE ?BAIRRO DE VOVÓ? A CENÁRIO DE NOVELA: A GENTRIFICAÇÃO TURÍSTICA DO SANTO ANTÔNIO ALÉM DO CARMO. 2024. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2024,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "JÉFTE BATISTA DE OLIVEIRA",
+        "membros_banca": [
+          "NASCIMENTO, LEONARDO FERNANDES",
+          "MENDES, L. F. G.",
+          "OLIVEIRA, L. A.",
+          "ARANTES, R. A."
+        ],
+        "titulo_trabalho": "DE ?BAIRRO DE VOVÓ? A CENÁRIO DE NOVELA: A GENTRIFICAÇÃO TURÍSTICA DO SANTO ANTÔNIO ALÉM DO CARMO",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "CERQUEIRA, P. S.; NASCIMENTO, LEONARDO FERNANDES; WEDDERBURN, R. S. M.; REGATIERI, R. P.. Participação em banca de Patrícia da Silva Cerqueira. Programa Bolsa Família no debate midiático: a perspectiva do jornal O Estado de S. Paulo (2003-2014). 2019. Exame de qualificação (Mestrando em Ciências Sociais) - Universidade Federal da Bahia.",
+        "ano": 2003,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Patrícia da Silva Cerqueira",
+        "membros_banca": [
+          "CERQUEIRA, P. S.",
+          "NASCIMENTO, LEONARDO FERNANDES",
+          "WEDDERBURN, R. S. M.",
+          "REGATIERI, R. P."
+        ],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "ZIMMERMANN, C. R.; NASCIMENTO, L. F.; LIMA, A. S.. Participação em banca de Claudenice Teixeira Cerqueira Mayo. O adolescente pobre e o envolvimento com o tráfico de drogas. 2015. Exame de qualificação (Mestrando em Mestrado Profissional em Segurança Pública) - Universidade Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Claudenice Teixeira Cerqueira Mayo",
+        "membros_banca": [
+          "ZIMMERMANN, C. R.",
+          "NASCIMENTO, L. F.",
+          "LIMA, A. S."
+        ],
+        "titulo_trabalho": "O adolescente pobre e o envolvimento com o tráfico de drogas",
+        "curso": "Exame de qualificação (Mestrando em Mestrado Profissional em Segurança Pública)",
+        "universidade": "Universidade Federal da Bahia"
+      },
+      {
+        "descricao": "Alves, P. C.; MEIRELLES, G.; NASCIMENTO, L. F.. Participação em banca de Jaiana de Sousa Meneses. Além do mar: experiência de doença em pescadores e marisqueiras da Baía de Todos os Santos. 2015. Exame de qualificação (Mestrando em Ciencias Sociais) - Universidade Federal da Bahia.",
+        "ano": 2015,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Jaiana de Sousa Meneses",
+        "membros_banca": [
+          "Alves, P. C.",
+          "MEIRELLES, G.",
+          "NASCIMENTO, L. F."
+        ],
+        "titulo_trabalho": "Além do mar: experiência de doença em pescadores e marisqueiras da Baía de Todos os Santos",
+        "curso": "Exame de qualificação (Mestrando em Ciencias Sociais)",
+        "universidade": "Universidade Federal da Bahia"
+      }
+    ],
+    "graduacao": [],
+    "outras": [
+      {
+        "descricao": "NASCIMENTO, LEONARDO FERNANDES; GOMIDE, H. P.; DURAES, B. J. R.. CONCURSO PÚBLICO PARA DOCENTE DO MAGISTÉRIO SUPERIOR EDITAL 02/2018 - Vaga: Humanidades Digitais e Contemporaneidade. 2019. Universidade Federal da Bahia.",
+        "ano": 2018,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "NASCIMENTO, L. F.; BERTONCELO, E. R. E.; MUNIZ, J. O.. EDITAL Nº 92/2016 ? Concurso Público para Magistério Superior. Setor de estudos: Métodos Quantitativos em Ciências Sociais. 2017. Universidade da Integração Internacional da Lusofonia Afro-Brasileira.",
+        "ano": 2016,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 20,
+    "total_livros": 3,
+    "total_capitulos": 7,
+    "total_trabalhos_congressos": 5,
+    "total_projetos_pesquisa": 17,
+    "total_projetos_extensao": 2,
+    "total_projetos_desenvolvimento": 4,
+    "total_orientacoes_concluidas": 29,
+    "total_orientacoes_andamento": 7
+  }
+}
