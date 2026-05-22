@@ -15,32 +15,31 @@ def generate_site():
     print("=" * 50)
     print("Generating PPGCS Faculty Site")
     print("=" * 50)
-    
-    # Load processed data
-    data_path = Path('data/processed/faculty_data.json')
+
+    # Load processed data (enhanced with Google Scholar)
+    data_path = Path('data/processed/faculty_data_enhanced.json')
     if not data_path.exists():
-        print(f"Error: {data_path} not found. Run process_lattes_final.py first.")
+        print(f"Error: {data_path} not found. Run enhance_with_scholar_fixed.py first.")
         return
-    
+
     with open(data_path, 'r', encoding='utf-8') as f:
         faculty_data = json.load(f)
-    
+
     print(f"Loaded {len(faculty_data)} faculty members")
-    
+
     # Create output directory
     output_dir = Path('docs')
     output_dir.mkdir(exist_ok=True)
-    
+
     # Create assets directory
     assets_dir = output_dir / 'assets'
     assets_dir.mkdir(exist_ok=True)
     (assets_dir / 'css').mkdir(exist_ok=True)
     (assets_dir / 'js').mkdir(exist_ok=True)
     (assets_dir / 'images').mkdir(exist_ok=True)
-    
+
     # Generate CSS
-    css_content = """
-/* PPGCS Faculty Site - Modern, Responsive Design */
+    css_content = """/* PPGCS Faculty Site - Modern, Responsive Design */
 :root {
     --primary-color: #2563eb;
     --primary-dark: #1d4ed8;
@@ -93,7 +92,7 @@ header::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="%23ffffff" fill-opacity="0.1" d="M0,0 L100,0 L100,100 L0,100 Z"/></svg>');
+    background: url('data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><path fill=\"%23ffffff\" fill-opacity=\"0.1\" d=\"M0,0 L100,0 L100,100 L0,100 Z\"/></svg>');
 }
 
 header h1 {
@@ -185,7 +184,7 @@ header p {
     justify-content: space-between;
     font-size: 0.875rem;
     color: var(--text-muted);
-    border-top: 1px solid var(--border-color);
+    border-top: 1px var(--border-color);
     padding-top: 1rem;
 }
 
@@ -459,9 +458,9 @@ footer a:hover {
     with open(css_path, 'w', encoding='utf-8') as f:
         f.write(css_content)
     print(f"✓ Generated CSS: {css_path}")
-    
+
     # Generate index.html
-    index_html = f"""<!DOCTYPE html>
+    index_html = """<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -479,12 +478,12 @@ footer a:hover {
             <p>Programa de Pós-Graduação em Ciências Sociais - UFBA</p>
         </div>
     </header>
-    
+
     <main>
         <div class="container">
             <div class="faculty-grid">
 """
-    
+
     # Add faculty cards
     for faculty in faculty_data:
         # Create a slug for the faculty member
@@ -543,7 +542,7 @@ footer a:hover {
     index_html += """            </div>
         </div>
     </main>
-    
+
     <footer>
         <div class="container">
             <p>&copy; 2026 LABHDUFBA - Programa de Pós-Graduação em Ciências Sociais</p>
@@ -552,7 +551,8 @@ footer a:hover {
     </footer>
 </body>
 </html>"""
-    
+
+    # Write index.html
     with open(output_dir / 'index.html', 'w', encoding='utf-8') as f:
         f.write(index_html)
     print(f"✓ Generated index.html")
@@ -581,7 +581,7 @@ footer a:hover {
             <div class="title">Professor of Sociology</div>
         </div>
     </header>
-    
+
     <main>
         <div class="container faculty-detail">
             <a href="/" class="btn">← Back to Faculty List</a>
@@ -606,7 +606,7 @@ footer a:hover {
                     <h2>Education</h2>
                     <div class="content-grid">
 """
-        
+
         # Education
         for edu in faculty.get('education', []):
             faculty_html += f"""                        <div class="card">
@@ -624,7 +624,7 @@ footer a:hover {
                     <h2>Publications</h2>
                     <div class="content-grid">
 """
-        
+
         # Journal Articles
         pubs = faculty.get('publications', {}).get('journal_articles', [])
         if pubs:
@@ -707,7 +707,7 @@ footer a:hover {
                     <h2>Supervision</h2>
                     <div class="content-grid">
 """
-        
+
         # Completed supervisions
         completed = faculty.get('supervision', {}).get('completed', [])
         if completed:
@@ -763,7 +763,7 @@ footer a:hover {
                     <h2>Statistics</h2>
                     <div class="stats-grid">
 """
-        
+
         stats = faculty.get('statistics', {})
         faculty_html += f"""                        <div class="stat-card">
                             <span class="stat-value">{stats.get('journal_articles', 0)}</span>
@@ -792,7 +792,7 @@ footer a:hover {
             </div>
         </div>
     </main>
-    
+
     <footer>
         <div class="container">
             <p>&copy; 2026 LABHDUFBA - Programa de Pós-Graduação em Ciências Sociais</p>
@@ -801,7 +801,7 @@ footer a:hover {
     </footer>
 </body>
 </html>"""
-        
+
         # Create faculty directory
         faculty_dir = output_dir / 'faculty'
         faculty_dir.mkdir(exist_ok=True)
