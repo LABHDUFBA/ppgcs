@@ -3,515 +3,646 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PPGCS Faculty - LABHDUFBA</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>PPGCS Faculty Analytics Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        header {
+            text-align: center;
+            padding: 2rem 0;
+            border-bottom: 1px solid #334155;
+            margin-bottom: 2rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #6366f1, #8b5cf6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        
+        .stat-card {
+            background: #1e293b;
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            border: 1px solid #334155;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .search-container {
+            position: sticky;
+            top: 0;
+            background: #0f172a;
+            z-index: 100;
+            padding: 1rem 0;
+            border-bottom: 1px solid #334155;
+        }
+        
+        .search-box {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 0.75rem 1rem;
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 0.5rem;
+            color: #e2e8f0;
+            font-size: 1rem;
+        }
+        
+        .search-box:focus {
+            outline: none;
+            border-color: #6366f1;
+        }
+        
+        .chart-container {
+            background: #1e293b;
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            border: 1px solid #334155;
+        }
+        
+        .chart-title {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+            background: #1e293b;
+        }
+        
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #334155;
+        }
+        
+        th {
+            background: #0f172a;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.875rem;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        th:hover {
+            background: #334155;
+        }
+        
+        th.sorted-asc::after {
+            content: ' ▲';
+        }
+        
+        th.sorted-desc::after {
+            content: ' ▼';
+        }
+        
+        tbody tr:hover {
+            background: #334155;
+        }
+        
+        td a {
+            color: #6366f1;
+            text-decoration: none;
+        }
+        
+        td a:hover {
+            text-decoration: underline;
+        }
+        
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem 0;
+            border-top: 1px solid #334155;
+            margin-top: 3rem;
+            color: #64748b;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .stats-bar {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>PPGCS Faculty</h1>
+    <div class="container">
+        <header>
+            <h1>PPGCS Faculty Analytics Dashboard</h1>
             <p>Programa de Pós-Graduação em Ciências Sociais - UFBA</p>
+        </header>
+        
+        <div class="search-container">
+            <input type="text" class="search-box" placeholder="Search faculty..." id="searchInput">
         </div>
-    </header>
-
-    <main>
-        <div class="container">
-            <div class="faculty-grid">
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Ana Rodrigues Cavalcanti Alves">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Ana Rodrigues Cavalcanti Alves</h2>
-                        <div class="title">Adjunct Professor</div>
-                        <p class="summary">Professora Adjunta do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e do Programa de Pós-graduação em Ciências Sociais - PPGCS/UFBA. Possui graduação sanduíche em Ciências Sociais...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">22</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">3</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/ana-rodrigues-cavalcanti-alves.html" class="btn">View Profile</a>
-                    </div>
+        
+        <!-- Stats Bar -->
+        <div class="stats-bar" id="statsBar"></div>
+        
+        <!-- Charts -->
+        <div class="charts-grid">
+            <div class="chart-container">
+                <div class="chart-title">
+                    <h2>Top 10 by Citations</h2>
                 </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Antonio da Silva Camara">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Antonio da Silva Camara</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">ANTONIO DA SILVA CÂMARA concluiu o doutorado em Sociologia - Université de Paris VII em 1994. Realizou Pós-doutoramento no CNRS/Universidade Toulouse le Mirail (França) em 2000. Atualmente é PROFESSOR...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">67</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">169</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/antonio-da-silva-camara.html" class="btn">View Profile</a>
-                    </div>
+                <canvas id="topCitationsChart" height="400"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">
+                    <h2>Publication Distribution</h2>
                 </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Bruno Costa Barreiros">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Bruno Costa Barreiros</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Professor Adjunto no Departamento de Sociologia da Universidade Federal da Bahia. Professor permanente da Pós-Graduação em Ciências Sociais da UFBA (PPGCS-UFBA). Graduado em psicologia pela UFBA, real...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">16</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">7</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/bruno-costa-barreiros.html" class="btn">View Profile</a>
-                    </div>
+                <canvas id="pubDistributionChart" height="400"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">
+                    <h2>H-Index Distribution</h2>
                 </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Clóvis Roberto Zimmermann">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Clóvis Roberto Zimmermann</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Possui graduação em Sociologia e Teologia pela Universidade de Heidelberg na Alemanha e doutorado em Sociologia - Universitat Heidelberg (Ruprecht-Karls) (2004). Atualmente é professor adjunto de Soci...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">83</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">53</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/cl%C3%B3vis-roberto-zimmermann.html" class="btn">View Profile</a>
-                    </div>
+                <canvas id="hIndexDistChart" height="400"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">
+                    <h2>Supervision Load</h2>
                 </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Débora Previatti">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Débora Previatti</h2>
-                        <div class="title">Adjunct Professor</div>
-                        <p class="summary">Graduada em Ciências Sociais pela Universidade Federal de Santa Catarina (UFSC), com mestrado e doutorado em Sociologia Política pela mesma instituição, e doutorado sanduíche na École des Hautes Étude...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">16</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">9</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/d%C3%A9bora-previatti.html" class="btn">View Profile</a>
-                    </div>
+                <canvas id="supervisionChart" height="400"></canvas>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-title">
+                    <h2>Citation Trends (Top 5)</h2>
                 </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Felipe Vargas">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Felipe Vargas</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Pós-Doutor em Desenvolvimento Rural pelo Programa de Pós-Graduação em Desenvolvimento Rural (PGDR/UFRGS). Doutor em Sociologia (PPGS/UFRGS). Mestre em Sociologia (PPGS/UFRGS). Graduado em Ciências Jur...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">19</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">16</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/felipe-vargas.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Iara Maria de Almeida Souza">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Iara Maria de Almeida Souza</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Fiz a graduação (1985), mestrado (1995) e doutorado (2004) em Ciências Sociais na Universidade Federal da Bahia, onde sou docente do Departamento de Sociologia. Integro o Programa de Pós-Graduação em ...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">37</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">48</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/iara-maria-de-almeida-souza.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Jair Batista da Silva">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Jair Batista da Silva</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Sou professor associado IV do Departamento de Sociologia, do Programa de Pós-graduação em Ciências Sociais e do Porgrama de Pós-Graduação em Serviço Social. Coordenador do Grupo de Pesquisa &#x27;&#x27;Trabalho...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">35</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">38</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/jair-batista-da-silva.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Julio Souto Salom">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Julio Souto Salom</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Professor no Departamento de Sociologia da Universidade Federal da Bahia (UFBA). Professor Permanente do Programa de Pós-Graduação em Ciências Sociais da UFBA. Doutor em Sociologia (UFRGS, 2019), Mest...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">25</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">0</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/julio-souto-salom.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Leandro de Paula Santos">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Leandro de Paula Santos</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Professor Adjunto III da Universidade Federal da Bahia (UFBA), vinculado ao Instituto de Humanidades, Artes e Ciências (IHAC) e aos Programas de Pós-Graduação em Ciências Sociais (PPGCS) e Multidiscip...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">48</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">20</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/leandro-de-paula-santos.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Leonardo Fernandes Nascimento">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Leonardo Fernandes Nascimento</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Eu tenho formação técnica em química pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA (1997), graduação em psicologia pela Universidade Federal da Bahia - UFBA (2002), mestrado...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">30</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">29</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/leonardo-fernandes-nascimento.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Lucas Amaral de Oliveira">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Lucas Amaral de Oliveira</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Professor do Departamento de Sociologia e coordenador do Programa de Pós-Graduação em Ciências Sociais (PPGCS) da Universidade Federal da Bahia (UFBA), onde lidera o PERIFÉRICAS - Núcleo de Estudos em...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">47</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">15</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/lucas-amaral-de-oliveira.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Luiz Claudio Lourenço">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Luiz Claudio Lourenço</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Possui bacharelado (1997) e mestrado (2000) em Ciências Sociais pela Universidade Federal de São Carlos e doutorado em Ciência Política (Ciência Política e Sociologia) pelo Instituto Universitário de ...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">53</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">33</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/luiz-claudio-louren%C3%A7o.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Maria Gabriela Hita">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Maria Gabriela Hita</h2>
-                        <div class="title">Full Professor</div>
-                        <p class="summary">Maria Gabriela Hita possui graduação em Sociologia pela Universidade Federal da Bahia (1985), mestrado em Ciências Sociais pela Facultad Latinoamericana de Ciências Sociales (FLACSO)-Sed Académica-Méx...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">65</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">83</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/maria-gabriela-hita.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Maria Rosário Gonçalves de Carvalho">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Maria Rosário Gonçalves de Carvalho</h2>
-                        <div class="title">Full Professor</div>
-                        <p class="summary">Doutora em Antropologia Social pela Universidade de São Paulo. Professora Titular e Emérita da Universidade Federal da Bahia, Faculdade de Filosofia e Ciências Humanas, Departamento de Antropologia e ...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">97</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">93</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/maria-ros%C3%A1rio-gon%C3%A7alves-de-carvalho.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Mariana Aparecida dos Santos Panta">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Mariana Aparecida dos Santos Panta</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Professora do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e Docente Permanente do Programa de Pós-Graduação em Ciências Sociais (PPGCS-UFBA). Doutora em Ciências Sociais pela Un...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">31</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">0</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/mariana-aparecida-dos-santos-panta.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Mariana Thorstensen Possas">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Mariana Thorstensen Possas</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">É professora do Departamento de Sociologia da Universidade Federal da Bahia (UFBA), do Programa de Pós-Graduação em Ciências Sociais (PPGCS/UFBA) e do Mestrado Profissional em Segurança Pública, Justi...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">27</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">23</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/mariana-thorstensen-possas.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Miriam Cristina Marcilio Rabelo">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Miriam Cristina Marcilio Rabelo</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Fiz graduação em Ciências Sociais pela Universidade Federal da Bahia (1982-1985), doutorado na Universidade de Liverpool, Inglaterra (1986-1990) e pós-doutorado nos departamentos de antropologia das u...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">71</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">85</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/miriam-cristina-marcilio-rabelo.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Paula Cristina da Silva">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Paula Cristina da Silva</h2>
-                        <div class="title">Full Professor</div>
-                        <p class="summary">Professora Titular do Departamento de Sociologia da Universidade Federal da Bahia (UFBA), onde atua desde 1994. É docente do Programa de Pós-Graduação em Ciências Sociais (PPGCS) e do Programa de Pós-...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">37</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">21</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/paula-cristina-da-silva.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Paulo César Borges Alves">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Paulo César Borges Alves</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Possui graduação em Filosofia pela Universidade Católica do Salvador (1973), mestrado em Ciências Sociais pela Universidade Federal da Bahia (1980), doutorado em Social And Environmental Studies Socio...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">79</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">74</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/paulo-c%C3%A9sar-borges-alves.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Rafael de Aguiar Arantes">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Rafael de Aguiar Arantes</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">Graduado em Ciências Sociais, com bacharelado em Sociologia, pela Universidade Federal da Bahia. Mestre e Doutor em Ciências Sociais pela mesma Universidade, com estágio de doutoramento no Instituto d...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">34</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">17</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/rafael-de-aguiar-arantes.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Ricardo Pagliuso Regatieri">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Ricardo Pagliuso Regatieri</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">É professor adjunto do Departamento de Sociologia e docente permanente do Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia. É um dos coordenadores do PERIFÉRICAS - Núcleo...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">31</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">20</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/ricardo-pagliuso-regatieri.html" class="btn">View Profile</a>
-                    </div>
-                </div>
-                <div class="faculty-card">
-                    <div class="faculty-card-image">
-                        <img src="assets/images/placeholder.png" alt="Sue Angélica Serra Iamamoto">
-                    </div>
-                    <div class="faculty-card-content">
-                        <h2>Sue Angélica Serra Iamamoto</h2>
-                        <div class="title">Professor</div>
-                        <p class="summary">É professora adjunta no Departamento de Ciência Política da Universidade Federal da Bahia (UFBA). Possui graduação em Comunicação Social, habilitação Jornalismo (2002-2008) e mestrado em Ciência Polít...</p>
-                        <div class="stats">
-                            <div class="stat">
-                                <span class="stat-value">24</span>
-                                <span class="stat-label">Publications</span>
-                            </div>
-                            <div class="stat">
-                                <span class="stat-value">14</span>
-                                <span class="stat-label">Supervisions</span>
-                            </div>
-                        </div>
-                        <a href="faculty/sue-ang%C3%A9lica-serra-iamamoto.html" class="btn">View Profile</a>
-                    </div>
-                </div>
+                <canvas id="citationTrendsChart" height="400"></canvas>
             </div>
         </div>
-    </main>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2026 LABHDUFBA - Programa de Pós-Graduação em Ciências Sociais</p>
-            <p>Data sourced from Lattes Platform</p>
+        
+        <!-- Leaderboard Table -->
+        <div class="chart-container">
+            <div class="chart-title">
+                <h2>Faculty Leaderboard</h2>
+            </div>
+            <table id="facultyTable">
+                <thead>
+                    <tr>
+                        <th data-field="name">Name</th>
+                        <th data-field="h_index">H-Index</th>
+                        <th data-field="i10_index">I10-Index</th>
+                        <th data-field="total_citations">Total Citations</th>
+                        <th data-field="total_publications">Total Publications</th>
+                        <th data-field="journal_articles">Journal Articles</th>
+                        <th data-field="books">Books</th>
+                        <th data-field="book_chapters">Book Chapters</th>
+                        <th data-field="completed_supervisions">Completed Supervisions</th>
+                        <th data-field="ongoing_supervisions">Ongoing Supervisions</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+            </table>
         </div>
-    </footer>
+    </div>
+
+    <script>
+        // Faculty data embedded
+        const facultyData = [{"name": "Ana Rodrigues Cavalcanti Alves", "lattes_url": "http://lattes.cnpq.br/6506286038414113", "scholar_url": "https://scholar.google.com/citations?user=AkhzcawAAAAJ&hl=en&oi=ao", "h_index": 4, "i10_index": 2, "total_citations": 392, "citations_per_year": [3, 6, 7, 10, 21, 12, 34, 23, 39, 37, 51, 24, 40, 22, 38, 6], "total_publications": 27, "journal_articles": 14, "books": 3, "book_chapters": 5, "completed_supervisions": 3, "ongoing_supervisions": 7}, {"name": "Antonio da Silva Camara", "lattes_url": "http://lattes.cnpq.br/4868229187967997", "scholar_url": "https://scholar.google.com/citations?user=Q_AI254AAAAJ&hl=en&oi=sra", "h_index": 4, "i10_index": 1, "total_citations": 70, "citations_per_year": [1, 1, 1, 4, 8, 10, 8, 4, 11, 5, 2, 13, 2], "total_publications": 93, "journal_articles": 38, "books": 5, "book_chapters": 24, "completed_supervisions": 169, "ongoing_supervisions": 13}, {"name": "Bruno Costa Barreiros", "lattes_url": "http://lattes.cnpq.br/5274872727972308", "scholar_url": "https://scholar.google.com/citations?user=9TDNLnMAAAAJ&hl=en&oi=sra", "h_index": 5, "i10_index": 0, "total_citations": 43, "citations_per_year": [1, 1, 3, 7, 7, 12, 5, 5], "total_publications": 27, "journal_articles": 16, "books": 0, "book_chapters": 0, "completed_supervisions": 7, "ongoing_supervisions": 4}, {"name": "Cl\u00f3vis Roberto Zimmermann", "lattes_url": "http://lattes.cnpq.br/7132903863839824", "scholar_url": "https://scholar.google.com/citations?user=Qb0TkpgAAAAJ&hl=en&oi=ao", "h_index": 9, "i10_index": 9, "total_citations": 423, "citations_per_year": [2, 7, 4, 5, 12, 21, 27, 20, 27, 33, 17, 25, 35, 23, 31, 25, 34, 20, 17, 10, 10, 6], "total_publications": 95, "journal_articles": 48, "books": 8, "book_chapters": 27, "completed_supervisions": 53, "ongoing_supervisions": 5}, {"name": "D\u00e9bora Previatti", "lattes_url": "http://lattes.cnpq.br/0212366491733548", "scholar_url": "https://scholar.google.com/citations?user=hM6bcrAAAAAJ&hl=en&oi=ao", "h_index": 4, "i10_index": 1, "total_citations": 49, "citations_per_year": [1, 3, 2, 1, 1, 3, 1, 1, 7, 5, 9, 8, 4, 2], "total_publications": 24, "journal_articles": 10, "books": 1, "book_chapters": 5, "completed_supervisions": 9, "ongoing_supervisions": 7}, {"name": "Felipe Vargas", "lattes_url": "http://lattes.cnpq.br/6150854485177629", "scholar_url": "https://scholar.google.com/citations?user=Ag88sZwAAAAJ&hl=en&oi=sra", "h_index": 12, "i10_index": 17, "total_citations": 873, "citations_per_year": [3, 5, 13, 11, 13, 10, 7, 22, 34, 32, 83, 57, 46, 68, 82, 87, 78, 89, 84, 28], "total_publications": 20, "journal_articles": 11, "books": 1, "book_chapters": 7, "completed_supervisions": 16, "ongoing_supervisions": 11}, {"name": "Iara Maria de Almeida Souza", "lattes_url": "http://lattes.cnpq.br/1266626414413147", "scholar_url": "https://scholar.google.com/citations?user=BgZRVvAAAAAJ&hl=en&oi=sra", "h_index": 8, "i10_index": 6, "total_citations": 151, "citations_per_year": [1, 1, 1, 7, 7, 4, 9, 12, 9, 15, 10, 10, 11, 9, 28, 10, 1], "total_publications": 52, "journal_articles": 20, "books": 3, "book_chapters": 14, "completed_supervisions": 48, "ongoing_supervisions": 7}, {"name": "Jair Batista da Silva", "lattes_url": "http://lattes.cnpq.br/7967150503062793", "scholar_url": "https://scholar.google.com/citations?user=QRqXfCcAAAAJ&hl=en&oi=sra", "h_index": 73, "i10_index": 213, "total_citations": 50859, "citations_per_year": [236, 281, 370, 424, 519, 707, 895, 1251, 1311, 1525, 1572, 1819, 1930, 1902, 2106, 2176, 2125, 2494, 2458, 2741, 3006, 3417, 3428, 3384, 3055, 2948, 563], "total_publications": 44, "journal_articles": 7, "books": 5, "book_chapters": 23, "completed_supervisions": 38, "ongoing_supervisions": 8}, {"name": "Julio Souto Salom", "lattes_url": "http://lattes.cnpq.br/8500045280840862", "scholar_url": "https://scholar.google.com/citations?user=fNdy2-sAAAAJ&hl=en&oi=ao", "h_index": 7, "i10_index": 5, "total_citations": 120, "citations_per_year": [5, 3, 4, 5, 12, 15, 7, 8, 10, 15, 13, 11, 12], "total_publications": 34, "journal_articles": 19, "books": 0, "book_chapters": 6, "completed_supervisions": 0, "ongoing_supervisions": 3}, {"name": "Leandro de Paula Santos", "lattes_url": "http://lattes.cnpq.br/3833811692758640", "scholar_url": "https://scholar.google.com/citations?user=-IXbPD0AAAAJ&hl=en&oi=sra", "h_index": 6, "i10_index": 4, "total_citations": 149, "citations_per_year": [5, 17, 13, 11, 20, 13, 19, 19, 23, 2], "total_publications": 63, "journal_articles": 29, "books": 3, "book_chapters": 16, "completed_supervisions": 20, "ongoing_supervisions": 5}, {"name": "Leonardo Fernandes Nascimento", "lattes_url": "http://lattes.cnpq.br/7141811368487014", "scholar_url": "https://scholar.google.com/citations?user=essj6yQAAAAJ&hl=en&oi=ao", "h_index": 10, "i10_index": 11, "total_citations": 590, "citations_per_year": [2, 5, 5, 7, 15, 13, 33, 32, 54, 67, 108, 94, 110, 25], "total_publications": 35, "journal_articles": 20, "books": 3, "book_chapters": 7, "completed_supervisions": 29, "ongoing_supervisions": 7}, {"name": "Lucas Amaral de Oliveira", "lattes_url": "http://lattes.cnpq.br/0974813858531390", "scholar_url": "https://scholar.google.com/citations?user=6PD5pSEAAAAJ&hl=en&oi=ao", "h_index": 9, "i10_index": 8, "total_citations": 286, "citations_per_year": [1, 9, 2, 6, 12, 18, 10, 34, 34, 38, 30, 33, 39, 15], "total_publications": 61, "journal_articles": 38, "books": 2, "book_chapters": 7, "completed_supervisions": 15, "ongoing_supervisions": 12}, {"name": "Luiz Claudio Louren\u00e7o", "lattes_url": "http://lattes.cnpq.br/9249653080596163", "scholar_url": "https://scholar.google.com/citations?user=5WM4Wq4AAAAJ&hl=en&oi=ao", "h_index": 14, "i10_index": 19, "total_citations": 792, "citations_per_year": [3, 3, 4, 4, 15, 14, 16, 16, 29, 34, 52, 34, 38, 48, 82, 80, 61, 68, 65, 38, 55, 18], "total_publications": 66, "journal_articles": 29, "books": 5, "book_chapters": 19, "completed_supervisions": 33, "ongoing_supervisions": 10}, {"name": "Maria Gabriela Hita", "lattes_url": "http://lattes.cnpq.br/2408407341179334", "scholar_url": "https://scholar.google.com/citations?user=Mc7zoFkAAAAJ&hl=en&oi=ao", "h_index": 13, "i10_index": 15, "total_citations": 591, "citations_per_year": [2, 1, 5, 5, 4, 2, 4, 3, 3, 9, 11, 10, 16, 22, 32, 24, 27, 25, 27, 37, 43, 37, 46, 41, 44, 33, 28, 28, 1], "total_publications": 85, "journal_articles": 27, "books": 7, "book_chapters": 31, "completed_supervisions": 83, "ongoing_supervisions": 13}, {"name": "Maria Ros\u00e1rio Gon\u00e7alves de Carvalho", "lattes_url": "http://lattes.cnpq.br/1298757533709756", "scholar_url": "https://scholar.google.com/citations?user=eN7TRwsAAAAJ&hl=en&oi=ao", "h_index": 17, "i10_index": 26, "total_citations": 2187, "citations_per_year": [11, 7, 6, 9, 5, 7, 12, 10, 14, 18, 15, 18, 40, 55, 50, 87, 116, 111, 98, 105, 135, 135, 185, 200, 164, 158, 191, 130, 47], "total_publications": 103, "journal_articles": 35, "books": 15, "book_chapters": 47, "completed_supervisions": 93, "ongoing_supervisions": 17}, {"name": "Mariana Aparecida dos Santos Panta", "lattes_url": "http://lattes.cnpq.br/1563910977768814", "scholar_url": "https://scholar.google.com/citations?user=PkDx0bwAAAAJ&hl=en&oi=ao", "h_index": 5, "i10_index": 3, "total_citations": 113, "citations_per_year": [1, 1, 6, 10, 4, 3, 8, 11, 16, 15, 23, 10], "total_publications": 42, "journal_articles": 11, "books": 9, "book_chapters": 11, "completed_supervisions": 0, "ongoing_supervisions": 7}, {"name": "Mariana Thorstensen Possas", "lattes_url": "http://lattes.cnpq.br/7470966694138044", "scholar_url": "https://scholar.google.com/citations?user=XZX9c7EAAAAJ&hl=en&oi=ao", "h_index": 6, "i10_index": 4, "total_citations": 151, "citations_per_year": [2, 1, 3, 3, 1, 4, 6, 13, 11, 9, 16, 6, 12, 10, 11, 19, 13, 4], "total_publications": 34, "journal_articles": 17, "books": 0, "book_chapters": 10, "completed_supervisions": 23, "ongoing_supervisions": 2}, {"name": "Miriam Cristina Marcilio Rabelo", "lattes_url": "http://lattes.cnpq.br/7239267596119717", "scholar_url": "https://scholar.google.com/citations?user=yamVDrwAAAAJ&hl=en&oi=sra", "h_index": 10, "i10_index": 10, "total_citations": 286, "citations_per_year": [1, 1, 1, 1, 1, 4, 4, 3, 3, 5, 3, 6, 5, 9, 12, 10, 12, 39, 28, 37, 35, 28, 23, 8], "total_publications": 79, "journal_articles": 30, "books": 4, "book_chapters": 37, "completed_supervisions": 85, "ongoing_supervisions": 6}, {"name": "Paula Cristina da Silva", "lattes_url": "http://lattes.cnpq.br/3865670491591815", "scholar_url": "https://scholar.google.com/citations?user=SNlpzjMAAAAJ&hl=en&oi=sra", "h_index": 5, "i10_index": 3, "total_citations": 112, "citations_per_year": [1, 1, 2, 2, 1, 1, 6, 4, 6, 6, 7, 7, 10, 10, 13, 14, 10, 6, 3], "total_publications": 42, "journal_articles": 11, "books": 13, "book_chapters": 13, "completed_supervisions": 21, "ongoing_supervisions": 5}, {"name": "Paulo C\u00e9sar Borges Alves", "lattes_url": "http://lattes.cnpq.br/4053383742253379", "scholar_url": "https://scholar.google.com/citations?user=TeLu9XEAAAAJ&hl=en&oi=sra", "h_index": 18, "i10_index": 29, "total_citations": 1281, "citations_per_year": [7, 9, 10, 10, 17, 21, 28, 24, 32, 52, 68, 51, 81, 55, 67, 113, 108, 129, 95, 85, 88, 52, 22], "total_publications": 87, "journal_articles": 33, "books": 12, "book_chapters": 34, "completed_supervisions": 74, "ongoing_supervisions": 5}, {"name": "Rafael de Aguiar Arantes", "lattes_url": "http://lattes.cnpq.br/9187555671886787", "scholar_url": "https://scholar.google.com/citations?user=aOk-FiwAAAAJ&hl=en&oi=ao", "h_index": 8, "i10_index": 6, "total_citations": 187, "citations_per_year": [4, 1, 6, 1, 3, 5, 7, 4, 2, 19, 25, 30, 21, 25, 19, 4], "total_publications": 50, "journal_articles": 19, "books": 0, "book_chapters": 15, "completed_supervisions": 17, "ongoing_supervisions": 13}, {"name": "Ricardo Pagliuso Regatieri", "lattes_url": "http://lattes.cnpq.br/3077741187299322", "scholar_url": "https://scholar.google.com/citations?user=Uf6P8OoAAAAJ&hl=en&oi=ao", "h_index": 6, "i10_index": 2, "total_citations": 89, "citations_per_year": [2, 3, 6, 4, 6, 13, 10, 12, 18, 7, 5], "total_publications": 39, "journal_articles": 21, "books": 3, "book_chapters": 7, "completed_supervisions": 20, "ongoing_supervisions": 7}, {"name": "Sue Ang\u00e9lica Serra Iamamoto", "lattes_url": "http://lattes.cnpq.br/4927287864728189", "scholar_url": "https://scholar.google.com/citations?user=v1NVezkAAAAJ&hl=en&oi=sra", "h_index": 7, "i10_index": 5, "total_citations": 185, "citations_per_year": [1, 5, 4, 5, 5, 9, 16, 8, 9, 24, 32, 20, 33, 8], "total_publications": 31, "journal_articles": 15, "books": 3, "book_chapters": 6, "completed_supervisions": 14, "ongoing_supervisions": 8}];
+        
+        // DOM Elements
+        const statsBar = document.getElementById('statsBar');
+        const searchInput = document.getElementById('searchInput');
+        const tableBody = document.getElementById('tableBody');
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            renderStats();
+            renderTable();
+            createCharts();
+            setupSearch();
+            setupSort();
+        });
+        
+        function renderStats() {
+            const totalFaculty = facultyData.length;
+            const totalPublications = facultyData.reduce((sum, f) => sum + (f.total_publications || 0), 0);
+            const totalCitations = facultyData.reduce((sum, f) => sum + (f.total_citations || 0), 0);
+            const avgHIndex = facultyData.reduce((sum, f) => sum + (f.h_index || 0), 0) / totalFaculty;
+            
+            statsBar.innerHTML = `
+                <div class="stat-card">
+                    <span class="stat-value">${totalFaculty}</span>
+                    <span class="stat-label">Faculty</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">${totalPublications.toLocaleString()}</span>
+                    <span class="stat-label">Total Publications</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">${totalCitations.toLocaleString()}</span>
+                    <span class="stat-label">Total Citations</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">${avgHIndex.toFixed(1)}</span>
+                    <span class="stat-label">Avg H-Index</span>
+                </div>
+            `;
+        }
+        
+        function renderTable(filteredData = facultyData) {
+            tableBody.innerHTML = '';
+            
+            filteredData.forEach(fac => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td><a href="${fac.lattes_url}" target="_blank">${fac.name}</a></td>
+                    <td>${fac.h_index || 0}</td>
+                    <td>${fac.i10_index || 0}</td>
+                    <td>${(fac.total_citations || 0).toLocaleString()}</td>
+                    <td>${(fac.total_publications || 0).toLocaleString()}</td>
+                    <td>${(fac.journal_articles || 0).toLocaleString()}</td>
+                    <td>${(fac.books || 0).toLocaleString()}</td>
+                    <td>${(fac.book_chapters || 0).toLocaleString()}</td>
+                    <td>${(fac.completed_supervisions || 0).toLocaleString()}</td>
+                    <td>${(fac.ongoing_supervisions || 0).toLocaleString()}</td>
+                `;
+                tableBody.appendChild(tr);
+            });
+        }
+        
+        function setupSearch() {
+            searchInput.addEventListener('input', (e) => {
+                const searchTerm = e.target.value.toLowerCase().trim();
+                const filtered = facultyData.filter(fac => 
+                    fac.name.toLowerCase().includes(searchTerm)
+                );
+                renderTable(filtered);
+            });
+        }
+        
+        function setupSort() {
+            const headers = document.querySelectorAll('th[data-field]');
+            let currentSort = {field: '', direction: 'asc'};
+            
+            headers.forEach(header => {
+                header.addEventListener('click', () => {
+                    const field = header.dataset.field;
+                    
+                    if (currentSort.field === field) {
+                        currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+                    } else {
+                        currentSort.field = field;
+                        currentSort.direction = 'asc';
+                    }
+                    
+                    // Update header classes
+                    headers.forEach(h => {
+                        h.classList.remove('sorted-asc', 'sorted-desc');
+                    });
+                    header.classList.add(currentSort.direction === 'asc' ? 'sorted-asc' : 'sorted-desc');
+                    
+                    // Sort data
+                    const sorted = [...facultyData].sort((a, b) => {
+                        let valA = a[field] || 0;
+                        let valB = b[field] || 0;
+                        
+                        // Handle string comparison for names
+                        if (typeof valA === 'string') {
+                            valA = valA.toLowerCase();
+                            valB = valB.toLowerCase();
+                        }
+                        
+                        if (currentSort.direction === 'asc') {
+                            return valA > valB ? 1 : -1;
+                        } else {
+                            return valA < valB ? 1 : -1;
+                        }
+                    });
+                    
+                    renderTable(sorted);
+                });
+            });
+        }
+        
+        function createCharts() {
+            // Top 10 Citations Chart
+            const top10 = [...facultyData]
+                .sort((a, b) => (b.total_citations || 0) - (a.total_citations || 0))
+                .slice(0, 10);
+                
+            new Chart(document.getElementById('topCitationsChart'), {
+                type: 'bar',
+                data: {
+                    labels: top10.map(f => f.name.split(' ')[0]), // First name only
+                    datasets: [{
+                        label: 'Total Citations',
+                        data: top10.map(f => f.total_citations || 0),
+                        backgroundColor: 'rgba(99, 102, 241, 0.5)',
+                        borderColor: 'rgba(99, 102, 241, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        x: {
+                            grid: {
+                                display: false
+                            }
+                        },
+                        y: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            ticks: {
+                                color: '#e2e8f0'
+                            }
+                        }
+                    }
+                }
+            });
+            
+            // Publication Distribution Chart
+            const pubData = {
+                journal: facultyData.reduce((sum, f) => sum + (f.journal_articles || 0), 0),
+                books: facultyData.reduce((sum, f) => sum + (f.books || 0), 0),
+                chapters: facultyData.reduce((sum, f) => sum + (f.book_chapters || 0), 0),
+                other: facultyData.reduce((sum, f) => sum + ((f.total_publications || 0) - (f.journal_articles || 0) - (f.books || 0) - (f.book_chapters || 0)), 0)
+            };
+            
+            new Chart(document.getElementById('pubDistributionChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['Journal Articles', 'Books', 'Book Chapters', 'Other'],
+                    datasets: [{
+                        data: [pubData.journal, pubData.books, pubData.chapters, pubData.other],
+                        backgroundColor: [
+                            'rgba(99, 102, 241, 0.7)',
+                            'rgba(139, 92, 246, 0.7)',
+                            'rgba(236, 72, 153, 0.7)',
+                            'rgba(16, 185, 129, 0.7)'
+                        ],
+                        borderColor: [
+                            'rgba(99, 102, 241, 1)',
+                            'rgba(139, 92, 246, 1)',
+                            'rgba(236, 72, 153, 1)',
+                            'rgba(16, 185, 129, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: '#e2e8f0'
+                            }
+                        }
+                    }
+                }
+            });
+            
+            // H-Index Distribution Chart
+            const hIndexRanges = [
+                {range: '0-5', count: facultyData.filter(f => (f.h_index || 0) <= 5).length},
+                {range: '6-10', count: facultyData.filter(f => (f.h_index || 0) >= 6 && (f.h_index || 0) <= 10).length},
+                {range: '11-15', count: facultyData.filter(f => (f.h_index || 0) >= 11 && (f.h_index || 0) <= 15).length},
+                {range: '16-20', count: facultyData.filter(f => (f.h_index || 0) >= 16 && (f.h_index || 0) <= 20).length},
+                {range: '21+', count: facultyData.filter(f => (f.h_index || 0) >= 21).length}
+            ];
+            
+            new Chart(document.getElementById('hIndexDistChart'), {
+                type: 'bar',
+                data: {
+                    labels: hIndexRanges.map(r => r.range),
+                    datasets: [{
+                        label: 'Number of Faculty',
+                        data: hIndexRanges.map(r => r.count),
+                        backgroundColor: 'rgba(16, 185, 129, 0.7)',
+                        borderColor: 'rgba(16, 185, 129, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        x: {
+                            grid: {
+                                display: false
+                            }
+                        },
+                        y: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            ticks: {
+                                color: '#e2e8f0',
+                                stepSize: 1
+                            }
+                        }
+                    }
+                }
+            });
+            
+            // Supervision Chart (side-by-side bar)
+            const superTop10 = [...facultyData]
+                .sort((a, b) => 
+                    ((b.completed_supervisions || 0) + (b.ongoing_supervisions || 0)) - 
+                    ((a.completed_supervisions || 0) + (a.ongoing_supervisions || 0))
+                )
+                .slice(0, 10);
+                
+            new Chart(document.getElementById('supervisionChart'), {
+                type: 'bar',
+                data: {
+                    labels: superTop10.map(f => f.name.split(' ')[0]),
+                    datasets: [{
+                        label: 'Completed',
+                        data: superTop10.map(f => f.completed_supervisions || 0),
+                        backgroundColor: 'rgba(99, 102, 241, 0.7)',
+                        borderColor: 'rgba(99, 102, 241, 1)',
+                        borderWidth: 1
+                    }, {
+                        label: 'Ongoing',
+                        data: superTop10.map(f => f.ongoing_supervisions || 0),
+                        backgroundColor: 'rgba(236, 72, 153, 0.7)',
+                        borderColor: 'rgba(236, 72, 153, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: '#e2e8f0'
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            grid: {
+                                display: false
+                            }
+                        },
+                        y: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            ticks: {
+                                color: '#e2e8f0'
+                            }
+                        }
+                    }
+                }
+            });
+            
+            // Citation Trends Chart (Top 5)
+            const top5ByCitations = [...facultyData]
+                .sort((a, b) => (b.total_citations || 0) - (a.total_citations || 0))
+                .slice(0, 5);
+                
+            // Get years data (assuming citations_per_year is array of recent years)
+            const yearsData = top5ByCitations.map(fac => ({
+                name: fac.name.split(' ')[0],
+                data: fac.citations_per_year || []
+            }));
+            
+            // If we don't have yearly data, create a simple trend
+            const chartData = {
+                labels: ['2019', '2020', '2021', '2022', '2023', '2024'], // Placeholder
+                datasets: []
+            };
+            
+            const colors = [
+                'rgba(99, 102, 241, 0.7)',
+                'rgba(139, 92, 246, 0.7)',
+                'rgba(236, 72, 153, 0.7)',
+                'rgba(16, 185, 129, 0.7)',
+                'rgba(245, 158, 11, 0.7)'
+            ];
+            
+            top5ByCitations.forEach((fac, index) => {
+                chartData.datasets.push({
+                    label: fac.name.split(' ')[0],
+                    data: fac.citations_per_year || [0, 0, 0, 0, 0, 0], // Use actual data if available
+                    backgroundColor: colors[index],
+                    borderColor: colors[index].replace('0.7', '1'),
+                    borderWidth: 2,
+                    tension: 0.3
+                });
+            });
+            
+            new Chart(document.getElementById('citationTrendsChart'), {
+                type: 'line',
+                data: chartData,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: '#e2e8f0'
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            ticks: {
+                                color: '#e2e8f0'
+                            }
+                        },
+                        y: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            ticks: {
+                                color: '#e2e8f0'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
 </body>
 </html>
